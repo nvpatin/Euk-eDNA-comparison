@@ -1,0 +1,111 @@
+---
+title: "euk_asvs_mgns_regressions"
+output: html_document
+date: "2023-08-30"
+---
+
+### Library Loading
+```{r}
+library(here)
+library(tidyverse)
+library(RColorBrewer)
+library(ggplot2)
+library(wesanderson)
+library(purrr)
+```
+
+### Load  data
+```{r}
+classes <- read.csv(file=here("Euks_mgns_asvs_data","18S_vs_DIAMOND_euk_Classes.csv"))
+```
+
+### Scatter plot
+```{r}
+# no linear regression
+p <- ggplot(classes, aes(x=count, y=X18S.reads, color=Class)) +
+  geom_point(show.legend=FALSE) +
+  labs(title = paste("Eukaryotic classes in paired metagenome & 18S samples"),
+         x="Fraction of eukaryotic metagenome ORFs", y="Fraction of COI reads") +
+  coord_cartesian(xlim = c(0, max(classes$count) + (0.1*max(classes$count))),
+                    ylim = c(0, max(classes$X18S.reads) + 0.1*max(classes$X18S.reads))) +
+  theme_minimal() 
+
+p
+#   geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE) +
+#scale_color_manual(values=wes_palette("Darjeeling1", n = 5))
+```
+
+### Assess each Class
+
+```{r}
+# Split the data into subsets based on Class
+data_splits <- split(classes, classes$Class)
+
+# Initialize a list to store the linear regression models and R-squared values
+lm_models <- list()
+r_squared_values <- vector("numeric", length(data_splits))
+
+# Loop through the subsets and fit linear regression models
+for (i in seq_along(data_splits)) {
+  subset_data <- data_splits[[i]]
+  lm_models[[i]] <- lm(count ~ X18S.reads, data = subset_data)
+  r_squared_values[i] <- summary(lm_models[[i]])$r.squared
+}
+
+# Determine thresholds for creating subsets based on R-squared values
+threshold1 <- 0.01
+threshold2 <- 0.1
+threshold3 <- 0.5
+
+# Identify subsets with R-squared values above the threshold
+subset1 <- which(r_squared_values < threshold1)
+subset2 <- which(r_squared_values >= threshold1 & r_squared_values < threshold2)
+subset3 <- which(r_squared_values >= threshold2 & r_squared_values < threshold3)
+subset4 <- which(r_squared_values >= threshold3)
+```
+
+
+```{r}
+# Loop through the selected subsets and create plots
+for (subset_index in subset1) {
+  subset_data <- data_splits[[subset_index]]
+  
+  r_squared <- summary(lm_models[[subset_index]] )$r.squared
+  
+  # Create a scatter plot for the subset
+  scatter_plot <- ggplot(subset_data, aes(x = count, y = X18S.reads)) +
+    geom_point() +
+    geom_smooth(method = "lm", se = FALSE) +
+    labs(title = paste("R squared < 0.01, Class: ", subset_data$Class),
+         x="Fraction of eukaryotic metagenome ORFs", y="Fraction of 18S reads") +
+    geom_text(aes(label = paste("R-squared =", round(r_squared, 2))),
+              x = max(subset_data$count) - (0.1*max(subset_data$count)), 
+              y = max(subset_data$X18S.reads) - 0.5*max(subset_data$X18S.reads), 
+              hjust = 0, vjust = 1) +
+    coord_cartesian(xlim = c(0, max(subset_data$count) + (0.1*max(subset_data$count))),
+                    ylim = c(0, max(subset_data$X18S.reads) + 0.1*max(subset_data$X18S.reads))) +
+    theme_minimal()
+
+  # Print the scatter plot
+  print(scatter_plot)
+  
+  # Generate a unique filename
+  filename <- paste("18Splot_", subset_data$Class, ".png", sep = "")
+  
+  # Save the plot
+  ggsave(filename, scatter_plot)
+}
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
