@@ -16,30 +16,39 @@ library(purrr)
 
 ### Load  data
 ```{r}
-classes <- read.csv(file=here("Euks_mgns_asvs_data","18S_vs_DIAMOND_euk_Classes.csv"))
+taxa <- read.csv(file=here("COI Comparison","Phylum_Class_COI_samplepairs.csv"))
 ```
 
-### Scatter plot
+### Group data by Phylum, sum up read and metagenome counts for each Class
+```{r}
+# returns tibble table
+taxa_phy <- taxa %>% group_by(Phylum, Metagenome.sample, ASV.sample) %>% 
+  summarise(mgn_sum=sum(count),
+            reads_sum=sum(COI.reads),
+            .groups = 'drop')
+```
+
+### Scatter plot of all Phyla
 ```{r}
 # no linear regression
-p <- ggplot(classes, aes(x=count, y=X18S.reads, color=Class)) +
+p <- ggplot(taxa_phy, aes(x=reads_sum, y=mgn_sum, color=Phylum)) +
   geom_point(show.legend=FALSE) +
-  labs(title = paste("Eukaryotic classes in paired metagenome & 18S samples"),
-         x="Fraction of eukaryotic metagenome ORFs", y="Fraction of COI reads") +
-  coord_cartesian(xlim = c(0, max(classes$count) + (0.1*max(classes$count))),
-                    ylim = c(0, max(classes$X18S.reads) + 0.1*max(classes$X18S.reads))) +
-  theme_minimal() 
+  labs(title = paste("Eukaryotic phyla in paired metagenome & COI samples"),
+         x="Fraction of COI reads", y="Fraction of eukaryotic metagenome ORFs") +
+  coord_cartesian(xlim = c(0, max(taxa_phy$reads_sum) + (0.1*max(taxa_phy$reads_sum))),
+                    ylim = c(0, max(taxa_phy$mgn_sum) + 0.1*max(taxa_phy$mgn_sum))) +
+  scale_x_continuous(expand=c(0, 0)) + scale_y_continuous(expand=c(0, 0)) +
+  theme_classic()
 
-p
 #   geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE) +
 #scale_color_manual(values=wes_palette("Darjeeling1", n = 5))
 ```
 
-### Assess each Class
+### Assess each Phylum
 
 ```{r}
-# Split the data into subsets based on Class
-data_splits <- split(classes, classes$Class)
+# Split the data into subsets based on Phylum
+data_splits <- split(taxa_phy, taxa_phy$Phylum)
 
 # Initialize a list to store the linear regression models and R-squared values
 lm_models <- list()
@@ -48,7 +57,7 @@ r_squared_values <- vector("numeric", length(data_splits))
 # Loop through the subsets and fit linear regression models
 for (i in seq_along(data_splits)) {
   subset_data <- data_splits[[i]]
-  lm_models[[i]] <- lm(count ~ X18S.reads, data = subset_data)
+  lm_models[[i]] <- lm(reads_sum ~ mgn_sum, data = subset_data)
   r_squared_values[i] <- summary(lm_models[[i]])$r.squared
 }
 
@@ -73,28 +82,66 @@ for (subset_index in subset1) {
   r_squared <- summary(lm_models[[subset_index]] )$r.squared
   
   # Create a scatter plot for the subset
-  scatter_plot <- ggplot(subset_data, aes(x = count, y = X18S.reads)) +
-    geom_point() +
-    geom_smooth(method = "lm", se = FALSE) +
-    labs(title = paste("R squared < 0.01, Class: ", subset_data$Class),
-         x="Fraction of eukaryotic metagenome ORFs", y="Fraction of 18S reads") +
-    geom_text(aes(label = paste("R-squared =", round(r_squared, 2))),
-              x = max(subset_data$count) - (0.1*max(subset_data$count)), 
-              y = max(subset_data$X18S.reads) - 0.5*max(subset_data$X18S.reads), 
-              hjust = 0, vjust = 1) +
-    coord_cartesian(xlim = c(0, max(subset_data$count) + (0.1*max(subset_data$count))),
-                    ylim = c(0, max(subset_data$X18S.reads) + 0.1*max(subset_data$X18S.reads))) +
-    theme_minimal()
+  scatter_plot <- ggplot(subset_data, aes(x=reads_sum, y=mgn_sum)) +
+    geom_point(color="#0072B2") +
+    geom_smooth(method="lm", se=FALSE, color="black", linewidth=0.5) +
+    labs(title = paste("R squared <=0.01, Phylum: ", subset_data$Phylum),
+         x="Fraction of COI reads", y="Fraction of eukaryotic metagenome ORFs") +
+    annotate(geom="text", label = paste("R-squared = ", round(r_squared, 2)),
+             x=max(subset_data$reads_sum) - (0.2*max(subset_data$reads_sum)), 
+              y=max(subset_data$mgn_sum) - 0.5*max(subset_data$mgn_sum),
+              color="black", hjust=0, vjust=1) +
+    coord_cartesian(xlim = c(0, max(subset_data$reads_sum) + (0.1*max(subset_data$reads_sum))),
+                    ylim = c(0, max(subset_data$mgn_sum) + 0.1*max(subset_data$mgn_sum))) +
+    scale_x_continuous(expand=c(0, 0)) + scale_y_continuous(expand=c(0, 0)) +
+    theme_classic()
 
   # Print the scatter plot
   print(scatter_plot)
   
   # Generate a unique filename
-  filename <- paste("18Splot_", subset_data$Class, ".png", sep = "")
+  filename <- paste("COIplot_", subset_data$Phylum, ".png", sep = "")
   
   # Save the plot
-  ggsave(filename, scatter_plot)
+  ggsave(here("COI Comparison", "Phylum plots", "subset_1", filename), scatter_plot)
 }
+```
+
+Plot individual phyla with regression line
+```{r}
+phylum <- taxa_phy[taxa_phy$Phylum == 'Ascomycota', ]
+
+# no linear regression
+p <- ggplot(phylum, aes(x=reads_sum, y=mgn_sum)) +
+  geom_point(show.legend=TRUE, size=2) +
+  labs(title = paste("Phylum Ascomycota in paired metagenome & 18S samples"),
+         x="Fraction of 18S reads", y="Fraction of eukaryotic metagenome ORFs") +
+  coord_cartesian(xlim = c(0, max(phylum$reads_sum) + (0.1*max(phylum$reads_sum))),
+                    ylim = c(0, max(phylum$mgn_sum) + 0.1*max(phylum$mgn_sum))) +
+  scale_x_continuous(expand=c(0, 0)) + scale_y_continuous(expand=c(0, 0)) +
+  theme_classic() 
+
+#   geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE) +
+#scale_color_manual(values=wes_palette("Darjeeling1", n = 5))
+```
+
+
+Plot individual phyla colored by Class with regression line
+```{r}
+phylum <- taxa[taxa$Phylum == 'Ascomycota', ]
+
+# no linear regression
+p <- ggplot(phylum, aes(x=count, y=X18S.reads, color=Class)) +
+  geom_point(show.legend=TRUE, size=2) +
+  labs(title = paste("Ascomycota classes in paired metagenome & 18S samples"),
+         x="Fraction of eukaryotic metagenome ORFs", y="Fraction of 18S reads") +
+  coord_cartesian(xlim = c(0, max(phylum$count) + (0.1*max(phylum$count))),
+                    ylim = c(0, max(phylum$X18S.reads) + 0.1*max(phylum$X18S.reads))) +
+  scale_x_continuous(expand=c(0, 0)) + scale_y_continuous(expand=c(0, 0)) +
+  theme_classic() 
+
+#   geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE) +
+#scale_color_manual(values=wes_palette("Darjeeling1", n = 5))
 ```
 
 ## Including Plots
