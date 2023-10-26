@@ -30,18 +30,31 @@ taxa_phy <- taxa %>% group_by(Phylum, Metagenome.sample, ASV.sample) %>%
 
 ### Scatter plot of all Phyla
 ```{r}
-# no linear regression
+# create color palette
+P50 = createPalette(52, c("#ff0000", "#00ff00", "#0000ff"))
+P50 <- sortByHue(P50)
+P50 <- as.vector(t(matrix(P50)))
+names(P50) <- NULL
+
+# reorder df in descending order of amplicon read frequencies
+taxa_phy_plot <- taxa_phy[order(-taxa_phy$reads_sum), ]
+phy_unique <- taxa_phy_plot[!duplicated(taxa_phy_plot$Phylum), ]
+phy_unique_ordered <- phy_unique$Phylum[order(match(phy_unique$Phylum, taxa_phy_plot$Phylum))] 
+taxa_phy_plot$Phylum <- factor(taxa_phy_plot$Phylum, levels=phy_unique_ordered)
+  
 p <- ggplot(taxa_phy, aes(x=reads_sum, y=mgn_sum, color=Phylum)) +
-  geom_point(show.legend=FALSE) +
+  geom_point(show.legend=TRUE) +
   labs(title = paste("Eukaryotic phyla in paired metagenome & COI samples"),
          x="Fraction of COI reads", y="Fraction of eukaryotic metagenome ORFs") +
   coord_cartesian(xlim = c(0, max(taxa_phy$reads_sum) + (0.1*max(taxa_phy$reads_sum))),
                     ylim = c(0, max(taxa_phy$mgn_sum) + 0.1*max(taxa_phy$mgn_sum))) +
   scale_x_continuous(expand=c(0, 0)) + scale_y_continuous(expand=c(0, 0)) +
-  theme_classic()
+  labs(color="Phylum") +
+  theme_classic() +
+  scale_color_manual(values=P50)
 
-#   geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE) +
-#scale_color_manual(values=wes_palette("Darjeeling1", n = 5))
+#ggsave(here("COI Comparison", "Euk_phyla_COI_comparison.png"), p,
+ #      width=7, height=4, dpi=300, units="in")
 ```
 
 ### Assess each Phylum
