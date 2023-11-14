@@ -12,6 +12,7 @@ library(RColorBrewer)
 library(ggplot2)
 library(wesanderson)
 library(purrr)
+library(Polychrome)
 ```
 
 ### Load  data
@@ -39,8 +40,10 @@ names(P50) <- NULL
 # reorder df in descending order of amplicon read frequencies
 taxa_phy_plot <- taxa_phy[order(-taxa_phy$reads_sum), ]
 phy_unique <- taxa_phy_plot[!duplicated(taxa_phy_plot$Phylum), ]
-phy_unique_ordered <- phy_unique$Phylum[order(match(phy_unique$Phylum, taxa_phy_plot$Phylum))] 
-taxa_phy_plot$Phylum <- factor(taxa_phy_plot$Phylum, levels=phy_unique_ordered)
+phy_unique_ordered <- phy_unique$Phylum[order(match(phy_unique$Phylum,
+                                                    taxa_phy_plot$Phylum))] 
+taxa_phy_plot$Phylum <- factor(taxa_phy_plot$Phylum, 
+                               levels=phy_unique_ordered)
   
 p <- ggplot(taxa_phy, aes(x=reads_sum, y=mgn_sum, color=Phylum)) +
   geom_point(show.legend=TRUE) +
@@ -89,83 +92,137 @@ subset4 <- which(r_squared_values >= threshold3)
 
 ```{r}
 # Loop through the selected subsets and create plots
-for (subset_index in subset1) {
+for (subset_index in subset4) {
   subset_data <- data_splits[[subset_index]]
   
   r_squared <- summary(lm_models[[subset_index]] )$r.squared
+  slope <- summary(lm_models[[subset_index]] )$coef[[2]]
   
   # Create a scatter plot for the subset
   scatter_plot <- ggplot(subset_data, aes(x=reads_sum, y=mgn_sum)) +
     geom_point(color="#0072B2") +
-    geom_smooth(method="lm", se=FALSE, color="black", linewidth=0.5) +
-    labs(title = paste("R squared <=0.01, Phylum: ", subset_data$Phylum),
+    geom_smooth(method="lm", se=TRUE, color="black", linewidth=0.5) +
+    labs(title = paste("R squared >= 0.5, Phylum: ", subset_data$Phylum),
          x="Fraction of COI reads", y="Fraction of eukaryotic metagenome ORFs") +
     annotate(geom="text", label = paste("R-squared = ", round(r_squared, 2)),
              x=max(subset_data$reads_sum) - (0.2*max(subset_data$reads_sum)), 
               y=max(subset_data$mgn_sum) - 0.5*max(subset_data$mgn_sum),
               color="black", hjust=0, vjust=1) +
-    coord_cartesian(xlim = c(0, max(subset_data$reads_sum) + (0.1*max(subset_data$reads_sum))),
+    annotate(geom="text", label = paste("Slope = ", round(slope, 2)),
+             x=max(subset_data$reads_sum) - (0.2*max(subset_data$reads_sum)), 
+              y=max(subset_data$mgn_sum) - 0.55*max(subset_data$mgn_sum),
+              color="black", hjust=0, vjust=1) +
+    coord_cartesian(xlim = c(0, max(subset_data$reads_sum) +
+                               (0.1*max(subset_data$reads_sum))), 
                     ylim = c(0, max(subset_data$mgn_sum) + 0.1*max(subset_data$mgn_sum))) +
     scale_x_continuous(expand=c(0, 0)) + scale_y_continuous(expand=c(0, 0)) +
     theme_classic()
 
   # Print the scatter plot
-  print(scatter_plot)
+  #print(scatter_plot)
   
   # Generate a unique filename
   filename <- paste("COIplot_", subset_data$Phylum, ".png", sep = "")
   
   # Save the plot
-  ggsave(here("COI Comparison", "Phylum plots", "subset_1", filename), scatter_plot)
+  ggsave(here("COI Comparison", "Phylum plots", "subset_4", filename), scatter_plot)
 }
 ```
-
 Plot individual phyla with regression line
 ```{r}
-phylum <- taxa_phy[taxa_phy$Phylum == 'Ascomycota', ]
+data <- data_splits[['Bacillariophyta']]
 
-# no linear regression
+# Generate regression model and calculate slope and r-squared values  
+lm <- lm(reads_sum ~ mgn_sum, data = phylum)
+r_squared <- summary(lm)$r.squared
+slope <- lm$coef[[2]]
+
+# with linear regression
 p <- ggplot(phylum, aes(x=reads_sum, y=mgn_sum)) +
-  geom_point(show.legend=TRUE, size=2) +
-  labs(title = paste("Phylum Ascomycota in paired metagenome & 18S samples"),
+  geom_point(show.legend=TRUE, size=2, color="#0072B2") +
+  geom_smooth(method="lm", se=TRUE, color="black", linewidth=0.5) +
+  labs(title = paste("Phylum Bacillariophyta in paired metagenome & 18S samples"),
          x="Fraction of 18S reads", y="Fraction of eukaryotic metagenome ORFs") +
-  coord_cartesian(xlim = c(0, max(phylum$reads_sum) + (0.1*max(phylum$reads_sum))),
-                    ylim = c(0, max(phylum$mgn_sum) + 0.1*max(phylum$mgn_sum))) +
+  annotate(geom="text", label = paste("R-squared = ", round(r_squared, 2)),
+             x=max(data$reads_sum) - (0.2*max(data$reads_sum)), 
+              y=max(data$mgn_sum) - 0.5*max(data$mgn_sum),
+              color="black", hjust=0, vjust=1) +
+  annotate(geom="text", label = paste("Slope = ", round(slope, 2)),
+             x=max(data$reads_sum) - (0.2*max(data$reads_sum)), 
+              y=max(data$mgn_sum) - 0.55*max(data$mgn_sum),
+              color="black", hjust=0, vjust=1) +
+  coord_cartesian(xlim = c(0, max(data$reads_sum) + (0.1*max(data$reads_sum))),
+                    ylim = c(0, max(data$mgn_sum) + 0.1*max(data$mgn_sum))) +
   scale_x_continuous(expand=c(0, 0)) + scale_y_continuous(expand=c(0, 0)) +
   theme_classic() 
 
-#   geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE) +
-#scale_color_manual(values=wes_palette("Darjeeling1", n = 5))
+ggsave(here("18S Comparison", "Classes", "Bacillariophyta_18S_lm-slope-r2-se.png"), p,
+      width=11, height=8, dpi=300, units="in")
 ```
 
 
-Plot individual phyla colored by Class with regression line
+Plot individual phyla colored by Class
 ```{r}
-phylum <- taxa[taxa$Phylum == 'Ascomycota', ]
+P6 = createPalette(6, c("#ff0000", "#00ff00", "#0000ff"))
+P6 <- sortByHue(P6)
+P11 <- as.vector(t(matrix(6)))
+names(P6) <- NULL
+
+r_squared <- summary(lm_models[[subset_index]] )$r.squared
+
+phylum <- taxa[taxa$Phylum == 'Bacillariophyta', ]
 
 # no linear regression
-p <- ggplot(phylum, aes(x=count, y=X18S.reads, color=Class)) +
+p <- ggplot(phylum, aes(x=X18S.reads, y=count, color=Class)) +
   geom_point(show.legend=TRUE, size=2) +
-  labs(title = paste("Ascomycota classes in paired metagenome & 18S samples"),
-         x="Fraction of eukaryotic metagenome ORFs", y="Fraction of 18S reads") +
-  coord_cartesian(xlim = c(0, max(phylum$count) + (0.1*max(phylum$count))),
-                    ylim = c(0, max(phylum$X18S.reads) + 0.1*max(phylum$X18S.reads))) +
+  labs(title = paste("Bacillariophyta classes in paired metagenome & 18S samples"),
+         x="Fraction of 18S reads", y="Fraction of eukaryotic metagenome ORFs") +
+  coord_cartesian(xlim = c(0, max(phylum$X18S.reads) + (0.1*max(phylum$X18S.reads))),
+                    ylim = c(0, max(phylum$count) + 0.1*max(phylum$count))) +
+  scale_x_continuous(expand=c(0, 0)) + scale_y_continuous(expand=c(0, 0)) +
+  theme_classic() +
+  scale_color_manual(values=P6)
+
+#ggsave(here("18S Comparison", "Classes", "Arthropoda_Classes_18S.png"), p,
+ #     width=11, height=8, dpi=300, units="in")
+```
+
+Plot individual phyla with points labeled
+```{r}
+data <- data_splits[["Hemichordata"]]
+
+# with outlier point labeled by sample
+p <- ggplot(data, aes(x=reads_sum, y=mgn_sum)) +
+  geom_point(show.legend=TRUE, size=2, color="#0072B2") +
+  geom_text(aes(label=ifelse(reads_sum>0.00002, as.character(ASV.sample),'')),
+            hjust=1, vjust=-1) +
+  labs(title = paste("Phylum Hemichordata in paired metagenome & 18S samples"),
+         x="Fraction of COI reads", y="Fraction of eukaryotic metagenome ORFs") +
+  coord_cartesian(xlim = c(0, max(data$reads_sum) + (0.1*max(data$reads_sum))),
+                    ylim = c(0, max(data$mgn_sum) + 0.1*max(data$mgn_sum))) +
   scale_x_continuous(expand=c(0, 0)) + scale_y_continuous(expand=c(0, 0)) +
   theme_classic() 
 
-#   geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE) +
-#scale_color_manual(values=wes_palette("Darjeeling1", n = 5))
+#ggsave(here("18S Comparison", "Classes", "Bacillariophyta_18S_lm-slope-r2-se.png"), p,
+ #     width=11, height=8, dpi=300, units="in")
 ```
 
-## Including Plots
+Plot individual Class with points labeled
+```{r}
+phylum <- taxa[taxa$Phylum == 'Glaucocystophyceae', ]
+class <- taxa[taxa$Class == 'Malacostraca', ]
 
-You can also embed plots, for example:
+# no linear regression
+p <- ggplot(phylum, aes(x=COI.reads, y=count)) +
+  geom_point(show.legend=TRUE, size=2) +
+  labs(title = paste("Phylum Glaucocystophyceae in paired metagenome & 18S samples"),
+         x="Fraction of COI reads", y="Fraction of eukaryotic metagenome ORFs") +
+  coord_cartesian(xlim = c(0, max(class$X18S.reads) + (0.1*max(class$X18S.reads))),
+                    ylim = c(0, max(class$count) + 0.1*max(class$count))) +
+  scale_x_continuous(expand=c(0, 0)) + scale_y_continuous(expand=c(0, 0)) +
+  theme_classic() 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+#ggsave(here("18S Comparison", "Classes", "Class_Malacostraca_18S.png"), p,
+ #     width=7, height=4, dpi=300, units="in")
 ```
 
