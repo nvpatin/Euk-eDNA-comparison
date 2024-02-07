@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/56415_assembly_stats_genbank.txt	56415	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/707/265/GCA_003707265.1_ASM370726v1/GCA_003707265.1_ASM370726v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003707265.1	PRJNA429441	SAMN08343435	56415	strain=NRRL Y-17912	latest	Major	Full	2018-10-31	UW-Madison

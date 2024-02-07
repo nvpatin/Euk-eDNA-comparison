@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/47308_assembly_stats_genbank.txt	47308	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/210/695/GCA_007210695.1_RGoby_Basel_V2/GCA_007210695.1_RGoby_Basel_V2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_007210695.1	PRJNA549924	SAMN12099445	47308	na	latest	Major	Full	2019-07-22	University of Basel

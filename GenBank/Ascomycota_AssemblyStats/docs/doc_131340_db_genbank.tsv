@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/131340_assembly_stats_genbank.txt	131340	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/666/085/GCA_003666085.1_ASM366608v1/GCA_003666085.1_ASM366608v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_003666085.1	PRJNA482514	SAMN09708136	131340	na	latest	Major	Full	2018-10-17	Xijing Hospital, Fourth Military Medical University

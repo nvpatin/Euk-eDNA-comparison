@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/649802_assembly_stats_genbank.txt	649802	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/945/595/GCA_003945595.2_ASM394559v2/GCA_003945595.2_ASM394559v2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_003945595.2	PRJNA445296	SAMN08774045	649802	na	latest	Major	Full	2020-12-01	Smithsonian Institution

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1216348_assembly_stats_genbank.txt	1216348	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/867/305/GCA_030867305.1_Colzo1/GCA_030867305.1_Colzo1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_030867305.1	PRJNA262217	SAMN05660351	1216348	strain=MAFF 238573	latest	Major	Full	2023-08-22	DOE Joint Genome Institute

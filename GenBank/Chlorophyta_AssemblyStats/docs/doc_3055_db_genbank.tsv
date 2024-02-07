@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chlorophyta_AssemblyStats/3055_assembly_stats_genbank.txt	3055	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/108/075/GCA_026108075.1_ASM2610807v1/GCA_026108075.1_ASM2610807v1_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	na	GCA_026108075.1	PRJNA840945	SAMN28571528	3055	strain=CC-5816	latest	Major	Full	2022-11-09	Washington University in St Louis

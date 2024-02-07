@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/5501_assembly_stats_genbank.txt	5501	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/115/165/GCA_004115165.2_Cimm211_ragoo/GCA_004115165.2_Cimm211_ragoo_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_004115165.2	PRJNA245906	SAMN02786853	5501	strain=WA_211	latest	Major	Full	2019-07-01	TGen North

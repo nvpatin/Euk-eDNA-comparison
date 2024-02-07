@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/1705790_assembly_stats_genbank.txt	1705790	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/946/052/875/GCA_946052875.1_ARS_Pied_mat1.0/GCA_946052875.1_ARS_Pied_mat1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_946052875.1	PRJEB48481	SAMEA10563833	1705790	na	latest	Major	Full	2022-09-11	ETH ZURICH

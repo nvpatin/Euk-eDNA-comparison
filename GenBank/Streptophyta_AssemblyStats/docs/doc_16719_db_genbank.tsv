@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/16719_assembly_stats_genbank.txt	16719	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/123/865/GCA_003123865.1_ASM312386v1/GCA_003123865.1_ASM312386v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_003123865.1	PRJNA445704	SAMN08795865	16719	cultivar=Sparrow	latest	Major	Full	2018-05-14	University of California Davis

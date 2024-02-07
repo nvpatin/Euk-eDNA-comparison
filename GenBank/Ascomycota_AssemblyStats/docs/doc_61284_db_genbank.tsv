@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/61284_assembly_stats_genbank.txt	61284	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/045/085/GCA_003045085.1_ASM304508v1/GCA_003045085.1_ASM304508v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003045085.1	PRJNA434807	SAMN08575807	61284	strain=T6	latest	Major	Full	2018-04-09	Birla Institute of Scientific Research

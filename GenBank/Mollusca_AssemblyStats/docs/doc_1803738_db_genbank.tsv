@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/AssemblyStats/1803738_assembly_stats_genbank.txt	1803738	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/237/695/GCA_029237695.1_ASM2923769v1/GCA_029237695.1_ASM2923769v1_assembly_stats.txt	genbank	GenBank/AssemblyStats	representative genome	GCA_029237695.1	PRJNA913320	SAMN32292717	1803738	na	latest	Major	Full	2023-03-20	Institute of Oceanology, Chinese Academy of Sciences

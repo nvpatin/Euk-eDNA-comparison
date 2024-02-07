@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/176275_assembly_stats_genbank.txt	176275	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/607/475/GCA_014607475.1_ASM1460747v1/GCA_014607475.1_ASM1460747v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_014607475.1	PRJNA588105	SAMN13227820	176275	strain=HN6	latest	Major	Full	2020-09-16	Jiangsu University of Science and Technology

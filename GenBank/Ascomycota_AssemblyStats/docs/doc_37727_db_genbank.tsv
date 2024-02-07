@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/37727_assembly_stats_genbank.txt	37727	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/971/505/GCA_003971505.1_ASM397150v1/GCA_003971505.1_ASM397150v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003971505.1	PRJNA322422	SAMN05162522	37727	strain=TM4	latest	Major	Full	2018-12-27	The First Affiliated Hospital of Guangxi Medical University

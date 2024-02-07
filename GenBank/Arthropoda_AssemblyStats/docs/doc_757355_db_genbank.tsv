@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/757355_assembly_stats_genbank.txt	757355	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/663/875/GCA_001663875.1_CimHem1.0/GCA_001663875.1_CimHem1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_001663875.1	PRJNA308532	SAMN04396785	757355	na	latest	Major	Partial	2016-06-16	UNIVERSITI SAINS MALAYSIA

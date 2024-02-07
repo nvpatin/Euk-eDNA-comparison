@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/317029_assembly_stats_genbank.txt	317029	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/943/193/675/GCA_943193675.1_grTriPseu1.1_alternate_haplotype/GCA_943193675.1_grTriPseu1.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_943193675.1	PRJEB53012	SAMEA9209225	317029	na	latest	Major	Full	2022-06-10	WELLCOME SANGER INSTITUTE

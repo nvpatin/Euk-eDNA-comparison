@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/247091_assembly_stats_genbank.txt	247091	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/650/415/GCA_019650415.1_UCB_Ppar_1.0/GCA_019650415.1_UCB_Ppar_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_019650415.1	PRJNA588312	SAMN12075865	247091	na	latest	Major	Full	2021-08-17	University of California, Berkeley

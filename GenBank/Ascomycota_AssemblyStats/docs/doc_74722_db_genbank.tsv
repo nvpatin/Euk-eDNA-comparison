@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/74722_assembly_stats_genbank.txt	74722	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/021/365/GCA_001021365.1_ASM102136v1/GCA_001021365.1_ASM102136v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001021365.1	PRJNA283613	SAMN03653474	74722	strain=51-11	latest	Major	Full	2015-06-08	US Environmental Protection Agency

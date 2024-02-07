@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1737316_assembly_stats_genbank.txt	1737316	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/139/535/GCA_017139535.1_ASM1713953v1/GCA_017139535.1_ASM1713953v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_017139535.1	PRJNA592833	SAMN13440930	1737316	strain=OTU1415	latest	Major	Full	2021-03-02	Henan Agricultural University

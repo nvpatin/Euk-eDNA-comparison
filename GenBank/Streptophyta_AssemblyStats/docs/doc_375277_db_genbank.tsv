@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/375277_assembly_stats_genbank.txt	375277	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/437/785/GCA_021437785.1_Rpsi_v1/GCA_021437785.1_Rpsi_v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_021437785.1	PRJNA735915	SAMN19602563	375277	na	latest	Major	Full	2022-01-11	Threatened Species Initiative

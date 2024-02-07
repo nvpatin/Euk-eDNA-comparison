@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Endomyxa_AssemblyStats/41456_assembly_stats_genbank.txt	41456	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/693/705/GCA_003693705.1_ASM369370v1/GCA_003693705.1_ASM369370v1_assembly_stats.txt	genbank	GenBank/Endomyxa_AssemblyStats	representative genome	GCA_003693705.1	PRJNA494670	SAMN10171518	41456	na	latest	Major	Full	2018-10-29	Universite catholique de Louvain

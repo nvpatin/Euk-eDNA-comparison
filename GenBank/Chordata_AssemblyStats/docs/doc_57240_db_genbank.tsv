@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/57240_assembly_stats_genbank.txt	57240	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/080/425/GCA_010080425.1_BGI_Esch.V1/GCA_010080425.1_BGI_Esch.V1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_010080425.1	PRJNA556735	SAMN12384870	57240	na	latest	Major	Full	2020-01-31	BGI-Shenzhen

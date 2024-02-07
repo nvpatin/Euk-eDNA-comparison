@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Mucoromycota_AssemblyStats/979670_assembly_stats_genbank.txt	979670	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/973/025/GCA_014973025.1_ASM1497302v1/GCA_014973025.1_ASM1497302v1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	na	GCA_014973025.1	PRJNA655394	SAMN15734392	979670	strain=UFMGCB 3722	latest	Major	Full	2020-10-26	UFMG - Universidade Federal de Minas Gerais

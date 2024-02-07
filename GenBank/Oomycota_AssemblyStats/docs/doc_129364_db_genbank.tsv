@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/129364_assembly_stats_genbank.txt	129364	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/025/925/GCA_002025925.1_Pr4671/GCA_002025925.1_Pr4671_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	na	GCA_002025925.1	PRJNA375089	SAMN06342477	129364	strain=pd0101050015038	latest	Major	Full	2017-03-14	Oregon State University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/2804957_assembly_stats_genbank.txt	2804957	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/919/855/GCA_027919855.1_LboET3784_1/GCA_027919855.1_LboET3784_1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_027919855.1	PRJNA460928	SAMN09070708	2804957	strain=ET3784	latest	Major	Full	2023-01-18	DOE Joint Genome Institute

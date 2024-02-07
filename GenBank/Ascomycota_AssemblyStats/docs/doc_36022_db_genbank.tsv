@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/36022_assembly_stats_genbank.txt	36022	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/641/835/GCA_022641835.1_ASM2264183v1/GCA_022641835.1_ASM2264183v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022641835.1	PRJNA605184	SAMN14051719	36022	ecotype=Missouri	latest	Major	Full	2022-03-21	St. Louis College of Pharmacy

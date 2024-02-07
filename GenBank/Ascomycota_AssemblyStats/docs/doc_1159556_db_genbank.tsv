@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1159556_assembly_stats_genbank.txt	1159556	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/687/475/GCA_000687475.2_ASM68747v2/GCA_000687475.2_ASM68747v2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_000687475.2	PRJNA240653	SAMN02693461	1159556	strain=UV-8b	latest	Major	Full	2021-05-20	China Agricultural University

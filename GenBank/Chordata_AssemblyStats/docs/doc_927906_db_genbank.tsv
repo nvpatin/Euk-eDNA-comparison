@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/927906_assembly_stats_genbank.txt	927906	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/802/435/GCA_019802435.1_ASM1980243v1/GCA_019802435.1_ASM1980243v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_019802435.1	PRJNA706379	SAMN18128408	927906	na	latest	Major	Full	2021-08-30	University of East Anglia

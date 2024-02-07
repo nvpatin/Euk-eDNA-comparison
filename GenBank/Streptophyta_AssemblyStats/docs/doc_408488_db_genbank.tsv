@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/408488_assembly_stats_genbank.txt	408488	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/242/385/GCA_033242385.1_ASM3324238v1/GCA_033242385.1_ASM3324238v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_033242385.1	PRJDB16362	SAMD00608601	408488	cultivar=Kishu mikan	latest	Major	Full	2023-08-11	Kazusa DNA Research Institute

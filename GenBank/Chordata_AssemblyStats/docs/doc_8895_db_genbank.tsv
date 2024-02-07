@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/8895_assembly_stats_genbank.txt	8895	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/740/585/GCA_020740585.1_bApuApu2.alt.cur/GCA_020740585.1_bApuApu2.alt.cur_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_020740585.1	PRJNA776337	SAMN22785356	8895	na	latest	Major	Full	2021-11-03	Vertebrate Genomes Project

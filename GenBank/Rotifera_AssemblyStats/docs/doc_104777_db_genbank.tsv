@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Rotifera_AssemblyStats/104777_assembly_stats_genbank.txt	104777	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/250/105/GCA_905250105.1_Bc_PSC1_reference_genomic_v1/GCA_905250105.1_Bc_PSC1_reference_genomic_v1_assembly_stats.txt	genbank	GenBank/Rotifera_AssemblyStats	na	GCA_905250105.1	PRJEB43239	SAMN15803692	104777	na	latest	Major	Full	2021-03-19	IMPERIAL COLLEGE LONDON

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/30195_assembly_stats_genbank.txt	30195	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/214/255/GCA_000214255.1_Bter_1.0/GCA_000214255.1_Bter_1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000214255.1	PRJNA45869	SAMN00009041	30195	na	latest	Major	Full	2011-06-03	Baylor College of Medicine

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1873265_assembly_stats_genbank.txt	1873265	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/785/995/GCA_002785995.1_ASM278599v1/GCA_002785995.1_ASM278599v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_002785995.1	PRJNA385672	SAMN06894100	1873265	strain=CBS 112895	latest	Major	Full	2017-11-17	Northwest A&F University

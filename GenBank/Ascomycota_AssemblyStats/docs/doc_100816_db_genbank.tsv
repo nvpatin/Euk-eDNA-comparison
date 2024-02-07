@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/100816_assembly_stats_genbank.txt	100816	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/275/765/GCA_001275765.2_ASM127576v2/GCA_001275765.2_ASM127576v2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001275765.2	PRJNA267680	SAMN03252690	100816	strain=mm55	latest	Major	Full	2016-03-09	ErasmusMC

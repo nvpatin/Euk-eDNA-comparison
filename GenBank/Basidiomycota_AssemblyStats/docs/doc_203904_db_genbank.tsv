@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/203904_assembly_stats_genbank.txt	203904	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/125/335/GCA_004125335.1_ASM412533v1/GCA_004125335.1_ASM412533v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_004125335.1	PRJNA419278	SAMN08048888	203904	na	latest	Major	Full	2019-01-31	Universidade Federal de Lavras (UFLA)

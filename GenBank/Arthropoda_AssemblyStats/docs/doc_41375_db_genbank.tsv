@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/41375_assembly_stats_genbank.txt	41375	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/375/715/GCA_023375715.1_Dkoe_m9kmw_v03/GCA_023375715.1_Dkoe_m9kmw_v03_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_023375715.1	PRJNA731932	SAMN19302355	41375	strain=F	latest	Major	Full	2022-05-16	University of Buenos Aires

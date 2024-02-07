@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/29845_assembly_stats_genbank.txt	29845	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/072/255/GCA_002072255.1_ASM207225v1/GCA_002072255.1_ASM207225v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002072255.1	PRJNA318735	SAMN05200879	29845	strain=IBT 29486	latest	Major	Full	2017-03-24	Chalmers University of Technology

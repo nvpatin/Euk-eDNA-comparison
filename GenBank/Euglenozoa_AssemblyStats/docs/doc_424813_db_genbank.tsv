@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Euglenozoa_AssemblyStats/424813_assembly_stats_genbank.txt	424813	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/849/805/GCA_030849805.1_OSU_Spodl/GCA_030849805.1_OSU_Spodl_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	representative genome	GCA_030849805.1	PRJNA949447	SAMN33944774	424813	na	latest	Major	Full	2023-08-22	University of Ostrava

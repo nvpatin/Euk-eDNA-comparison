@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1582338_assembly_stats_genbank.txt	1582338	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/314/645/GCA_003314645.1_ASM331464v1/GCA_003314645.1_ASM331464v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003314645.1	PRJNA454572	SAMN09010672	1582338	strain=MG90	latest	Major	Full	2018-07-11	Kunming University of Science and Technology

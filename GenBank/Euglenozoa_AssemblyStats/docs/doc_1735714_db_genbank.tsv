@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Euglenozoa_AssemblyStats/1735714_assembly_stats_genbank.txt	1735714	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/849/825/GCA_030849825.1_OSU_Htarak/GCA_030849825.1_OSU_Htarak_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	representative genome	GCA_030849825.1	PRJNA949447	SAMN33944771	1735714	na	latest	Major	Full	2023-08-22	University of Ostrava

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/29898_assembly_stats_genbank.txt	29898	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/119/225/GCA_026119225.1_ASM2611922v1/GCA_026119225.1_ASM2611922v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_026119225.1	PRJNA865523	SAMN30115954	29898	strain=JJ10.1	latest	Major	Full	2022-11-10	Chinese Academy of Sciences

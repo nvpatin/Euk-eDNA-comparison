@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/209281_assembly_stats_genbank.txt	209281	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/813/995/GCA_022813995.1_ASM2281399v1/GCA_022813995.1_ASM2281399v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022813995.1	PRJNA795879	SAMN25961866	209281	na	latest	Major	Full	2022-04-04	University of Graz

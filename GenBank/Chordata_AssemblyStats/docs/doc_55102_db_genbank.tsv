@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/55102_assembly_stats_genbank.txt	55102	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/066/825/GCA_903066825.1_HVK_AC_001/GCA_903066825.1_HVK_AC_001_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_903066825.1	PRJEB37697	SAMEA6814939	55102	na	latest	Major	Full	2021-09-22	WAGENINGEN UNIVERSITY

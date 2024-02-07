@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1079267_assembly_stats_genbank.txt	1079267	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/744/375/GCA_020744375.1_Daces1/GCA_020744375.1_Daces1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_020744375.1	PRJNA370196	SAMN06296343	1079267	strain=MPI-CAGE-AT-0021	latest	Major	Full	2021-11-05	DOE Joint Genome Institute

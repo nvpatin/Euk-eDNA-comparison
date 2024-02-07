@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/43179_assembly_stats_genbank.txt	43179	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/181/315/GCA_000181315.1_ASM18131v1/GCA_000181315.1_ASM18131v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000181315.1	PRJNA13937	SAMN03000702	43179	na	latest	Major	Full	2006-06-06	The Genome Sequencing Platform, The Genome Assembly Team

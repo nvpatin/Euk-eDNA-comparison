@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/211228_assembly_stats_genbank.txt	211228	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/341/935/GCA_000341935.2_Ccin1v2/GCA_000341935.2_Ccin1v2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_000341935.2	PRJNA168335	SAMN02905554	211228	na	latest	Minor	Full	2014-07-09	University of Illinois at Urbana-Champaign

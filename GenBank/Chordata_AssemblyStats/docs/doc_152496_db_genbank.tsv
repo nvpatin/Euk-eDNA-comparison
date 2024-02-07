@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/152496_assembly_stats_genbank.txt	152496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/576/555/GCA_033576555.1_ASM3357655v1/GCA_033576555.1_ASM3357655v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_033576555.1	PRJNA909817	SAMN33211990	152496	ecotype=Paru	latest	Major	Full	2023-11-13	Stanford University

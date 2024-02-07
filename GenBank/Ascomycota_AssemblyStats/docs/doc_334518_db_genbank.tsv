@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/334518_assembly_stats_genbank.txt	334518	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/752/465/GCA_024752465.1_ASM2475246v1/GCA_024752465.1_ASM2475246v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_024752465.1	PRJNA866153	SAMN30154109	334518	strain=ATCC 66958	latest	Major	Full	2022-08-28	Universite Laval

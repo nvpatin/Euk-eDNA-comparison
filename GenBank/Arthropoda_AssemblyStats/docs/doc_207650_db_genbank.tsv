@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/207650_assembly_stats_genbank.txt	207650	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/952/255/GCA_011952255.1_Bvos_JDL3184-5_v1.1/GCA_011952255.1_Bvos_JDL3184-5_v1.1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_011952255.1	PRJNA611634	SAMN14404301	207650	na	latest	Major	Full	2020-04-03	University of Alabama

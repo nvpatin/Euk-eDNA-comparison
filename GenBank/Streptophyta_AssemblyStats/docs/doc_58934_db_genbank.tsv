@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/58934_assembly_stats_genbank.txt	58934	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/418/225/GCA_000418225.1_Zizania_latifolia_v01/GCA_000418225.1_Zizania_latifolia_v01_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_000418225.1	PRJNA187578	SAMN02981538	58934	na	latest	Major	Full	2013-07-09	Zhejiang University

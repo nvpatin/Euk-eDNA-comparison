@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/71964_assembly_stats_genbank.txt	71964	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/769/875/GCA_025769875.1_Rusear1/GCA_025769875.1_Rusear1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_025769875.1	PRJNA571624	SAMN18133722	71964	na	latest	Major	Full	2022-10-20	DOE Joint Genome Institute

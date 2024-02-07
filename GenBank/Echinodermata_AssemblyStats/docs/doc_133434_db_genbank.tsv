@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Echinodermata_AssemblyStats/133434_assembly_stats_genbank.txt	133434	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/949/145/GCA_001949145.1_OKI-Apl_1.0/GCA_001949145.1_OKI-Apl_1.0_assembly_stats.txt	genbank	GenBank/Echinodermata_AssemblyStats	representative genome	GCA_001949145.1	PRJDB3175	SAMD00054104	133434	na	latest	Major	Full	2016-12-20	Okinawa Institute of Science and Technology

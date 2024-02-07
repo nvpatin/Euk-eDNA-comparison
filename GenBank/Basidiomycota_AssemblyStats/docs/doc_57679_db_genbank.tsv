@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/57679_assembly_stats_genbank.txt	57679	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/028/165/GCA_001028165.1_ASM102816v1/GCA_001028165.1_ASM102816v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_001028165.1	PRJNA281029	SAMN03481599	57679	strain=SBUG-Y 855	latest	Major	Full	2015-06-15	Ernst-Moritz-Arndt University

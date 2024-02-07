@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/639000_assembly_stats_genbank.txt	639000	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/247/145/GCA_002247145.1_Plurivora_assembly_v1.fn/GCA_002247145.1_Plurivora_assembly_v1.fn_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	na	GCA_002247145.1	PRJNA393259	SAMN07326770	639000	strain=AV1007	latest	Major	Full	2017-08-11	Sveriges lantbruksuniversite

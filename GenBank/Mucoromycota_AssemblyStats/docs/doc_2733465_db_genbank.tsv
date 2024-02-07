@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Mucoromycota_AssemblyStats/2733465_assembly_stats_genbank.txt	2733465	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/677/225/GCA_019677225.1_ASM1967722v1/GCA_019677225.1_ASM1967722v1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_019677225.1	PRJNA630489	SAMN14838375	2733465	strain=UoMAU1	latest	Major	Full	2021-08-18	University of Melbourne

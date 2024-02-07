@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/2997257_assembly_stats_genbank.txt	2997257	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/936/385/GCA_026936385.1_BBF_mMolNig1_v1/GCA_026936385.1_BBF_mMolNig1_v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_026936385.1	PRJNA904257	SAMN31835895	2997257	na	latest	Major	Full	2022-12-16	Bat1K

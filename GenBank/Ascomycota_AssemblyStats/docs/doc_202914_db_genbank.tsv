@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/202914_assembly_stats_genbank.txt	202914	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/365/115/GCA_013365115.1_ASM1336511v1/GCA_013365115.1_ASM1336511v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_013365115.1	PRJNA632694	SAMN14917834	202914	strain=CRRI-T2N1	latest	Major	Full	2020-06-06	None

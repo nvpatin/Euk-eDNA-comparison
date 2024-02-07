@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/44608_assembly_stats_genbank.txt	44608	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/030/425/GCA_033030425.1_ASM3303042v1/GCA_033030425.1_ASM3303042v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_033030425.1	PRJNA982188	SAMN35689354	44608	strain=No. 21110	latest	Major	Full	2023-10-25	Kunming Institute of Botany

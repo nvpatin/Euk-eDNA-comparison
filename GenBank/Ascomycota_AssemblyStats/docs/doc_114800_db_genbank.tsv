@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/114800_assembly_stats_genbank.txt	114800	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/497/035/GCA_022497035.1_Dalver1/GCA_022497035.1_Dalver1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022497035.1	PRJNA571058	SAMN12814233	114800	strain=CBS 139.73	latest	Major	Full	2022-02-28	DOE Joint Genome Institute

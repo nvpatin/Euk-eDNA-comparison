@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/13217_assembly_stats_genbank.txt	13217	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/002/965/GCA_033002965.1_BioCurious_Pbet_1.0/GCA_033002965.1_BioCurious_Pbet_1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_033002965.1	PRJNA997740	SAMN36688713	13217	na	latest	Major	Full	2023-10-24	BioCurious

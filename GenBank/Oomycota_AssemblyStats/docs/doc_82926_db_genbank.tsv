@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/82926_assembly_stats_genbank.txt	82926	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/386/115/GCA_006386115.1_DCB_P.spl/GCA_006386115.1_DCB_P.spl_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_006386115.1	PRJNA548776	SAMN12049464	82926	strain=rgcb-1	latest	Major	Full	2019-06-24	University of Kerala

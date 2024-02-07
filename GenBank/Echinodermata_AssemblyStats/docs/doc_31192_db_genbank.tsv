@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Echinodermata_AssemblyStats/31192_assembly_stats_genbank.txt	31192	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/936/505/GCA_009936505.2_ASM993650v2/GCA_009936505.2_ASM993650v2_assembly_stats.txt	genbank	GenBank/Echinodermata_AssemblyStats	representative genome	GCA_009936505.2	PRJNA497079	SAMN10247384	31192	na	latest	Major	Full	2021-07-13	IRIDIAN GENOMES

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/2857379_assembly_stats_genbank.txt	2857379	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/067/965/GCA_030067965.1_ASM3006796v1/GCA_030067965.1_ASM3006796v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_030067965.1	PRJNA745004	SAMN20395212	2857379	ecotype=China	latest	Major	Full	2023-06-05	South China Normal University

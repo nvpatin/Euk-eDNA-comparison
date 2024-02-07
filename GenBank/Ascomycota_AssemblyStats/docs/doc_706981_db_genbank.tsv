@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/706981_assembly_stats_genbank.txt	706981	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/015/635/GCA_010015635.1_Clael1/GCA_010015635.1_Clael1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_010015635.1	PRJNA245624	SAMN02744849	706981	strain=CBS 161.51	latest	Major	Full	2020-01-29	DOE Joint Genome Institute

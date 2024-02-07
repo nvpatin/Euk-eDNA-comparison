@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/273748_assembly_stats_genbank.txt	273748	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/283/005/GCA_013283005.1_ASM1328300v1/GCA_013283005.1_ASM1328300v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_013283005.1	PRJNA555178	SAMN12302780	273748	na	latest	Major	Full	2020-06-11	Center for Ecological and Environmental Sciences

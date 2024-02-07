@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Rhodophyta_AssemblyStats/38544_assembly_stats_genbank.txt	38544	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/205/965/GCA_002205965.3_ASM220596v3/GCA_002205965.3_ASM220596v3_assembly_stats.txt	genbank	GenBank/Rhodophyta_AssemblyStats	representative genome	GCA_002205965.3	PRJNA379059	SAMN06578764	38544	cultivar=kp	latest	Major	Full	2020-11-06	Beijing Institute of Genomics

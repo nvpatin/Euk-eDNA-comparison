@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chlorophyta_AssemblyStats/41880_assembly_stats_genbank.txt	41880	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/473/125/GCA_015473125.1_Ppro_1.0/GCA_015473125.1_Ppro_1.0_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	na	GCA_015473125.1	PRJDB10693	SAMD00253459	41880	strain=NIES 2893	latest	Major	Full	2020-11-11	National Institute for Environmental Studies

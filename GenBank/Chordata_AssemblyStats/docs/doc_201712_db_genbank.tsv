@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/201712_assembly_stats_genbank.txt	201712	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/700/935/GCA_916700935.1_H_emblemarius_134878/GCA_916700935.1_H_emblemarius_134878_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_916700935.1	PRJEB42258	SAMEA7962317	201712	na	latest	Major	Full	2021-10-09	UNIVERSITY OF CALIFORNIA AT BERKELEY

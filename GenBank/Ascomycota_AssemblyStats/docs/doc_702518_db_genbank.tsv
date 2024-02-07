@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/702518_assembly_stats_genbank.txt	702518	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/806/415/GCA_009806415.1_ASM980641v1/GCA_009806415.1_ASM980641v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_009806415.1	PRJNA504379	SAMN13475008	702518	strain=ICMP 18580	latest	Major	Full	2019-12-27	Northwest A&F University

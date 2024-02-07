@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/91039_assembly_stats_genbank.txt	91039	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/298/705/GCA_029298705.1_OphTri_1.0/GCA_029298705.1_OphTri_1.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_029298705.1	PRJNA841745	SAMN28613805	91039	na	latest	Major	Full	2023-03-20	Laval University

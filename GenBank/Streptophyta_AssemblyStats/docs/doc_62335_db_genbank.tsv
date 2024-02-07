@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/62335_assembly_stats_genbank.txt	62335	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/500/655/GCA_900500655.1_Sugarcane_genome/GCA_900500655.1_Sugarcane_genome_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_900500655.1	PRJEB28034	SAMEA4812212	62335	cultivar=GXS87-16	latest	Major	Full	2018-08-08	CNGB

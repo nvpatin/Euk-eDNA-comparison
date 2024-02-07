@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/67593_assembly_stats_genbank.txt	67593	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/149/755/GCA_000149755.2_P.sojae_V3.0/GCA_000149755.2_P.sojae_V3.0_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_000149755.2	PRJNA17989	SAMN02953656	67593	strain=P6497	latest	Major	Full	2011-10-03	US DOE Joint Genome Institute, USA, Walnut Creek

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/8364_assembly_stats_genbank.txt	8364	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/004/195/GCA_000004195.4_UCB_Xtro_10.0/GCA_000004195.4_UCB_Xtro_10.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_000004195.4	PRJNA577946	SAMN13041969	8364	strain=Nigerian	latest	Major	Full	2019-11-14	University of California, Berkeley

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/3435_assembly_stats_genbank.txt	3435	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/087/245/GCA_008087245.1_ASM808724v1/GCA_008087245.1_ASM808724v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_008087245.1	PRJNA508502	SAMN10785480	3435	cultivar=Hass	latest	Major	Full	2019-08-26	CINVESTAV - Langebio

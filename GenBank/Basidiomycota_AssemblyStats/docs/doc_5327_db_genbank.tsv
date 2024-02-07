@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/5327_assembly_stats_genbank.txt	5327	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/302/255/GCA_001302255.2_TraHir072/GCA_001302255.2_TraHir072_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_001302255.2	PRJNA271118	SAMN04009657	5327	strain=072	latest	Major	Full	2017-02-03	A.N. Bach Institute of Biochemistry

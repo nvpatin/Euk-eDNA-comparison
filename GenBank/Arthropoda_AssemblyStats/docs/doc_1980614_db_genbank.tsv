@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/1980614_assembly_stats_genbank.txt	1980614	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/031/893/035/GCA_031893035.1_CSIRO_AGI_Dalb_v1/GCA_031893035.1_CSIRO_AGI_Dalb_v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_031893035.1	PRJNA1001588	SAMN36812737	1980614	na	latest	Major	Full	2023-09-25	CSIRO Applied Genomics Initiative

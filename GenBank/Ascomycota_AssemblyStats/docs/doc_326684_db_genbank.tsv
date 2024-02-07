@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/326684_assembly_stats_genbank.txt	326684	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/495/145/GCA_022495145.1_Xylbam139988_1/GCA_022495145.1_Xylbam139988_1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022495145.1	PRJNA567573	SAMN12794297	326684	strain=CBS 139988	latest	Major	Full	2022-02-28	DOE Joint Genome Institute

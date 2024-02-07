@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/63631_assembly_stats_genbank.txt	63631	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/391/785/GCA_013391785.1_H_Gigas_1.0/GCA_013391785.1_H_Gigas_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_013391785.1	PRJNA484555	SAMN15314634	63631	na	latest	Major	Full	2020-07-08	National Research Center Kurchatov Institute

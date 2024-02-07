@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2911076_assembly_stats_genbank.txt	2911076	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/596/325/GCA_021596325.1_ASM2159632v1/GCA_021596325.1_ASM2159632v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_021596325.1	PRJNA796963	SAMN24959693	2911076	strain=EI-6	latest	Major	Full	2022-01-25	Brock University

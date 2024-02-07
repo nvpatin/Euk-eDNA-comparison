@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/77598_assembly_stats_genbank.txt	77598	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/026/845/GCA_004026845.1_HetBruBak_v1_BIUU/GCA_004026845.1_HetBruBak_v1_BIUU_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_004026845.1	PRJNA399398	SAMN07678088	77598	na	latest	Major	Full	2019-01-16	Broad Institute

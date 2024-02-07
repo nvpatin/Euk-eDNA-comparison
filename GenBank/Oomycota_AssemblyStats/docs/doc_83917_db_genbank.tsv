@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/83917_assembly_stats_genbank.txt	83917	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/475/705/GCA_027475705.1_ASM2747570v1/GCA_027475705.1_ASM2747570v1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_027475705.1	PRJNA785345	SAMN23767496	83917	strain=Rm9-06	latest	Major	Full	2022-12-28	Kasetsart University

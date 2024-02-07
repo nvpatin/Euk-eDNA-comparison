@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/40199_assembly_stats_genbank.txt	40199	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/948/275/GCA_025948275.1_ASM2594827v1/GCA_025948275.1_ASM2594827v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_025948275.1	PRJNA890654	SAMN31286417	40199	strain=WV21P1A	latest	Major	Full	2022-11-01	USDA ARS

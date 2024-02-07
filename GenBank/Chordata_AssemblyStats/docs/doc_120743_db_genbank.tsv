@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/120743_assembly_stats_genbank.txt	120743	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/811/005/GCA_904811005.1_ERS5079593_MarsupialExonCaptKit/GCA_904811005.1_ERS5079593_MarsupialExonCaptKit_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_904811005.1	PRJEB39788	SAMEA7321057	120743	na	latest	Major	Partial	2021-09-24	AUSTRALIAN NATIONAL UNIVERSITY

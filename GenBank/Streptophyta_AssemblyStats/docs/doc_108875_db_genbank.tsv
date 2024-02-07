@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/108875_assembly_stats_genbank.txt	108875	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/168/275/GCA_002168275.2_ASM216827v2/GCA_002168275.2_ASM216827v2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_002168275.2	PRJNA383741	SAMN06806157	108875	cultivar=Fairchild	latest	Major	Full	2017-06-05	Mars, Incorporated

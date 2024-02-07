@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/61484_assembly_stats_genbank.txt	61484	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/151/465/GCA_902151465.1_4S_Tte_b3v08/GCA_902151465.1_4S_Tte_b3v08_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_902151465.1	PRJEB31411	SAMEA5384781	61484	na	latest	Major	Full	2019-07-03	UNIL

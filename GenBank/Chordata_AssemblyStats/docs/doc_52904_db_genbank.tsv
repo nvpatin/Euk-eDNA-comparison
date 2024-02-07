@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/52904_assembly_stats_genbank.txt	52904	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/186/165/GCA_003186165.1_ASM318616v1/GCA_003186165.1_ASM318616v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_003186165.1	PRJEB11743	SAMN08049846	52904	ecotype=wild atlantic	latest	Major	Full	2018-06-05	CNAG

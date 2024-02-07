@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/120023_assembly_stats_genbank.txt	120023	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/211/575/GCA_024211575.1_Pm_CJ26_1.0/GCA_024211575.1_Pm_CJ26_1.0_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_024211575.1	PRJNA847706	SAMN28951452	120023	strain=CJ26	latest	Major	Full	2022-07-11	Zhejiang Academy of Agricultural Sciences

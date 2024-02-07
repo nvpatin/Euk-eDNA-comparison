@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/1842917_assembly_stats_genbank.txt	1842917	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/204/045/GCA_029204045.1_TLei_v1/GCA_029204045.1_TLei_v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_029204045.1	PRJNA927306	SAMN32925310	1842917	na	latest	Major	Full	2023-03-14	University of Vienna

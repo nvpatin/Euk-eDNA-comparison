@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/33178_assembly_stats_genbank.txt	33178	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/630/395/GCA_001630395.1_ASM163039v1/GCA_001630395.1_ASM163039v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001630395.1	PRJNA316035	SAMN04574062	33178	strain=45A	latest	Major	Full	2016-04-25	Bangalore University

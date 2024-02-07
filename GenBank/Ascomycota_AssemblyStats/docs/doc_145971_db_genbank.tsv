@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/145971_assembly_stats_genbank.txt	145971	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/278/565/GCA_023278565.1_ASM2327856v1/GCA_023278565.1_ASM2327856v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_023278565.1	PRJNA360503	SAMN06211573	145971	strain=IMI 504893	latest	Major	Full	2022-05-09	University of Western Brittany

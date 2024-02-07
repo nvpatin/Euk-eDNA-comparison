@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/146781_assembly_stats_genbank.txt	146781	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/035/773/195/GCA_035773195.1_ASM3577319v1/GCA_035773195.1_ASM3577319v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_035773195.1	PRJNA771878	SAMN22346665	146781	na	latest	Major	Full	2024-01-17	School of Bioscience and Technology

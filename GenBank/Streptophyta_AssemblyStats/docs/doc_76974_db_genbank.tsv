@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/76974_assembly_stats_genbank.txt	76974	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/013/935/GCA_002013935.1_ASM201393v1/GCA_002013935.1_ASM201393v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_002013935.1	PRJNA327148	SAMN05770693	76974	cultivar=HKC	latest	Major	Full	2017-03-03	Huazhong Agriculture University

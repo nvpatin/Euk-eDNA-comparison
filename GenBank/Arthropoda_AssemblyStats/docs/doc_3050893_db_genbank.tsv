@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/3050893_assembly_stats_genbank.txt	3050893	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/557/285/GCA_033557285.1_ASM3355728v1/GCA_033557285.1_ASM3355728v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_033557285.1	PRJNA977672	SAMN35529366	3050893	na	latest	Major	Full	2023-11-13	Northern Arizona University

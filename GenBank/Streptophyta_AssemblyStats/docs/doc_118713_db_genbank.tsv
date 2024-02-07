@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/118713_assembly_stats_genbank.txt	118713	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/239/495/GCA_005239495.1_ASM523949v1/GCA_005239495.1_ASM523949v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_005239495.1	PRJNA335602	SAMN05449207	118713	na	latest	Major	Full	2019-05-02	Philip Morris International R&D

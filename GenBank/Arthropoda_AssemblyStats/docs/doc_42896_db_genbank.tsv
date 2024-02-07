@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/42896_assembly_stats_genbank.txt	42896	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/018/985/GCA_007018985.1_Abwa2/GCA_007018985.1_Abwa2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_007018985.1	PRJNA522423	SAMN10937792	42896	na	latest	Major	Full	2019-07-16	University of Notre Dame

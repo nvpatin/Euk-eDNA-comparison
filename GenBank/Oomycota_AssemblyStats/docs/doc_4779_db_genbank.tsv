@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/4779_assembly_stats_genbank.txt	4779	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/359/215/GCA_004359215.2_BlacSF5v2/GCA_004359215.2_BlacSF5v2_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_004359215.2	PRJNA387613	SAMN07163504	4779	strain=SF5	latest	Major	Full	2021-08-20	UC Davis Genome Center

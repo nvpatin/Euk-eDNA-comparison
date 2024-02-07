@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/1221322_assembly_stats_genbank.txt	1221322	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/861/445/GCA_016861445.1_OryWow_0.9/GCA_016861445.1_OryWow_0.9_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_016861445.1	PRJDB10959	SAMD00264440	1221322	strain=Fotuno	latest	Major	Full	2021-01-14	National Institute of Genetics

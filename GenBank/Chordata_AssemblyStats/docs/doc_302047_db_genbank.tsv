@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/302047_assembly_stats_genbank.txt	302047	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/054/885/GCA_003054885.1_wag_ytk_001/GCA_003054885.1_wag_ytk_001_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_003054885.1	PRJNA314866	SAMN04544729	302047	na	latest	Major	Full	2018-04-17	Wageningen University

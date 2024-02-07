@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Annelid_AssemblyStats/60958_assembly_stats_genbank.txt	60958	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/943/735/955/GCA_943735955.1_wrPisGeom1.1/GCA_943735955.1_wrPisGeom1.1_assembly_stats.txt	genbank	GenBank/Annelid_AssemblyStats	representative genome	GCA_943735955.1	PRJEB53311	SAMEA7521191	60958	na	latest	Major	Full	2022-06-24	WELLCOME SANGER INSTITUTE

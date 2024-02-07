@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/30301_assembly_stats_genbank.txt	30301	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/444/245/GCA_000444245.1_356a-chromosome-assembly/GCA_000444245.1_356a-chromosome-assembly_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_000444245.1	PRJNA205369	SAMN02179234	30301	strain=356a	latest	Major	Full	2013-08-07	Stanford University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/4909_assembly_stats_genbank.txt	4909	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/033/855/GCA_003033855.1_ASM303385v1/GCA_003033855.1_ASM303385v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003033855.1	PRJNA383123	SAMN06675446	4909	strain=SJP	latest	Major	Full	2018-04-04	SNUR&DB foundation

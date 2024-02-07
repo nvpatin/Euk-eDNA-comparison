@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/1426785_assembly_stats_genbank.txt	1426785	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/779/585/GCA_026779585.1_ASM2677958v1/GCA_026779585.1_ASM2677958v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_026779585.1	PRJNA530791	SAMN11334887	1426785	na	latest	Major	Full	2022-12-09	IRIDIAN GENOMES

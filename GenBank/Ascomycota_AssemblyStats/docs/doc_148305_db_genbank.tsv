@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/148305_assembly_stats_genbank.txt	148305	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/548/795/GCA_001548795.1_DS9461/GCA_001548795.1_DS9461_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001548795.1	PRJNA304354	SAMN04318446	148305	strain=DS9461	latest	Major	Full	2016-02-04	Fujian Agriculture and Forestry University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/5499_assembly_stats_genbank.txt	5499	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/509/005/GCA_020509005.2_Cfulv_R5_v5/GCA_020509005.2_Cfulv_R5_v5_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_020509005.2	PRJNA565804	SAMN12769558	5499	strain=Race5_Kim	latest	Major	Full	2022-01-24	University of California

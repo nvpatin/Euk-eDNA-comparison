@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/173701_assembly_stats_genbank.txt	173701	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/180/625/GCA_013180625.2_ASM1318062v2/GCA_013180625.2_ASM1318062v2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_013180625.2	PRJNA379064	SAMN06578933	173701	ecotype=Dowkah	latest	Major	Full	2022-09-30	University of Nizwa

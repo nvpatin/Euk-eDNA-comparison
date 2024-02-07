@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/85571_assembly_stats_genbank.txt	85571	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/258/625/GCA_003258625.1_ASM325862v1/GCA_003258625.1_ASM325862v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_003258625.1	PRJNA388397	SAMN07176221	85571	cultivar=Mangshan	latest	Major	Full	2018-06-20	Huazhong Agriculture University

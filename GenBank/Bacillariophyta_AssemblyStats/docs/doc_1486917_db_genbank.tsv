@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Bacillariophyta_AssemblyStats/1486917_assembly_stats_genbank.txt	1486917	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/770/025/GCA_026770025.1_DD_uo2022/GCA_026770025.1_DD_uo2022_assembly_stats.txt	genbank	GenBank/Bacillariophyta_AssemblyStats	representative genome	GCA_026770025.1	PRJNA850956	SAMN29207414	1486917	strain=CCMP3328	latest	Major	Full	2022-12-09	B CUBE

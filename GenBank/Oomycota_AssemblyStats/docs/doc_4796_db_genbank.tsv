@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/4796_assembly_stats_genbank.txt	4796	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/911/725/GCA_002911725.1_ASM291172v1/GCA_002911725.1_ASM291172v1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	na	GCA_002911725.1	PRJNA318026	SAMN04632378	4796	strain=sbr112.9	latest	Major	Full	2018-02-02	Beltsville Agricultural Research Center

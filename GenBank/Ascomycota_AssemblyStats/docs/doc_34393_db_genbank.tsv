@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/34393_assembly_stats_genbank.txt	34393	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/344/085/GCA_022344085.1_ASM2234408v1/GCA_022344085.1_ASM2234408v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022344085.1	PRJNA730373	SAMN19229666	34393	strain=IHEM 2214	latest	Major	Full	2022-02-22	Hedera-22

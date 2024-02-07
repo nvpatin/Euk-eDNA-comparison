@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/304459_assembly_stats_genbank.txt	304459	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/133/815/GCA_013133815.1_SYSU_Calt_1.1/GCA_013133815.1_SYSU_Calt_1.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_013133815.1	PRJNA623050	SAMN14537433	304459	na	latest	Major	Full	2020-05-21	Sun Yat-sen University

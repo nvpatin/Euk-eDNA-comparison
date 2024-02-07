@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/7102_assembly_stats_genbank.txt	7102	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/382/865/GCA_002382865.2_ASM238286v2/GCA_002382865.2_ASM238286v2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_002382865.2	PRJNA379496	SAMN06820520	7102	na	latest	Major	Full	2022-02-25	Western Sydney University

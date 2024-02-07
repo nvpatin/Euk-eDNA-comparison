@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/64608_assembly_stats_genbank.txt	64608	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/316/655/GCA_003316655.1_ASM331665v1/GCA_003316655.1_ASM331665v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_003316655.1	PRJNA454572	SAMN09010627	64608	strain=MG21	latest	Major	Full	2018-07-13	Kunming University of Science and Technology

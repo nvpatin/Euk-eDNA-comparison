@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/10137_assembly_stats_genbank.txt	10137	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/026/905/GCA_004026905.1_HysCri_v1_BIUU/GCA_004026905.1_HysCri_v1_BIUU_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_004026905.1	PRJNA399401	SAMN07678090	10137	na	latest	Major	Full	2019-01-16	Broad Institute

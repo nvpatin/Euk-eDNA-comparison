@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/82763_assembly_stats_genbank.txt	82763	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/373/965/GCA_023373965.1_Ibalt_v1/GCA_023373965.1_Ibalt_v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_023373965.1	PRJNA599581	SAMN13761573	82763	na	latest	Major	Full	2022-05-16	Centre for Marine Evolutionary Biology

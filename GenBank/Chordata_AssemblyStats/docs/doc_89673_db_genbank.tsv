@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/89673_assembly_stats_genbank.txt	89673	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/115/245/GCA_004115245.2_mPhyDis1.alti.v3/GCA_004115245.2_mPhyDis1.alti.v3_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_004115245.2	PRJNA489142	SAMN09948786	89673	na	latest	Major	Full	2020-05-11	Vertebrate Genomes Project

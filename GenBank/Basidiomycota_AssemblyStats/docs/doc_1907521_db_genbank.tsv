@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/1907521_assembly_stats_genbank.txt	1907521	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/769/895/GCA_025769895.1_Lacpsa1/GCA_025769895.1_Lacpsa1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_025769895.1	PRJNA345982	SAMN05890483	1907521	strain=BPL869	latest	Major	Full	2022-10-20	DOE Joint Genome Institute

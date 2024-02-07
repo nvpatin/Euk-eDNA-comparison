@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/230603_assembly_stats_genbank.txt	230603	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/243/795/GCA_947243795.1_Suva-ZP964/GCA_947243795.1_Suva-ZP964_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_947243795.1	PRJEB57075	SAMEA111517676	230603	strain=ZP964	latest	Major	Full	2022-11-01	UNIVERSITY COLLEGE DUBLIN

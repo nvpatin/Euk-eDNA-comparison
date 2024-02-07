@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/133082_assembly_stats_genbank.txt	133082	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/282/895/GCA_013282895.1_WAA_JIC_1.0/GCA_013282895.1_WAA_JIC_1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_013282895.1	PRJNA623270	SAMN14543364	133082	na	latest	Major	Full	2020-06-11	John Innes Centre

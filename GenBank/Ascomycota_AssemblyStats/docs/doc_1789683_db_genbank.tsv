@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1789683_assembly_stats_genbank.txt	1789683	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/180/425/GCA_900180425.1_ASM90018042v1/GCA_900180425.1_ASM90018042v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_900180425.1	PRJEB20516	SAMEA104016679	1789683	na	latest	Major	Full	2017-04-29	INRA-MICALIS

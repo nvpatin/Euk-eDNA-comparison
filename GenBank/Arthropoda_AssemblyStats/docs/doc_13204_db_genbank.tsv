@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/13204_assembly_stats_genbank.txt	13204	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/918/844/115/GCA_918844115.2_P.perniciosus_asm_v2.0/GCA_918844115.2_P.perniciosus_asm_v2.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_918844115.2	PRJEB48090	SAMEA10651172	13204	strain=Murcia	latest	Major	Full	2022-07-13	Infravec

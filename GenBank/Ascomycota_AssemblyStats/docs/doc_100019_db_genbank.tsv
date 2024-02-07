@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/100019_assembly_stats_genbank.txt	100019	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/119/975/GCA_026119975.1_ASM2611997v1/GCA_026119975.1_ASM2611997v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_026119975.1	PRJNA827019	SAMN27594415	100019	strain=CBS 183.55	latest	Major	Full	2022-11-10	Institute of Microbiology, Chinese Academy of Sciences

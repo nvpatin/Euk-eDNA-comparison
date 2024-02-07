@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Mucoromycota_AssemblyStats/101098_assembly_stats_genbank.txt	101098	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/098/015/GCA_016098015.1_UCR_MmultNRRL6456_1.0/GCA_016098015.1_UCR_MmultNRRL6456_1.0_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	na	GCA_016098015.1	PRJNA340801	SAMN05720499	101098	strain=NRRL 6456	latest	Major	Full	2020-12-16	DOE Joint Genome Institute

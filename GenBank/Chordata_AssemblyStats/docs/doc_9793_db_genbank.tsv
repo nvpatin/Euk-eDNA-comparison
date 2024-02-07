@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/9793_assembly_stats_genbank.txt	9793	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/305/755/GCA_001305755.1_ASM130575v1/GCA_001305755.1_ASM130575v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_001305755.1	PRJNA259598	SAMN03010633	9793	breed=Guanzhong donkey	latest	Major	Full	2015-10-02	Inner Mongolian Agricultural University

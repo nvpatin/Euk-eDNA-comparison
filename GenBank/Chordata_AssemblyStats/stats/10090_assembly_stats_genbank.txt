@@ -1,0 +1,563 @@
+# Assembly Statistics Report
+# Assembly name:  GRCm39
+# Description:    Genome Reference Consortium Mouse Build 39
+# Organism name:  Mus musculus (house mouse)
+# Infraspecific name:  strain=C57BL/6J
+# Taxid:          10090
+# BioProject:     PRJNA20689
+# Submitter:      Genome Reference Consortium
+# Date:           2020-06-24
+# Synonyms:       mm39	
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# RefSeq category: Reference Genome
+# GenBank assembly accession: GCA_000001635.9
+# RefSeq assembly accession: GCF_000001635.27
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.3	GCF_000000055.20	Primary Assembly (C57BL/6J)
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+# Statistic Types
+# Statistic	Description
+# component-count	Number of unique components
+# contig-L50	Number of contigs that are longer than, or equal to, the N50 length
+# contig-N50	Contig length at which 50% of total bases in assembly are in contigs of that length or greater
+# contig-count	Number of contigs
+# gc-perc	gc-count/atgc-count as percentage
+# molecule-count	Number of chromosomes and plasmids in full assembly
+# region-count	Number of genomic regions defined in full assembly
+# scaffold-L50	Number of scaffolds that are longer than, or equal to, the N50 length
+# scaffold-N50	Scaffold length at which 50% of total bases in assembly are in scaffolds of that length or greater
+# scaffold-N75	Scaffold length at which 75% of total bases in assembly are in contigs of that length or greater
+# scaffold-N90	scaffold length at which 90% of total bases in assembly are in contigs of that length or greater
+# scaffold-count	Number of scaffolds
+# spanned-gaps	Number of spanned gaps. Spanned gaps are gaps within a scaffold
+# top-level-count	Number of chromosomes or plasmids, unplaced/unlocalized scaffolds, alt-loci scaffolds, and patch scaffolds
+# total-gap-length	Total length of gaps
+# total-length	Total sequence length including bases and gaps
+# ungapped-length	Total length excluding gaps
+# unspanned-gaps	Number of unspanned gaps. Unspanned gaps are gaps between scaffolds
+#
+# Sequence-type Description
+# all	statistic covers all the sequences in the unit-assembly and molecule(s) specified.
+# molecule	statistic covers the specified molecule. molecule-name and molecule-type/loc will be given.
+# unlocalized	statistic covers the sequences assigned to a molecule but with no position. molecule-name and molecule-type/loc will be given.
+# unplaced	statistic covers the sequences not assigned to any molecule in the assembly.
+#
+# unit-name	molecule-name	molecule-type/loc	sequence-type	statistic	value
+all	all	all	all	total-length	2728222451
+all	all	all	all	spanned-gaps	204
+all	all	all	all	unspanned-gaps	143
+all	all	all	all	region-count	3
+all	all	all	all	scaffold-count	102
+all	all	all	all	scaffold-N50	106145001
+all	all	all	all	scaffold-L50	11
+all	all	all	all	scaffold-N75	82274824
+all	all	all	all	scaffold-N90	44068269
+all	all	all	all	contig-count	306
+all	all	all	all	contig-N50	59462871
+all	all	all	all	contig-L50	15
+all	all	all	all	total-gap-length	73600614
+all	all	all	all	molecule-count	22
+all	all	all	all	top-level-count	61
+all	all	all	all	component-count	21255
+all	all	all	all	gc-perc	42
+Primary Assembly (C57BL/6J)	all	all	all	total-length	2728206152
+Primary Assembly (C57BL/6J)	all	all	all	ungapped-length	2654605538
+Primary Assembly (C57BL/6J)	all	all	all	scaffold-count	101
+Primary Assembly (C57BL/6J)	all	all	all	scaffold-N50	106145001
+Primary Assembly (C57BL/6J)	all	all	all	spanned-gaps	204
+Primary Assembly (C57BL/6J)	all	all	all	unspanned-gaps	143
+Primary Assembly (C57BL/6J)	all	all	all	gc-perc	42
+Primary Assembly (C57BL/6J)	all	all	assembled-molecule	total-length	2723414844
+Primary Assembly (C57BL/6J)	all	all	assembled-molecule	ungapped-length	2649921870
+Primary Assembly (C57BL/6J)	all	all	assembled-molecule	scaffold-count	62
+Primary Assembly (C57BL/6J)	all	all	assembled-molecule	scaffold-N50	106145001
+Primary Assembly (C57BL/6J)	all	all	assembled-molecule	spanned-gaps	138
+Primary Assembly (C57BL/6J)	all	all	assembled-molecule	unspanned-gaps	143
+Primary Assembly (C57BL/6J)	all	all	assembled-molecule	gc-perc	42
+Primary Assembly (C57BL/6J)	all	all	unlocalized-scaffold	total-length	4052051
+Primary Assembly (C57BL/6J)	all	all	unlocalized-scaffold	ungapped-length	4002051
+Primary Assembly (C57BL/6J)	all	all	unlocalized-scaffold	scaffold-count	18
+Primary Assembly (C57BL/6J)	all	all	unlocalized-scaffold	scaffold-N50	206961
+Primary Assembly (C57BL/6J)	all	all	unlocalized-scaffold	spanned-gaps	1
+Primary Assembly (C57BL/6J)	all	all	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	all	all	unlocalized-scaffold	gc-perc	40.5
+Primary Assembly (C57BL/6J)	na	na	unplaced-scaffold	total-length	739257
+Primary Assembly (C57BL/6J)	na	na	unplaced-scaffold	ungapped-length	681617
+Primary Assembly (C57BL/6J)	na	na	unplaced-scaffold	scaffold-count	21
+Primary Assembly (C57BL/6J)	na	na	unplaced-scaffold	scaffold-N50	31704
+Primary Assembly (C57BL/6J)	na	na	unplaced-scaffold	spanned-gaps	65
+Primary Assembly (C57BL/6J)	na	na	unplaced-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	na	na	unplaced-scaffold	gc-perc	40
+Primary Assembly (C57BL/6J)	1	Chromosome	all	total-length	195974786
+Primary Assembly (C57BL/6J)	1	Chromosome	all	ungapped-length	192774546
+Primary Assembly (C57BL/6J)	1	Chromosome	all	scaffold-count	8
+Primary Assembly (C57BL/6J)	1	Chromosome	all	scaffold-N50	109679455
+Primary Assembly (C57BL/6J)	1	Chromosome	all	spanned-gaps	6
+Primary Assembly (C57BL/6J)	1	Chromosome	all	unspanned-gaps	6
+Primary Assembly (C57BL/6J)	1	Chromosome	all	gc-perc	41.5
+Primary Assembly (C57BL/6J)	1	Chromosome	assembled-molecule	total-length	195154279
+Primary Assembly (C57BL/6J)	1	Chromosome	assembled-molecule	ungapped-length	191954039
+Primary Assembly (C57BL/6J)	1	Chromosome	assembled-molecule	scaffold-count	2
+Primary Assembly (C57BL/6J)	1	Chromosome	assembled-molecule	scaffold-N50	109679455
+Primary Assembly (C57BL/6J)	1	Chromosome	assembled-molecule	spanned-gaps	6
+Primary Assembly (C57BL/6J)	1	Chromosome	assembled-molecule	unspanned-gaps	6
+Primary Assembly (C57BL/6J)	1	Chromosome	assembled-molecule	gc-perc	41.5
+Primary Assembly (C57BL/6J)	1	Chromosome	unlocalized-scaffold	total-length	820507
+Primary Assembly (C57BL/6J)	1	Chromosome	unlocalized-scaffold	ungapped-length	820507
+Primary Assembly (C57BL/6J)	1	Chromosome	unlocalized-scaffold	scaffold-count	6
+Primary Assembly (C57BL/6J)	1	Chromosome	unlocalized-scaffold	scaffold-N50	206961
+Primary Assembly (C57BL/6J)	1	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	1	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	1	Chromosome	unlocalized-scaffold	gc-perc	44
+Primary Assembly (C57BL/6J)	2	Chromosome	all	total-length	181755017
+Primary Assembly (C57BL/6J)	2	Chromosome	all	ungapped-length	178354017
+Primary Assembly (C57BL/6J)	2	Chromosome	all	scaffold-count	5
+Primary Assembly (C57BL/6J)	2	Chromosome	all	scaffold-N50	172291094
+Primary Assembly (C57BL/6J)	2	Chromosome	all	spanned-gaps	2
+Primary Assembly (C57BL/6J)	2	Chromosome	all	unspanned-gaps	9
+Primary Assembly (C57BL/6J)	2	Chromosome	all	gc-perc	42.5
+Primary Assembly (C57BL/6J)	2	Chromosome	assembled-molecule	total-length	181755017
+Primary Assembly (C57BL/6J)	2	Chromosome	assembled-molecule	ungapped-length	178354017
+Primary Assembly (C57BL/6J)	2	Chromosome	assembled-molecule	scaffold-count	5
+Primary Assembly (C57BL/6J)	2	Chromosome	assembled-molecule	scaffold-N50	172291094
+Primary Assembly (C57BL/6J)	2	Chromosome	assembled-molecule	spanned-gaps	2
+Primary Assembly (C57BL/6J)	2	Chromosome	assembled-molecule	unspanned-gaps	9
+Primary Assembly (C57BL/6J)	2	Chromosome	assembled-molecule	gc-perc	42.5
+Primary Assembly (C57BL/6J)	2	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly (C57BL/6J)	2	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (C57BL/6J)	2	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly (C57BL/6J)	2	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly (C57BL/6J)	2	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	2	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	3	Chromosome	all	total-length	159745316
+Primary Assembly (C57BL/6J)	3	Chromosome	all	ungapped-length	156538186
+Primary Assembly (C57BL/6J)	3	Chromosome	all	scaffold-count	1
+Primary Assembly (C57BL/6J)	3	Chromosome	all	scaffold-N50	156645316
+Primary Assembly (C57BL/6J)	3	Chromosome	all	spanned-gaps	4
+Primary Assembly (C57BL/6J)	3	Chromosome	all	unspanned-gaps	4
+Primary Assembly (C57BL/6J)	3	Chromosome	all	gc-perc	40.5
+Primary Assembly (C57BL/6J)	3	Chromosome	assembled-molecule	total-length	159745316
+Primary Assembly (C57BL/6J)	3	Chromosome	assembled-molecule	ungapped-length	156538186
+Primary Assembly (C57BL/6J)	3	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly (C57BL/6J)	3	Chromosome	assembled-molecule	scaffold-N50	156645316
+Primary Assembly (C57BL/6J)	3	Chromosome	assembled-molecule	spanned-gaps	4
+Primary Assembly (C57BL/6J)	3	Chromosome	assembled-molecule	unspanned-gaps	4
+Primary Assembly (C57BL/6J)	3	Chromosome	assembled-molecule	gc-perc	40.5
+Primary Assembly (C57BL/6J)	3	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly (C57BL/6J)	3	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (C57BL/6J)	3	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly (C57BL/6J)	3	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly (C57BL/6J)	3	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	3	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	4	Chromosome	all	total-length	156862662
+Primary Assembly (C57BL/6J)	4	Chromosome	all	ungapped-length	152711764
+Primary Assembly (C57BL/6J)	4	Chromosome	all	scaffold-count	3
+Primary Assembly (C57BL/6J)	4	Chromosome	all	scaffold-N50	86185036
+Primary Assembly (C57BL/6J)	4	Chromosome	all	spanned-gaps	29
+Primary Assembly (C57BL/6J)	4	Chromosome	all	unspanned-gaps	6
+Primary Assembly (C57BL/6J)	4	Chromosome	all	gc-perc	42.5
+Primary Assembly (C57BL/6J)	4	Chromosome	assembled-molecule	total-length	156860686
+Primary Assembly (C57BL/6J)	4	Chromosome	assembled-molecule	ungapped-length	152709788
+Primary Assembly (C57BL/6J)	4	Chromosome	assembled-molecule	scaffold-count	2
+Primary Assembly (C57BL/6J)	4	Chromosome	assembled-molecule	scaffold-N50	86185036
+Primary Assembly (C57BL/6J)	4	Chromosome	assembled-molecule	spanned-gaps	29
+Primary Assembly (C57BL/6J)	4	Chromosome	assembled-molecule	unspanned-gaps	6
+Primary Assembly (C57BL/6J)	4	Chromosome	assembled-molecule	gc-perc	42.5
+Primary Assembly (C57BL/6J)	4	Chromosome	unlocalized-scaffold	total-length	1976
+Primary Assembly (C57BL/6J)	4	Chromosome	unlocalized-scaffold	ungapped-length	1976
+Primary Assembly (C57BL/6J)	4	Chromosome	unlocalized-scaffold	scaffold-count	1
+Primary Assembly (C57BL/6J)	4	Chromosome	unlocalized-scaffold	scaffold-N50	1976
+Primary Assembly (C57BL/6J)	4	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	4	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	4	Chromosome	unlocalized-scaffold	gc-perc	62
+Primary Assembly (C57BL/6J)	5	Chromosome	all	total-length	153496487
+Primary Assembly (C57BL/6J)	5	Chromosome	all	ungapped-length	149744487
+Primary Assembly (C57BL/6J)	5	Chromosome	all	scaffold-count	6
+Primary Assembly (C57BL/6J)	5	Chromosome	all	scaffold-N50	148608149
+Primary Assembly (C57BL/6J)	5	Chromosome	all	spanned-gaps	3
+Primary Assembly (C57BL/6J)	5	Chromosome	all	unspanned-gaps	5
+Primary Assembly (C57BL/6J)	5	Chromosome	all	gc-perc	42.5
+Primary Assembly (C57BL/6J)	5	Chromosome	assembled-molecule	total-length	151758149
+Primary Assembly (C57BL/6J)	5	Chromosome	assembled-molecule	ungapped-length	148006149
+Primary Assembly (C57BL/6J)	5	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly (C57BL/6J)	5	Chromosome	assembled-molecule	scaffold-N50	148608149
+Primary Assembly (C57BL/6J)	5	Chromosome	assembled-molecule	spanned-gaps	3
+Primary Assembly (C57BL/6J)	5	Chromosome	assembled-molecule	unspanned-gaps	5
+Primary Assembly (C57BL/6J)	5	Chromosome	assembled-molecule	gc-perc	42.5
+Primary Assembly (C57BL/6J)	5	Chromosome	unlocalized-scaffold	total-length	1738338
+Primary Assembly (C57BL/6J)	5	Chromosome	unlocalized-scaffold	ungapped-length	1738338
+Primary Assembly (C57BL/6J)	5	Chromosome	unlocalized-scaffold	scaffold-count	5
+Primary Assembly (C57BL/6J)	5	Chromosome	unlocalized-scaffold	scaffold-N50	953012
+Primary Assembly (C57BL/6J)	5	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	5	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	5	Chromosome	unlocalized-scaffold	gc-perc	41
+Primary Assembly (C57BL/6J)	6	Chromosome	all	total-length	149588044
+Primary Assembly (C57BL/6J)	6	Chromosome	all	ungapped-length	146383044
+Primary Assembly (C57BL/6J)	6	Chromosome	all	scaffold-count	2
+Primary Assembly (C57BL/6J)	6	Chromosome	all	scaffold-N50	101774071
+Primary Assembly (C57BL/6J)	6	Chromosome	all	spanned-gaps	1
+Primary Assembly (C57BL/6J)	6	Chromosome	all	unspanned-gaps	6
+Primary Assembly (C57BL/6J)	6	Chromosome	all	gc-perc	41.5
+Primary Assembly (C57BL/6J)	6	Chromosome	assembled-molecule	total-length	149588044
+Primary Assembly (C57BL/6J)	6	Chromosome	assembled-molecule	ungapped-length	146383044
+Primary Assembly (C57BL/6J)	6	Chromosome	assembled-molecule	scaffold-count	2
+Primary Assembly (C57BL/6J)	6	Chromosome	assembled-molecule	scaffold-N50	101774071
+Primary Assembly (C57BL/6J)	6	Chromosome	assembled-molecule	spanned-gaps	1
+Primary Assembly (C57BL/6J)	6	Chromosome	assembled-molecule	unspanned-gaps	6
+Primary Assembly (C57BL/6J)	6	Chromosome	assembled-molecule	gc-perc	41.5
+Primary Assembly (C57BL/6J)	6	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly (C57BL/6J)	6	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (C57BL/6J)	6	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly (C57BL/6J)	6	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly (C57BL/6J)	6	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	6	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	7	Chromosome	all	total-length	145171164
+Primary Assembly (C57BL/6J)	7	Chromosome	all	ungapped-length	141850664
+Primary Assembly (C57BL/6J)	7	Chromosome	all	scaffold-count	3
+Primary Assembly (C57BL/6J)	7	Chromosome	all	scaffold-N50	106145001
+Primary Assembly (C57BL/6J)	7	Chromosome	all	spanned-gaps	4
+Primary Assembly (C57BL/6J)	7	Chromosome	all	unspanned-gaps	6
+Primary Assembly (C57BL/6J)	7	Chromosome	all	gc-perc	43
+Primary Assembly (C57BL/6J)	7	Chromosome	assembled-molecule	total-length	144995196
+Primary Assembly (C57BL/6J)	7	Chromosome	assembled-molecule	ungapped-length	141674696
+Primary Assembly (C57BL/6J)	7	Chromosome	assembled-molecule	scaffold-count	2
+Primary Assembly (C57BL/6J)	7	Chromosome	assembled-molecule	scaffold-N50	106145001
+Primary Assembly (C57BL/6J)	7	Chromosome	assembled-molecule	spanned-gaps	4
+Primary Assembly (C57BL/6J)	7	Chromosome	assembled-molecule	unspanned-gaps	6
+Primary Assembly (C57BL/6J)	7	Chromosome	assembled-molecule	gc-perc	43
+Primary Assembly (C57BL/6J)	7	Chromosome	unlocalized-scaffold	total-length	175968
+Primary Assembly (C57BL/6J)	7	Chromosome	unlocalized-scaffold	ungapped-length	175968
+Primary Assembly (C57BL/6J)	7	Chromosome	unlocalized-scaffold	scaffold-count	1
+Primary Assembly (C57BL/6J)	7	Chromosome	unlocalized-scaffold	scaffold-N50	175968
+Primary Assembly (C57BL/6J)	7	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	7	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	7	Chromosome	unlocalized-scaffold	gc-perc	40
+Primary Assembly (C57BL/6J)	8	Chromosome	all	total-length	130127694
+Primary Assembly (C57BL/6J)	8	Chromosome	all	ungapped-length	125677394
+Primary Assembly (C57BL/6J)	8	Chromosome	all	scaffold-count	2
+Primary Assembly (C57BL/6J)	8	Chromosome	all	scaffold-N50	108725500
+Primary Assembly (C57BL/6J)	8	Chromosome	all	spanned-gaps	6
+Primary Assembly (C57BL/6J)	8	Chromosome	all	unspanned-gaps	6
+Primary Assembly (C57BL/6J)	8	Chromosome	all	gc-perc	42.5
+Primary Assembly (C57BL/6J)	8	Chromosome	assembled-molecule	total-length	130127694
+Primary Assembly (C57BL/6J)	8	Chromosome	assembled-molecule	ungapped-length	125677394
+Primary Assembly (C57BL/6J)	8	Chromosome	assembled-molecule	scaffold-count	2
+Primary Assembly (C57BL/6J)	8	Chromosome	assembled-molecule	scaffold-N50	108725500
+Primary Assembly (C57BL/6J)	8	Chromosome	assembled-molecule	spanned-gaps	6
+Primary Assembly (C57BL/6J)	8	Chromosome	assembled-molecule	unspanned-gaps	6
+Primary Assembly (C57BL/6J)	8	Chromosome	assembled-molecule	gc-perc	42.5
+Primary Assembly (C57BL/6J)	8	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly (C57BL/6J)	8	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (C57BL/6J)	8	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly (C57BL/6J)	8	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly (C57BL/6J)	8	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	8	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	9	Chromosome	all	total-length	124359700
+Primary Assembly (C57BL/6J)	9	Chromosome	all	ungapped-length	121184854
+Primary Assembly (C57BL/6J)	9	Chromosome	all	scaffold-count	2
+Primary Assembly (C57BL/6J)	9	Chromosome	all	scaffold-N50	120961466
+Primary Assembly (C57BL/6J)	9	Chromosome	all	spanned-gaps	7
+Primary Assembly (C57BL/6J)	9	Chromosome	all	unspanned-gaps	5
+Primary Assembly (C57BL/6J)	9	Chromosome	all	gc-perc	43
+Primary Assembly (C57BL/6J)	9	Chromosome	assembled-molecule	total-length	124359700
+Primary Assembly (C57BL/6J)	9	Chromosome	assembled-molecule	ungapped-length	121184854
+Primary Assembly (C57BL/6J)	9	Chromosome	assembled-molecule	scaffold-count	2
+Primary Assembly (C57BL/6J)	9	Chromosome	assembled-molecule	scaffold-N50	120961466
+Primary Assembly (C57BL/6J)	9	Chromosome	assembled-molecule	spanned-gaps	7
+Primary Assembly (C57BL/6J)	9	Chromosome	assembled-molecule	unspanned-gaps	5
+Primary Assembly (C57BL/6J)	9	Chromosome	assembled-molecule	gc-perc	43
+Primary Assembly (C57BL/6J)	9	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly (C57BL/6J)	9	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (C57BL/6J)	9	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly (C57BL/6J)	9	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly (C57BL/6J)	9	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	9	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	10	Chromosome	all	total-length	130530862
+Primary Assembly (C57BL/6J)	10	Chromosome	all	ungapped-length	127155762
+Primary Assembly (C57BL/6J)	10	Chromosome	all	scaffold-count	1
+Primary Assembly (C57BL/6J)	10	Chromosome	all	scaffold-N50	127380862
+Primary Assembly (C57BL/6J)	10	Chromosome	all	spanned-gaps	2
+Primary Assembly (C57BL/6J)	10	Chromosome	all	unspanned-gaps	5
+Primary Assembly (C57BL/6J)	10	Chromosome	all	gc-perc	41.5
+Primary Assembly (C57BL/6J)	10	Chromosome	assembled-molecule	total-length	130530862
+Primary Assembly (C57BL/6J)	10	Chromosome	assembled-molecule	ungapped-length	127155762
+Primary Assembly (C57BL/6J)	10	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly (C57BL/6J)	10	Chromosome	assembled-molecule	scaffold-N50	127380862
+Primary Assembly (C57BL/6J)	10	Chromosome	assembled-molecule	spanned-gaps	2
+Primary Assembly (C57BL/6J)	10	Chromosome	assembled-molecule	unspanned-gaps	5
+Primary Assembly (C57BL/6J)	10	Chromosome	assembled-molecule	gc-perc	41.5
+Primary Assembly (C57BL/6J)	10	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly (C57BL/6J)	10	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (C57BL/6J)	10	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly (C57BL/6J)	10	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly (C57BL/6J)	10	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	10	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	11	Chromosome	all	total-length	121973369
+Primary Assembly (C57BL/6J)	11	Chromosome	all	ungapped-length	118822369
+Primary Assembly (C57BL/6J)	11	Chromosome	all	scaffold-count	1
+Primary Assembly (C57BL/6J)	11	Chromosome	all	scaffold-N50	118823369
+Primary Assembly (C57BL/6J)	11	Chromosome	all	spanned-gaps	1
+Primary Assembly (C57BL/6J)	11	Chromosome	all	unspanned-gaps	5
+Primary Assembly (C57BL/6J)	11	Chromosome	all	gc-perc	44
+Primary Assembly (C57BL/6J)	11	Chromosome	assembled-molecule	total-length	121973369
+Primary Assembly (C57BL/6J)	11	Chromosome	assembled-molecule	ungapped-length	118822369
+Primary Assembly (C57BL/6J)	11	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly (C57BL/6J)	11	Chromosome	assembled-molecule	scaffold-N50	118823369
+Primary Assembly (C57BL/6J)	11	Chromosome	assembled-molecule	spanned-gaps	1
+Primary Assembly (C57BL/6J)	11	Chromosome	assembled-molecule	unspanned-gaps	5
+Primary Assembly (C57BL/6J)	11	Chromosome	assembled-molecule	gc-perc	44
+Primary Assembly (C57BL/6J)	11	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly (C57BL/6J)	11	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (C57BL/6J)	11	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly (C57BL/6J)	11	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly (C57BL/6J)	11	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	11	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	12	Chromosome	all	total-length	120092757
+Primary Assembly (C57BL/6J)	12	Chromosome	all	ungapped-length	116922757
+Primary Assembly (C57BL/6J)	12	Chromosome	all	scaffold-count	1
+Primary Assembly (C57BL/6J)	12	Chromosome	all	scaffold-N50	116942757
+Primary Assembly (C57BL/6J)	12	Chromosome	all	spanned-gaps	1
+Primary Assembly (C57BL/6J)	12	Chromosome	all	unspanned-gaps	5
+Primary Assembly (C57BL/6J)	12	Chromosome	all	gc-perc	42
+Primary Assembly (C57BL/6J)	12	Chromosome	assembled-molecule	total-length	120092757
+Primary Assembly (C57BL/6J)	12	Chromosome	assembled-molecule	ungapped-length	116922757
+Primary Assembly (C57BL/6J)	12	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly (C57BL/6J)	12	Chromosome	assembled-molecule	scaffold-N50	116942757
+Primary Assembly (C57BL/6J)	12	Chromosome	assembled-molecule	spanned-gaps	1
+Primary Assembly (C57BL/6J)	12	Chromosome	assembled-molecule	unspanned-gaps	5
+Primary Assembly (C57BL/6J)	12	Chromosome	assembled-molecule	gc-perc	42
+Primary Assembly (C57BL/6J)	12	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly (C57BL/6J)	12	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (C57BL/6J)	12	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly (C57BL/6J)	12	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly (C57BL/6J)	12	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	12	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	13	Chromosome	all	total-length	120883175
+Primary Assembly (C57BL/6J)	13	Chromosome	all	ungapped-length	117256175
+Primary Assembly (C57BL/6J)	13	Chromosome	all	scaffold-count	1
+Primary Assembly (C57BL/6J)	13	Chromosome	all	scaffold-N50	117733175
+Primary Assembly (C57BL/6J)	13	Chromosome	all	spanned-gaps	3
+Primary Assembly (C57BL/6J)	13	Chromosome	all	unspanned-gaps	5
+Primary Assembly (C57BL/6J)	13	Chromosome	all	gc-perc	41.5
+Primary Assembly (C57BL/6J)	13	Chromosome	assembled-molecule	total-length	120883175
+Primary Assembly (C57BL/6J)	13	Chromosome	assembled-molecule	ungapped-length	117256175
+Primary Assembly (C57BL/6J)	13	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly (C57BL/6J)	13	Chromosome	assembled-molecule	scaffold-N50	117733175
+Primary Assembly (C57BL/6J)	13	Chromosome	assembled-molecule	spanned-gaps	3
+Primary Assembly (C57BL/6J)	13	Chromosome	assembled-molecule	unspanned-gaps	5
+Primary Assembly (C57BL/6J)	13	Chromosome	assembled-molecule	gc-perc	41.5
+Primary Assembly (C57BL/6J)	13	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly (C57BL/6J)	13	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (C57BL/6J)	13	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly (C57BL/6J)	13	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly (C57BL/6J)	13	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	13	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	14	Chromosome	all	total-length	125139656
+Primary Assembly (C57BL/6J)	14	Chromosome	all	ungapped-length	121174156
+Primary Assembly (C57BL/6J)	14	Chromosome	all	scaffold-count	2
+Primary Assembly (C57BL/6J)	14	Chromosome	all	scaffold-N50	105519884
+Primary Assembly (C57BL/6J)	14	Chromosome	all	spanned-gaps	3
+Primary Assembly (C57BL/6J)	14	Chromosome	all	unspanned-gaps	6
+Primary Assembly (C57BL/6J)	14	Chromosome	all	gc-perc	41
+Primary Assembly (C57BL/6J)	14	Chromosome	assembled-molecule	total-length	125139656
+Primary Assembly (C57BL/6J)	14	Chromosome	assembled-molecule	ungapped-length	121174156
+Primary Assembly (C57BL/6J)	14	Chromosome	assembled-molecule	scaffold-count	2
+Primary Assembly (C57BL/6J)	14	Chromosome	assembled-molecule	scaffold-N50	105519884
+Primary Assembly (C57BL/6J)	14	Chromosome	assembled-molecule	spanned-gaps	3
+Primary Assembly (C57BL/6J)	14	Chromosome	assembled-molecule	unspanned-gaps	6
+Primary Assembly (C57BL/6J)	14	Chromosome	assembled-molecule	gc-perc	41
+Primary Assembly (C57BL/6J)	14	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly (C57BL/6J)	14	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (C57BL/6J)	14	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly (C57BL/6J)	14	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly (C57BL/6J)	14	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	14	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	15	Chromosome	all	total-length	104073951
+Primary Assembly (C57BL/6J)	15	Chromosome	all	ungapped-length	100923951
+Primary Assembly (C57BL/6J)	15	Chromosome	all	scaffold-count	1
+Primary Assembly (C57BL/6J)	15	Chromosome	all	scaffold-N50	100923951
+Primary Assembly (C57BL/6J)	15	Chromosome	all	spanned-gaps	0
+Primary Assembly (C57BL/6J)	15	Chromosome	all	unspanned-gaps	5
+Primary Assembly (C57BL/6J)	15	Chromosome	all	gc-perc	42
+Primary Assembly (C57BL/6J)	15	Chromosome	assembled-molecule	total-length	104073951
+Primary Assembly (C57BL/6J)	15	Chromosome	assembled-molecule	ungapped-length	100923951
+Primary Assembly (C57BL/6J)	15	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly (C57BL/6J)	15	Chromosome	assembled-molecule	scaffold-N50	100923951
+Primary Assembly (C57BL/6J)	15	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly (C57BL/6J)	15	Chromosome	assembled-molecule	unspanned-gaps	5
+Primary Assembly (C57BL/6J)	15	Chromosome	assembled-molecule	gc-perc	42
+Primary Assembly (C57BL/6J)	15	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly (C57BL/6J)	15	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (C57BL/6J)	15	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly (C57BL/6J)	15	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly (C57BL/6J)	15	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	15	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	16	Chromosome	all	total-length	98008968
+Primary Assembly (C57BL/6J)	16	Chromosome	all	ungapped-length	94850968
+Primary Assembly (C57BL/6J)	16	Chromosome	all	scaffold-count	1
+Primary Assembly (C57BL/6J)	16	Chromosome	all	scaffold-N50	94858968
+Primary Assembly (C57BL/6J)	16	Chromosome	all	spanned-gaps	3
+Primary Assembly (C57BL/6J)	16	Chromosome	all	unspanned-gaps	5
+Primary Assembly (C57BL/6J)	16	Chromosome	all	gc-perc	41
+Primary Assembly (C57BL/6J)	16	Chromosome	assembled-molecule	total-length	98008968
+Primary Assembly (C57BL/6J)	16	Chromosome	assembled-molecule	ungapped-length	94850968
+Primary Assembly (C57BL/6J)	16	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly (C57BL/6J)	16	Chromosome	assembled-molecule	scaffold-N50	94858968
+Primary Assembly (C57BL/6J)	16	Chromosome	assembled-molecule	spanned-gaps	3
+Primary Assembly (C57BL/6J)	16	Chromosome	assembled-molecule	unspanned-gaps	5
+Primary Assembly (C57BL/6J)	16	Chromosome	assembled-molecule	gc-perc	41
+Primary Assembly (C57BL/6J)	16	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly (C57BL/6J)	16	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (C57BL/6J)	16	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly (C57BL/6J)	16	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly (C57BL/6J)	16	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	16	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	17	Chromosome	all	total-length	95294699
+Primary Assembly (C57BL/6J)	17	Chromosome	all	ungapped-length	91815499
+Primary Assembly (C57BL/6J)	17	Chromosome	all	scaffold-count	2
+Primary Assembly (C57BL/6J)	17	Chromosome	all	scaffold-N50	81319825
+Primary Assembly (C57BL/6J)	17	Chromosome	all	spanned-gaps	5
+Primary Assembly (C57BL/6J)	17	Chromosome	all	unspanned-gaps	6
+Primary Assembly (C57BL/6J)	17	Chromosome	all	gc-perc	42.5
+Primary Assembly (C57BL/6J)	17	Chromosome	assembled-molecule	total-length	95294699
+Primary Assembly (C57BL/6J)	17	Chromosome	assembled-molecule	ungapped-length	91815499
+Primary Assembly (C57BL/6J)	17	Chromosome	assembled-molecule	scaffold-count	2
+Primary Assembly (C57BL/6J)	17	Chromosome	assembled-molecule	scaffold-N50	81319825
+Primary Assembly (C57BL/6J)	17	Chromosome	assembled-molecule	spanned-gaps	5
+Primary Assembly (C57BL/6J)	17	Chromosome	assembled-molecule	unspanned-gaps	6
+Primary Assembly (C57BL/6J)	17	Chromosome	assembled-molecule	gc-perc	42.5
+Primary Assembly (C57BL/6J)	17	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly (C57BL/6J)	17	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (C57BL/6J)	17	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly (C57BL/6J)	17	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly (C57BL/6J)	17	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	17	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	18	Chromosome	all	total-length	90720763
+Primary Assembly (C57BL/6J)	18	Chromosome	all	ungapped-length	87605763
+Primary Assembly (C57BL/6J)	18	Chromosome	all	scaffold-count	1
+Primary Assembly (C57BL/6J)	18	Chromosome	all	scaffold-N50	87620763
+Primary Assembly (C57BL/6J)	18	Chromosome	all	spanned-gaps	1
+Primary Assembly (C57BL/6J)	18	Chromosome	all	unspanned-gaps	4
+Primary Assembly (C57BL/6J)	18	Chromosome	all	gc-perc	41.5
+Primary Assembly (C57BL/6J)	18	Chromosome	assembled-molecule	total-length	90720763
+Primary Assembly (C57BL/6J)	18	Chromosome	assembled-molecule	ungapped-length	87605763
+Primary Assembly (C57BL/6J)	18	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly (C57BL/6J)	18	Chromosome	assembled-molecule	scaffold-N50	87620763
+Primary Assembly (C57BL/6J)	18	Chromosome	assembled-molecule	spanned-gaps	1
+Primary Assembly (C57BL/6J)	18	Chromosome	assembled-molecule	unspanned-gaps	4
+Primary Assembly (C57BL/6J)	18	Chromosome	assembled-molecule	gc-perc	41.5
+Primary Assembly (C57BL/6J)	18	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly (C57BL/6J)	18	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (C57BL/6J)	18	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly (C57BL/6J)	18	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly (C57BL/6J)	18	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	18	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	19	Chromosome	all	total-length	61420004
+Primary Assembly (C57BL/6J)	19	Chromosome	all	ungapped-length	58220004
+Primary Assembly (C57BL/6J)	19	Chromosome	all	scaffold-count	2
+Primary Assembly (C57BL/6J)	19	Chromosome	all	scaffold-N50	54530079
+Primary Assembly (C57BL/6J)	19	Chromosome	all	spanned-gaps	0
+Primary Assembly (C57BL/6J)	19	Chromosome	all	unspanned-gaps	6
+Primary Assembly (C57BL/6J)	19	Chromosome	all	gc-perc	43
+Primary Assembly (C57BL/6J)	19	Chromosome	assembled-molecule	total-length	61420004
+Primary Assembly (C57BL/6J)	19	Chromosome	assembled-molecule	ungapped-length	58220004
+Primary Assembly (C57BL/6J)	19	Chromosome	assembled-molecule	scaffold-count	2
+Primary Assembly (C57BL/6J)	19	Chromosome	assembled-molecule	scaffold-N50	54530079
+Primary Assembly (C57BL/6J)	19	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly (C57BL/6J)	19	Chromosome	assembled-molecule	unspanned-gaps	6
+Primary Assembly (C57BL/6J)	19	Chromosome	assembled-molecule	gc-perc	43
+Primary Assembly (C57BL/6J)	19	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly (C57BL/6J)	19	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (C57BL/6J)	19	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly (C57BL/6J)	19	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly (C57BL/6J)	19	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	19	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	X	Chromosome	all	total-length	170035695
+Primary Assembly (C57BL/6J)	X	Chromosome	all	ungapped-length	164715435
+Primary Assembly (C57BL/6J)	X	Chromosome	all	scaffold-count	15
+Primary Assembly (C57BL/6J)	X	Chromosome	all	scaffold-N50	44068269
+Primary Assembly (C57BL/6J)	X	Chromosome	all	spanned-gaps	50
+Primary Assembly (C57BL/6J)	X	Chromosome	all	unspanned-gaps	19
+Primary Assembly (C57BL/6J)	X	Chromosome	all	gc-perc	39.5
+Primary Assembly (C57BL/6J)	X	Chromosome	assembled-molecule	total-length	169476592
+Primary Assembly (C57BL/6J)	X	Chromosome	assembled-molecule	ungapped-length	164206332
+Primary Assembly (C57BL/6J)	X	Chromosome	assembled-molecule	scaffold-count	14
+Primary Assembly (C57BL/6J)	X	Chromosome	assembled-molecule	scaffold-N50	44068269
+Primary Assembly (C57BL/6J)	X	Chromosome	assembled-molecule	spanned-gaps	49
+Primary Assembly (C57BL/6J)	X	Chromosome	assembled-molecule	unspanned-gaps	19
+Primary Assembly (C57BL/6J)	X	Chromosome	assembled-molecule	gc-perc	39.5
+Primary Assembly (C57BL/6J)	X	Chromosome	unlocalized-scaffold	total-length	559103
+Primary Assembly (C57BL/6J)	X	Chromosome	unlocalized-scaffold	ungapped-length	509103
+Primary Assembly (C57BL/6J)	X	Chromosome	unlocalized-scaffold	scaffold-count	1
+Primary Assembly (C57BL/6J)	X	Chromosome	unlocalized-scaffold	scaffold-N50	559103
+Primary Assembly (C57BL/6J)	X	Chromosome	unlocalized-scaffold	spanned-gaps	1
+Primary Assembly (C57BL/6J)	X	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	X	Chromosome	unlocalized-scaffold	gc-perc	37.5
+Primary Assembly (C57BL/6J)	Y	Chromosome	all	total-length	92212126
+Primary Assembly (C57BL/6J)	Y	Chromosome	all	ungapped-length	89242126
+Primary Assembly (C57BL/6J)	Y	Chromosome	all	scaffold-count	20
+Primary Assembly (C57BL/6J)	Y	Chromosome	all	scaffold-N50	17801351
+Primary Assembly (C57BL/6J)	Y	Chromosome	all	spanned-gaps	8
+Primary Assembly (C57BL/6J)	Y	Chromosome	all	unspanned-gaps	19
+Primary Assembly (C57BL/6J)	Y	Chromosome	all	gc-perc	39
+Primary Assembly (C57BL/6J)	Y	Chromosome	assembled-molecule	total-length	91455967
+Primary Assembly (C57BL/6J)	Y	Chromosome	assembled-molecule	ungapped-length	88485967
+Primary Assembly (C57BL/6J)	Y	Chromosome	assembled-molecule	scaffold-count	16
+Primary Assembly (C57BL/6J)	Y	Chromosome	assembled-molecule	scaffold-N50	17801351
+Primary Assembly (C57BL/6J)	Y	Chromosome	assembled-molecule	spanned-gaps	8
+Primary Assembly (C57BL/6J)	Y	Chromosome	assembled-molecule	unspanned-gaps	19
+Primary Assembly (C57BL/6J)	Y	Chromosome	assembled-molecule	gc-perc	39
+Primary Assembly (C57BL/6J)	Y	Chromosome	unlocalized-scaffold	total-length	756159
+Primary Assembly (C57BL/6J)	Y	Chromosome	unlocalized-scaffold	ungapped-length	756159
+Primary Assembly (C57BL/6J)	Y	Chromosome	unlocalized-scaffold	scaffold-count	4
+Primary Assembly (C57BL/6J)	Y	Chromosome	unlocalized-scaffold	scaffold-N50	182347
+Primary Assembly (C57BL/6J)	Y	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (C57BL/6J)	Y	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (C57BL/6J)	Y	Chromosome	unlocalized-scaffold	gc-perc	39.5
+non-nuclear	all	all	all	total-length	16299
+non-nuclear	all	all	all	ungapped-length	16299
+non-nuclear	all	all	all	scaffold-count	1
+non-nuclear	all	all	all	scaffold-N50	16299
+non-nuclear	all	all	all	spanned-gaps	0
+non-nuclear	all	all	all	unspanned-gaps	0
+non-nuclear	all	all	all	gc-perc	36.5
+non-nuclear	all	all	assembled-molecule	total-length	16299
+non-nuclear	all	all	assembled-molecule	ungapped-length	16299
+non-nuclear	all	all	assembled-molecule	scaffold-count	1
+non-nuclear	all	all	assembled-molecule	scaffold-N50	16299
+non-nuclear	all	all	assembled-molecule	spanned-gaps	0
+non-nuclear	all	all	assembled-molecule	unspanned-gaps	0
+non-nuclear	all	all	assembled-molecule	gc-perc	36.5
+non-nuclear	all	all	unlocalized-scaffold	total-length	0
+non-nuclear	all	all	unlocalized-scaffold	ungapped-length	0
+non-nuclear	all	all	unlocalized-scaffold	scaffold-count	0
+non-nuclear	all	all	unlocalized-scaffold	scaffold-N50	0
+non-nuclear	all	all	unlocalized-scaffold	spanned-gaps	0
+non-nuclear	all	all	unlocalized-scaffold	unspanned-gaps	0
+non-nuclear	MT	Mitochondrion	all	total-length	16299
+non-nuclear	MT	Mitochondrion	all	ungapped-length	16299
+non-nuclear	MT	Mitochondrion	all	scaffold-count	1
+non-nuclear	MT	Mitochondrion	all	scaffold-N50	16299
+non-nuclear	MT	Mitochondrion	all	spanned-gaps	0
+non-nuclear	MT	Mitochondrion	all	unspanned-gaps	0
+non-nuclear	MT	Mitochondrion	all	gc-perc	36.5
+non-nuclear	MT	Mitochondrion	assembled-molecule	total-length	16299
+non-nuclear	MT	Mitochondrion	assembled-molecule	ungapped-length	16299
+non-nuclear	MT	Mitochondrion	assembled-molecule	scaffold-count	1
+non-nuclear	MT	Mitochondrion	assembled-molecule	scaffold-N50	16299
+non-nuclear	MT	Mitochondrion	assembled-molecule	spanned-gaps	0
+non-nuclear	MT	Mitochondrion	assembled-molecule	unspanned-gaps	0
+non-nuclear	MT	Mitochondrion	assembled-molecule	gc-perc	36.5
+non-nuclear	MT	Mitochondrion	unlocalized-scaffold	total-length	0
+non-nuclear	MT	Mitochondrion	unlocalized-scaffold	ungapped-length	0
+non-nuclear	MT	Mitochondrion	unlocalized-scaffold	scaffold-count	0
+non-nuclear	MT	Mitochondrion	unlocalized-scaffold	scaffold-N50	0
+non-nuclear	MT	Mitochondrion	unlocalized-scaffold	spanned-gaps	0
+non-nuclear	MT	Mitochondrion	unlocalized-scaffold	unspanned-gaps	0

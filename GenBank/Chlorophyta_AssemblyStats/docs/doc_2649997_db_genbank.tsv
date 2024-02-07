@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chlorophyta_AssemblyStats/2649997_assembly_stats_genbank.txt	2649997	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/026/875/GCA_025026875.1_ASM2502687v1/GCA_025026875.1_ASM2502687v1_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_025026875.1	PRJNA573576	SAMN12817653	2649997	strain=1	latest	Major	Full	2022-09-07	The Hebrew University of Jerusalem

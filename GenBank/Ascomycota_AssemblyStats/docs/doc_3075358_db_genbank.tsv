@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/3075358_assembly_stats_genbank.txt	3075358	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/034/509/035/GCA_034509035.1_ASM3450903v1/GCA_034509035.1_ASM3450903v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_034509035.1	PRJNA1021044	SAMN37543029	3075358	strain=MUM 23.24	latest	Major	Full	2023-12-21	Universidade de Coimbra

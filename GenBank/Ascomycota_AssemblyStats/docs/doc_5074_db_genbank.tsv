@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/5074_assembly_stats_genbank.txt	5074	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/843/585/GCA_019843585.1_ASM1984358v1/GCA_019843585.1_ASM1984358v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_019843585.1	PRJNA635995	SAMN15062679	5074	strain=HOCR17	latest	Major	Full	2021-09-01	Western Sydney University

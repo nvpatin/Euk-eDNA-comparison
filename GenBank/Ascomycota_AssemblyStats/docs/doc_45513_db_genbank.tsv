@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/45513_assembly_stats_genbank.txt	45513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/049/425/GCA_019049425.1_ASM1904942v1/GCA_019049425.1_ASM1904942v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_019049425.1	PRJNA738152	SAMN19714210	45513	strain=ARV_011	latest	Major	Full	2021-06-28	University of Minnesota - Twin Cities

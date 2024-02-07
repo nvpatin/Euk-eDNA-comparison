@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/4120_assembly_stats_genbank.txt	4120	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/092/185/GCA_900092185.1_Ipomoea_batatas_Version1/GCA_900092185.1_Ipomoea_batatas_Version1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_900092185.1	PRJEB14638	SAMEA4058359	4120	na	latest	Major	Full	2017-08-26	Max Planck Institute for Molecular Genetics

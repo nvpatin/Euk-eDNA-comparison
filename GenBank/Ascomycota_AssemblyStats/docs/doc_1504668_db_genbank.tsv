@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1504668_assembly_stats_genbank.txt	1504668	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/015/805/GCA_010015805.1_Rhili1/GCA_010015805.1_Rhili1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_010015805.1	PRJNA263052	SAMN03097704	1504668	strain=CBS 133067	latest	Major	Full	2020-01-29	DOE Joint Genome Institute

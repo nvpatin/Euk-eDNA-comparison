@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/7111_assembly_stats_genbank.txt	7111	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/590/095/GCA_003590095.1_tn1/GCA_003590095.1_tn1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_003590095.1	PRJNA336361	SAMN07304761	7111	na	latest	Major	Full	2018-09-24	University of Massachusetts Medical School

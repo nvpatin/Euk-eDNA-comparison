@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/262757_assembly_stats_genbank.txt	262757	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/952/965/GCA_003952965.2_Mru_ZJU_2/GCA_003952965.2_Mru_ZJU_2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_003952965.2	PRJNA398601	SAMN07510764	262757	cultivar=Y2012-145	latest	Major	Full	2020-09-23	Zhejiang University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1174676_assembly_stats_genbank.txt	1174676	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/062/385/GCA_003062385.1_ASM306238v1/GCA_003062385.1_ASM306238v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003062385.1	PRJNA445515	SAMN08793213	1174676	strain=MG91	latest	Major	Full	2018-04-23	Biotechnology and Nuclear Technology Research Institute

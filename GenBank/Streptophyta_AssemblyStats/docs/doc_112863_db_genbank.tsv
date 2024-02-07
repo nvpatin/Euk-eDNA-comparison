@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/112863_assembly_stats_genbank.txt	112863	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/175/385/GCA_019175385.2_ASM1917538v2/GCA_019175385.2_ASM1917538v2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_019175385.2	PRJNA640228	SAMN15311679	112863	na	latest	Minor	Full	2021-07-08	Fujian Agriculture and Forestry University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/61379_assembly_stats_genbank.txt	61379	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/023/925/GCA_004023925.1_FelNig_v1_BIUU/GCA_004023925.1_FelNig_v1_BIUU_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_004023925.1	PRJNA399394	SAMN07678084	61379	na	latest	Major	Full	2019-01-15	Broad Institute

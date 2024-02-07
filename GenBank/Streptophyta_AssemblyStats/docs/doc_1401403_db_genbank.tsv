@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/1401403_assembly_stats_genbank.txt	1401403	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/284/465/GCA_026284465.1_ASM2628446v1/GCA_026284465.1_ASM2628446v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_026284465.1	PRJNA713558	SAMN18272457	1401403	na	latest	Major	Full	2022-11-22	Iridian Genomes

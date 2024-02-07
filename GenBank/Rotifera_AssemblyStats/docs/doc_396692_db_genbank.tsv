@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Rotifera_AssemblyStats/396692_assembly_stats_genbank.txt	396692	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/432/725/GCA_021432725.1_ASM2143272v1/GCA_021432725.1_ASM2143272v1_assembly_stats.txt	genbank	GenBank/Rotifera_AssemblyStats	representative genome	GCA_021432725.1	PRJNA664676	SAMN16229207	396692	na	latest	Major	Full	2022-01-11	Sungkyunkwan University

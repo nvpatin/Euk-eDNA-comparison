@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/368404_assembly_stats_genbank.txt	368404	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/713/595/GCA_024713595.1_ASM2471359v1/GCA_024713595.1_ASM2471359v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_024713595.1	PRJNA635772	SAMN15053165	368404	strain=2019-VR	latest	Major	Full	2022-08-19	Huazhong Agricultural University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2231603_assembly_stats_genbank.txt	2231603	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/009/165/GCA_028009165.1_ASM2800916v1/GCA_028009165.1_ASM2800916v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_028009165.1	PRJNA777543	SAMN22863613	2231603	strain=Ve6	latest	Major	Full	2023-01-26	University of Exeter

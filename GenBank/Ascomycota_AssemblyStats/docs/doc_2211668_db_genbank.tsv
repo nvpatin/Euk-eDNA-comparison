@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2211668_assembly_stats_genbank.txt	2211668	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/242/835/GCA_002242835.1_ASM224283v1/GCA_002242835.1_ASM224283v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002242835.1	PRJNA288033	SAMN03792987	2211668	strain=DRR9	latest	Major	Full	2017-08-07	Rutgers University

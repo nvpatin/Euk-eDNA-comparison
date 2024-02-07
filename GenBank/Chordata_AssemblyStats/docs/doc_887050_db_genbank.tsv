@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/887050_assembly_stats_genbank.txt	887050	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/599/265/GCA_032599265.1_ASM3259926v1/GCA_032599265.1_ASM3259926v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_032599265.1	PRJNA816834	SAMN26722988	887050	strain=XMU-aves-gmajx1	latest	Major	Full	2023-10-12	Xiamen University

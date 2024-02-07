@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/1230402_assembly_stats_genbank.txt	1230402	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/826/855/GCA_000826855.1_BASUN5/GCA_000826855.1_BASUN5_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_000826855.1	PRJNA247992	SAMN02782299	1230402	strain=DAOM 241956	latest	Major	Full	2015-01-21	University of Ottawa

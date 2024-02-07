@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chlorophyta_AssemblyStats/296587_assembly_stats_genbank.txt	296587	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/090/985/GCA_000090985.2_ASM9098v2/GCA_000090985.2_ASM9098v2_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_000090985.2	PRJNA15676	SAMN03081421	296587	strain=RCC299	latest	Major	Full	2009-04-10	Micromonas genome consortium

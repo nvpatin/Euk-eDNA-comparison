@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/64609_assembly_stats_genbank.txt	64609	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/913/115/GCA_001913115.1_ASM191311v1/GCA_001913115.1_ASM191311v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001913115.1	PRJNA307306	SAMN04378131	64609	strain=C1	latest	Major	Full	2016-12-21	Northeast Normal University

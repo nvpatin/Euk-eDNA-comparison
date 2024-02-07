@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/50730_assembly_stats_genbank.txt	50730	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/094/095/GCA_010094095.1_Ampqui1/GCA_010094095.1_Ampqui1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_010094095.1	PRJNA333829	SAMN05446983	50730	strain=HMLAC05119	latest	Major	Full	2020-01-31	DOE Joint Genome Institute

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/64838_assembly_stats_genbank.txt	64838	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/806/365/GCA_000806365.1_ASM80636v1/GCA_000806365.1_ASM80636v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_000806365.1	PRJNA258104	SAMN03083650	64838	strain=USDA-PBARC FA_bdor	latest	Major	Full	2014-12-23	USDA ARS

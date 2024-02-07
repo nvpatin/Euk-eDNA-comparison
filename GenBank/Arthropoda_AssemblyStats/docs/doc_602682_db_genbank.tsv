@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/602682_assembly_stats_genbank.txt	602682	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/063/725/GCA_003063725.1_AZXXO/GCA_003063725.1_AZXXO_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_003063725.1	PRJNA385595	SAMN06894593	602682	strain=apg0004	latest	Major	Full	2018-04-23	Harvard University

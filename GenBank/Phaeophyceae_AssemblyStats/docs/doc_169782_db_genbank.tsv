@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Phaeophyceae_AssemblyStats/169782_assembly_stats_genbank.txt	169782	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/273/145/GCA_032273145.1_ASM3227314v1/GCA_032273145.1_ASM3227314v1_assembly_stats.txt	genbank	GenBank/Phaeophyceae_AssemblyStats	representative genome	GCA_032273145.1	PRJNA894631	SAMN36265118	169782	na	latest	Major	Full	2023-10-02	Iridian Genomes

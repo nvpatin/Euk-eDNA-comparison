@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1979465_assembly_stats_genbank.txt	1979465	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/612/005/GCA_016612005.1_ASM1661200v1/GCA_016612005.1_ASM1661200v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_016612005.1	PRJNA415218	SAMN07819118	1979465	strain=Pb1	latest	Major	Full	2021-01-11	Cornell University

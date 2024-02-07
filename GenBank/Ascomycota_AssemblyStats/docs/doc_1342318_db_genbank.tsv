@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1342318_assembly_stats_genbank.txt	1342318	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/533/605/GCA_022533605.1_ASM2253360v1/GCA_022533605.1_ASM2253360v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_022533605.1	PRJNA772704	SAMN22405078	1342318	strain=VKPM Y-727	latest	Major	Full	2022-03-10	Kurchatov Center for Genomic Research

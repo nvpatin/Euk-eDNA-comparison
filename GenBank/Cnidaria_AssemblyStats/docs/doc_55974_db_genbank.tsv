@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Cnidaria_AssemblyStats/55974_assembly_stats_genbank.txt	55974	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/634/145/GCA_014634145.1_Ahya_1.0/GCA_014634145.1_Ahya_1.0_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	na	GCA_014634145.1	PRJDB8519	SAMD00186151	55974	na	latest	Major	Full	2020-09-05	Atmosphere and Ocean Research Institute, The University of Tokyo

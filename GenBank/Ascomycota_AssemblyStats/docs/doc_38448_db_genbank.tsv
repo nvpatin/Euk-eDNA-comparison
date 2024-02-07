@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/38448_assembly_stats_genbank.txt	38448	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/162/545/GCA_002162545.1_ASM216254v1/GCA_002162545.1_ASM216254v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002162545.1	PRJNA277973	SAMN03448619	38448	strain=LMK 125	latest	Major	Full	2017-05-31	University of Toronto Mississauga

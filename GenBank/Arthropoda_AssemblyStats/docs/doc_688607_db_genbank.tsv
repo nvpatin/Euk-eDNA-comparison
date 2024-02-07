@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/688607_assembly_stats_genbank.txt	688607	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/625/045/GCA_030625045.1_CSIRO_AGI_Agris_v1/GCA_030625045.1_CSIRO_AGI_Agris_v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_030625045.1	PRJNA995347	SAMN36468096	688607	na	latest	Major	Full	2023-08-03	Rahul Vivek Rane

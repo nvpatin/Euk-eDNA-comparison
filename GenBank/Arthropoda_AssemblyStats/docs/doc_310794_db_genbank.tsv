@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/310794_assembly_stats_genbank.txt	310794	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/403/705/GCA_013403705.1_ASM1340370v1/GCA_013403705.1_ASM1340370v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_013403705.1	PRJNA596796	SAMN13635073	310794	na	latest	Major	Full	2020-07-13	The University of Chicago

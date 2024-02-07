@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/43593_assembly_stats_genbank.txt	43593	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/847/625/GCA_030847625.1_rGamWis1.0.hap1/GCA_030847625.1_rGamWis1.0.hap1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_030847625.1	PRJNA995632	SAMN35845454	43593	na	latest	Major	Full	2023-08-21	UCLA

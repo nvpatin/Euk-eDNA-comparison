@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/239206_assembly_stats_genbank.txt	239206	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/939/255/GCA_001939255.1_ASM193925v1/GCA_001939255.1_ASM193925v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_001939255.1	PRJNA300351	SAMN04219517	239206	strain=LMB-TM5	latest	Major	Full	2017-01-09	Universidad Nacional Agraria La Molina,

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/889801_assembly_stats_genbank.txt	889801	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/342/915/GCA_003342915.1_cryCin1/GCA_003342915.1_cryCin1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_003342915.1	PRJNA433110	SAMN08476456	889801	na	latest	Major	Full	2018-07-26	Harvard University

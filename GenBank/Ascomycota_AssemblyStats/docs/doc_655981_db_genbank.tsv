@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/655981_assembly_stats_genbank.txt	655981	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/641/265/GCA_001641265.1_ASM164126v1/GCA_001641265.1_ASM164126v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001641265.1	PRJNA276926	SAMN03382554	655981	strain=20631-21	latest	Major	Full	2016-05-10	US Forest Service

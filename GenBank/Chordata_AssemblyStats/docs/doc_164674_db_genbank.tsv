@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/164674_assembly_stats_genbank.txt	164674	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/031/625/GCA_003031625.1_ASM303162v1/GCA_003031625.1_ASM303162v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_003031625.1	PRJNA437496	SAMN08663748	164674	ecotype=Southwest subspecies	latest	Major	Full	2018-04-03	UCLA

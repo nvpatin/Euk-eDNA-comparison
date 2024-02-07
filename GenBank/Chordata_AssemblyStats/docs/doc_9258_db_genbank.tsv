@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/9258_assembly_stats_genbank.txt	9258	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/002/275/GCA_000002275.2_ASM227v2/GCA_000002275.2_ASM227v2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000002275.2	PRJNA12885	SAMN02953646	9258	na	latest	Major	Full	2007-02-14	Washington University (WashU)

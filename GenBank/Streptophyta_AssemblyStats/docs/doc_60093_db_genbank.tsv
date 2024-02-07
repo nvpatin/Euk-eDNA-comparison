@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/60093_assembly_stats_genbank.txt	60093	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/122/235/GCA_026122235.1_UniT_Vmin_1.1/GCA_026122235.1_UniT_Vmin_1.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_026122235.1	PRJNA873287	SAMN30496473	60093	na	latest	Major	Full	2022-11-10	Tours University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/270546_assembly_stats_genbank.txt	270546	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/901/007/665/GCA_901007665.1_Aeoliscus_strigatus_assembly/GCA_901007665.1_Aeoliscus_strigatus_assembly_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_901007665.1	PRJEB32126	SAMEA5563349	270546	na	latest	Major	Full	2020-04-15	CEES

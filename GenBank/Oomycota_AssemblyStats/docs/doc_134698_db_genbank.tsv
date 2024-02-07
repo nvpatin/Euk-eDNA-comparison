@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/134698_assembly_stats_genbank.txt	134698	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/646/735/GCA_947646735.1_Pf2/GCA_947646735.1_Pf2_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_947646735.1	PRJEB48439	SAMEA112151705	134698	na	latest	Major	Full	2023-04-08	NIAB

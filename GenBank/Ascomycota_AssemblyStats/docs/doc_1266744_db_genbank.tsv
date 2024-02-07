@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1266744_assembly_stats_genbank.txt	1266744	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/270/325/GCA_001270325.1_PPv01/GCA_001270325.1_PPv01_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001270325.1	PRJNA276974	SAMN03382940	1266744	strain=MYA-38	latest	Major	Full	2015-08-19	Mathomics

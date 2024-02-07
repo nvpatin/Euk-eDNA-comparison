@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/380266_assembly_stats_genbank.txt	380266	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/342/125/GCA_015342125.1_ASM1534212v1/GCA_015342125.1_ASM1534212v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_015342125.1	PRJNA580490	SAMN13161650	380266	na	latest	Major	Full	2020-11-10	University of Wisconsin-Madison

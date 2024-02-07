@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/8023_assembly_stats_genbank.txt	8023	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/149/115/GCA_006149115.2_Oner_1.1/GCA_006149115.2_Oner_1.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_006149115.2	PRJNA530256	SAMN11519041	8023	na	latest	Minor	Full	2019-06-07	Fisheries and Oceans Canada

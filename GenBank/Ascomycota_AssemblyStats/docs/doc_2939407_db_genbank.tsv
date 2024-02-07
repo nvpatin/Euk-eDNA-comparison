@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2939407_assembly_stats_genbank.txt	2939407	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/023/875/GCA_026023875.1_ASM2602387v1/GCA_026023875.1_ASM2602387v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_026023875.1	PRJNA833438	SAMN27762794	2939407	na	latest	Major	Full	2022-11-07	University of Alberta

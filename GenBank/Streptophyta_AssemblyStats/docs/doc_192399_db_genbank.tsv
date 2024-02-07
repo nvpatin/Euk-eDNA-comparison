@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/192399_assembly_stats_genbank.txt	192399	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/830/015/GCA_028830015.1_ASM2883001v1/GCA_028830015.1_ASM2883001v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_028830015.1	PRJNA913125	SAMN32275635	192399	na	latest	Major	Full	2023-02-24	FuturaGene LTD

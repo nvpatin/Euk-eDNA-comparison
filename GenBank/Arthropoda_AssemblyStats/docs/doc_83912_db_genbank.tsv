@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/83912_assembly_stats_genbank.txt	83912	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/943/765/GCA_002943765.1_ASM294376v1/GCA_002943765.1_ASM294376v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_002943765.1	PRJNA432516	SAMN08451256	83912	na	latest	Major	Full	2018-02-26	Moredun Research Institute

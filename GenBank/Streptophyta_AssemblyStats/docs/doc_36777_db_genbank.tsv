@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/36777_assembly_stats_genbank.txt	36777	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/593/565/GCA_019593565.1_ASM1959356v1/GCA_019593565.1_ASM1959356v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_019593565.1	PRJNA744085	SAMN20079343	36777	cultivar=Tabriz	latest	Major	Full	2021-08-13	Tabriz University, Tabriz, Iran

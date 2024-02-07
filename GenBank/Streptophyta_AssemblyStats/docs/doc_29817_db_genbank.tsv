@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/29817_assembly_stats_genbank.txt	29817	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/216/955/GCA_029216955.1_ASM2921695v1/GCA_029216955.1_ASM2921695v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_029216955.1	PRJNA813844	SAMN28206045	29817	na	latest	Major	Full	2023-03-15	Novartis AG

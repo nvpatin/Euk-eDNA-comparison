@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/343691_assembly_stats_genbank.txt	343691	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/014/895/GCA_001014895.1_ASM101489v1/GCA_001014895.1_ASM101489v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_001014895.1	PRJNA268391	SAMN03285036	343691	na	latest	Major	Full	2015-05-28	UC Berkeley

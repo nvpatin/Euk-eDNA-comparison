@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/245834_assembly_stats_genbank.txt	245834	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/093/505/GCA_010093505.1_Horac1/GCA_010093505.1_Horac1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_010093505.1	PRJNA334188	SAMN05446851	245834	strain=CBS 113389	latest	Major	Full	2020-01-31	DOE Joint Genome Institute

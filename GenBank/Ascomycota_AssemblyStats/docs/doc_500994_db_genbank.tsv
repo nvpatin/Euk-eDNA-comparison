@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/500994_assembly_stats_genbank.txt	500994	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/721/665/GCA_001721665.1_ASM172166v1/GCA_001721665.1_ASM172166v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001721665.1	PRJNA335988	SAMN05468147	500994	strain=TPhu1	latest	Major	Full	2016-09-08	University of Pecs

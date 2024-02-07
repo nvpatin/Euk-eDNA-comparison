@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/120017_assembly_stats_genbank.txt	120017	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/749/175/GCA_022749175.1_ASM2274917v1/GCA_022749175.1_ASM2274917v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_022749175.1	PRJNA698760	SAMN26356025	120017	strain=Uh805	latest	Major	Full	2022-03-29	University of Cologne

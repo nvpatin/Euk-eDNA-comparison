@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/98777_assembly_stats_genbank.txt	98777	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/032/875/GCA_011032875.1_ASM1103287v1/GCA_011032875.1_ASM1103287v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_011032875.1	PRJNA565606	SAMN12753611	98777	strain=BBEL0901	latest	Major	Full	2020-02-27	Ningxia University

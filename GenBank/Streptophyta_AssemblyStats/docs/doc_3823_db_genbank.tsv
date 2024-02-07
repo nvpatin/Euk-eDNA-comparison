@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/3823_assembly_stats_genbank.txt	3823	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/541/065/GCA_026541065.1_ASM2654106v1/GCA_026541065.1_ASM2654106v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_026541065.1	PRJNA817235	SAMN26751004	3823	cultivar=PI 364355 01 SD	latest	Major	Full	2022-11-30	University of Washington

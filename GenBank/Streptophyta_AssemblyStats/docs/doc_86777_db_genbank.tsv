@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/86777_assembly_stats_genbank.txt	86777	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/571/905/GCA_003571905.1_ASM357190v1/GCA_003571905.1_ASM357190v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_003571905.1	PRJNA412672	SAMN07722838	86777	ecotype=Holmes Creek	latest	Major	Full	2018-09-17	U.S. National Arboretum

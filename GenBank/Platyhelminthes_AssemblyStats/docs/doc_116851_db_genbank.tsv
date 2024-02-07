@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Platyhelminthes_AssemblyStats/116851_assembly_stats_genbank.txt	116851	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/291/075/GCA_029291075.1_E_nip/GCA_029291075.1_E_nip_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	representative genome	GCA_029291075.1	PRJNA914201	SAMN32513696	116851	na	latest	Major	Full	2023-03-20	Masaryk University

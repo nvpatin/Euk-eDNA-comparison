@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/317513_assembly_stats_genbank.txt	317513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/587/735/GCA_001587735.2_Phaw_5.0/GCA_001587735.2_Phaw_5.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_001587735.2	PRJNA306836	SAMN09470240	317513	na	latest	Major	Full	2018-06-22	University of Oxford

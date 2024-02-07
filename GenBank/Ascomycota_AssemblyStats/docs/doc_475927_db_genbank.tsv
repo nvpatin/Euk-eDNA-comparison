@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/475927_assembly_stats_genbank.txt	475927	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/155/245/GCA_004155245.1_ASM415524v1/GCA_004155245.1_ASM415524v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_004155245.1	PRJNA510869	SAMN10617554	475927	strain=ATCC 14700	latest	Major	Full	2019-02-11	Chinese Academy of Sciences

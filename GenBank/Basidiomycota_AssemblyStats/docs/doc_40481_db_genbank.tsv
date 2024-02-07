@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/40481_assembly_stats_genbank.txt	40481	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/886/635/GCA_027886635.1_Lbo_TFB10827_1/GCA_027886635.1_Lbo_TFB10827_1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_027886635.1	PRJNA571460	SAMN12813646	40481	strain=TFB10827	latest	Major	Full	2023-01-17	DOE Joint Genome Institute

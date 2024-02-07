@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/348901_assembly_stats_genbank.txt	348901	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/702/355/GCA_022702355.1_ASM2270235v1/GCA_022702355.1_ASM2270235v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022702355.1	PRJNA798783	SAMN25290292	348901	strain=YN	latest	Major	Full	2022-03-28	Institute of Crop Science,CAAS

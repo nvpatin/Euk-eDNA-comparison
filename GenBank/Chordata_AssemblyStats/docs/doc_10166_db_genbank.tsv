@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/10166_assembly_stats_genbank.txt	10166	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/027/205/GCA_004027205.1_CteGun_v1_BIUU/GCA_004027205.1_CteGun_v1_BIUU_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_004027205.1	PRJNA399344	SAMN07678018	10166	na	latest	Major	Full	2019-01-16	Broad Institute

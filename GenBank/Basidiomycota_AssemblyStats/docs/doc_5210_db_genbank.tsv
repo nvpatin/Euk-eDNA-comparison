@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/5210_assembly_stats_genbank.txt	5210	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/201/745/GCA_019201745.1_ASM1920174v1/GCA_019201745.1_ASM1920174v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_019201745.1	PRJNA627804	SAMN14687393	5210	strain=CBS 6242	latest	Major	Full	2021-07-12	Ruhr-University Bochum

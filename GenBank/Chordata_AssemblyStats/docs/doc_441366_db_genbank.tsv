@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/441366_assembly_stats_genbank.txt	441366	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/650/505/GCA_900650505.1_fGouWil2.1_alternate_haplotype/GCA_900650505.1_fGouWil2.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_900650505.1	PRJEB30360	SAMEA104026382	441366	na	latest	Major	Full	2019-02-07	SC

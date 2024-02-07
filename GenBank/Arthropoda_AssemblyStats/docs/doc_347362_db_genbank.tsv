@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/347362_assembly_stats_genbank.txt	347362	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/951/812/905/GCA_951812905.1_icHerMerc2.1_alternate_haplotype/GCA_951812905.1_icHerMerc2.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_951812905.1	PRJEB63007	SAMEA8603245	347362	na	latest	Major	Full	2023-07-15	WELLCOME SANGER INSTITUTE

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/9413_assembly_stats_genbank.txt	9413	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/465/345/GCA_000465345.1_ASM46534v1/GCA_000465345.1_ASM46534v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000465345.1	PRJNA209407	SAMN02212695	9413	na	latest	Major	Full	2013-09-14	School of Biological & Chemical Sciences, Queen Mary University of London

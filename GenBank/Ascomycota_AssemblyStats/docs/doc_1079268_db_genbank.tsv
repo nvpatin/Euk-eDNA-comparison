@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1079268_assembly_stats_genbank.txt	1079268	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/931/735/GCA_029931735.1_ASM2993173v1/GCA_029931735.1_ASM2993173v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_029931735.1	PRJNA905207	SAMN31867594	1079268	strain=CT-6	latest	Major	Full	2023-05-03	Army Medical University

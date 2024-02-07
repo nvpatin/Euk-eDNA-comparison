@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1047171_assembly_stats_genbank.txt	1047171	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/766/645/GCA_017766645.1_ASM1776664v1/GCA_017766645.1_ASM1776664v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_017766645.1	PRJNA645795	SAMN15516635	1047171	na	latest	Major	Full	2021-04-05	University of Neuchatel

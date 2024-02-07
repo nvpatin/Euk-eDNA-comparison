@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Cryptophyceae_AssemblyStats/55529_assembly_stats_genbank.txt	55529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/002/975/GCA_000002975.1_ASM297v1/GCA_000002975.1_ASM297v1_assembly_stats.txt	genbank	GenBank/Cryptophyceae_AssemblyStats	na	GCA_000002975.1	PRJNA27847	SAMEA3865277	55529	na	latest	Major	Partial	2001-04-26	Institute for Marine Biosciences, Halifax, Canada

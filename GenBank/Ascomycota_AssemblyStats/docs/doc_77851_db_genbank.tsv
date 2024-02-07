@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/77851_assembly_stats_genbank.txt	77851	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/708/815/GCA_015708815.1_ASM1570881v1/GCA_015708815.1_ASM1570881v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_015708815.1	PRJNA648971	SAMN15654336	77851	strain=UWOPS95-602.1	latest	Major	Full	2020-12-01	University of Western Ontario

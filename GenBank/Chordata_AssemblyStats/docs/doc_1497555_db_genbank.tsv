@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/1497555_assembly_stats_genbank.txt	1497555	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/360/975/GCA_008360975.2_HeHo_2.0/GCA_008360975.2_HeHo_2.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_008360975.2	PRJNA554936	SAMN12287370	1497555	na	latest	Major	Full	2022-02-11	Deakin University

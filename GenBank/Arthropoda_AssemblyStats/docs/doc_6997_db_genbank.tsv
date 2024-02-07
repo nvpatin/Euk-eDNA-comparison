@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/6997_assembly_stats_genbank.txt	6997	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/858/955/GCA_014858955.1_NU_Adom_1.1/GCA_014858955.1_NU_Adom_1.1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_014858955.1	PRJNA612585	SAMN14377430	6997	na	latest	Major	Full	2020-10-07	Naresuan University

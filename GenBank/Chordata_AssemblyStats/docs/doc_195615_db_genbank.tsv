@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/195615_assembly_stats_genbank.txt	195615	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/539/355/GCA_022539355.2_HSTE1.2/GCA_022539355.2_HSTE1.2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_022539355.2	PRJNA622249	SAMN29538134	195615	na	latest	Minor	Full	2022-03-10	International Pacific Halibut Commission

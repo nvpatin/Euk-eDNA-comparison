@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Mucoromycota_AssemblyStats/101115_assembly_stats_genbank.txt	101115	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/094/145/GCA_025094145.1_Spifus1/GCA_025094145.1_Spifus1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_025094145.1	PRJNA332244	SAMN05445128	101115	strain=NRRL 22323	latest	Major	Full	2022-09-08	DOE Joint Genome Institute

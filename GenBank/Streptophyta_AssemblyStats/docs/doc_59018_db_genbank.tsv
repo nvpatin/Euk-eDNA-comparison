@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/59018_assembly_stats_genbank.txt	59018	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/946/800/325/GCA_946800325.1_lpLuzSylv1.1/GCA_946800325.1_lpLuzSylv1.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_946800325.1	PRJEB55665	SAMEA7535982	59018	na	latest	Major	Full	2022-09-15	WELLCOME SANGER INSTITUTE

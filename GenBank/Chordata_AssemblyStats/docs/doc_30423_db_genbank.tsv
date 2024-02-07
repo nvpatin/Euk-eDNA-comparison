@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/30423_assembly_stats_genbank.txt	30423	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/407/035/GCA_013407035.1_ASM1340703v1/GCA_013407035.1_ASM1340703v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_013407035.1	PRJNA626609	SAMN14646012	30423	na	latest	Major	Full	2020-07-13	Univerisity of Munich

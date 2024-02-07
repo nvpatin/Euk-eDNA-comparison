@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Cnidaria_AssemblyStats/275449_assembly_stats_genbank.txt	275449	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/455/285/GCA_001455285.1_ASM145528v1/GCA_001455285.1_ASM145528v1_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	representative genome	GCA_001455285.1	PRJNA284326	SAMN03701400	275449	na	latest	Major	Full	2015-12-02	Tel-Aviv University

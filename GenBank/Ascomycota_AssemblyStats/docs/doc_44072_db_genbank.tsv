@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/44072_assembly_stats_genbank.txt	44072	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/946/409/495/GCA_946409495.1_Wolfe_Bari_UCD613/GCA_946409495.1_Wolfe_Bari_UCD613_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_946409495.1	PRJEB55420	SAMEA110666422	44072	strain=UCD613	latest	Major	Full	2022-08-27	UNIVERSITY COLLEGE DUBLIN

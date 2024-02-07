@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/2796348_assembly_stats_genbank.txt	2796348	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/907/163/055/GCA_907163055.1_Faqxpol/GCA_907163055.1_Faqxpol_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_907163055.1	PRJEB41943	SAMEA8143398	2796348	na	latest	Major	Full	2021-05-15	UNIVERSITY OF HELSINKI

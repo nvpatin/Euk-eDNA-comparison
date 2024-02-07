@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/63577_assembly_stats_genbank.txt	63577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/647/795/GCA_020647795.1_ASM2064779v1/GCA_020647795.1_ASM2064779v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_020647795.1	PRJNA700774	SAMN17838941	63577	strain=P1	latest	Major	Full	2021-10-27	Academia Sinica

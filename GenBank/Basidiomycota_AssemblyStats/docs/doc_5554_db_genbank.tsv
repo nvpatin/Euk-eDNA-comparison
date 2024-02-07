@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/5554_assembly_stats_genbank.txt	5554	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/613/755/GCA_001613755.1_ASM161375v1/GCA_001613755.1_ASM161375v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_001613755.1	PRJNA313001	SAMN04510874	5554	strain=CGMCC 2.1374	latest	Major	Full	2016-04-07	East China University of Science and Technology

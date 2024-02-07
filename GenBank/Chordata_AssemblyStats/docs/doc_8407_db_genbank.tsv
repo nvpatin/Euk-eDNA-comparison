@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/8407_assembly_stats_genbank.txt	8407	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/802/015/GCA_009802015.1_UCB_Rtem_1.0/GCA_009802015.1_UCB_Rtem_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_009802015.1	PRJNA550264	SAMN12123141	8407	ecotype=Viango	latest	Major	Full	2019-12-27	University of California, Berkeley

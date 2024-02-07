@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/5535_assembly_stats_genbank.txt	5535	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/501/985/GCA_015501985.1_ASM1550198v1/GCA_015501985.1_ASM1550198v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_015501985.1	PRJNA605146	SAMN14050778	5535	strain=ZHK	latest	Major	Full	2020-11-16	Zhongkai University of Agriculture and Engineering

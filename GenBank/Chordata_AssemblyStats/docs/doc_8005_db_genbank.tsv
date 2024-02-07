@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/8005_assembly_stats_genbank.txt	8005	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/665/695/GCA_003665695.2_Ee_SOAP_WITH_SSPACE/GCA_003665695.2_Ee_SOAP_WITH_SSPACE_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_003665695.2	PRJNA249073	SAMN02802636	8005	na	latest	Major	Full	2018-10-30	University of Wisconsin Madison

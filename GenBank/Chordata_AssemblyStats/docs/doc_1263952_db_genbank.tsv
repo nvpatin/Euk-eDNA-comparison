@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/1263952_assembly_stats_genbank.txt	1263952	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/453/435/GCA_019453435.1_ASM1945343v1/GCA_019453435.1_ASM1945343v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_019453435.1	PRJNA730052	SAMN19217403	1263952	na	latest	Major	Full	2021-08-10	Shou(SHANGHAI OCEAN UNIVERSITY)

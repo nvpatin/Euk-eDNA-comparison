@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/97377_assembly_stats_genbank.txt	97377	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/398/605/GCA_018398605.1_FBL658_Bm01/GCA_018398605.1_FBL658_Bm01_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_018398605.1	PRJNA727443	SAMN19020795	97377	strain=Bm01	latest	Major	Full	2021-05-19	CREA

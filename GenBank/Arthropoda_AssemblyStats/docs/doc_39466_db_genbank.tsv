@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/39466_assembly_stats_genbank.txt	39466	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/709/505/GCA_003709505.1_ASM370950v1/GCA_003709505.1_ASM370950v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_003709505.1	PRJNA427777	SAMN08272440	39466	na	latest	Major	Full	2018-11-01	Institute of Plant Physiology and Ecology, SIBS, CAS

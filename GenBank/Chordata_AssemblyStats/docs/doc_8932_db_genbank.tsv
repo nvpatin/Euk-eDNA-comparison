@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/8932_assembly_stats_genbank.txt	8932	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/887/795/GCA_001887795.1_colLiv2/GCA_001887795.1_colLiv2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_001887795.1	PRJNA347893	SAMN02981415	8932	breed=Danish Tumbler	latest	Major	Full	2016-12-02	Royal Veterinary College

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/119488_assembly_stats_genbank.txt	119488	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/952/085/GCA_011952085.1_sinChu7/GCA_011952085.1_sinChu7_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_011952085.1	PRJNA513951	SAMN13269087	119488	na	latest	Major	Full	2020-04-09	IGB Leibniz-Institute of Freshwater Ecology and Inland Fisheries

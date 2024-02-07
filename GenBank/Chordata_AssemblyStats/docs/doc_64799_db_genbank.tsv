@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/64799_assembly_stats_genbank.txt	64799	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/286/495/GCA_003286495.1_ASM328649v1/GCA_003286495.1_ASM328649v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_003286495.1	PRJNA252695	SAMN02854552	64799	na	latest	Major	Full	2018-07-02	Smithsonian Institution NZP

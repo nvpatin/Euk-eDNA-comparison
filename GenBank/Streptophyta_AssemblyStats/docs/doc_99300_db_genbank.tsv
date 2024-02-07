@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/99300_assembly_stats_genbank.txt	99300	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/081/115/GCA_016081115.1_ASM1608111v1/GCA_016081115.1_ASM1608111v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_016081115.1	PRJNA631301	SAMN15052190	99300	cultivar=Qinhuai	latest	Major	Full	2020-12-15	Henan University of Chinese Medicine

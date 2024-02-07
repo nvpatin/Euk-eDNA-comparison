@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/121627_assembly_stats_genbank.txt	121627	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/368/755/GCA_013368755.1_ASM1336875v1/GCA_013368755.1_ASM1336875v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_013368755.1	PRJNA639236	SAMN15229550	121627	strain=W13939	latest	Major	Full	2020-06-23	Xi'an Jiaotong University

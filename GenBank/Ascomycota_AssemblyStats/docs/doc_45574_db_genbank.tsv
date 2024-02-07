@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/45574_assembly_stats_genbank.txt	45574	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/602/875/GCA_025602875.1_ASM2560287v1/GCA_025602875.1_ASM2560287v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_025602875.1	PRJNA873911	SAMN30508078	45574	strain=CBS 18098	latest	Major	Full	2022-10-06	Nantes Universite

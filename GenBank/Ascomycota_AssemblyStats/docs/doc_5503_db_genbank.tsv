@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/5503_assembly_stats_genbank.txt	5503	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/212/705/GCA_005212705.1_ASM521270v1/GCA_005212705.1_ASM521270v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_005212705.1	PRJNA416716	SAMN07736484	5503	strain=W3	latest	Major	Full	2019-05-06	Universidade Federal de Mato Grosso

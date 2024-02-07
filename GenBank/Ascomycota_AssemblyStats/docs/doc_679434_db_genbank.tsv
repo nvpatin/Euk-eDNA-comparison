@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/679434_assembly_stats_genbank.txt	679434	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/886/245/GCA_018886245.1_Fb-HN-1/GCA_018886245.1_Fb-HN-1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_018886245.1	PRJNA686892	SAMN17127420	679434	strain=HN-1	latest	Major	Full	2021-06-15	Chinese Academy of Agricultural Sciences

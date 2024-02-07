@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/5515_assembly_stats_genbank.txt	5515	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/363/215/GCA_013363215.1_ASM1336321v1/GCA_013363215.1_ASM1336321v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_013363215.1	PRJNA596296	SAMN14770715	5515	strain=F829	latest	Major	Full	2020-06-19	US Department of Agriculture, Agriculture Research Service

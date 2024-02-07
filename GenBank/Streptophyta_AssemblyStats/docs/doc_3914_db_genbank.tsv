@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/3914_assembly_stats_genbank.txt	3914	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/190/045/GCA_001190045.1_Vigan1.1/GCA_001190045.1_Vigan1.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_001190045.1	PRJNA261643	SAMN03074979	3914	cultivar=Jingnong 6	latest	Major	Full	2015-07-31	Beijing University of Agriculture

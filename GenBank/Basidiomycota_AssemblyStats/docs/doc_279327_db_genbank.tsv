@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/279327_assembly_stats_genbank.txt	279327	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/973/495/GCA_002973495.1_ASM297349v1/GCA_002973495.1_ASM297349v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_002973495.1	PRJNA428315	SAMN08287212	279327	strain=HP2023	latest	Major	Full	2018-03-06	PROIMI - CONICET

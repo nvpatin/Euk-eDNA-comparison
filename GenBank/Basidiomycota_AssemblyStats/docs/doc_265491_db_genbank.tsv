@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/265491_assembly_stats_genbank.txt	265491	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/618/355/GCA_016618355.2_ASM1661835v2/GCA_016618355.2_ASM1661835v2_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_016618355.2	PRJNA663954	SAMN16189912	265491	na	latest	Minor	Full	2021-01-12	Purdue University

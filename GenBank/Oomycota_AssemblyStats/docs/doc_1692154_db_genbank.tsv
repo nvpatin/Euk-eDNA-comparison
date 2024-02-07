@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/1692154_assembly_stats_genbank.txt	1692154	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/295/415/GCA_012295415.1_MU_Pchl/GCA_012295415.1_MU_Pchl_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_012295415.1	PRJNA599565	SAMN13759513	1692154	strain=P17-99	latest	Major	Full	2020-04-15	Maynooth University

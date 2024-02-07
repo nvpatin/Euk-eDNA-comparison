@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/38686_assembly_stats_genbank.txt	38686	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/359/835/GCA_019359835.1_ASM1935983v1/GCA_019359835.1_ASM1935983v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_019359835.1	PRJNA682003	SAMN17189821	38686	na	latest	Major	Full	2021-07-27	Kunming Institute of Botany, CAS

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/5288_assembly_stats_genbank.txt	5288	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/352/295/GCA_006352295.1_UMAN_Rdio_1.0/GCA_006352295.1_UMAN_Rdio_1.0_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_006352295.1	PRJNA473833	SAMN09284860	5288	strain=UCD-FST 08-225	latest	Major	Full	2019-06-18	University of Manitoba

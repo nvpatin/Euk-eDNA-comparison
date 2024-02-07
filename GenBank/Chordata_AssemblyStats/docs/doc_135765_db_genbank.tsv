@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/135765_assembly_stats_genbank.txt	135765	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/408/345/GCA_005408345.1_DU_Maus_v1.0/GCA_005408345.1_DU_Maus_v1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_005408345.1	PRJNA516983	SAMN10817714	135765	na	latest	Major	Full	2019-05-16	Deakin University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Zoopagomycota_AssemblyStats/61414_assembly_stats_genbank.txt	61414	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/201/845/GCA_025201845.1_Marpt1/GCA_025201845.1_Marpt1_assembly_stats.txt	genbank	GenBank/Zoopagomycota_AssemblyStats	representative genome	GCA_025201845.1	PRJNA251778	SAMN02841237	61414	strain=CBS 209.56	latest	Major	Full	2022-09-09	DOE Joint Genome Institute

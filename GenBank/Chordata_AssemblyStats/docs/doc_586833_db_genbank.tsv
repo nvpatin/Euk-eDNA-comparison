@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/586833_assembly_stats_genbank.txt	586833	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/150/065/GCA_902150065.1_fMyrMur1.1/GCA_902150065.1_fMyrMur1.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_902150065.1	PRJEB33188	SAMEA4872133	586833	na	latest	Major	Full	2019-07-03	SC

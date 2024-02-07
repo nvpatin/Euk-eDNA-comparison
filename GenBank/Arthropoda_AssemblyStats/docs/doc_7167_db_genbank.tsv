@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/7167_assembly_stats_genbank.txt	7167	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/349/125/GCA_000349125.2_Anop_albi_ALBI9_A_V2/GCA_000349125.2_Anop_albi_ALBI9_A_V2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000349125.2	PRJNA191561	SAMN02953839	7167	strain=ALBI9_A	latest	Major	Full	2017-08-01	Broad Institute

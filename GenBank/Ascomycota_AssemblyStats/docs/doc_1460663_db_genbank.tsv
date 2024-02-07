@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1460663_assembly_stats_genbank.txt	1460663	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/642/045/GCA_001642045.1_Parsp1/GCA_001642045.1_Parsp1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001642045.1	PRJNA239489	SAMN02745364	1460663	strain=AP3s5-JAC2a	latest	Major	Full	2016-05-11	DOE Joint Genome Institute

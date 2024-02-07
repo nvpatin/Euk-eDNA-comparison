@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/441995_assembly_stats_genbank.txt	441995	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/034/621/355/GCA_034621355.1_Mmineus_v0.6/GCA_034621355.1_Mmineus_v0.6_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_034621355.1	PRJNA1037280	SAMN38167154	441995	na	latest	Major	Full	2023-12-26	National University ofSingapore

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/88123_assembly_stats_genbank.txt	88123	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/863/905/GCA_014863905.1_SCAU_Psal_1.0/GCA_014863905.1_SCAU_Psal_1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_014863905.1	PRJNA574159	SAMN12842679	88123	cultivar=Sanyueli	latest	Major	Full	2020-10-27	South China Agricultural University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/487627_assembly_stats_genbank.txt	487627	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/335/205/GCA_004335205.1_ASM433520v1/GCA_004335205.1_ASM433520v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_004335205.1	PRJNA506523	SAMN10462184	487627	strain=ONG-16-641	latest	Major	Full	2019-03-08	Curtin University

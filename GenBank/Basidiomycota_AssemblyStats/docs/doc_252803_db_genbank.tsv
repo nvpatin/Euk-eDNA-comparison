@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/252803_assembly_stats_genbank.txt	252803	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/290/525/GCA_011290525.1_ASM1129052v1/GCA_011290525.1_ASM1129052v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_011290525.1	PRJNA610126	SAMN14277907	252803	strain=GMU1709	latest	Major	Full	2020-03-15	Guangzhou Medical University

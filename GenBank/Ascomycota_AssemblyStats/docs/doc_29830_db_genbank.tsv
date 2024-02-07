@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/29830_assembly_stats_genbank.txt	29830	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/005/415/GCA_001005415.1_ASM100541v1/GCA_001005415.1_ASM100541v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001005415.1	PRJNA278776	SAMN03431278	29830	strain=NRRL Y-50540	latest	Major	Full	2015-05-08	CIATEJ-IBT UNAM

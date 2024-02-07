@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/34308_assembly_stats_genbank.txt	34308	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/182/895/GCA_014182895.1_ASM1418289v1/GCA_014182895.1_ASM1418289v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_014182895.1	PRJNA509734	SAMN12996705	34308	na	latest	Major	Full	2020-08-14	Australian National University

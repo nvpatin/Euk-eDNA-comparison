@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/446433_assembly_stats_genbank.txt	446433	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/455/555/GCA_001455555.1_ASM145555v1/GCA_001455555.1_ASM145555v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_001455555.1	PRJNA297779	SAMN04145896	446433	strain=Naaf	latest	Major	Full	2015-12-02	Cold Spring Harbor Laboratory

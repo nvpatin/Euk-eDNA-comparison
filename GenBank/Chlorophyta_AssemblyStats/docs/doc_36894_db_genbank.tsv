@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chlorophyta_AssemblyStats/36894_assembly_stats_genbank.txt	36894	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/697/155/GCA_018697155.1_Pparkeae1.0/GCA_018697155.1_Pparkeae1.0_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_018697155.1	PRJNA386847	SAMN07135910	36894	strain=NIES254	latest	Major	Full	2021-06-03	University of Wisconsin-Madison

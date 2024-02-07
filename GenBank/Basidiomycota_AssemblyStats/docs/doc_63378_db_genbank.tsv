@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/63378_assembly_stats_genbank.txt	63378	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/210/745/GCA_026210745.1_ASM2621074v1/GCA_026210745.1_ASM2621074v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_026210745.1	PRJNA863915	SAMN30068969	63378	strain=CBS101457	latest	Major	Full	2022-11-16	Hebei University

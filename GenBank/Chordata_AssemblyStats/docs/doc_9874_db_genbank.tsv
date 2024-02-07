@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/9874_assembly_stats_genbank.txt	9874	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/191/605/GCA_000191605.1_WTD_RRL/GCA_000191605.1_WTD_RRL_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000191605.1	PRJNA52611	SAMN02953782	9874	na	latest	Major	Partial	2011-03-07	Texas A&M University

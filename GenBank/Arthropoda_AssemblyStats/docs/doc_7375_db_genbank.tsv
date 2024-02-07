@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/7375_assembly_stats_genbank.txt	7375	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/187/945/GCA_001187945.1_ASM118794v1/GCA_001187945.1_ASM118794v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_001187945.1	PRJNA248412	SAMN02798242	7375	strain=LS	latest	Major	Full	2015-07-28	University of Melbourne

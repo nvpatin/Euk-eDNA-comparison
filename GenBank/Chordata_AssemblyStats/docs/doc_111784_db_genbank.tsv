@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/111784_assembly_stats_genbank.txt	111784	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/182/925/GCA_006182925.3_UL_REHI_2.0/GCA_006182925.3_UL_REHI_2.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_006182925.3	PRJNA499109	SAMN11811143	111784	ecotype=Greenland	latest	Major	Full	2021-05-25	McGill University

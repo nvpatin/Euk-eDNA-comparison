@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/98861_assembly_stats_genbank.txt	98861	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/496/215/GCA_022496215.1_Rusbre1/GCA_022496215.1_Rusbre1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_022496215.1	PRJNA331553	SAMN05444508	98861	strain=BPL707	latest	Major	Full	2022-03-07	DOE Joint Genome Institute

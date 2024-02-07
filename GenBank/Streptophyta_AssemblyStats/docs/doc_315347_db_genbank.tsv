@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/315347_assembly_stats_genbank.txt	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/205/GCA_900185205.1_10x/GCA_900185205.1_10x_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_900185205.1	PRJEB21112	SAMEA104077226	315347	na	latest	Major	Full	2018-05-25	Earlham Institute

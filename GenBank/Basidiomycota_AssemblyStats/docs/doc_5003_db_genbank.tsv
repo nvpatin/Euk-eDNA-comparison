@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/5003_assembly_stats_genbank.txt	5003	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/758/995/GCA_010758995.1_ASM1075899v1/GCA_010758995.1_ASM1075899v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_010758995.1	PRJNA505991	SAMN10440612	5003	strain=NGR	latest	Major	Full	2020-02-14	Shenyang Agricultral University

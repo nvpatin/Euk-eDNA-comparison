@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/223862_assembly_stats_genbank.txt	223862	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/513/955/GCA_963513955.1_sRajBra1.1_alternate_haplotype/GCA_963513955.1_sRajBra1.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_963513955.1	PRJEB66373	SAMEA110450105	223862	na	latest	Major	Full	2023-09-28	WELLCOME SANGER INSTITUTE

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/109636_assembly_stats_genbank.txt	109636	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/484/465/GCA_015484465.1_Phocon1/GCA_015484465.1_Phocon1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_015484465.1	PRJNA333099	SAMN05446341	109636	strain=CIRM-BRFM 674	latest	Major	Full	2020-11-15	DOE Joint Genome Institute

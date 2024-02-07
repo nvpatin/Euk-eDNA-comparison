@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/444778_assembly_stats_genbank.txt	444778	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/519/005/GCA_900519005.1_YAPH0/GCA_900519005.1_YAPH0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_900519005.1	PRJEB18088	SAMEA4824195	444778	strain=CBS 10407	latest	Major	Full	2018-08-22	INRA UMR 1319

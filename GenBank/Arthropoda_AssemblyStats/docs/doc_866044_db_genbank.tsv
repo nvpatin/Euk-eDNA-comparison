@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/866044_assembly_stats_genbank.txt	866044	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/574/905/GCA_027574905.2_Caltech_Eden_1.0/GCA_027574905.2_Caltech_Eden_1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_027574905.2	PRJNA361303	SAMN06230016	866044	na	latest	Major	Full	2023-06-22	IRIDIAN GENOMES

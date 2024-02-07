@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/4424_assembly_stats_genbank.txt	4424	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/142/015/GCA_030142015.1_ASM3014201v1/GCA_030142015.1_ASM3014201v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_030142015.1	PRJNA954463	SAMN34146660	4424	ecotype=Lichuan	latest	Major	Full	2023-06-05	Chinese Academy of Science

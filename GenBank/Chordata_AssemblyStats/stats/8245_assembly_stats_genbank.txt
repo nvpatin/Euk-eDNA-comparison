@@ -1,0 +1,623 @@
+# Assembly Statistics Report
+# Assembly name:  ASM1685928v1
+# Organism name:  Xiphias gladius (swordfish)
+# Infraspecific name:  breed=wild
+# Isolate:  SHS-SW01
+# Sex:  male
+# Taxid:          8245
+# BioSample:      SAMN16522248
+# BioProject:     PRJNA670841
+# Submitter:      Institute of Deep-Sea Science and Engineering, Chinese Academy of Sciences
+# Date:           2021-02-12
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# WGS project:    JADGDB01
+# Assembly method: NextDenovo v. 2.0; wdtbg v. 2.0; 3D-DNA v. 180114
+# Expected final version: yes
+# Genome coverage: 79x
+# Sequencing technology: Oxford Nanopore GridION; Illumina HiSeq; Illumina
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_016859285.1
+# RefSeq assembly accession: GCF_016859285.1
+# RefSeq assembly and GenBank assemblies identical: no
+# Reporting on RefSeq assembly.
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_016859325.1	GCF_016859325.1	Primary Assembly
+## GCA_016859335.1	GCF_017315315.1	non-nuclear
+#
+# Statistic Types
+# Statistic	Description
+# component-count	Number of unique components
+# contig-L50	Number of contigs that are longer than, or equal to, the N50 length
+# contig-N50	Contig length at which 50% of total bases in assembly are in contigs of that length or greater
+# contig-count	Number of contigs
+# gc-perc	gc-count/atgc-count as percentage
+# molecule-count	Number of chromosomes and plasmids in full assembly
+# region-count	Number of genomic regions defined in full assembly
+# scaffold-L50	Number of scaffolds that are longer than, or equal to, the N50 length
+# scaffold-N50	Scaffold length at which 50% of total bases in assembly are in scaffolds of that length or greater
+# scaffold-N75	Scaffold length at which 75% of total bases in assembly are in contigs of that length or greater
+# scaffold-N90	scaffold length at which 90% of total bases in assembly are in contigs of that length or greater
+# scaffold-count	Number of scaffolds
+# spanned-gaps	Number of spanned gaps. Spanned gaps are gaps within a scaffold
+# top-level-count	Number of chromosomes or plasmids, unplaced/unlocalized scaffolds, alt-loci scaffolds, and patch scaffolds
+# total-gap-length	Total length of gaps
+# total-length	Total sequence length including bases and gaps
+# ungapped-length	Total length excluding gaps
+# unspanned-gaps	Number of unspanned gaps. Unspanned gaps are gaps between scaffolds
+#
+# Sequence-type Description
+# all	statistic covers all the sequences in the unit-assembly and molecule(s) specified.
+# molecule	statistic covers the specified molecule. molecule-name and molecule-type/loc will be given.
+# unlocalized	statistic covers the sequences assigned to a molecule but with no position. molecule-name and molecule-type/loc will be given.
+# unplaced	statistic covers the sequences not assigned to any molecule in the assembly.
+#
+# unit-name	molecule-name	molecule-type/loc	sequence-type	statistic	value
+all	all	all	all	total-length	691790571
+all	all	all	all	spanned-gaps	449
+all	all	all	all	unspanned-gaps	0
+all	all	all	all	region-count	0
+all	all	all	all	scaffold-count	1482
+all	all	all	all	scaffold-N50	29220096
+all	all	all	all	scaffold-L50	11
+all	all	all	all	scaffold-N75	26136583
+all	all	all	all	scaffold-N90	22596604
+all	all	all	all	contig-count	1931
+all	all	all	all	contig-N50	5252707
+all	all	all	all	contig-L50	36
+all	all	all	all	total-gap-length	224500
+all	all	all	all	molecule-count	25
+all	all	all	all	top-level-count	1482
+all	all	all	all	component-count	1482
+all	all	all	all	gc-perc	40.5
+Primary Assembly	all	all	all	total-length	691763775
+Primary Assembly	all	all	all	ungapped-length	691539275
+Primary Assembly	all	all	all	scaffold-count	1481
+Primary Assembly	all	all	all	scaffold-N50	29220096
+Primary Assembly	all	all	all	spanned-gaps	449
+Primary Assembly	all	all	all	unspanned-gaps	0
+Primary Assembly	all	all	all	gc-perc	40.5
+Primary Assembly	all	all	assembled-molecule	total-length	668551158
+Primary Assembly	all	all	assembled-molecule	ungapped-length	668357158
+Primary Assembly	all	all	assembled-molecule	scaffold-count	24
+Primary Assembly	all	all	assembled-molecule	scaffold-N50	29220096
+Primary Assembly	all	all	assembled-molecule	spanned-gaps	388
+Primary Assembly	all	all	assembled-molecule	unspanned-gaps	0
+Primary Assembly	all	all	assembled-molecule	gc-perc	41
+Primary Assembly	all	all	unlocalized-scaffold	total-length	0
+Primary Assembly	all	all	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	all	all	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	all	all	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	all	all	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	all	all	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	na	na	unplaced-scaffold	total-length	23212617
+Primary Assembly	na	na	unplaced-scaffold	ungapped-length	23182117
+Primary Assembly	na	na	unplaced-scaffold	scaffold-count	1457
+Primary Assembly	na	na	unplaced-scaffold	scaffold-N50	47300
+Primary Assembly	na	na	unplaced-scaffold	spanned-gaps	61
+Primary Assembly	na	na	unplaced-scaffold	unspanned-gaps	0
+Primary Assembly	na	na	unplaced-scaffold	gc-perc	38.5
+Primary Assembly	LG1	Linkage Group	all	total-length	35626355
+Primary Assembly	LG1	Linkage Group	all	ungapped-length	35608855
+Primary Assembly	LG1	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG1	Linkage Group	all	scaffold-N50	35626355
+Primary Assembly	LG1	Linkage Group	all	spanned-gaps	35
+Primary Assembly	LG1	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG1	Linkage Group	all	gc-perc	40.5
+Primary Assembly	LG1	Linkage Group	assembled-molecule	total-length	35626355
+Primary Assembly	LG1	Linkage Group	assembled-molecule	ungapped-length	35608855
+Primary Assembly	LG1	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG1	Linkage Group	assembled-molecule	scaffold-N50	35626355
+Primary Assembly	LG1	Linkage Group	assembled-molecule	spanned-gaps	35
+Primary Assembly	LG1	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG1	Linkage Group	assembled-molecule	gc-perc	40.5
+Primary Assembly	LG1	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG1	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG1	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG1	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG1	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG1	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG2	Linkage Group	all	total-length	22596604
+Primary Assembly	LG2	Linkage Group	all	ungapped-length	22586104
+Primary Assembly	LG2	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG2	Linkage Group	all	scaffold-N50	22596604
+Primary Assembly	LG2	Linkage Group	all	spanned-gaps	21
+Primary Assembly	LG2	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG2	Linkage Group	all	gc-perc	41
+Primary Assembly	LG2	Linkage Group	assembled-molecule	total-length	22596604
+Primary Assembly	LG2	Linkage Group	assembled-molecule	ungapped-length	22586104
+Primary Assembly	LG2	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG2	Linkage Group	assembled-molecule	scaffold-N50	22596604
+Primary Assembly	LG2	Linkage Group	assembled-molecule	spanned-gaps	21
+Primary Assembly	LG2	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG2	Linkage Group	assembled-molecule	gc-perc	41
+Primary Assembly	LG2	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG2	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG2	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG2	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG2	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG2	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG3	Linkage Group	all	total-length	26136583
+Primary Assembly	LG3	Linkage Group	all	ungapped-length	26124583
+Primary Assembly	LG3	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG3	Linkage Group	all	scaffold-N50	26136583
+Primary Assembly	LG3	Linkage Group	all	spanned-gaps	24
+Primary Assembly	LG3	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG3	Linkage Group	all	gc-perc	41.5
+Primary Assembly	LG3	Linkage Group	assembled-molecule	total-length	26136583
+Primary Assembly	LG3	Linkage Group	assembled-molecule	ungapped-length	26124583
+Primary Assembly	LG3	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG3	Linkage Group	assembled-molecule	scaffold-N50	26136583
+Primary Assembly	LG3	Linkage Group	assembled-molecule	spanned-gaps	24
+Primary Assembly	LG3	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG3	Linkage Group	assembled-molecule	gc-perc	41.5
+Primary Assembly	LG3	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG3	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG3	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG3	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG3	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG3	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG4	Linkage Group	all	total-length	26531343
+Primary Assembly	LG4	Linkage Group	all	ungapped-length	26526343
+Primary Assembly	LG4	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG4	Linkage Group	all	scaffold-N50	26531343
+Primary Assembly	LG4	Linkage Group	all	spanned-gaps	10
+Primary Assembly	LG4	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG4	Linkage Group	all	gc-perc	41
+Primary Assembly	LG4	Linkage Group	assembled-molecule	total-length	26531343
+Primary Assembly	LG4	Linkage Group	assembled-molecule	ungapped-length	26526343
+Primary Assembly	LG4	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG4	Linkage Group	assembled-molecule	scaffold-N50	26531343
+Primary Assembly	LG4	Linkage Group	assembled-molecule	spanned-gaps	10
+Primary Assembly	LG4	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG4	Linkage Group	assembled-molecule	gc-perc	41
+Primary Assembly	LG4	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG4	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG4	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG4	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG4	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG4	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG5	Linkage Group	all	total-length	23628845
+Primary Assembly	LG5	Linkage Group	all	ungapped-length	23618345
+Primary Assembly	LG5	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG5	Linkage Group	all	scaffold-N50	23628845
+Primary Assembly	LG5	Linkage Group	all	spanned-gaps	21
+Primary Assembly	LG5	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG5	Linkage Group	all	gc-perc	41
+Primary Assembly	LG5	Linkage Group	assembled-molecule	total-length	23628845
+Primary Assembly	LG5	Linkage Group	assembled-molecule	ungapped-length	23618345
+Primary Assembly	LG5	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG5	Linkage Group	assembled-molecule	scaffold-N50	23628845
+Primary Assembly	LG5	Linkage Group	assembled-molecule	spanned-gaps	21
+Primary Assembly	LG5	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG5	Linkage Group	assembled-molecule	gc-perc	41
+Primary Assembly	LG5	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG5	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG5	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG5	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG5	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG5	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG6	Linkage Group	all	total-length	31449284
+Primary Assembly	LG6	Linkage Group	all	ungapped-length	31438784
+Primary Assembly	LG6	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG6	Linkage Group	all	scaffold-N50	31449284
+Primary Assembly	LG6	Linkage Group	all	spanned-gaps	21
+Primary Assembly	LG6	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG6	Linkage Group	all	gc-perc	41
+Primary Assembly	LG6	Linkage Group	assembled-molecule	total-length	31449284
+Primary Assembly	LG6	Linkage Group	assembled-molecule	ungapped-length	31438784
+Primary Assembly	LG6	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG6	Linkage Group	assembled-molecule	scaffold-N50	31449284
+Primary Assembly	LG6	Linkage Group	assembled-molecule	spanned-gaps	21
+Primary Assembly	LG6	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG6	Linkage Group	assembled-molecule	gc-perc	41
+Primary Assembly	LG6	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG6	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG6	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG6	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG6	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG6	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG7	Linkage Group	all	total-length	29433144
+Primary Assembly	LG7	Linkage Group	all	ungapped-length	29425144
+Primary Assembly	LG7	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG7	Linkage Group	all	scaffold-N50	29433144
+Primary Assembly	LG7	Linkage Group	all	spanned-gaps	16
+Primary Assembly	LG7	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG7	Linkage Group	all	gc-perc	41
+Primary Assembly	LG7	Linkage Group	assembled-molecule	total-length	29433144
+Primary Assembly	LG7	Linkage Group	assembled-molecule	ungapped-length	29425144
+Primary Assembly	LG7	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG7	Linkage Group	assembled-molecule	scaffold-N50	29433144
+Primary Assembly	LG7	Linkage Group	assembled-molecule	spanned-gaps	16
+Primary Assembly	LG7	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG7	Linkage Group	assembled-molecule	gc-perc	41
+Primary Assembly	LG7	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG7	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG7	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG7	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG7	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG7	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG8	Linkage Group	all	total-length	31651644
+Primary Assembly	LG8	Linkage Group	all	ungapped-length	31628144
+Primary Assembly	LG8	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG8	Linkage Group	all	scaffold-N50	31651644
+Primary Assembly	LG8	Linkage Group	all	spanned-gaps	47
+Primary Assembly	LG8	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG8	Linkage Group	all	gc-perc	40.5
+Primary Assembly	LG8	Linkage Group	assembled-molecule	total-length	31651644
+Primary Assembly	LG8	Linkage Group	assembled-molecule	ungapped-length	31628144
+Primary Assembly	LG8	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG8	Linkage Group	assembled-molecule	scaffold-N50	31651644
+Primary Assembly	LG8	Linkage Group	assembled-molecule	spanned-gaps	47
+Primary Assembly	LG8	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG8	Linkage Group	assembled-molecule	gc-perc	40.5
+Primary Assembly	LG8	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG8	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG8	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG8	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG8	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG8	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG9	Linkage Group	all	total-length	23848212
+Primary Assembly	LG9	Linkage Group	all	ungapped-length	23840712
+Primary Assembly	LG9	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG9	Linkage Group	all	scaffold-N50	23848212
+Primary Assembly	LG9	Linkage Group	all	spanned-gaps	15
+Primary Assembly	LG9	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG9	Linkage Group	all	gc-perc	41
+Primary Assembly	LG9	Linkage Group	assembled-molecule	total-length	23848212
+Primary Assembly	LG9	Linkage Group	assembled-molecule	ungapped-length	23840712
+Primary Assembly	LG9	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG9	Linkage Group	assembled-molecule	scaffold-N50	23848212
+Primary Assembly	LG9	Linkage Group	assembled-molecule	spanned-gaps	15
+Primary Assembly	LG9	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG9	Linkage Group	assembled-molecule	gc-perc	41
+Primary Assembly	LG9	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG9	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG9	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG9	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG9	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG9	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG10	Linkage Group	all	total-length	27897918
+Primary Assembly	LG10	Linkage Group	all	ungapped-length	27892918
+Primary Assembly	LG10	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG10	Linkage Group	all	scaffold-N50	27897918
+Primary Assembly	LG10	Linkage Group	all	spanned-gaps	10
+Primary Assembly	LG10	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG10	Linkage Group	all	gc-perc	41
+Primary Assembly	LG10	Linkage Group	assembled-molecule	total-length	27897918
+Primary Assembly	LG10	Linkage Group	assembled-molecule	ungapped-length	27892918
+Primary Assembly	LG10	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG10	Linkage Group	assembled-molecule	scaffold-N50	27897918
+Primary Assembly	LG10	Linkage Group	assembled-molecule	spanned-gaps	10
+Primary Assembly	LG10	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG10	Linkage Group	assembled-molecule	gc-perc	41
+Primary Assembly	LG10	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG10	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG10	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG10	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG10	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG10	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG11	Linkage Group	all	total-length	28636836
+Primary Assembly	LG11	Linkage Group	all	ungapped-length	28632336
+Primary Assembly	LG11	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG11	Linkage Group	all	scaffold-N50	28636836
+Primary Assembly	LG11	Linkage Group	all	spanned-gaps	9
+Primary Assembly	LG11	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG11	Linkage Group	all	gc-perc	41
+Primary Assembly	LG11	Linkage Group	assembled-molecule	total-length	28636836
+Primary Assembly	LG11	Linkage Group	assembled-molecule	ungapped-length	28632336
+Primary Assembly	LG11	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG11	Linkage Group	assembled-molecule	scaffold-N50	28636836
+Primary Assembly	LG11	Linkage Group	assembled-molecule	spanned-gaps	9
+Primary Assembly	LG11	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG11	Linkage Group	assembled-molecule	gc-perc	41
+Primary Assembly	LG11	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG11	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG11	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG11	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG11	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG11	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG12	Linkage Group	all	total-length	19814907
+Primary Assembly	LG12	Linkage Group	all	ungapped-length	19810407
+Primary Assembly	LG12	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG12	Linkage Group	all	scaffold-N50	19814907
+Primary Assembly	LG12	Linkage Group	all	spanned-gaps	9
+Primary Assembly	LG12	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG12	Linkage Group	all	gc-perc	41
+Primary Assembly	LG12	Linkage Group	assembled-molecule	total-length	19814907
+Primary Assembly	LG12	Linkage Group	assembled-molecule	ungapped-length	19810407
+Primary Assembly	LG12	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG12	Linkage Group	assembled-molecule	scaffold-N50	19814907
+Primary Assembly	LG12	Linkage Group	assembled-molecule	spanned-gaps	9
+Primary Assembly	LG12	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG12	Linkage Group	assembled-molecule	gc-perc	41
+Primary Assembly	LG12	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG12	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG12	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG12	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG12	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG12	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG13	Linkage Group	all	total-length	14985604
+Primary Assembly	LG13	Linkage Group	all	ungapped-length	14977104
+Primary Assembly	LG13	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG13	Linkage Group	all	scaffold-N50	14985604
+Primary Assembly	LG13	Linkage Group	all	spanned-gaps	17
+Primary Assembly	LG13	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG13	Linkage Group	all	gc-perc	41.5
+Primary Assembly	LG13	Linkage Group	assembled-molecule	total-length	14985604
+Primary Assembly	LG13	Linkage Group	assembled-molecule	ungapped-length	14977104
+Primary Assembly	LG13	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG13	Linkage Group	assembled-molecule	scaffold-N50	14985604
+Primary Assembly	LG13	Linkage Group	assembled-molecule	spanned-gaps	17
+Primary Assembly	LG13	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG13	Linkage Group	assembled-molecule	gc-perc	41.5
+Primary Assembly	LG13	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG13	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG13	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG13	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG13	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG13	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG14	Linkage Group	all	total-length	26877059
+Primary Assembly	LG14	Linkage Group	all	ungapped-length	26876059
+Primary Assembly	LG14	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG14	Linkage Group	all	scaffold-N50	26877059
+Primary Assembly	LG14	Linkage Group	all	spanned-gaps	2
+Primary Assembly	LG14	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG14	Linkage Group	all	gc-perc	40.5
+Primary Assembly	LG14	Linkage Group	assembled-molecule	total-length	26877059
+Primary Assembly	LG14	Linkage Group	assembled-molecule	ungapped-length	26876059
+Primary Assembly	LG14	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG14	Linkage Group	assembled-molecule	scaffold-N50	26877059
+Primary Assembly	LG14	Linkage Group	assembled-molecule	spanned-gaps	2
+Primary Assembly	LG14	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG14	Linkage Group	assembled-molecule	gc-perc	40.5
+Primary Assembly	LG14	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG14	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG14	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG14	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG14	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG14	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG15	Linkage Group	all	total-length	33937260
+Primary Assembly	LG15	Linkage Group	all	ungapped-length	33931760
+Primary Assembly	LG15	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG15	Linkage Group	all	scaffold-N50	33937260
+Primary Assembly	LG15	Linkage Group	all	spanned-gaps	11
+Primary Assembly	LG15	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG15	Linkage Group	all	gc-perc	41
+Primary Assembly	LG15	Linkage Group	assembled-molecule	total-length	33937260
+Primary Assembly	LG15	Linkage Group	assembled-molecule	ungapped-length	33931760
+Primary Assembly	LG15	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG15	Linkage Group	assembled-molecule	scaffold-N50	33937260
+Primary Assembly	LG15	Linkage Group	assembled-molecule	spanned-gaps	11
+Primary Assembly	LG15	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG15	Linkage Group	assembled-molecule	gc-perc	41
+Primary Assembly	LG15	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG15	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG15	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG15	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG15	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG15	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG16	Linkage Group	all	total-length	29220096
+Primary Assembly	LG16	Linkage Group	all	ungapped-length	29220096
+Primary Assembly	LG16	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG16	Linkage Group	all	scaffold-N50	29220096
+Primary Assembly	LG16	Linkage Group	all	spanned-gaps	0
+Primary Assembly	LG16	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG16	Linkage Group	all	gc-perc	40.5
+Primary Assembly	LG16	Linkage Group	assembled-molecule	total-length	29220096
+Primary Assembly	LG16	Linkage Group	assembled-molecule	ungapped-length	29220096
+Primary Assembly	LG16	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG16	Linkage Group	assembled-molecule	scaffold-N50	29220096
+Primary Assembly	LG16	Linkage Group	assembled-molecule	spanned-gaps	0
+Primary Assembly	LG16	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG16	Linkage Group	assembled-molecule	gc-perc	40.5
+Primary Assembly	LG16	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG16	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG16	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG16	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG16	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG16	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG17	Linkage Group	all	total-length	28281867
+Primary Assembly	LG17	Linkage Group	all	ungapped-length	28277367
+Primary Assembly	LG17	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG17	Linkage Group	all	scaffold-N50	28281867
+Primary Assembly	LG17	Linkage Group	all	spanned-gaps	9
+Primary Assembly	LG17	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG17	Linkage Group	all	gc-perc	40.5
+Primary Assembly	LG17	Linkage Group	assembled-molecule	total-length	28281867
+Primary Assembly	LG17	Linkage Group	assembled-molecule	ungapped-length	28277367
+Primary Assembly	LG17	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG17	Linkage Group	assembled-molecule	scaffold-N50	28281867
+Primary Assembly	LG17	Linkage Group	assembled-molecule	spanned-gaps	9
+Primary Assembly	LG17	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG17	Linkage Group	assembled-molecule	gc-perc	40.5
+Primary Assembly	LG17	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG17	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG17	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG17	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG17	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG17	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG18	Linkage Group	all	total-length	30564377
+Primary Assembly	LG18	Linkage Group	all	ungapped-length	30554377
+Primary Assembly	LG18	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG18	Linkage Group	all	scaffold-N50	30564377
+Primary Assembly	LG18	Linkage Group	all	spanned-gaps	20
+Primary Assembly	LG18	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG18	Linkage Group	all	gc-perc	41
+Primary Assembly	LG18	Linkage Group	assembled-molecule	total-length	30564377
+Primary Assembly	LG18	Linkage Group	assembled-molecule	ungapped-length	30554377
+Primary Assembly	LG18	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG18	Linkage Group	assembled-molecule	scaffold-N50	30564377
+Primary Assembly	LG18	Linkage Group	assembled-molecule	spanned-gaps	20
+Primary Assembly	LG18	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG18	Linkage Group	assembled-molecule	gc-perc	41
+Primary Assembly	LG18	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG18	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG18	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG18	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG18	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG18	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG19	Linkage Group	all	total-length	31038257
+Primary Assembly	LG19	Linkage Group	all	ungapped-length	31027257
+Primary Assembly	LG19	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG19	Linkage Group	all	scaffold-N50	31038257
+Primary Assembly	LG19	Linkage Group	all	spanned-gaps	22
+Primary Assembly	LG19	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG19	Linkage Group	all	gc-perc	40.5
+Primary Assembly	LG19	Linkage Group	assembled-molecule	total-length	31038257
+Primary Assembly	LG19	Linkage Group	assembled-molecule	ungapped-length	31027257
+Primary Assembly	LG19	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG19	Linkage Group	assembled-molecule	scaffold-N50	31038257
+Primary Assembly	LG19	Linkage Group	assembled-molecule	spanned-gaps	22
+Primary Assembly	LG19	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG19	Linkage Group	assembled-molecule	gc-perc	40.5
+Primary Assembly	LG19	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG19	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG19	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG19	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG19	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG19	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG20	Linkage Group	all	total-length	25657956
+Primary Assembly	LG20	Linkage Group	all	ungapped-length	25651956
+Primary Assembly	LG20	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG20	Linkage Group	all	scaffold-N50	25657956
+Primary Assembly	LG20	Linkage Group	all	spanned-gaps	12
+Primary Assembly	LG20	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG20	Linkage Group	all	gc-perc	40.5
+Primary Assembly	LG20	Linkage Group	assembled-molecule	total-length	25657956
+Primary Assembly	LG20	Linkage Group	assembled-molecule	ungapped-length	25651956
+Primary Assembly	LG20	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG20	Linkage Group	assembled-molecule	scaffold-N50	25657956
+Primary Assembly	LG20	Linkage Group	assembled-molecule	spanned-gaps	12
+Primary Assembly	LG20	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG20	Linkage Group	assembled-molecule	gc-perc	40.5
+Primary Assembly	LG20	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG20	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG20	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG20	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG20	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG20	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG21	Linkage Group	all	total-length	33252044
+Primary Assembly	LG21	Linkage Group	all	ungapped-length	33248044
+Primary Assembly	LG21	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG21	Linkage Group	all	scaffold-N50	33252044
+Primary Assembly	LG21	Linkage Group	all	spanned-gaps	8
+Primary Assembly	LG21	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG21	Linkage Group	all	gc-perc	40.5
+Primary Assembly	LG21	Linkage Group	assembled-molecule	total-length	33252044
+Primary Assembly	LG21	Linkage Group	assembled-molecule	ungapped-length	33248044
+Primary Assembly	LG21	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG21	Linkage Group	assembled-molecule	scaffold-N50	33252044
+Primary Assembly	LG21	Linkage Group	assembled-molecule	spanned-gaps	8
+Primary Assembly	LG21	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG21	Linkage Group	assembled-molecule	gc-perc	40.5
+Primary Assembly	LG21	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG21	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG21	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG21	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG21	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG21	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG22	Linkage Group	all	total-length	30511599
+Primary Assembly	LG22	Linkage Group	all	ungapped-length	30505099
+Primary Assembly	LG22	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG22	Linkage Group	all	scaffold-N50	30511599
+Primary Assembly	LG22	Linkage Group	all	spanned-gaps	13
+Primary Assembly	LG22	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG22	Linkage Group	all	gc-perc	40.5
+Primary Assembly	LG22	Linkage Group	assembled-molecule	total-length	30511599
+Primary Assembly	LG22	Linkage Group	assembled-molecule	ungapped-length	30505099
+Primary Assembly	LG22	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG22	Linkage Group	assembled-molecule	scaffold-N50	30511599
+Primary Assembly	LG22	Linkage Group	assembled-molecule	spanned-gaps	13
+Primary Assembly	LG22	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG22	Linkage Group	assembled-molecule	gc-perc	40.5
+Primary Assembly	LG22	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG22	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG22	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG22	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG22	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG22	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG23	Linkage Group	all	total-length	30436000
+Primary Assembly	LG23	Linkage Group	all	ungapped-length	30428000
+Primary Assembly	LG23	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG23	Linkage Group	all	scaffold-N50	30436000
+Primary Assembly	LG23	Linkage Group	all	spanned-gaps	16
+Primary Assembly	LG23	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG23	Linkage Group	all	gc-perc	40.5
+Primary Assembly	LG23	Linkage Group	assembled-molecule	total-length	30436000
+Primary Assembly	LG23	Linkage Group	assembled-molecule	ungapped-length	30428000
+Primary Assembly	LG23	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG23	Linkage Group	assembled-molecule	scaffold-N50	30436000
+Primary Assembly	LG23	Linkage Group	assembled-molecule	spanned-gaps	16
+Primary Assembly	LG23	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG23	Linkage Group	assembled-molecule	gc-perc	40.5
+Primary Assembly	LG23	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG23	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG23	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG23	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG23	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG23	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	LG24	Linkage Group	all	total-length	26537364
+Primary Assembly	LG24	Linkage Group	all	ungapped-length	26527364
+Primary Assembly	LG24	Linkage Group	all	scaffold-count	1
+Primary Assembly	LG24	Linkage Group	all	scaffold-N50	26537364
+Primary Assembly	LG24	Linkage Group	all	spanned-gaps	20
+Primary Assembly	LG24	Linkage Group	all	unspanned-gaps	0
+Primary Assembly	LG24	Linkage Group	all	gc-perc	41
+Primary Assembly	LG24	Linkage Group	assembled-molecule	total-length	26537364
+Primary Assembly	LG24	Linkage Group	assembled-molecule	ungapped-length	26527364
+Primary Assembly	LG24	Linkage Group	assembled-molecule	scaffold-count	1
+Primary Assembly	LG24	Linkage Group	assembled-molecule	scaffold-N50	26537364
+Primary Assembly	LG24	Linkage Group	assembled-molecule	spanned-gaps	20
+Primary Assembly	LG24	Linkage Group	assembled-molecule	unspanned-gaps	0
+Primary Assembly	LG24	Linkage Group	assembled-molecule	gc-perc	41
+Primary Assembly	LG24	Linkage Group	unlocalized-scaffold	total-length	0
+Primary Assembly	LG24	Linkage Group	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	LG24	Linkage Group	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	LG24	Linkage Group	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	LG24	Linkage Group	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	LG24	Linkage Group	unlocalized-scaffold	unspanned-gaps	0
+non-nuclear	all	all	all	total-length	26796
+non-nuclear	all	all	all	ungapped-length	26796
+non-nuclear	all	all	all	scaffold-count	1
+non-nuclear	all	all	all	scaffold-N50	26796
+non-nuclear	all	all	all	spanned-gaps	0
+non-nuclear	all	all	all	unspanned-gaps	0
+non-nuclear	all	all	all	gc-perc	47.5
+non-nuclear	all	all	assembled-molecule	total-length	0
+non-nuclear	all	all	assembled-molecule	ungapped-length	0
+non-nuclear	all	all	assembled-molecule	scaffold-count	0
+non-nuclear	all	all	assembled-molecule	scaffold-N50	0
+non-nuclear	all	all	assembled-molecule	spanned-gaps	0
+non-nuclear	all	all	assembled-molecule	unspanned-gaps	0
+non-nuclear	all	all	unlocalized-scaffold	total-length	26796
+non-nuclear	all	all	unlocalized-scaffold	ungapped-length	26796
+non-nuclear	all	all	unlocalized-scaffold	scaffold-count	1
+non-nuclear	all	all	unlocalized-scaffold	scaffold-N50	26796
+non-nuclear	all	all	unlocalized-scaffold	spanned-gaps	0
+non-nuclear	all	all	unlocalized-scaffold	unspanned-gaps	0
+non-nuclear	all	all	unlocalized-scaffold	gc-perc	47.5
+non-nuclear	MT	Mitochondrion	all	total-length	26796
+non-nuclear	MT	Mitochondrion	all	ungapped-length	26796
+non-nuclear	MT	Mitochondrion	all	scaffold-count	1
+non-nuclear	MT	Mitochondrion	all	scaffold-N50	26796
+non-nuclear	MT	Mitochondrion	all	spanned-gaps	0
+non-nuclear	MT	Mitochondrion	all	unspanned-gaps	0
+non-nuclear	MT	Mitochondrion	all	gc-perc	47.5
+non-nuclear	MT	Mitochondrion	assembled-molecule	total-length	0
+non-nuclear	MT	Mitochondrion	assembled-molecule	ungapped-length	0
+non-nuclear	MT	Mitochondrion	assembled-molecule	scaffold-count	0
+non-nuclear	MT	Mitochondrion	assembled-molecule	scaffold-N50	0
+non-nuclear	MT	Mitochondrion	assembled-molecule	spanned-gaps	0
+non-nuclear	MT	Mitochondrion	assembled-molecule	unspanned-gaps	0
+non-nuclear	MT	Mitochondrion	unlocalized-scaffold	total-length	26796
+non-nuclear	MT	Mitochondrion	unlocalized-scaffold	ungapped-length	26796
+non-nuclear	MT	Mitochondrion	unlocalized-scaffold	scaffold-count	1
+non-nuclear	MT	Mitochondrion	unlocalized-scaffold	scaffold-N50	26796
+non-nuclear	MT	Mitochondrion	unlocalized-scaffold	spanned-gaps	0
+non-nuclear	MT	Mitochondrion	unlocalized-scaffold	unspanned-gaps	0
+non-nuclear	MT	Mitochondrion	unlocalized-scaffold	gc-perc	47.5

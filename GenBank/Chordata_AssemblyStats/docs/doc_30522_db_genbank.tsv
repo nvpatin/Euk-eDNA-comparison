@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/30522_assembly_stats_genbank.txt	30522	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/369/685/GCA_003369685.2_UOA_Angus_1/GCA_003369685.2_UOA_Angus_1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_003369685.2	PRJNA432857	SAMN08473802	30522	breed=Angus x Brahman F1 hybrid	latest	Major	Full	2018-11-30	University of Adelaide

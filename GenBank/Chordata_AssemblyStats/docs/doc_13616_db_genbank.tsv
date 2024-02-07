@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/13616_assembly_stats_genbank.txt	13616	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/002/295/GCA_000002295.1_MonDom5/GCA_000002295.1_MonDom5_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000002295.1	PRJNA12561	SAMN02953611	13616	na	latest	Major	Full	2007-01-25	The Genome Sequencing Platform, The Genome Assembly Team

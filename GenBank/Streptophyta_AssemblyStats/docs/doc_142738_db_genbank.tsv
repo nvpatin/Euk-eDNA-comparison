@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/142738_assembly_stats_genbank.txt	142738	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/586/325/GCA_024586325.1_ASM2458632v1/GCA_024586325.1_ASM2458632v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_024586325.1	PRJNA809850	SAMN29232089	142738	cultivar=wild	latest	Major	Full	2022-08-09	Lanzhou university

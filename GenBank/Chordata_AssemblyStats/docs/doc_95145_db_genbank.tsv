@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/95145_assembly_stats_genbank.txt	95145	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/660/325/GCA_900660325.1_Opsanus_beta_assembly/GCA_900660325.1_Opsanus_beta_assembly_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_900660325.1	PRJEB30779	SAMEA5226235	95145	na	latest	Major	Full	2019-06-19	CEES

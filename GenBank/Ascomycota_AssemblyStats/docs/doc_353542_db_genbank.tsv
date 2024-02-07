@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/353542_assembly_stats_genbank.txt	353542	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/508/695/GCA_016508695.1_ASM1650869v1/GCA_016508695.1_ASM1650869v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_016508695.1	PRJNA486772	SAMN09863599	353542	strain=ATCC 34498	latest	Major	Full	2021-01-05	University of Toronto

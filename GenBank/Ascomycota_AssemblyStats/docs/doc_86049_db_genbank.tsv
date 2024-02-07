@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/86049_assembly_stats_genbank.txt	86049	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/700/775/GCA_001700775.1_ASM170077v1/GCA_001700775.1_ASM170077v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001700775.1	PRJNA287439	SAMN03782125	86049	strain=KSF	latest	Major	Full	2016-08-09	LNCC

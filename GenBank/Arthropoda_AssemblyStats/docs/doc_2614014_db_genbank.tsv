@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/2614014_assembly_stats_genbank.txt	2614014	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/236/665/GCA_018236665.1_SRR10158584/GCA_018236665.1_SRR10158584_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_018236665.1	PRJNA606954	SAMN12776961	2614014	na	latest	Major	Full	2021-05-03	Florida Museum of Natural History

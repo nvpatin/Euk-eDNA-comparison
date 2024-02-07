@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/447135_assembly_stats_genbank.txt	447135	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/305/785/GCA_001305785.1_ASM130578v1/GCA_001305785.1_ASM130578v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_001305785.1	PRJNA290429	SAMN03863713	447135	na	latest	Major	Full	2015-10-02	University of Liverpool

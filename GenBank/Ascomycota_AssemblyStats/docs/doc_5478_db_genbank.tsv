@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/5478_assembly_stats_genbank.txt	5478	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/217/725/GCA_014217725.1_ASM1421772v1/GCA_014217725.1_ASM1421772v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_014217725.1	PRJNA600925	SAMN13836662	5478	strain=BG2	latest	Major	Full	2020-08-17	Johns Hopkins Medical Institution

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/41895_assembly_stats_genbank.txt	41895	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/345/945/GCA_015345945.1_Tmad_KSU_1.1/GCA_015345945.1_Tmad_KSU_1.1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_015345945.1	PRJNA668153	SAMN16398860	41895	breed=KSU strain	latest	Major	Full	2020-11-10	Kansas State University

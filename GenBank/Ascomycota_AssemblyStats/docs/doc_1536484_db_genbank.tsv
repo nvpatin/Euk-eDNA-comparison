@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1536484_assembly_stats_genbank.txt	1536484	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/296/905/GCA_033296905.1_Podaus1/GCA_033296905.1_Podaus1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_033296905.1	PRJNA953068	SAMN34105749	1536484	strain=PSN309	latest	Major	Full	2023-10-26	DOE Joint Genome Institute

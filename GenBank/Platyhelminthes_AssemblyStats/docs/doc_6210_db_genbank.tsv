@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Platyhelminthes_AssemblyStats/6210_assembly_stats_genbank.txt	6210	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/524/195/GCA_000524195.1_ASM52419v1/GCA_000524195.1_ASM52419v1_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	representative genome	GCA_000524195.1	PRJEB121	SAMN01914755	6210	na	latest	Major	Full	2014-01-28	Chinese National Human Genome Center at Shanghai

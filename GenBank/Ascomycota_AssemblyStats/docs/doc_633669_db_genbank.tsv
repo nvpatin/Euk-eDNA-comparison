@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/633669_assembly_stats_genbank.txt	633669	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/513/815/GCA_001513815.1_ASM151381v1/GCA_001513815.1_ASM151381v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001513815.1	PRJNA294286	SAMN04019022	633669	strain=CMW9998	latest	Major	Full	2016-01-13	University of pretoria

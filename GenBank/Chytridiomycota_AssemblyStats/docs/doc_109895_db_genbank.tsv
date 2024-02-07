@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chytridiomycota_AssemblyStats/109895_assembly_stats_genbank.txt	109895	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/536/005/GCA_006536005.1_ASM653600v1/GCA_006536005.1_ASM653600v1_assembly_stats.txt	genbank	GenBank/Chytridiomycota_AssemblyStats	na	GCA_006536005.1	PRJNA453744	SAMN08987381	109895	strain=CBS 809.83	latest	Major	Full	2019-07-01	Agriculture and Agri-Food Canada

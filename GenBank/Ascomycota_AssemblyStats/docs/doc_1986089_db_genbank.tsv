@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1986089_assembly_stats_genbank.txt	1986089	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/618/795/GCA_900618795.1_Astra/GCA_900618795.1_Astra_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_900618795.1	PRJEB19487	SAMEA5093987	1986089	na	latest	Major	Full	2018-12-05	CEBITEC

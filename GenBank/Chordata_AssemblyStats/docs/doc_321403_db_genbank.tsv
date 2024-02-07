@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/321403_assembly_stats_genbank.txt	321403	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/173/855/GCA_000173855.1_ASM17385v1/GCA_000173855.1_ASM17385v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000173855.1	PRJNA33401	SAMN02981241	321403	na	latest	Major	Partial	2009-03-17	Leibniz Institute for Age Research - Fritz Lipmann Institute, Jena, Germany

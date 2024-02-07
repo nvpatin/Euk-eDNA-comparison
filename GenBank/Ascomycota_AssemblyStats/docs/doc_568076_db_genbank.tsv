@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/568076_assembly_stats_genbank.txt	568076	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/591/435/GCA_000591435.1_MR2010_11_27/GCA_000591435.1_MR2010_11_27_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_000591435.1	PRJNA230500	SAMN02798139	568076	strain=ARSEF 2575	latest	Major	Full	2014-03-17	U.S. Department of Agriculture

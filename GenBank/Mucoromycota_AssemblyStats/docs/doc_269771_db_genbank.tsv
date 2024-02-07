@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Mucoromycota_AssemblyStats/269771_assembly_stats_genbank.txt	269771	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/702/545/GCA_022702545.1_SJTU-YXQ/GCA_022702545.1_SJTU-YXQ_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_022702545.1	PRJNA738810	SAMN19761724	269771	na	latest	Major	Full	2022-03-28	shanghai jiaotong university

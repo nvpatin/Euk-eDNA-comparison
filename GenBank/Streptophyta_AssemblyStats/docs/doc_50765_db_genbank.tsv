@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/50765_assembly_stats_genbank.txt	50765	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/214/975/GCA_026214975.1_ASM2621497v1/GCA_026214975.1_ASM2621497v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_026214975.1	PRJNA831327	SAMN27752752	50765	ecotype=Ningxia	latest	Major	Full	2022-11-18	Xi'an Jiaotong University

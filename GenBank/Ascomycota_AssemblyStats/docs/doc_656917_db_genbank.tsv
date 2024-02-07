@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/656917_assembly_stats_genbank.txt	656917	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/176/455/GCA_009176455.1_Aspmin1/GCA_009176455.1_Aspmin1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_009176455.1	PRJNA333902	SAMN05443097	656917	strain=CBS 117635	latest	Major	Full	2019-10-18	DOE Joint Genome Institute

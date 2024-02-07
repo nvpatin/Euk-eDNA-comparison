@@ -1,0 +1,309 @@
+# Assembly Statistics Report
+# Assembly name:  Assembly1
+# Organism name:  Trypanosoma evansi (kinetoplastids)
+# Taxid:          5697
+# BioSample:      SAMEA911901
+# BioProject:     PRJEB2008
+# Submitter:      Wellcome Sanger Institute
+# Date:           2021-10-15
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Genome coverage: 57x
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_917563935.1
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_917563934.1		Primary Assembly
+#
+# Statistic Types
+# Statistic	Description
+# component-count	Number of unique components
+# molecule-count	Number of chromosomes and plasmids in full assembly
+# region-count	Number of genomic regions defined in full assembly
+# scaffold-L50	Number of scaffolds that are longer than, or equal to, the N50 length
+# scaffold-N50	Scaffold length at which 50% of total bases in assembly are in scaffolds of that length or greater
+# scaffold-N75	Scaffold length at which 75% of total bases in assembly are in contigs of that length or greater
+# scaffold-N90	scaffold length at which 90% of total bases in assembly are in contigs of that length or greater
+# scaffold-count	Number of scaffolds
+# spanned-gaps	Number of spanned gaps. Spanned gaps are gaps within a scaffold
+# top-level-count	Number of chromosomes or plasmids, unplaced/unlocalized scaffolds, alt-loci scaffolds, and patch scaffolds
+# total-gap-length	Total length of gaps
+# total-length	Total sequence length including bases and gaps
+# ungapped-length	Total length excluding gaps
+# unspanned-gaps	Number of unspanned gaps. Unspanned gaps are gaps between scaffolds
+#
+# Sequence-type Description
+# all	statistic covers all the sequences in the unit-assembly and molecule(s) specified.
+# molecule	statistic covers the specified molecule. molecule-name and molecule-type/loc will be given.
+# unlocalized	statistic covers the sequences assigned to a molecule but with no position. molecule-name and molecule-type/loc will be given.
+# unplaced	statistic covers the sequences not assigned to any molecule in the assembly.
+#
+# unit-name	molecule-name	molecule-type/loc	sequence-type	statistic	value
+all	all	all	all	total-length	25432160
+all	all	all	all	spanned-gaps	0
+all	all	all	all	unspanned-gaps	0
+all	all	all	all	region-count	0
+all	all	all	all	scaffold-count	13
+all	all	all	all	scaffold-N50	2439084
+all	all	all	all	scaffold-L50	4
+all	all	all	all	scaffold-N75	1571453
+all	all	all	all	scaffold-N90	1178500
+all	all	all	all	total-gap-length	0
+all	all	all	all	molecule-count	13
+all	all	all	all	top-level-count	13
+all	all	all	all	component-count	13
+Primary Assembly	all	all	all	total-length	25432160
+Primary Assembly	all	all	all	ungapped-length	25432160
+Primary Assembly	all	all	all	scaffold-count	13
+Primary Assembly	all	all	all	scaffold-N50	2439084
+Primary Assembly	all	all	all	spanned-gaps	0
+Primary Assembly	all	all	all	unspanned-gaps	0
+Primary Assembly	all	all	assembled-molecule	total-length	25432160
+Primary Assembly	all	all	assembled-molecule	ungapped-length	25432160
+Primary Assembly	all	all	assembled-molecule	scaffold-count	13
+Primary Assembly	all	all	assembled-molecule	scaffold-N50	2439084
+Primary Assembly	all	all	assembled-molecule	spanned-gaps	0
+Primary Assembly	all	all	assembled-molecule	unspanned-gaps	0
+Primary Assembly	all	all	unlocalized-scaffold	total-length	0
+Primary Assembly	all	all	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	all	all	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	all	all	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	all	all	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	all	all	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	STIB805_01	Chromosome	all	total-length	1053171
+Primary Assembly	STIB805_01	Chromosome	all	ungapped-length	1053171
+Primary Assembly	STIB805_01	Chromosome	all	scaffold-count	1
+Primary Assembly	STIB805_01	Chromosome	all	scaffold-N50	1053171
+Primary Assembly	STIB805_01	Chromosome	all	spanned-gaps	0
+Primary Assembly	STIB805_01	Chromosome	all	unspanned-gaps	0
+Primary Assembly	STIB805_01	Chromosome	assembled-molecule	total-length	1053171
+Primary Assembly	STIB805_01	Chromosome	assembled-molecule	ungapped-length	1053171
+Primary Assembly	STIB805_01	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	STIB805_01	Chromosome	assembled-molecule	scaffold-N50	1053171
+Primary Assembly	STIB805_01	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	STIB805_01	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	STIB805_01	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	STIB805_01	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	STIB805_01	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	STIB805_01	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	STIB805_01	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	STIB805_01	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	STIB805_010	Chromosome	all	total-length	2831150
+Primary Assembly	STIB805_010	Chromosome	all	ungapped-length	2831150
+Primary Assembly	STIB805_010	Chromosome	all	scaffold-count	1
+Primary Assembly	STIB805_010	Chromosome	all	scaffold-N50	2831150
+Primary Assembly	STIB805_010	Chromosome	all	spanned-gaps	0
+Primary Assembly	STIB805_010	Chromosome	all	unspanned-gaps	0
+Primary Assembly	STIB805_010	Chromosome	assembled-molecule	total-length	2831150
+Primary Assembly	STIB805_010	Chromosome	assembled-molecule	ungapped-length	2831150
+Primary Assembly	STIB805_010	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	STIB805_010	Chromosome	assembled-molecule	scaffold-N50	2831150
+Primary Assembly	STIB805_010	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	STIB805_010	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	STIB805_010	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	STIB805_010	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	STIB805_010	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	STIB805_010	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	STIB805_010	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	STIB805_010	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	STIB805_011	Chromosome	all	total-length	4092028
+Primary Assembly	STIB805_011	Chromosome	all	ungapped-length	4092028
+Primary Assembly	STIB805_011	Chromosome	all	scaffold-count	1
+Primary Assembly	STIB805_011	Chromosome	all	scaffold-N50	4092028
+Primary Assembly	STIB805_011	Chromosome	all	spanned-gaps	0
+Primary Assembly	STIB805_011	Chromosome	all	unspanned-gaps	0
+Primary Assembly	STIB805_011	Chromosome	assembled-molecule	total-length	4092028
+Primary Assembly	STIB805_011	Chromosome	assembled-molecule	ungapped-length	4092028
+Primary Assembly	STIB805_011	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	STIB805_011	Chromosome	assembled-molecule	scaffold-N50	4092028
+Primary Assembly	STIB805_011	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	STIB805_011	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	STIB805_011	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	STIB805_011	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	STIB805_011	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	STIB805_011	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	STIB805_011	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	STIB805_011	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	STIB805_012	Chromosome	all	total-length	4871559
+Primary Assembly	STIB805_012	Chromosome	all	ungapped-length	4871559
+Primary Assembly	STIB805_012	Chromosome	all	scaffold-count	1
+Primary Assembly	STIB805_012	Chromosome	all	scaffold-N50	4871559
+Primary Assembly	STIB805_012	Chromosome	all	spanned-gaps	0
+Primary Assembly	STIB805_012	Chromosome	all	unspanned-gaps	0
+Primary Assembly	STIB805_012	Chromosome	assembled-molecule	total-length	4871559
+Primary Assembly	STIB805_012	Chromosome	assembled-molecule	ungapped-length	4871559
+Primary Assembly	STIB805_012	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	STIB805_012	Chromosome	assembled-molecule	scaffold-N50	4871559
+Primary Assembly	STIB805_012	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	STIB805_012	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	STIB805_012	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	STIB805_012	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	STIB805_012	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	STIB805_012	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	STIB805_012	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	STIB805_012	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	STIB805_013	Chromosome	all	total-length	250280
+Primary Assembly	STIB805_013	Chromosome	all	ungapped-length	250280
+Primary Assembly	STIB805_013	Chromosome	all	scaffold-count	1
+Primary Assembly	STIB805_013	Chromosome	all	scaffold-N50	250280
+Primary Assembly	STIB805_013	Chromosome	all	spanned-gaps	0
+Primary Assembly	STIB805_013	Chromosome	all	unspanned-gaps	0
+Primary Assembly	STIB805_013	Chromosome	assembled-molecule	total-length	250280
+Primary Assembly	STIB805_013	Chromosome	assembled-molecule	ungapped-length	250280
+Primary Assembly	STIB805_013	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	STIB805_013	Chromosome	assembled-molecule	scaffold-N50	250280
+Primary Assembly	STIB805_013	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	STIB805_013	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	STIB805_013	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	STIB805_013	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	STIB805_013	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	STIB805_013	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	STIB805_013	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	STIB805_013	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	STIB805_014	Chromosome	all	total-length	215240
+Primary Assembly	STIB805_014	Chromosome	all	ungapped-length	215240
+Primary Assembly	STIB805_014	Chromosome	all	scaffold-count	1
+Primary Assembly	STIB805_014	Chromosome	all	scaffold-N50	215240
+Primary Assembly	STIB805_014	Chromosome	all	spanned-gaps	0
+Primary Assembly	STIB805_014	Chromosome	all	unspanned-gaps	0
+Primary Assembly	STIB805_014	Chromosome	assembled-molecule	total-length	215240
+Primary Assembly	STIB805_014	Chromosome	assembled-molecule	ungapped-length	215240
+Primary Assembly	STIB805_014	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	STIB805_014	Chromosome	assembled-molecule	scaffold-N50	215240
+Primary Assembly	STIB805_014	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	STIB805_014	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	STIB805_014	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	STIB805_014	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	STIB805_014	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	STIB805_014	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	STIB805_014	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	STIB805_014	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	STIB805_02	Chromosome	all	total-length	1178500
+Primary Assembly	STIB805_02	Chromosome	all	ungapped-length	1178500
+Primary Assembly	STIB805_02	Chromosome	all	scaffold-count	1
+Primary Assembly	STIB805_02	Chromosome	all	scaffold-N50	1178500
+Primary Assembly	STIB805_02	Chromosome	all	spanned-gaps	0
+Primary Assembly	STIB805_02	Chromosome	all	unspanned-gaps	0
+Primary Assembly	STIB805_02	Chromosome	assembled-molecule	total-length	1178500
+Primary Assembly	STIB805_02	Chromosome	assembled-molecule	ungapped-length	1178500
+Primary Assembly	STIB805_02	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	STIB805_02	Chromosome	assembled-molecule	scaffold-N50	1178500
+Primary Assembly	STIB805_02	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	STIB805_02	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	STIB805_02	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	STIB805_02	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	STIB805_02	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	STIB805_02	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	STIB805_02	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	STIB805_02	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	STIB805_03	Chromosome	all	total-length	1628306
+Primary Assembly	STIB805_03	Chromosome	all	ungapped-length	1628306
+Primary Assembly	STIB805_03	Chromosome	all	scaffold-count	1
+Primary Assembly	STIB805_03	Chromosome	all	scaffold-N50	1628306
+Primary Assembly	STIB805_03	Chromosome	all	spanned-gaps	0
+Primary Assembly	STIB805_03	Chromosome	all	unspanned-gaps	0
+Primary Assembly	STIB805_03	Chromosome	assembled-molecule	total-length	1628306
+Primary Assembly	STIB805_03	Chromosome	assembled-molecule	ungapped-length	1628306
+Primary Assembly	STIB805_03	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	STIB805_03	Chromosome	assembled-molecule	scaffold-N50	1628306
+Primary Assembly	STIB805_03	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	STIB805_03	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	STIB805_03	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	STIB805_03	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	STIB805_03	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	STIB805_03	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	STIB805_03	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	STIB805_03	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	STIB805_04	Chromosome	all	total-length	1566050
+Primary Assembly	STIB805_04	Chromosome	all	ungapped-length	1566050
+Primary Assembly	STIB805_04	Chromosome	all	scaffold-count	1
+Primary Assembly	STIB805_04	Chromosome	all	scaffold-N50	1566050
+Primary Assembly	STIB805_04	Chromosome	all	spanned-gaps	0
+Primary Assembly	STIB805_04	Chromosome	all	unspanned-gaps	0
+Primary Assembly	STIB805_04	Chromosome	assembled-molecule	total-length	1566050
+Primary Assembly	STIB805_04	Chromosome	assembled-molecule	ungapped-length	1566050
+Primary Assembly	STIB805_04	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	STIB805_04	Chromosome	assembled-molecule	scaffold-N50	1566050
+Primary Assembly	STIB805_04	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	STIB805_04	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	STIB805_04	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	STIB805_04	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	STIB805_04	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	STIB805_04	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	STIB805_04	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	STIB805_04	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	STIB805_05	Chromosome	all	total-length	1546486
+Primary Assembly	STIB805_05	Chromosome	all	ungapped-length	1546486
+Primary Assembly	STIB805_05	Chromosome	all	scaffold-count	1
+Primary Assembly	STIB805_05	Chromosome	all	scaffold-N50	1546486
+Primary Assembly	STIB805_05	Chromosome	all	spanned-gaps	0
+Primary Assembly	STIB805_05	Chromosome	all	unspanned-gaps	0
+Primary Assembly	STIB805_05	Chromosome	assembled-molecule	total-length	1546486
+Primary Assembly	STIB805_05	Chromosome	assembled-molecule	ungapped-length	1546486
+Primary Assembly	STIB805_05	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	STIB805_05	Chromosome	assembled-molecule	scaffold-N50	1546486
+Primary Assembly	STIB805_05	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	STIB805_05	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	STIB805_05	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	STIB805_05	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	STIB805_05	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	STIB805_05	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	STIB805_05	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	STIB805_05	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	STIB805_06	Chromosome	all	total-length	1571453
+Primary Assembly	STIB805_06	Chromosome	all	ungapped-length	1571453
+Primary Assembly	STIB805_06	Chromosome	all	scaffold-count	1
+Primary Assembly	STIB805_06	Chromosome	all	scaffold-N50	1571453
+Primary Assembly	STIB805_06	Chromosome	all	spanned-gaps	0
+Primary Assembly	STIB805_06	Chromosome	all	unspanned-gaps	0
+Primary Assembly	STIB805_06	Chromosome	assembled-molecule	total-length	1571453
+Primary Assembly	STIB805_06	Chromosome	assembled-molecule	ungapped-length	1571453
+Primary Assembly	STIB805_06	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	STIB805_06	Chromosome	assembled-molecule	scaffold-N50	1571453
+Primary Assembly	STIB805_06	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	STIB805_06	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	STIB805_06	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	STIB805_06	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	STIB805_06	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	STIB805_06	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	STIB805_06	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	STIB805_06	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	STIB805_07	Chromosome	all	total-length	2188853
+Primary Assembly	STIB805_07	Chromosome	all	ungapped-length	2188853
+Primary Assembly	STIB805_07	Chromosome	all	scaffold-count	1
+Primary Assembly	STIB805_07	Chromosome	all	scaffold-N50	2188853
+Primary Assembly	STIB805_07	Chromosome	all	spanned-gaps	0
+Primary Assembly	STIB805_07	Chromosome	all	unspanned-gaps	0
+Primary Assembly	STIB805_07	Chromosome	assembled-molecule	total-length	2188853
+Primary Assembly	STIB805_07	Chromosome	assembled-molecule	ungapped-length	2188853
+Primary Assembly	STIB805_07	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	STIB805_07	Chromosome	assembled-molecule	scaffold-N50	2188853
+Primary Assembly	STIB805_07	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	STIB805_07	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	STIB805_07	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	STIB805_07	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	STIB805_07	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	STIB805_07	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	STIB805_07	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	STIB805_07	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	STIB805_09	Chromosome	all	total-length	2439084
+Primary Assembly	STIB805_09	Chromosome	all	ungapped-length	2439084
+Primary Assembly	STIB805_09	Chromosome	all	scaffold-count	1
+Primary Assembly	STIB805_09	Chromosome	all	scaffold-N50	2439084
+Primary Assembly	STIB805_09	Chromosome	all	spanned-gaps	0
+Primary Assembly	STIB805_09	Chromosome	all	unspanned-gaps	0
+Primary Assembly	STIB805_09	Chromosome	assembled-molecule	total-length	2439084
+Primary Assembly	STIB805_09	Chromosome	assembled-molecule	ungapped-length	2439084
+Primary Assembly	STIB805_09	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	STIB805_09	Chromosome	assembled-molecule	scaffold-N50	2439084
+Primary Assembly	STIB805_09	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	STIB805_09	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	STIB805_09	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	STIB805_09	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	STIB805_09	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	STIB805_09	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	STIB805_09	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	STIB805_09	Chromosome	unlocalized-scaffold	unspanned-gaps	0

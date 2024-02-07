@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2614577_assembly_stats_genbank.txt	2614577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/669/845/GCA_019669845.1_AcreTS7_1/GCA_019669845.1_AcreTS7_1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_019669845.1	PRJNA571189	SAMN12811583	2614577	strain=TS7	latest	Major	Full	2021-08-18	DOE Joint Genome Institute

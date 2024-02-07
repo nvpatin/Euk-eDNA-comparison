@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2512241_assembly_stats_genbank.txt	2512241	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/182/795/GCA_007182795.1_ASM718279v1/GCA_007182795.1_ASM718279v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_007182795.1	PRJNA545715	SAMN11912834	2512241	strain=G536	latest	Major	Full	2019-07-19	Vanderbilt University

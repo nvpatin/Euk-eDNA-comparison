@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/395376_assembly_stats_genbank.txt	395376	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/931/825/GCA_008931825.1_Phfumi_MTP2014/GCA_008931825.1_Phfumi_MTP2014_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_008931825.1	PRJNA483105	SAMN09668311	395376	strain=Riviera-Ligure-di-Levante-2010	latest	Major	Full	2019-10-09	CNRS

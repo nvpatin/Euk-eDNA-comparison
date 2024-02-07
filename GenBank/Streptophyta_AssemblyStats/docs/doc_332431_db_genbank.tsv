@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/332431_assembly_stats_genbank.txt	332431	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/439/265/GCA_033439265.1_DSuf/GCA_033439265.1_DSuf_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_033439265.1	PRJNA1020456	SAMN37523368	332431	na	latest	Major	Full	2023-11-08	University of Brunei Darussalam

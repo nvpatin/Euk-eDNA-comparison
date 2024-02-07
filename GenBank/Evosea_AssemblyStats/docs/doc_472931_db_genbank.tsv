@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Evosea_AssemblyStats/472931_assembly_stats_genbank.txt	472931	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/081/555/GCA_002081555.1_ASM208155v1/GCA_002081555.1_ASM208155v1_assembly_stats.txt	genbank	GenBank/Evosea_AssemblyStats	representative genome	GCA_002081555.1	PRJNA378938	SAMN06563809	472931	strain=ATCC PRA-154	latest	Major	Full	2017-04-06	University of Cologne

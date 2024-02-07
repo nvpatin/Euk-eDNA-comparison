@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/925988_assembly_stats_genbank.txt	925988	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/434/525/GCA_025434525.1_Mal_alb_V1.0/GCA_025434525.1_Mal_alb_V1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_025434525.1	PRJNA637195	SAMN28789192	925988	ecotype=Enga Province	latest	Major	Full	2022-09-27	Tulane University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/7741_assembly_stats_genbank.txt	7741	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/625/305/GCA_001625305.1_Haploidv18h27/GCA_001625305.1_Haploidv18h27_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_001625305.1	PRJNA214454	SAMN04869859	7741	breed=outbred	latest	Major	Full	2016-04-21	Sun Yat-sen University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/38414_assembly_stats_genbank.txt	38414	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/726/485/GCA_007726485.1_CERZOS_EC1.0/GCA_007726485.1_CERZOS_EC1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_007726485.1	PRJNA508722	SAMN10526598	38414	cultivar=Victoria	latest	Major	Full	2019-08-05	CERZOS-CONICET

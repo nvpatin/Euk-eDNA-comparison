@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/7757_assembly_stats_genbank.txt	7757	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/148/955/GCA_000148955.1_Petromyzon_marinus-7.0/GCA_000148955.1_Petromyzon_marinus-7.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000148955.1	PRJNA12880	SAMN02981275	7757	na	latest	Major	Full	2010-10-07	Washington University (WashU)

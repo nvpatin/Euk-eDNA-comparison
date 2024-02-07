@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/331657_assembly_stats_genbank.txt	331657	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/059/845/GCA_005059845.1_ASM505984v1/GCA_005059845.1_ASM505984v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_005059845.1	PRJNA342238	SAMN06285183	331657	strain=CCFEE 5187	latest	Major	Full	2019-05-02	University of California, Riverside

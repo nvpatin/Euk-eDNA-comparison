@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/326622_assembly_stats_genbank.txt	326622	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/695/765/GCA_022695765.1_Annmor1/GCA_022695765.1_Annmor1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022695765.1	PRJNA567194	SAMN12794443	326622	strain=CBS 123579	latest	Major	Full	2022-03-03	DOE Joint Genome Institute

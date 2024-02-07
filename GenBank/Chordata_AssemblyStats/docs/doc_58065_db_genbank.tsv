@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/58065_assembly_stats_genbank.txt	58065	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/508/835/GCA_003508835.1_Espe.v1/GCA_003508835.1_Espe.v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_003508835.1	PRJNA427241	SAMN08225740	58065	na	latest	Major	Full	2018-09-07	Duke-NUS Medical School

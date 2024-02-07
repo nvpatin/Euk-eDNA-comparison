@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/27350_assembly_stats_genbank.txt	27350	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/008/935/GCA_002008935.1_ASM200893v1/GCA_002008935.1_ASM200893v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_002008935.1	PRJNA277553	SAMN03393588	27350	strain=Race K	latest	Major	Full	2017-03-01	National Research Centre on Plant Biotechnology

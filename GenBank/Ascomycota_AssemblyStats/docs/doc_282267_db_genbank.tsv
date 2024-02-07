@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/282267_assembly_stats_genbank.txt	282267	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/258/505/GCA_025258505.1_ASM2525850v1/GCA_025258505.1_ASM2525850v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_025258505.1	PRJNA784645	SAMN23497909	282267	strain=KCTC 16664	latest	Major	Full	2022-09-19	Soongsil university

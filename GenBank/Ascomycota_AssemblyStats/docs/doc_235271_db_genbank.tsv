@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/235271_assembly_stats_genbank.txt	235271	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/680/505/GCA_001680505.1_ASM168050v1/GCA_001680505.1_ASM168050v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001680505.1	PRJNA289542	SAMN03857069	235271	strain=NRRL 31157	latest	Major	Full	2016-07-06	Iowa State University

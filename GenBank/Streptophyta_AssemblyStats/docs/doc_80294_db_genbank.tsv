@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/80294_assembly_stats_genbank.txt	80294	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/212/285/GCA_026212285.1_INECOL_Bcun_1.0/GCA_026212285.1_INECOL_Bcun_1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_026212285.1	PRJNA828589	SAMN27676928	80294	na	latest	Major	Full	2022-11-16	Instituto de Ecologia A.C

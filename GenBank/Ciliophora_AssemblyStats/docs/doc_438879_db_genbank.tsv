@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ciliophora_AssemblyStats/438879_assembly_stats_genbank.txt	438879	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/439/965/GCA_021439965.1_ASM2143996v1/GCA_021439965.1_ASM2143996v1_assembly_stats.txt	genbank	GenBank/Ciliophora_AssemblyStats	representative genome	GCA_021439965.1	PRJNA721552	SAMN18721446	438879	na	latest	Major	Full	2022-01-11	University of Chinese Academy of Sciences

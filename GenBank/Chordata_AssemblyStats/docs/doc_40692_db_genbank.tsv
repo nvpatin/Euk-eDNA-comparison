@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/40692_assembly_stats_genbank.txt	40692	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/861/695/GCA_012861695.1_KUTl01/GCA_012861695.1_KUTl01_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_012861695.1	PRJNA610666	SAMN14309518	40692	na	latest	Major	Full	2020-04-27	EarthBIogenome Project

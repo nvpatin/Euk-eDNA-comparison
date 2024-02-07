@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/8074_assembly_stats_genbank.txt	8074	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/660/315/GCA_009660315.1_BF1_NORD/GCA_009660315.1_BF1_NORD_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_009660315.1	PRJNA529712	SAMN11284904	8074	na	latest	Major	Full	2019-11-13	Nord university

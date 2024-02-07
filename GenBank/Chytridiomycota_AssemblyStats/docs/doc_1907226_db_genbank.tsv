@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chytridiomycota_AssemblyStats/1907226_assembly_stats_genbank.txt	1907226	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/435/555/GCA_025435555.1_Chyhya1/GCA_025435555.1_Chyhya1_assembly_stats.txt	genbank	GenBank/Chytridiomycota_AssemblyStats	representative genome	GCA_025435555.1	PRJNA346871	SAMN05920684	1907226	strain=JEL632	latest	Major	Full	2022-09-27	DOE Joint Genome Institute

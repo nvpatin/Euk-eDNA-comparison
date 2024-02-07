@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2714763_assembly_stats_genbank.txt	2714763	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/653/215/GCA_001653215.1_ASM165321v1/GCA_001653215.1_ASM165321v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001653215.1	PRJNA311919	SAMN04516662	2714763	strain=UM487	latest	Major	Full	2016-05-27	University of Michigan

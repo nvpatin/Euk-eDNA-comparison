@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/470456_assembly_stats_genbank.txt	470456	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/357/745/GCA_032357745.1_ASM3235774v1/GCA_032357745.1_ASM3235774v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_032357745.1	PRJNA868610	SAMN30260980	470456	strain=CBS 113311, /ecotype=South Korea	latest	Major	Full	2023-10-04	Radbouumc

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/220672_assembly_stats_genbank.txt	220672	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/343/325/GCA_022343325.1_CAIQ.LN.1/GCA_022343325.1_CAIQ.LN.1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022343325.1	PRJNA660251	SAMN15952996	220672	strain=CA1	latest	Major	Full	2022-02-18	Chinese Academy of Inspection and Quarantine

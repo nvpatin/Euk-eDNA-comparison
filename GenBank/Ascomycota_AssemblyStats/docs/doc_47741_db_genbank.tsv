@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/47741_assembly_stats_genbank.txt	47741	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/729/835/GCA_000729835.1_AhypB4728v1/GCA_000729835.1_AhypB4728v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_000729835.1	PRJNA221544	SAMN02911898	47741	strain=B4728	latest	Major	Full	2014-07-15	University of Kentucky

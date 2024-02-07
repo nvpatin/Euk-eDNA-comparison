@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1567481_assembly_stats_genbank.txt	1567481	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/035/079/495/GCA_035079495.1_ASM3507949v1/GCA_035079495.1_ASM3507949v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_035079495.1	PRJNA899549	SAMN31716194	1567481	strain=LA29	latest	Major	Full	2024-01-04	The Ohio State University

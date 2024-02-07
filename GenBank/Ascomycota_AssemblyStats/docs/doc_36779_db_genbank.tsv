@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/36779_assembly_stats_genbank.txt	36779	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/080/095/GCA_016080095.1_ASM1608009v1/GCA_016080095.1_ASM1608009v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_016080095.1	PRJNA666297	SAMN16287657	36779	strain=R3-111a-1	latest	Major	Full	2020-12-15	Changwon National University

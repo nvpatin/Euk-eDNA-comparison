@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/73575_assembly_stats_genbank.txt	73575	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/159/065/GCA_023159065.1_dipPot-OKA15-asm/GCA_023159065.1_dipPot-OKA15-asm_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_023159065.1	PRJNA684565	SAMN17860560	73575	cultivar=OKA15	latest	Major	Full	2022-04-27	McGill University

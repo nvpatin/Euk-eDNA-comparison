@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/153919_assembly_stats_genbank.txt	153919	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/919/835/GCA_027919835.1_Lenrap1/GCA_027919835.1_Lenrap1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_027919835.1	PRJNA444095	SAMN08778394	153919	strain=INPA1701G ss19	latest	Major	Full	2023-01-18	DOE Joint Genome Institute

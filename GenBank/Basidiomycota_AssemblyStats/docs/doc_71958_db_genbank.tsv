@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/71958_assembly_stats_genbank.txt	71958	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/987/895/GCA_003987895.1_ASM398789v1/GCA_003987895.1_ASM398789v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_003987895.1	PRJNA476325	SAMN10215881	71958	strain=BIN 2379	latest	Major	Full	2018-12-31	Universidade de Sao Paulo

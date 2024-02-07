@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Platyhelminthes_AssemblyStats/6192_assembly_stats_genbank.txt	6192	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/947/175/GCA_000947175.1_Fhepatica_v1/GCA_000947175.1_Fhepatica_v1_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	na	GCA_000947175.1	PRJEB6687	SAMEA2629804	6192	na	latest	Major	Full	2014-12-01	LIV

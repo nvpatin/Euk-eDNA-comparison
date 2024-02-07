@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Bacillariophyta_AssemblyStats/29204_assembly_stats_genbank.txt	29204	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/187/285/GCA_013187285.1_ASM1318728v1/GCA_013187285.1_ASM1318728v1_assembly_stats.txt	genbank	GenBank/Bacillariophyta_AssemblyStats	representative genome	GCA_013187285.1	PRJNA628076	SAMN14906635	29204	strain=CCMP332	latest	Major	Full	2020-05-29	University of Arkansas

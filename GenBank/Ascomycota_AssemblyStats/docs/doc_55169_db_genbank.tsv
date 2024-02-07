@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/55169_assembly_stats_genbank.txt	55169	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/717/445/GCA_001717445.1_ASM171744v1/GCA_001717445.1_ASM171744v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001717445.1	PRJNA339035	SAMN05578881	55169	strain=LW030101	latest	Major	Full	2016-08-31	Qingdao Agricultural University

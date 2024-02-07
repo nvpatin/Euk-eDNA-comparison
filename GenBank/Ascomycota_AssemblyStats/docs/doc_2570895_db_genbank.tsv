@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2570895_assembly_stats_genbank.txt	2570895	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/508/685/GCA_016508685.1_ASM1650868v1/GCA_016508685.1_ASM1650868v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_016508685.1	PRJNA675330	SAMN16704286	2570895	strain=CFCC52841	latest	Major	Full	2021-01-05	Beijing forestry university

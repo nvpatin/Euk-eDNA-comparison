@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/37003_assembly_stats_genbank.txt	37003	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/663/955/GCA_001663955.1_ASM166395v1/GCA_001663955.1_ASM166395v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_001663955.1	PRJNA290522	SAMN03892719	37003	strain=RHL	latest	Major	Full	2016-06-17	Washington State University

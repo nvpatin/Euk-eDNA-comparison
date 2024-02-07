@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/364715_assembly_stats_genbank.txt	364715	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/030/925/GCA_021030925.1_ASM2103092v1/GCA_021030925.1_ASM2103092v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_021030925.1	PRJNA714959	SAMN18321785	364715	na	latest	Major	Full	2021-12-03	Field Museum of Natural History

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/1617102_assembly_stats_genbank.txt	1617102	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/068/985/GCA_900068985.1_Pterula_subulata-8/GCA_900068985.1_Pterula_subulata-8_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_900068985.1	PRJEB8570	SAMEA3267771	1617102	na	latest	Major	Full	2020-07-09	Royal Botanic Gardens, Kew

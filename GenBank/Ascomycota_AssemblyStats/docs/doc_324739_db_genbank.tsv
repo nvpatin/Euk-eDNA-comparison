@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/324739_assembly_stats_genbank.txt	324739	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/155/655/GCA_019155655.1_ASM1915565v1/GCA_019155655.1_ASM1915565v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_019155655.1	PRJNA706002	SAMN18109229	324739	strain=NCC-J	latest	Major	Full	2021-07-07	Worcester Polytechnic Institute

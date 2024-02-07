@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/49556_assembly_stats_genbank.txt	49556	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/931/105/GCA_008931105.1_ASM893110v1/GCA_008931105.1_ASM893110v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_008931105.1	PRJNA483449	SAMN09739212	49556	cultivar=Liyang Baiqin	latest	Major	Full	2019-10-09	Nanjing Agricultural University

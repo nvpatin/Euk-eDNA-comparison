@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/1202772_assembly_stats_genbank.txt	1202772	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/081/595/GCA_002081595.1_ACH_lane_v1/GCA_002081595.1_ACH_lane_v1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_002081595.1	PRJNA169234	SAMN02690054	1202772	strain=ATCC 48635	latest	Major	Full	2017-04-06	University of Rhode Island

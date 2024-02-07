@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/37293_assembly_stats_genbank.txt	37293	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/952/055/GCA_000952055.2_Anan_2.0/GCA_000952055.2_Anan_2.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_000952055.2	PRJNA251539	SAMN03121886	37293	na	latest	Major	Full	2017-06-09	Baylor College of Medicine

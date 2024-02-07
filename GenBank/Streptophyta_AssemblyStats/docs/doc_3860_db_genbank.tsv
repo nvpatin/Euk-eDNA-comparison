@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/3860_assembly_stats_genbank.txt	3860	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/207/245/GCA_902207245.1_LS007_EIv1_GenomeAssembly/GCA_902207245.1_LS007_EIv1_GenomeAssembly_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_902207245.1	PRJEB33571	SAMEA5780068	3860	na	latest	Major	Full	2021-07-22	JOHN INNES CENTRE, NORWICH, UK.

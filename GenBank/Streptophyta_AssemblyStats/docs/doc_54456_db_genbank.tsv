@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/54456_assembly_stats_genbank.txt	54456	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/932/045/GCA_008932045.1_ASM893204v1/GCA_008932045.1_ASM893204v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_008932045.1	PRJNA529342	SAMN11265005	54456	ecotype=Guangzhou	latest	Major	Full	2019-10-09	Sun Yat-sen University

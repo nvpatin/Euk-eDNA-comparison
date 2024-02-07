@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1926583_assembly_stats_genbank.txt	1926583	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/919/785/GCA_004919785.1_ASM491978v1/GCA_004919785.1_ASM491978v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_004919785.1	PRJNA529215	SAMN11259521	1926583	strain=ZIM 2603	latest	Major	Full	2019-04-29	UW-Madison

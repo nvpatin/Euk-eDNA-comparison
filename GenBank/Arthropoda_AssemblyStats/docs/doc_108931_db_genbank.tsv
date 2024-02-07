@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/108931_assembly_stats_genbank.txt	108931	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/757/685/GCA_000757685.1_NilLug1.0/GCA_000757685.1_NilLug1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000757685.1	PRJNA177647	SAMN03077662	108931	na	latest	Major	Full	2014-09-24	Nilaparvata lugens Genome Consortium

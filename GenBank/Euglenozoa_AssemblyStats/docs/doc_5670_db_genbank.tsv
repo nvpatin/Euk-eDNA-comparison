@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Euglenozoa_AssemblyStats/5670_assembly_stats_genbank.txt	5670	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/970/365/GCA_024970365.1_ASM2497036v1/GCA_024970365.1_ASM2497036v1_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	representative genome	GCA_024970365.1	PRJNA872130	SAMN30439819	5670	strain=M4147	latest	Major	Full	2022-09-06	University of Missouri

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/38873_assembly_stats_genbank.txt	38873	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/149/125/GCA_900149125.1_BATG-0.5/GCA_900149125.1_BATG-0.5_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_900149125.1	PRJEB4958	SAMEA2248197	38873	na	latest	Major	Full	2017-01-20	QMUL

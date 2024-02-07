@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/1280837_assembly_stats_genbank.txt	1280837	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/144/205/GCA_003144205.1_Meimi1/GCA_003144205.1_Meimi1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_003144205.1	PRJNA247836	SAMN02787052	1280837	strain=MCA 3882	latest	Major	Full	2018-05-21	DOE Joint Genome Institute

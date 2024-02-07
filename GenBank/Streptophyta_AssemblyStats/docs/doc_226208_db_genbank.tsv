@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/226208_assembly_stats_genbank.txt	226208	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/432/925/GCA_016432925.1_NRC_Smil_1.0/GCA_016432925.1_NRC_Smil_1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_016432925.1	PRJNA682867	SAMN17013071	226208	cultivar=bh2-7	latest	Major	Full	2020-12-29	National Resource Center for Chinese Materia Medica

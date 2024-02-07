@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/2015917_assembly_stats_genbank.txt	2015917	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/913/698/005/GCA_913698005.1_Psono2/GCA_913698005.1_Psono2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_913698005.1	PRJEB46387	SAMN07461352	2015917	na	latest	Major	Full	2021-09-13	UNIVERSITY OF LIVERPOOL

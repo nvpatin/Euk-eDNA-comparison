@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/210430_assembly_stats_genbank.txt	210430	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/015/745/GCA_010015745.1_Setho1/GCA_010015745.1_Setho1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_010015745.1	PRJNA245746	SAMN02744843	210430	strain=CBS 110217	latest	Major	Full	2020-01-29	DOE Joint Genome Institute

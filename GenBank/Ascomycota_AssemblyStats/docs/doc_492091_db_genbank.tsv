@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/492091_assembly_stats_genbank.txt	492091	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/385/655/GCA_022385655.1_Xylint1/GCA_022385655.1_Xylint1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022385655.1	PRJNA567306	SAMN12794378	492091	strain=YMJ 725	latest	Major	Full	2022-02-22	DOE Joint Genome Institute

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/5643_assembly_stats_genbank.txt	5643	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/765/035/GCA_000765035.1_BN946/GCA_000765035.1_BN946_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_000765035.1	PRJEB5237	SAMEA3158467	5643	strain=BRFM137	latest	Major	Full	2014-09-29	INRA_UMR1163_BCF

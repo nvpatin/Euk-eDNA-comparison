@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/2804962_assembly_stats_genbank.txt	2804962	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/921/405/GCA_027921405.1_LboTFB7810_1/GCA_027921405.1_LboTFB7810_1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_027921405.1	PRJNA460315	SAMN09070709	2804962	strain=TFB7810	latest	Major	Full	2023-01-20	DOE Joint Genome Institute

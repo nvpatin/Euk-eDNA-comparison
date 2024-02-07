@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/56191_assembly_stats_genbank.txt	56191	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/524/465/GCA_018524465.1_ASM1852446v1/GCA_018524465.1_ASM1852446v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_018524465.1	PRJNA681736	SAMN17013565	56191	strain=LINN1287.7	latest	Major	Full	2021-05-26	University of Copenhagen

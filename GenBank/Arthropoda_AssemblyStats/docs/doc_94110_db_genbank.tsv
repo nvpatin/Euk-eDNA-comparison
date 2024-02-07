@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/94110_assembly_stats_genbank.txt	94110	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/874/455/GCA_018874455.1_ASM1887445v1/GCA_018874455.1_ASM1887445v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_018874455.1	PRJNA680378	SAMN16878970	94110	na	latest	Major	Full	2021-06-14	University of Montana

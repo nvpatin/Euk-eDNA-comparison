@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/246814_assembly_stats_genbank.txt	246814	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/987/765/GCA_949987765.1_mPipPyg2.1_alternate_haplotype/GCA_949987765.1_mPipPyg2.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_949987765.1	PRJEB61582	SAMEA9921456	246814	na	latest	Major	Full	2023-04-29	WELLCOME SANGER INSTITUTE

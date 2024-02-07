@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Echinodermata_AssemblyStats/466999_assembly_stats_genbank.txt	466999	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/014/325/GCA_021014325.1_ASM2101432v1/GCA_021014325.1_ASM2101432v1_assembly_stats.txt	genbank	GenBank/Echinodermata_AssemblyStats	representative genome	GCA_021014325.1	PRJNA776097	SAMN22733310	466999	na	latest	Major	Full	2021-11-30	eGnome Inc.

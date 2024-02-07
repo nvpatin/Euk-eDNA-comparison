@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/40442_assembly_stats_genbank.txt	40442	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/606/135/GCA_022606135.1_Fomfom1/GCA_022606135.1_Fomfom1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_022606135.1	PRJNA444027	SAMN08778676	40442	strain=CIRM-BRFM 1821	latest	Major	Full	2022-03-16	DOE Joint Genome Institute

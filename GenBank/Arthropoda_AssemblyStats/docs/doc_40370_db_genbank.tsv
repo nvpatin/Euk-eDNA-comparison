@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/40370_assembly_stats_genbank.txt	40370	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/086/615/GCA_003086615.1_ASM308661v1/GCA_003086615.1_ASM308661v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_003086615.1	PRJNA312336	SAMN04511083	40370	breed=Can3F9	latest	Major	Full	2018-05-02	University of St. Andrews

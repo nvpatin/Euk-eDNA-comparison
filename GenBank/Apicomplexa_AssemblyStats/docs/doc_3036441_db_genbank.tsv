@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Apicomplexa_AssemblyStats/3036441_assembly_stats_genbank.txt	3036441	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/066/265/GCA_904066265.1_OTUz.scaffolds/GCA_904066265.1_OTUz.scaffolds_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	representative genome	GCA_904066265.1	PRJEB40060	SAMEA7277334	3036441	na	latest	Major	Full	2021-06-02	Royal Veterinary College

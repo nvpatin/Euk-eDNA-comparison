@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Apicomplexa_AssemblyStats/647221_assembly_stats_genbank.txt	647221	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/576/715/GCA_000576715.1_PGAB1/GCA_000576715.1_PGAB1_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	na	GCA_000576715.1	PRJEB4435	SAMEA3138921	647221	strain=Pgk	latest	Major	Full	2014-02-03	WTSI

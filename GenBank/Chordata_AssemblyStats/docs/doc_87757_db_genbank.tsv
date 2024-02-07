@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/87757_assembly_stats_genbank.txt	87757	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/901/007/815/GCA_901007815.1_Mullus_surmuletus_assembly/GCA_901007815.1_Mullus_surmuletus_assembly_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_901007815.1	PRJEB32126	SAMEA5563357	87757	na	latest	Major	Full	2020-04-15	CEES

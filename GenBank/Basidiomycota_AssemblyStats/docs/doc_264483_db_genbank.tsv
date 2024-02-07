@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/264483_assembly_stats_genbank.txt	264483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/579/715/GCA_001579715.1_ASM157971v1/GCA_001579715.1_ASM157971v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_001579715.1	PRJNA306035	SAMN04456988	264483	strain=CBS 7918	latest	Major	Full	2016-03-03	Universidad Nacional del Comahue

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Euglenozoa_AssemblyStats/5660_assembly_stats_genbank.txt	5660	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/304/975/GCA_003304975.1_IOC-L_3564/GCA_003304975.1_IOC-L_3564_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	na	GCA_003304975.1	PRJNA454506	SAMN09009547	5660	strain=IOC-L 3564	latest	Major	Full	2018-07-11	FUND. UNIVERSIDADE FEDERAL DE RONDONIA

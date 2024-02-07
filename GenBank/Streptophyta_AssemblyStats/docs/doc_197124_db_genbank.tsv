@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/197124_assembly_stats_genbank.txt	197124	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/664/735/GCA_030664735.1_ASM3066473v1/GCA_030664735.1_ASM3066473v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_030664735.1	PRJNA1000082	SAMN36759043	197124	na	latest	Major	Full	2023-08-07	Chinese Academy of Sciences (CAS)

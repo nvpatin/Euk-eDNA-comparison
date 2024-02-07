@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Apicomplexa_AssemblyStats/51314_assembly_stats_genbank.txt	51314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/499/725/GCA_000499725.1_EBH001/GCA_000499725.1_EBH001_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	representative genome	GCA_000499725.1	PRJEB4834	SAMEA3138828	51314	strain=Houghton	latest	Major	Full	2013-11-07	SC

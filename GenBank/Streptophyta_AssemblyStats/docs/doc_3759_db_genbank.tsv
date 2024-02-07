@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/3759_assembly_stats_genbank.txt	3759	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/406/145/GCA_005406145.1_CYE_r3.1/GCA_005406145.1_CYE_r3.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_005406145.1	PRJDB7997	SAMD00162631	3759	cultivar=Somei-yoshino	latest	Major	Full	2019-03-18	Kazusa DNA Research Institute

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/338710_assembly_stats_genbank.txt	338710	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/068/185/GCA_030068185.1_ASM3006818v1/GCA_030068185.1_ASM3006818v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_030068185.1	PRJNA889050	SAMN31231311	338710	na	latest	Major	Full	2023-05-24	UFSB - Universidade Federal do Sul da Bahia

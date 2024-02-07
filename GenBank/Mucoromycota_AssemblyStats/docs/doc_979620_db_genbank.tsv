@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Mucoromycota_AssemblyStats/979620_assembly_stats_genbank.txt	979620	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/499/975/GCA_015499975.1_UCR_DornN22417_1.0/GCA_015499975.1_UCR_DornN22417_1.0_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	na	GCA_015499975.1	PRJNA340805	SAMN05720457	979620	strain=Z 71	latest	Major	Full	2020-11-16	DOE Joint Genome Institute

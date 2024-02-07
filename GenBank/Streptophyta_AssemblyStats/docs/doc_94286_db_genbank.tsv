@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/94286_assembly_stats_genbank.txt	94286	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/681/165/GCA_004681165.1_RDA_PgrJ_v1/GCA_004681165.1_RDA_PgrJ_v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_004681165.1	PRJNA526590	SAMN11104589	94286	cultivar=Jangbaek-doraji	latest	Major	Full	2019-04-05	Theragen Etex Bio Institute

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Porifera_AssemblyStats/68564_assembly_stats_genbank.txt	68564	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/044/245/GCA_947044245.1_odPetFici3.1_alternate_haplotype/GCA_947044245.1_odPetFici3.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Porifera_AssemblyStats	na	GCA_947044245.1	PRJEB56514	SAMEA9361899	68564	na	latest	Major	Full	2022-10-08	WELLCOME SANGER INSTITUTE

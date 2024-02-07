@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/34274_assembly_stats_genbank.txt	34274	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/584/905/GCA_025584905.1_A1.wagad.PGA/GCA_025584905.1_A1.wagad.PGA_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_025584905.1	PRJNA614591	SAMN14433430	34274	cultivar=wagad	latest	Major	Full	2022-10-06	USDA-ARS

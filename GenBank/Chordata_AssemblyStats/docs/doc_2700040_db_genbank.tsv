@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/2700040_assembly_stats_genbank.txt	2700040	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/207/075/GCA_019207075.1_Bb-hap/GCA_019207075.1_Bb-hap_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_019207075.1	PRJNA706157	SAMN13907882	2700040	na	latest	Major	Full	2021-07-13	University of Vienna

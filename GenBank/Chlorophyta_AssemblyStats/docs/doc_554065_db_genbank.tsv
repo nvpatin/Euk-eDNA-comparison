@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chlorophyta_AssemblyStats/554065_assembly_stats_genbank.txt	554065	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/147/415/GCA_000147415.1_v_1.0/GCA_000147415.1_v_1.0_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_000147415.1	PRJNA45853	SAMN02744065	554065	strain=NC64A	latest	Major	Full	2010-09-16	JGI

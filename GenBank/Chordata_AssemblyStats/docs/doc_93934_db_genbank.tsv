@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/93934_assembly_stats_genbank.txt	93934	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/511/605/GCA_000511605.2_Coja_2.0a/GCA_000511605.2_Coja_2.0a_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000511605.2	PRJDB1146	SAMD00009971	93934	strain=L	latest	Major	Full	2016-06-29	Tokyo University of Agriculture

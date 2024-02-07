@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/48420_assembly_stats_genbank.txt	48420	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/006/375/GCA_900006375.2_Gulo_2.2_annotated/GCA_900006375.2_Gulo_2.2_annotated_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_900006375.2	PRJEB10674	SAMEA3522159	48420	na	latest	Major	Full	2018-12-06	Uppsala University

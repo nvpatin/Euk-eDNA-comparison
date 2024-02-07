@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/623740_assembly_stats_genbank.txt	623740	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/490/495/GCA_900490495.1_fDanDra1.1/GCA_900490495.1_fDanDra1.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_900490495.1	PRJEB27320	SAMEA104026433	623740	na	latest	Major	Full	2018-07-01	SC

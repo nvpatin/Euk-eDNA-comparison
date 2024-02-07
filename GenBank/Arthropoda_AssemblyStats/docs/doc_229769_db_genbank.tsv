@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/229769_assembly_stats_genbank.txt	229769	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/988/765/GCA_000988765.1_ASM98876v1/GCA_000988765.1_ASM98876v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_000988765.1	PRJNA280488	SAMN03463190	229769	na	latest	Major	Full	2015-05-06	University of Lausanne

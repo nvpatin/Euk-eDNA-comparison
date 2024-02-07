@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/2849586_assembly_stats_genbank.txt	2849586	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/724/115/GCA_003724115.2_FoenVul1.1/GCA_003724115.2_FoenVul1.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_003724115.2	PRJNA419638	SAMN07983892	2849586	cultivar=OL2	latest	Major	Full	2018-11-13	University of Padua

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/269621_assembly_stats_genbank.txt	269621	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/096/595/GCA_900096595.1_Microbotrium_Intermedium_Assembly/GCA_900096595.1_Microbotrium_Intermedium_Assembly_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_900096595.1	PRJEB15277	SAMEA4412808	269621	na	latest	Major	Full	2017-07-16	ESE

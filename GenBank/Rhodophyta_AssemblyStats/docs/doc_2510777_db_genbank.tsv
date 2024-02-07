@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Rhodophyta_AssemblyStats/2510777_assembly_stats_genbank.txt	2510777	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/374/765/GCA_030374765.1_ASM3037476v1/GCA_030374765.1_ASM3037476v1_assembly_stats.txt	genbank	GenBank/Rhodophyta_AssemblyStats	representative genome	GCA_030374765.1	PRJNA931233	SAMN33052269	2510777	cultivar=NLEC103-M9	latest	Major	Full	2023-06-29	Rhodoexplorer

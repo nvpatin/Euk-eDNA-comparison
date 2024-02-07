@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chytridiomycota_AssemblyStats/110081_assembly_stats_genbank.txt	110081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/765/595/GCA_025765595.1_Obemuc1/GCA_025765595.1_Obemuc1_assembly_stats.txt	genbank	GenBank/Chytridiomycota_AssemblyStats	representative genome	GCA_025765595.1	PRJNA333499	SAMN05443010	110081	strain=JEL802	latest	Major	Full	2022-10-16	DOE Joint Genome Institute

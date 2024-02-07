@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Platyhelminthes_AssemblyStats/6211_assembly_stats_genbank.txt	6211	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/469/725/GCA_000469725.3_EMULTI002/GCA_000469725.3_EMULTI002_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	representative genome	GCA_000469725.3	PRJEB122	SAMEA2271939	6211	na	latest	Major	Full	2015-12-10	WTSI

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/7998_assembly_stats_genbank.txt	7998	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/006/655/GCA_004006655.3_ASM400665v3/GCA_004006655.3_ASM400665v3_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_004006655.3	PRJNA427343	SAMN08235469	7998	strain=USDA103-YYmale1	latest	Major	Full	2019-01-25	Auburn University

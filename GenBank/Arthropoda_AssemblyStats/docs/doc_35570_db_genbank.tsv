@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/35570_assembly_stats_genbank.txt	35570	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/015/335/GCA_001015335.1_Stomoxys_calcitrans-1.0.1/GCA_001015335.1_Stomoxys_calcitrans-1.0.1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_001015335.1	PRJNA188117	SAMN03486548	35570	breed=8C7A2A5H3J4	latest	Major	Full	2015-05-31	Glossina Genomes Consortium

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Platyhelminthes_AssemblyStats/2783799_assembly_stats_genbank.txt	2783799	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/710/315/GCA_030710315.1_JGU_Abre_1.0/GCA_030710315.1_JGU_Abre_1.0_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	representative genome	GCA_030710315.1	PRJNA997329	SAMN36675037	2783799	na	latest	Major	Full	2023-08-11	Johannes Gutenberg-Universitat Mainz

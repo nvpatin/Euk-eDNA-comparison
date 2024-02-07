@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/38618_assembly_stats_genbank.txt	38618	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/680/675/GCA_011680675.1_LBP_v1/GCA_011680675.1_LBP_v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_011680675.1	PRJNA593327	SAMN13475009	38618	na	latest	Major	Full	2020-03-23	Deakin University

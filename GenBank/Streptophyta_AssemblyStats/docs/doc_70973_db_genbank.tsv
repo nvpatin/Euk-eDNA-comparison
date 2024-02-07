@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/70973_assembly_stats_genbank.txt	70973	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/208/015/GCA_018208015.1_ASM1820801v1/GCA_018208015.1_ASM1820801v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_018208015.1	PRJNA591060	SAMN13351545	70973	na	latest	Major	Full	2021-05-13	Institute of Botany, CAS

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/62890_assembly_stats_genbank.txt	62890	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/577/655/GCA_000577655.1_Sohab10/GCA_000577655.1_Sohab10_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000577655.1	PRJEB5227	SAMEA3138934	62890	na	latest	Major	Full	2014-02-21	PRI

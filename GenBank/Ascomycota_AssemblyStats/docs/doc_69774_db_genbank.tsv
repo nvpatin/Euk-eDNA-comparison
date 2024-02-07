@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/69774_assembly_stats_genbank.txt	69774	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/401/425/GCA_026401425.1_ASM2640142v1/GCA_026401425.1_ASM2640142v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_026401425.1	PRJNA854755	SAMN29446570	69774	strain=XQL_2021	latest	Major	Full	2022-11-25	Guanxi University

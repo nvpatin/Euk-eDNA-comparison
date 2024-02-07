@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/1534307_assembly_stats_genbank.txt	1534307	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/829/145/GCA_022829145.1_AGOR_1.0/GCA_022829145.1_AGOR_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_022829145.1	PRJNA692825	SAMN17371263	1534307	ecotype=Florida	latest	Major	Full	2022-04-08	GenoFish

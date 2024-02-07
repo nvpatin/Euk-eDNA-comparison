@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Porifera_AssemblyStats/289389_assembly_stats_genbank.txt	289389	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/275/595/GCA_900275595.1_Aplysina23_polished_assembly/GCA_900275595.1_Aplysina23_polished_assembly_assembly_stats.txt	genbank	GenBank/Porifera_AssemblyStats	na	GCA_900275595.1	PRJEB24804	SAMEA104567057	289389	na	latest	Major	Partial	2018-02-14	Rijksuniversiteit Groningen

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/56733_assembly_stats_genbank.txt	56733	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/505/465/GCA_025505465.1_UOregon_EleMac_20160408/GCA_025505465.1_UOregon_EleMac_20160408_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_025505465.1	PRJNA490204	SAMN10027734	56733	na	latest	Major	Full	2022-09-30	University of Oregon

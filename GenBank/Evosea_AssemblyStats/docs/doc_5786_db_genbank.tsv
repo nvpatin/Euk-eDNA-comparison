@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Evosea_AssemblyStats/5786_assembly_stats_genbank.txt	5786	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/640/415/GCA_003640415.1_KYO_Dpur_P1Ba_4/GCA_003640415.1_KYO_Dpur_P1Ba_4_assembly_stats.txt	genbank	GenBank/Evosea_AssemblyStats	na	GCA_003640415.1	PRJNA493904	SAMN10145290	5786	strain=P1Ba	latest	Major	Full	2018-10-12	Kyoto University

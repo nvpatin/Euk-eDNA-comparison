@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Cnidaria_AssemblyStats/388437_assembly_stats_genbank.txt	388437	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/457/155/GCA_022457155.1_ASM2245715v1/GCA_022457155.1_ASM2245715v1_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	representative genome	GCA_022457155.1	PRJNA776711	SAMN22814980	388437	na	latest	Major	Full	2022-03-03	South China Sea Institute of Oceanography

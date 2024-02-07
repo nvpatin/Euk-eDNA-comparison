@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1736662_assembly_stats_genbank.txt	1736662	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/621/405/GCA_014621405.1_ASM1462140v1/GCA_014621405.1_ASM1462140v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_014621405.1	PRJNA609831	SAMN14260592	1736662	strain=IHI 201603	latest	Major	Full	2020-09-17	TU Dresden - IHI Zittau

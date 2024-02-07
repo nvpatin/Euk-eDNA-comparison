@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/578093_assembly_stats_genbank.txt	578093	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/093/515/GCA_010093515.1_Linrh1/GCA_010093515.1_Linrh1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_010093515.1	PRJNA334192	SAMN05446853	578093	strain=ATCC 16933	latest	Major	Full	2020-01-31	DOE Joint Genome Institute

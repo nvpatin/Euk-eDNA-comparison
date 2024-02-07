@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/329116_assembly_stats_genbank.txt	329116	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/397/915/GCA_021397915.2_ASM2139791v2/GCA_021397915.2_ASM2139791v2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_021397915.2	PRJNA708136	SAMN18219393	329116	na	latest	Major	Full	2022-04-27	UNIVERSITI MALAYSIA SARAWAK

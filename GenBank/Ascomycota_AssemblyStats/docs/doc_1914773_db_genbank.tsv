@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1914773_assembly_stats_genbank.txt	1914773	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/183/095/GCA_014183095.1_ASM1418309v1/GCA_014183095.1_ASM1418309v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_014183095.1	PRJNA635322	SAMN15249238	1914773	strain=PL1004	latest	Major	Full	2020-08-13	University of Florida

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1365815_assembly_stats_genbank.txt	1365815	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/872/975/GCA_014872975.1_ASM1487297v1/GCA_014872975.1_ASM1487297v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_014872975.1	PRJNA660209	SAMN15944717	1365815	strain=ZJUD30	latest	Major	Full	2020-10-09	ZHEJIANG UNIVERSITY

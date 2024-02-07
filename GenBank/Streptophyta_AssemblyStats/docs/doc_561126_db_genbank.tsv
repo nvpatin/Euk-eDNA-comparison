@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/561126_assembly_stats_genbank.txt	561126	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/582/625/GCA_029582625.1_blv1353/GCA_029582625.1_blv1353_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_029582625.1	PRJNA779368	SAMN23440986	561126	na	latest	Major	Full	2023-04-04	McGill University

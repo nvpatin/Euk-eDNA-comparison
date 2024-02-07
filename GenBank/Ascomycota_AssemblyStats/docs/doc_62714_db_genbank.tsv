@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/62714_assembly_stats_genbank.txt	62714	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/912/115/GCA_006912115.1_ASM691211v1/GCA_006912115.1_ASM691211v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_006912115.1	PRJNA540711	SAMN11554066	62714	na	latest	Major	Full	2019-07-11	The Ohio State University

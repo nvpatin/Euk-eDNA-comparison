@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/38162_assembly_stats_genbank.txt	38162	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/651/945/GCA_902651945.1_Ophraella_communa_draft_assembly/GCA_902651945.1_Ophraella_communa_draft_assembly_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_902651945.1	PRJEB35242	SAMEA6158348	38162	na	latest	Major	Full	2020-06-05	SIB

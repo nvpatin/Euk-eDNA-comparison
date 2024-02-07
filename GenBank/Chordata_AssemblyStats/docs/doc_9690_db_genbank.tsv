@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/9690_assembly_stats_genbank.txt	9690	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/023/805/GCA_004023805.1_PanOnc_v1_BIUU/GCA_004023805.1_PanOnc_v1_BIUU_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_004023805.1	PRJNA399411	SAMN07678103	9690	na	latest	Major	Full	2019-01-15	Broad Institute

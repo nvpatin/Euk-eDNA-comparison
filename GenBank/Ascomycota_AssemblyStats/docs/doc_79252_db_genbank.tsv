@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/79252_assembly_stats_genbank.txt	79252	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/627/015/GCA_022627015.2_ASM2262701v2/GCA_022627015.2_ASM2262701v2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022627015.2	PRJNA744412	SAMN20669290	79252	na	latest	Major	Full	2022-03-18	NIAB EMR

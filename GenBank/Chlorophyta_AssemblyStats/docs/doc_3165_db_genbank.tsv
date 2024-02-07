@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chlorophyta_AssemblyStats/3165_assembly_stats_genbank.txt	3165	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/384/855/GCA_006384855.1_TSEL_PacBio_SMRT/GCA_006384855.1_TSEL_PacBio_SMRT_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_006384855.1	PRJNA542153	SAMN11613237	3165	strain=LANL1001	latest	Major	Full	2019-06-21	Los Alamos National Laboratory

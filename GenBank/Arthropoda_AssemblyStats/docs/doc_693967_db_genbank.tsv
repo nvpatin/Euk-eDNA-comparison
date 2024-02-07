@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/693967_assembly_stats_genbank.txt	693967	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/851/325/GCA_014851325.1_Penig_v1/GCA_014851325.1_Penig_v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_014851325.1	PRJNA628023	SAMN14694489	693967	na	latest	Major	Full	2020-10-05	International Institute of Tropical Agriculture

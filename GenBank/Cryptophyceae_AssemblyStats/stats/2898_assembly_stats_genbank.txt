@@ -1,0 +1,109 @@
+# Assembly Statistics Report
+# Assembly name:  ASM19445v1
+# Description:    Cryptomonas paramecium nucleomorph and plastid genomes
+# Organism name:  Cryptomonas paramecium (cryptomonads)
+# Infraspecific name:  strain=CCAP977/2A
+# Taxid:          2898
+# BioProject:     PRJNA51145
+# Submitter:      Department of Biochemistry & Molecular Biology, Dalhousie University
+# Date:           2011-03-30
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: partial
+# Excluded from RefSeq: partial
+# GenBank assembly accession: GCA_000194455.1
+# RefSeq assembly accession: GCF_000194455.1
+# RefSeq assembly and GenBank assemblies identical: no
+# Reporting on RefSeq assembly.
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000194465.1	GCF_000194465.1	Primary Assembly (nucleomorph)
+## 	GCF_000087795.1	non-nuclear
+#
+# Statistic Types
+# Statistic	Description
+# component-count	Number of unique components
+# gc-perc	gc-count/atgc-count as percentage
+# molecule-count	Number of chromosomes and plasmids in full assembly
+# region-count	Number of genomic regions defined in full assembly
+# spanned-gaps	Number of spanned gaps. Spanned gaps are gaps within a scaffold
+# top-level-count	Number of chromosomes or plasmids, unplaced/unlocalized scaffolds, alt-loci scaffolds, and patch scaffolds
+# total-gap-length	Total length of gaps
+# total-length	Total sequence length including bases and gaps
+# ungapped-length	Total length excluding gaps
+# unspanned-gaps	Number of unspanned gaps. Unspanned gaps are gaps between scaffolds
+#
+# Sequence-type Description
+# all	statistic covers all the sequences in the unit-assembly and molecule(s) specified.
+# molecule	statistic covers the specified molecule. molecule-name and molecule-type/loc will be given.
+# unlocalized	statistic covers the sequences assigned to a molecule but with no position. molecule-name and molecule-type/loc will be given.
+# unplaced	statistic covers the sequences not assigned to any molecule in the assembly.
+#
+# unit-name	molecule-name	molecule-type/loc	sequence-type	statistic	value
+all	all	all	all	total-length	487066
+all	all	all	all	spanned-gaps	0
+all	all	all	all	unspanned-gaps	0
+all	all	all	all	region-count	0
+all	all	all	all	total-gap-length	0
+all	all	all	all	molecule-count	3
+all	all	all	all	top-level-count	3
+all	all	all	all	component-count	3
+all	all	all	all	gc-perc	26
+Primary Assembly (nucleomorph)	all	all	all	total-length	487066
+Primary Assembly (nucleomorph)	all	all	all	ungapped-length	487066
+Primary Assembly (nucleomorph)	all	all	all	spanned-gaps	0
+Primary Assembly (nucleomorph)	all	all	all	unspanned-gaps	0
+Primary Assembly (nucleomorph)	all	all	all	gc-perc	26
+Primary Assembly (nucleomorph)	all	all	assembled-molecule	total-length	487066
+Primary Assembly (nucleomorph)	all	all	assembled-molecule	ungapped-length	487066
+Primary Assembly (nucleomorph)	all	all	assembled-molecule	spanned-gaps	0
+Primary Assembly (nucleomorph)	all	all	assembled-molecule	unspanned-gaps	0
+Primary Assembly (nucleomorph)	all	all	assembled-molecule	gc-perc	26
+Primary Assembly (nucleomorph)	all	all	unlocalized-scaffold	total-length	0
+Primary Assembly (nucleomorph)	all	all	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (nucleomorph)	all	all	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (nucleomorph)	all	all	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (nucleomorph)	1	Nucleomorph	all	total-length	177338
+Primary Assembly (nucleomorph)	1	Nucleomorph	all	ungapped-length	177338
+Primary Assembly (nucleomorph)	1	Nucleomorph	all	spanned-gaps	0
+Primary Assembly (nucleomorph)	1	Nucleomorph	all	unspanned-gaps	0
+Primary Assembly (nucleomorph)	1	Nucleomorph	all	gc-perc	25.5
+Primary Assembly (nucleomorph)	1	Nucleomorph	assembled-molecule	total-length	177338
+Primary Assembly (nucleomorph)	1	Nucleomorph	assembled-molecule	ungapped-length	177338
+Primary Assembly (nucleomorph)	1	Nucleomorph	assembled-molecule	spanned-gaps	0
+Primary Assembly (nucleomorph)	1	Nucleomorph	assembled-molecule	unspanned-gaps	0
+Primary Assembly (nucleomorph)	1	Nucleomorph	assembled-molecule	gc-perc	25.5
+Primary Assembly (nucleomorph)	1	Nucleomorph	unlocalized-scaffold	total-length	0
+Primary Assembly (nucleomorph)	1	Nucleomorph	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (nucleomorph)	1	Nucleomorph	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (nucleomorph)	1	Nucleomorph	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (nucleomorph)	2	Nucleomorph	all	total-length	160189
+Primary Assembly (nucleomorph)	2	Nucleomorph	all	ungapped-length	160189
+Primary Assembly (nucleomorph)	2	Nucleomorph	all	spanned-gaps	0
+Primary Assembly (nucleomorph)	2	Nucleomorph	all	unspanned-gaps	0
+Primary Assembly (nucleomorph)	2	Nucleomorph	all	gc-perc	26
+Primary Assembly (nucleomorph)	2	Nucleomorph	assembled-molecule	total-length	160189
+Primary Assembly (nucleomorph)	2	Nucleomorph	assembled-molecule	ungapped-length	160189
+Primary Assembly (nucleomorph)	2	Nucleomorph	assembled-molecule	spanned-gaps	0
+Primary Assembly (nucleomorph)	2	Nucleomorph	assembled-molecule	unspanned-gaps	0
+Primary Assembly (nucleomorph)	2	Nucleomorph	assembled-molecule	gc-perc	26
+Primary Assembly (nucleomorph)	2	Nucleomorph	unlocalized-scaffold	total-length	0
+Primary Assembly (nucleomorph)	2	Nucleomorph	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (nucleomorph)	2	Nucleomorph	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (nucleomorph)	2	Nucleomorph	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly (nucleomorph)	3	Nucleomorph	all	total-length	149539
+Primary Assembly (nucleomorph)	3	Nucleomorph	all	ungapped-length	149539
+Primary Assembly (nucleomorph)	3	Nucleomorph	all	spanned-gaps	0
+Primary Assembly (nucleomorph)	3	Nucleomorph	all	unspanned-gaps	0
+Primary Assembly (nucleomorph)	3	Nucleomorph	all	gc-perc	27
+Primary Assembly (nucleomorph)	3	Nucleomorph	assembled-molecule	total-length	149539
+Primary Assembly (nucleomorph)	3	Nucleomorph	assembled-molecule	ungapped-length	149539
+Primary Assembly (nucleomorph)	3	Nucleomorph	assembled-molecule	spanned-gaps	0
+Primary Assembly (nucleomorph)	3	Nucleomorph	assembled-molecule	unspanned-gaps	0
+Primary Assembly (nucleomorph)	3	Nucleomorph	assembled-molecule	gc-perc	27
+Primary Assembly (nucleomorph)	3	Nucleomorph	unlocalized-scaffold	total-length	0
+Primary Assembly (nucleomorph)	3	Nucleomorph	unlocalized-scaffold	ungapped-length	0
+Primary Assembly (nucleomorph)	3	Nucleomorph	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly (nucleomorph)	3	Nucleomorph	unlocalized-scaffold	unspanned-gaps	0

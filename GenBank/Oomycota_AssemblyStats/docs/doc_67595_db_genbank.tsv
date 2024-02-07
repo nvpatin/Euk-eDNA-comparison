@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/67595_assembly_stats_genbank.txt	67595	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/169/925/GCA_016169925.1_ASM1616992v1/GCA_016169925.1_ASM1616992v1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	na	GCA_016169925.1	PRJNA626502	SAMN14648294	67595	strain=PVMG4	latest	Major	Full	2020-12-21	Crop Sciences of CAAS

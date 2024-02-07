@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/106548_assembly_stats_genbank.txt	106548	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/882/615/GCA_033882615.1_MA/GCA_033882615.1_MA_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_033882615.1	PRJNA869488	SAMN30308645	106548	cultivar=Zisai Pearl	latest	Major	Full	2023-11-22	China Agricultural University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Apicomplexa_AssemblyStats/44415_assembly_stats_genbank.txt	44415	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/499/745/GCA_000499745.2_EMH001/GCA_000499745.2_EMH001_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	representative genome	GCA_000499745.2	PRJEB4835	SAMEA3138829	44415	strain=Houghton	latest	Major	Full	2013-11-06	WTSI

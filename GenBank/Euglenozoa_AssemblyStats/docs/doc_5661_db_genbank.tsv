@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Euglenozoa_AssemblyStats/5661_assembly_stats_genbank.txt	5661	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/719/575/GCA_003719575.1_ASM371957v1/GCA_003719575.1_ASM371957v1_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	na	GCA_003719575.1	PRJNA450813	SAMN08948132	5661	strain=LdCL	latest	Major	Full	2018-11-09	McGill University

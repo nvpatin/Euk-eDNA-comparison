@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/60188_assembly_stats_genbank.txt	60188	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/511/995/GCA_000511995.1_FNU_r1.1/GCA_000511995.1_FNU_r1.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_000511995.1	PRJDB1480	SAMD00010927	60188	na	latest	Major	Full	2013-12-06	Kazusa DNA Research Institute

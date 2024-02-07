@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/65357_assembly_stats_genbank.txt	65357	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/313/105/GCA_000313105.1_ASM31310v1/GCA_000313105.1_ASM31310v1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	na	GCA_000313105.1	PRJEB47	SAMEA2272712	65357	strain=Ac Bol	latest	Major	Full	2012-11-06	TSL

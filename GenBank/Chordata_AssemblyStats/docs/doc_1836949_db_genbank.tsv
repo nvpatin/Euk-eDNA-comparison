@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/1836949_assembly_stats_genbank.txt	1836949	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/206/105/GCA_032206105.1_ASM3220610v1/GCA_032206105.1_ASM3220610v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_032206105.1	PRJNA795390	SAMN25146317	1836949	na	latest	Major	Full	2023-09-29	Universite Toulouse III - Paul Sabatier

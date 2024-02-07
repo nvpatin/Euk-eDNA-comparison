@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chlorophyta_AssemblyStats/3047_assembly_stats_genbank.txt	3047	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/031/753/455/GCA_031753455.1_ASM3175345v1/GCA_031753455.1_ASM3175345v1_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_031753455.1	PRJNA496373	SAMN10239739	3047	strain=CCAP 19/42	latest	Major	Full	2023-09-14	Hanyang University

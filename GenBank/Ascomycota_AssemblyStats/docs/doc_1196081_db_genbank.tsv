@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1196081_assembly_stats_genbank.txt	1196081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/896/365/GCA_001896365.1_ASM189636v1/GCA_001896365.1_ASM189636v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001896365.1	PRJNA342263	SAMN05751675	1196081	strain=CIB	latest	Major	Full	2016-12-09	Centro de Investigaciones Biologicas

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/114771_assembly_stats_genbank.txt	114771	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/510/575/GCA_001510575.1_ASM151057v1/GCA_001510575.1_ASM151057v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001510575.1	PRJNA246171	SAMN02743810	114771	strain=CMW40890	latest	Major	Full	2016-01-11	University of Stellenbosch

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/7797_assembly_stats_genbank.txt	7797	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/390/025/GCA_030390025.1_ASM3039002v1/GCA_030390025.1_ASM3039002v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_030390025.1	PRJNA978993	SAMN35564039	7797	ecotype=Lynn of Lorn, Scotland, UK	latest	Major	Full	2023-07-03	Nord University

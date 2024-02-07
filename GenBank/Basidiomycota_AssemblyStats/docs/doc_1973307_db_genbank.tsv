@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/1973307_assembly_stats_genbank.txt	1973307	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/728/275/GCA_902728275.1_AAE3_genes/GCA_902728275.1_AAE3_genes_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_902728275.1	PRJEB21917	SAMEA104449891	1973307	na	latest	Major	Full	2020-02-12	Integrative Pilzforschung

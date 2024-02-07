@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/4787_assembly_stats_genbank.txt	4787	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/661/535/GCA_001661535.1_ASM166153v1/GCA_001661535.1_ASM166153v1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	na	GCA_001661535.1	PRJNA322103	SAMN05006719	4787	strain=HP-10-31	latest	Major	Full	2016-06-10	Central Potato Research Institute

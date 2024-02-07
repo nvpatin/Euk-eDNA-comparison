@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/99658_assembly_stats_genbank.txt	99658	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/430/845/GCA_003430845.1_ASM343084v1/GCA_003430845.1_ASM343084v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_003430845.1	PRJNA483857	SAMN09748200	99658	cultivar=Zhongshi NO.4	latest	Major	Full	2018-08-29	Chinese Academy of Forestry

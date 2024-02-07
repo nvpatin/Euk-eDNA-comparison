@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Annelid_AssemblyStats/486152_assembly_stats_genbank.txt	486152	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/650/995/GCA_021650995.1_KUST_Wpigra_1.1/GCA_021650995.1_KUST_Wpigra_1.1_assembly_stats.txt	genbank	GenBank/Annelid_AssemblyStats	na	GCA_021650995.1	PRJNA792259	SAMN24404975	486152	na	latest	Major	Full	2022-01-27	Kunming University of Science and Technology

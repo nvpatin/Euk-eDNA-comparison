@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/69780_assembly_stats_genbank.txt	69780	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/985/105/GCA_022985105.1_UFV_RLS11_1.0/GCA_022985105.1_UFV_RLS11_1.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022985105.1	PRJNA614650	SAMN14438278	69780	strain=RLS11	latest	Major	Full	2022-04-14	Universidade Federal de Vicosa

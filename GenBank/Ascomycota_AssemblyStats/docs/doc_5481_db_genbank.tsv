@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/5481_assembly_stats_genbank.txt	5481	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/704/595/GCA_008704595.1_ASM870459v1/GCA_008704595.1_ASM870459v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_008704595.1	PRJNA531406	SAMN11490865	5481	strain=CBS 613	latest	Major	Full	2019-09-26	Centre for Genomic Regulation

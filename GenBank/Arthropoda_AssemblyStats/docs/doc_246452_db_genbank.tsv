@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/246452_assembly_stats_genbank.txt	246452	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/490/025/GCA_900490025.1_Mdor/GCA_900490025.1_Mdor_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_900490025.1	PRJEB27189	SAMEA4716329	246452	na	latest	Major	Full	2018-07-01	INSTITUTE OF EVOLUTIONARY BIOLOGY

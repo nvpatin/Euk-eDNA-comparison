@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/55307_assembly_stats_genbank.txt	55307	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/112/555/GCA_006112555.1_ASM611255v1/GCA_006112555.1_ASM611255v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_006112555.1	PRJNA542762	SAMN11638059	55307	strain=tin1	latest	Major	Full	2019-06-06	College of Pharmacy and Biological Engineering

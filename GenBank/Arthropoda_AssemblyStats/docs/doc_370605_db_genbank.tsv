@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/370605_assembly_stats_genbank.txt	370605	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/368/075/GCA_013368075.1_ASM1336807v1/GCA_013368075.1_ASM1336807v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_013368075.1	PRJNA556754	SAMN12368425	370605	na	latest	Major	Full	2020-06-23	Northwestern Polytechnical University

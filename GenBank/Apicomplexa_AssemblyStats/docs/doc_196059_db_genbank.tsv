@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Apicomplexa_AssemblyStats/196059_assembly_stats_genbank.txt	196059	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/331/455/GCA_947331455.1_pvivPvl01/GCA_947331455.1_pvivPvl01_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	representative genome	GCA_947331455.1	PRJNA720520	SAMEA4553732	196059	strain=PmlGA01	latest	Major	Full	2022-11-27	CNRS

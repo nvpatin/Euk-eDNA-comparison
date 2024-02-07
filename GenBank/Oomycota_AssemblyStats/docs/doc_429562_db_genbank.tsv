@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/429562_assembly_stats_genbank.txt	429562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/730/235/GCA_003730235.1_ASM373023v1/GCA_003730235.1_ASM373023v1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_003730235.1	PRJNA487957	SAMN09914743	429562	strain=Su	latest	Major	Full	2018-11-15	Nanjing Agricultural University

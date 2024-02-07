@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/1381935_assembly_stats_genbank.txt	1381935	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/542/865/GCA_029542865.1_ASM2954286v1/GCA_029542865.1_ASM2954286v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_029542865.1	PRJNA885787	SAMN31104539	1381935	strain=CBS 12830	latest	Major	Full	2023-04-03	Duke University

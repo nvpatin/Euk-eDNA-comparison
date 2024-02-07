@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/161590_assembly_stats_genbank.txt	161590	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/217/435/GCA_024217435.4_RoL_Ssco_1.2/GCA_024217435.4_RoL_Ssco_1.2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_024217435.4	PRJNA851781	SAMN29251497	161590	strain=Florida	latest	Minor	Full	2022-10-17	University of Idaho at Moscow

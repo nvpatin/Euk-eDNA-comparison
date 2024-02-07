@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2670776_assembly_stats_genbank.txt	2670776	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/016/145/GCA_004016145.1_ASM401614v1/GCA_004016145.1_ASM401614v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_004016145.1	PRJNA449361	SAMN08798353	2670776	na	latest	Major	Full	2019-01-14	Agriculture and Agri-Food Canada

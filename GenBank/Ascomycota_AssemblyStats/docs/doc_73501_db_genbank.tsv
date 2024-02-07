@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/73501_assembly_stats_genbank.txt	73501	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/080/495/GCA_008080495.1_ASM808049v1/GCA_008080495.1_ASM808049v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_008080495.1	PRJNA323705	SAMN05187187	73501	strain=ATCC 34164	latest	Major	Full	2017-11-30	University of Toronto

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/228944_assembly_stats_genbank.txt	228944	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/233/555/GCA_002233555.1_ASM223355v1/GCA_002233555.1_ASM223355v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_002233555.1	PRJNA282891	SAMN03580726	228944	strain=CBS 661.85	latest	Major	Full	2017-07-25	USDA-ARS

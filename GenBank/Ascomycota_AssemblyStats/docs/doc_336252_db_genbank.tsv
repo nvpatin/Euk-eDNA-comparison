@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/336252_assembly_stats_genbank.txt	336252	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/829/795/GCA_009829795.1_ASM982979v1/GCA_009829795.1_ASM982979v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_009829795.1	PRJNA497969	SAMN10319580	336252	strain=CBS 115812	latest	Major	Full	2020-01-03	University of Pretoria

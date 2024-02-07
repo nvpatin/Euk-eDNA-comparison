@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1209932_assembly_stats_genbank.txt	1209932	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/075/155/GCA_011075155.1_ASM1107515v1/GCA_011075155.1_ASM1107515v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_011075155.1	PRJNA605574	SAMN14073982	1209932	strain=TJNH1	latest	Major	Full	2020-03-09	Tianjin Institute of Plant Protection

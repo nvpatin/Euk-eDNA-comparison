@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1940652_assembly_stats_genbank.txt	1940652	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/337/335/GCA_905337335.1_GTX0158_lecanoromycete/GCA_905337335.1_GTX0158_lecanoromycete_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_905337335.1	PRJEB42325	SAMEA8235473	1940652	na	latest	Major	Full	2021-03-25	Spribille Lab

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/29911_assembly_stats_genbank.txt	29911	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/936/725/GCA_004936725.1_ASM493672v1/GCA_004936725.1_ASM493672v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_004936725.1	PRJNA526360	SAMN11096737	29911	strain=J3	latest	Major	Full	2019-05-08	University of Delhi South Campus

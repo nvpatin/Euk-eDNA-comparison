@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/1507179_assembly_stats_genbank.txt	1507179	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/407/085/GCA_030407085.1_ASM3040708v1/GCA_030407085.1_ASM3040708v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_030407085.1	PRJNA922326	SAMN32648614	1507179	breed=TD_zhejiang	latest	Major	Full	2023-07-07	Zhejiang University

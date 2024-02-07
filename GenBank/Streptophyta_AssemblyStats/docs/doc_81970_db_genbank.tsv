@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/81970_assembly_stats_genbank.txt	81970	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/711/535/GCA_003711535.1_Ahalleri_CH_v2/GCA_003711535.1_Ahalleri_CH_v2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_003711535.1	PRJNA492199	SAMN10130990	81970	na	latest	Major	Full	2018-11-05	ETH Zurich

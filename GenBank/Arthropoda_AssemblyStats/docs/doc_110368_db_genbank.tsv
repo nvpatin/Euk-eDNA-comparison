@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/110368_assembly_stats_genbank.txt	110368	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/239/965/GCA_900239965.1_Bicyclus_anynana_v1.2/GCA_900239965.1_Bicyclus_anynana_v1.2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_900239965.1	PRJEB8426	SAMEA3639938	110368	na	latest	Major	Full	2018-01-02	BANG

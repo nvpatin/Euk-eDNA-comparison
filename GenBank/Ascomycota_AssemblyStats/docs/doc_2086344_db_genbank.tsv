@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2086344_assembly_stats_genbank.txt	2086344	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/398/735/GCA_018398735.1_WSU_PS_Poc_1.0/GCA_018398735.1_WSU_PS_Poc_1.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_018398735.1	PRJNA720435	SAMN18649898	2086344	cultivar=Bing	latest	Major	Full	2021-05-19	Washington State University
