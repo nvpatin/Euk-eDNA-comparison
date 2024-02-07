@@ -17,7 +17,7 @@ library(Polychrome)
 
 ### Load  data
 ```{r}
-taxa <- read.csv(file=here("COI Comparison","Phylum_Class_COI_samplepairs.csv"))
+taxa <- read.csv(file=here("18S Comparison","Phylum_Class_18S_samplepairs.csv"))
 ```
 
 ### Group data by Phylum, sum up read and metagenome counts for each Class
@@ -25,14 +25,14 @@ taxa <- read.csv(file=here("COI Comparison","Phylum_Class_COI_samplepairs.csv"))
 # returns tibble table
 taxa_phy <- taxa %>% group_by(Phylum, Metagenome.sample, ASV.sample) %>% 
   summarise(mgn_sum=sum(count),
-            reads_sum=sum(COI.reads),
+            reads_sum=sum(X18S.reads),
             .groups = 'drop')
 ```
 
 ### Scatter plot of all Phyla
 ```{r}
 # create color palette
-P50 = createPalette(52, c("#ff0000", "#00ff00", "#0000ff"))
+P50 = createPalette(62, c("#ff0000", "#00ff00", "#0000ff"))
 P50 <- sortByHue(P50)
 P50 <- as.vector(t(matrix(P50)))
 names(P50) <- NULL
@@ -41,14 +41,14 @@ names(P50) <- NULL
 taxa_phy_plot <- taxa_phy[order(-taxa_phy$reads_sum), ]
 phy_unique <- taxa_phy_plot[!duplicated(taxa_phy_plot$Phylum), ]
 phy_unique_ordered <- phy_unique$Phylum[order(match(phy_unique$Phylum,
-                                                    taxa_phy_plot$Phylum))] 
+                                                  taxa_phy_plot$Phylum))] 
 taxa_phy_plot$Phylum <- factor(taxa_phy_plot$Phylum, 
                                levels=phy_unique_ordered)
   
-p <- ggplot(taxa_phy, aes(x=reads_sum, y=mgn_sum, color=Phylum)) +
+p <- ggplot(taxa_phy_plot, aes(x=reads_sum, y=mgn_sum, color=Phylum)) +
   geom_point(show.legend=TRUE) +
-  labs(title = paste("Eukaryotic phyla in paired metagenome & COI samples"),
-         x="Fraction of COI reads", y="Fraction of eukaryotic metagenome ORFs") +
+  labs(title = paste("Eukaryotic phyla in paired metagenome & 18S samples"),
+         x="Fraction of 18S reads", y="Fraction of eukaryotic metagenome ORFs") +
   coord_cartesian(xlim = c(0, max(taxa_phy$reads_sum) + (0.1*max(taxa_phy$reads_sum))),
                     ylim = c(0, max(taxa_phy$mgn_sum) + 0.1*max(taxa_phy$mgn_sum))) +
   scale_x_continuous(expand=c(0, 0)) + scale_y_continuous(expand=c(0, 0)) +
@@ -56,8 +56,8 @@ p <- ggplot(taxa_phy, aes(x=reads_sum, y=mgn_sum, color=Phylum)) +
   theme_classic() +
   scale_color_manual(values=P50)
 
-#ggsave(here("COI Comparison", "Euk_phyla_COI_comparison.png"), p,
- #      width=7, height=4, dpi=300, units="in")
+ggsave(here("18S Comparison", "Euk_phyla_18S_comparison.png"), p,
+       width=12, height=6, dpi=300, units="in")
 ```
 
 ### Assess each Phylum
@@ -69,14 +69,20 @@ data_splits <- split(taxa_phy, taxa_phy$Phylum)
 # Initialize a list to store the linear regression models and R-squared values
 lm_models <- list()
 r_squared_values <- vector("numeric", length(data_splits))
+reads_max <- vector("numeric", length(data_splits))
 
 # Loop through the subsets and fit linear regression models
 for (i in seq_along(data_splits)) {
   subset_data <- data_splits[[i]]
   lm_models[[i]] <- lm(reads_sum ~ mgn_sum, data = subset_data)
   r_squared_values[i] <- summary(lm_models[[i]])$r.squared
+  reads_max[i] <- max(subset_data$reads_sum)
 }
+```
 
+### If grouping taxa by r-squared values, run the cell below
+
+```{r}
 # Determine thresholds for creating subsets based on R-squared values
 threshold1 <- 0.01
 threshold2 <- 0.1
@@ -89,10 +95,25 @@ subset3 <- which(r_squared_values >= threshold2 & r_squared_values < threshold3)
 subset4 <- which(r_squared_values >= threshold3)
 ```
 
+### If grouping taxa by max amplicon read fraction, run the cell below
+
+```{r}
+# Determine thresholds for creating subsets based on max amplicon read fraction
+threshold1 <- 0.0001
+threshold2 <- 0.01
+threshold3 <- 0.1
+
+# Identify subsets with max reads_sum values above the threshold
+subset1 <- which(reads_max < threshold1)
+subset2 <- which(reads_max >= threshold1 & reads_max < threshold2)
+subset3 <- which(reads_max >= threshold2 & reads_max < threshold3)
+subset4 <- which(reads_max >= threshold3)
+```
+
 
 ```{r}
 # Loop through the selected subsets and create plots
-for (subset_index in subset4) {
+for (subset_index in subset1) {
   subset_data <- data_splits[[subset_index]]
   
   r_squared <- summary(lm_models[[subset_index]] )$r.squared
@@ -102,8 +123,8 @@ for (subset_index in subset4) {
   scatter_plot <- ggplot(subset_data, aes(x=reads_sum, y=mgn_sum)) +
     geom_point(color="#0072B2") +
     geom_smooth(method="lm", se=TRUE, color="black", linewidth=0.5) +
-    labs(title = paste("R squared >= 0.5, Phylum: ", subset_data$Phylum),
-         x="Fraction of COI reads", y="Fraction of eukaryotic metagenome ORFs") +
+    labs(title = paste("Phylum: ", subset_data$Phylum),
+         x="Fraction of 18S reads", y="Fraction of eukaryotic metagenome ORFs") +
     annotate(geom="text", label = paste("R-squared = ", round(r_squared, 2)),
              x=max(subset_data$reads_sum) - (0.2*max(subset_data$reads_sum)), 
               y=max(subset_data$mgn_sum) - 0.5*max(subset_data$mgn_sum),
@@ -119,13 +140,13 @@ for (subset_index in subset4) {
     theme_classic()
 
   # Print the scatter plot
-  #print(scatter_plot)
+  print(scatter_plot)
   
   # Generate a unique filename
-  filename <- paste("COIplot_", subset_data$Phylum, ".png", sep = "")
+  filename <- paste("18Splot_", subset_data$Phylum, ".png", sep = "")
   
   # Save the plot
-  ggsave(here("COI Comparison", "Phylum plots", "subset_4", filename), scatter_plot)
+  #ggsave(here("18S Comparison", "Phylum plots", "subset_1", filename), scatter_plot, width = 7, height = 5, dpi = 300, units = "in")
 }
 ```
 Plot individual phyla with regression line
@@ -163,28 +184,27 @@ ggsave(here("18S Comparison", "Classes", "Bacillariophyta_18S_lm-slope-r2-se.png
 
 Plot individual phyla colored by Class
 ```{r}
-P6 = createPalette(6, c("#ff0000", "#00ff00", "#0000ff"))
+P6 = createPalette(10, c("#ff9933", "#00cc00", "#0080ff"))
 P6 <- sortByHue(P6)
-P11 <- as.vector(t(matrix(6)))
+P11 <- as.vector(t(matrix(10)))
 names(P6) <- NULL
 
 r_squared <- summary(lm_models[[subset_index]] )$r.squared
 
-phylum <- taxa[taxa$Phylum == 'Bacillariophyta', ]
+phylum <- taxa[taxa$Phylum == 'Chlorophyta', ]
 
 # no linear regression
 p <- ggplot(phylum, aes(x=X18S.reads, y=count, color=Class)) +
   geom_point(show.legend=TRUE, size=2) +
-  labs(title = paste("Bacillariophyta classes in paired metagenome & 18S samples"),
-         x="Fraction of 18S reads", y="Fraction of eukaryotic metagenome ORFs") +
+  labs(title = paste("Chlorophyta classes in paired metagenome & COI samples"),
+         x="Fraction of COI reads", y="Fraction of eukaryotic metagenome ORFs") +
   coord_cartesian(xlim = c(0, max(phylum$X18S.reads) + (0.1*max(phylum$X18S.reads))),
                     ylim = c(0, max(phylum$count) + 0.1*max(phylum$count))) +
   scale_x_continuous(expand=c(0, 0)) + scale_y_continuous(expand=c(0, 0)) +
   theme_classic() +
   scale_color_manual(values=P6)
 
-#ggsave(here("18S Comparison", "Classes", "Arthropoda_Classes_18S.png"), p,
- #     width=11, height=8, dpi=300, units="in")
+ggsave(here("18S Comparison", "Classes", "Chlorophyta_Classes_COI.png"), p, width=11, height=8, dpi=300, units="in")
 ```
 
 Plot individual phyla with points labeled
