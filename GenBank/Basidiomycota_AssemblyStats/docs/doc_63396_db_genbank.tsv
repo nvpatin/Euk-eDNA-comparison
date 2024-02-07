@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/63396_assembly_stats_genbank.txt	63396	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/676/635/GCA_001676635.1_ASM167663v1/GCA_001676635.1_ASM167663v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_001676635.1	PRJNA324362	SAMN05200863	63396	strain=NBRC 9727	latest	Major	Full	2016-06-25	RWTH Aachen University

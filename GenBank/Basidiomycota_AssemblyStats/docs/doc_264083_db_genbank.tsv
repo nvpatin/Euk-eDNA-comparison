@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/264083_assembly_stats_genbank.txt	264083	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/179/745/GCA_001179745.1_Cla_fum_l100.fa/GCA_001179745.1_Cla_fum_l100.fa_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_001179745.1	PRJEB8570	SAMEA3267766	264083	na	latest	Major	Full	2015-07-08	Royal Botanic Gardens, Kew

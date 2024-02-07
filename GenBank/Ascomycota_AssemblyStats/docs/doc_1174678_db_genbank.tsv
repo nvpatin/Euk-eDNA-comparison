@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1174678_assembly_stats_genbank.txt	1174678	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/521/645/GCA_024521645.1_Morsny1/GCA_024521645.1_Morsny1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_024521645.1	PRJNA463279	SAMN09074817	1174678	strain=CBS 144464	latest	Major	Full	2022-08-04	DOE Joint Genome Institute

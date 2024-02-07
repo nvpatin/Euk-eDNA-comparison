@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2820138_assembly_stats_genbank.txt	2820138	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/031/095/GCA_021031095.1_ASM2103109v1/GCA_021031095.1_ASM2103109v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_021031095.1	PRJNA714674	SAMN18315895	2820138	strain=NSR34	latest	Major	Full	2021-12-03	Field Museum of Natural History

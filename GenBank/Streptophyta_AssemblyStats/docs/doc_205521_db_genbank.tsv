@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/205521_assembly_stats_genbank.txt	205521	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/996/215/GCA_003996215.1_ASM399621v1/GCA_003996215.1_ASM399621v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_003996215.1	PRJNA474403	SAMN09302773	205521	strain=JA0702	latest	Major	Full	2019-01-07	Indiana University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/5353_assembly_stats_genbank.txt	5353	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/562/095/GCA_001562095.1_B17/GCA_001562095.1_B17_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_001562095.1	PRJNA310971	SAMN04457462	5353	strain=B17	latest	Major	Full	2016-02-16	Chungbuk National University

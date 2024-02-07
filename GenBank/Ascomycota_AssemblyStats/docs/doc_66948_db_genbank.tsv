@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/66948_assembly_stats_genbank.txt	66948	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/231/995/GCA_900231995.1_Meycar_Aeaegy/GCA_900231995.1_Meycar_Aeaegy_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_900231995.1	PRJEB22044	SAMEA104192524	66948	na	latest	Major	Full	2017-10-06	UNIMI

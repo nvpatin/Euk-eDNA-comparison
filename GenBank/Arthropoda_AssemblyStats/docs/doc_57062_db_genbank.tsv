@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/57062_assembly_stats_genbank.txt	57062	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/012/855/GCA_001012855.1_ASM101285v1/GCA_001012855.1_ASM101285v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_001012855.1	PRJNA279497	SAMN03448479	57062	na	latest	Major	Full	2015-05-22	NYU School of Medicine

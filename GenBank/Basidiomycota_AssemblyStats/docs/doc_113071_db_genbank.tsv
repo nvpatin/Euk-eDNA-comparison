@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/113071_assembly_stats_genbank.txt	113071	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/039/355/GCA_015039355.1_Ramac1/GCA_015039355.1_Ramac1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_015039355.1	PRJNA196021	SAMN02745027	113071	strain=UT-36052-T	latest	Major	Full	2020-10-27	DOE Joint Genome Institute

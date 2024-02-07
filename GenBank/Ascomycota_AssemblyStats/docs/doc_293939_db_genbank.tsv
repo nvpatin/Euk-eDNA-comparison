@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/293939_assembly_stats_genbank.txt	293939	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/724/915/GCA_010724915.1_ASM1072491v1/GCA_010724915.1_ASM1072491v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_010724915.1	PRJDB8156	SAMD00166947	293939	strain=IFM 62136	latest	Major	Full	2020-02-04	Medical Mycology Research Center

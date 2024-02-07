@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/1875599_assembly_stats_genbank.txt	1875599	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/500/535/GCA_024500535.1_ASM2450053v1/GCA_024500535.1_ASM2450053v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_024500535.1	PRJNA802365	SAMN25408291	1875599	na	latest	Major	Full	2022-08-01	Universidad de las Americas, Quito, Ecuador

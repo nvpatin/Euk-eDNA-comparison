@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/40469_assembly_stats_genbank.txt	40469	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/712/875/GCA_024712875.1_ASM2471287v1/GCA_024712875.1_ASM2471287v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_024712875.1	PRJNA856558	SAMN29577933	40469	strain=NPCB_001	latest	Major	Full	2022-08-25	Northwest A&F University

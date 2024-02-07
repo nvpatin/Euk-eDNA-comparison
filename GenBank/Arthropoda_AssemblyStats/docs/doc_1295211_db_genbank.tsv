@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/1295211_assembly_stats_genbank.txt	1295211	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/050/545/GCA_900050545.1_TPER/GCA_900050545.1_TPER_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_900050545.1	PRJEB12071	SAMEA3699109	1295211	na	latest	Major	Full	2016-03-27	UNIVERSITY OF SOUTH BOHEMIA

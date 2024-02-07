@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/1483037_assembly_stats_genbank.txt	1483037	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/150/135/GCA_033150135.1_CNRS_Gobocc_1.0.fasta/GCA_033150135.1_CNRS_Gobocc_1.0.fasta_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_033150135.1	PRJNA947550	SAMN33900447	1483037	na	latest	Major	Full	2023-10-31	CNRS

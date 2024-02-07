@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/40932_assembly_stats_genbank.txt	40932	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/425/515/GCA_019425515.1_ASM1942551v1/GCA_019425515.1_ASM1942551v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_019425515.1	PRJNA559029	SAMN12511955	40932	na	latest	Major	Full	2021-07-30	Institute of Plant Physiology and Ecology, SIBS, CAS

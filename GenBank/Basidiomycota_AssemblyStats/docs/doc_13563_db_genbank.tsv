@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/13563_assembly_stats_genbank.txt	13563	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/457/895/GCA_001457895.1_137OC/GCA_001457895.1_137OC_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_001457895.1	PRJEB8921	SAMEA3339661	13563	na	latest	Major	Full	2015-11-03	UNIVERSITY OF TORINO

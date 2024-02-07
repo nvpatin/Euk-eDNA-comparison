@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/2870670_assembly_stats_genbank.txt	2870670	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/937/815/GCA_001937815.1_ASM193781v1/GCA_001937815.1_ASM193781v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_001937815.1	PRJNA343720	SAMN05804634	2870670	strain=ATCC 62978	latest	Major	Full	2017-01-06	National Institute of Forest Science

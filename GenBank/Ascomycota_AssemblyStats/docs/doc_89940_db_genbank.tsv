@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/89940_assembly_stats_genbank.txt	89940	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/092/765/GCA_900092765.1_UM956/GCA_900092765.1_UM956_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_900092765.1	PRJEB13102	SAMEA3904279	89940	na	latest	Major	Full	2016-09-07	University Malaya

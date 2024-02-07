@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/64432_assembly_stats_genbank.txt	64432	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/055/425/GCA_023055425.1_ddLinParr1.0.p/GCA_023055425.1_ddLinParr1.0.p_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_023055425.1	PRJNA819154	SAMN26264369	64432	ecotype=Phelan, CA	latest	Major	Full	2022-04-19	UCLA

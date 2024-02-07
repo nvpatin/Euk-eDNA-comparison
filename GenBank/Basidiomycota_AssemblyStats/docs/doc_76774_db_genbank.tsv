@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/76774_assembly_stats_genbank.txt	76774	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/542/945/GCA_029542945.1_ASM2954294v1/GCA_029542945.1_ASM2954294v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_029542945.1	PRJNA831671	SAMN27760430	76774	strain=CBS 7876	latest	Major	Full	2023-04-03	Duke University

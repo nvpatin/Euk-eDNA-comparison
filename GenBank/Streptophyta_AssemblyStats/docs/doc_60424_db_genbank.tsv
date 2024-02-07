@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/60424_assembly_stats_genbank.txt	60424	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/535/165/GCA_028535165.1_dhQueTome1.0.hap2/GCA_028535165.1_dhQueTome1.0.hap2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_028535165.1	PRJNA887122	SAMN29046697	60424	na	latest	Major	Full	2023-02-07	UCLA

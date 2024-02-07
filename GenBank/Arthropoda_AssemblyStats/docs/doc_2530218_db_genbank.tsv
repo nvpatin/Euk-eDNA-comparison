@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/2530218_assembly_stats_genbank.txt	2530218	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/603/195/GCA_029603195.2_ASM2960319v2/GCA_029603195.2_ASM2960319v2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_029603195.2	PRJNA932843	SAMN33214356	2530218	na	latest	Major	Full	2023-04-06	New York University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/97023_assembly_stats_genbank.txt	97023	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/954/870/555/GCA_954870555.1_drTriFrag1.1_alternate_haplotype/GCA_954870555.1_drTriFrag1.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_954870555.1	PRJEB63245	SAMEA10369849	97023	na	latest	Major	Full	2023-07-15	WELLCOME SANGER INSTITUTE

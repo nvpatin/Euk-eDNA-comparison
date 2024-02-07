@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Mucoromycota_AssemblyStats/58291_assembly_stats_genbank.txt	58291	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/825/725/GCA_000825725.1_Rmicro_CBS_344.29_Allpaths-LG/GCA_000825725.1_Rmicro_CBS_344.29_Allpaths-LG_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	na	GCA_000825725.1	PRJEB7409	SAMEA2796351	58291	na	latest	Major	Full	2014-12-08	HKI JENA

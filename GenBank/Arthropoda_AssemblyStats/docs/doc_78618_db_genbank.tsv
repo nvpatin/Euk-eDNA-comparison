@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/78618_assembly_stats_genbank.txt	78618	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/907/164/665/GCA_907164665.1_Colias_nastes/GCA_907164665.1_Colias_nastes_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_907164665.1	PRJEB43860	SAMEA8578401	78618	na	latest	Major	Full	2023-05-18	Stockholm University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/359823_assembly_stats_genbank.txt	359823	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/034/495/GCA_024034495.1_ASM2403449v1/GCA_024034495.1_ASM2403449v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_024034495.1	PRJNA750147	SAMN20442585	359823	na	latest	Major	Full	2022-06-29	Agriculture and Agri-Food Canada

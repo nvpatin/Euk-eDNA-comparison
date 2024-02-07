@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/126373_assembly_stats_genbank.txt	126373	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/656/515/GCA_014656515.1_OryCel_1.0/GCA_014656515.1_OryCel_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_014656515.1	PRJDB10371	SAMD00239084	126373	strain=Ujung pandang (RS278)	latest	Major	Full	2020-09-12	National Institute of Genetics

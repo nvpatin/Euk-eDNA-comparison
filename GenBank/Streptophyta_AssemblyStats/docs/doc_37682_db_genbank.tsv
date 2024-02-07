@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/37682_assembly_stats_genbank.txt	37682	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/105/435/GCA_002105435.1_ASM210543v1/GCA_002105435.1_ASM210543v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_002105435.1	PRJNA316988	SAMN04622930	37682	ecotype=AL8/8	latest	Major	Partial	2017-04-24	China Agricultural University

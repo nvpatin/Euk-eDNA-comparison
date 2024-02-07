@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/5005_assembly_stats_genbank.txt	5005	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/373/355/GCA_001373355.1_SPOSA68321A01/GCA_001373355.1_SPOSA68321A01_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_001373355.1	PRJEB8362	SAMEA3271082	5005	na	latest	Major	Partial	2015-04-22	UCIBIO

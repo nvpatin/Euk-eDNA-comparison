@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/27343_assembly_stats_genbank.txt	27343	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/395/275/GCA_019395275.1_ASM1939527v1/GCA_019395275.1_ASM1939527v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_019395275.1	PRJNA313246	SAMN04517510	27343	na	latest	Major	Full	2021-07-29	Shandong Agricultural University

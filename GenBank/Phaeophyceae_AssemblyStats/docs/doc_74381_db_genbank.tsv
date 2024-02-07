@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Phaeophyceae_AssemblyStats/74381_assembly_stats_genbank.txt	74381	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/975/765/GCA_020975765.1_Upin_Kr2015/GCA_020975765.1_Upin_Kr2015_assembly_stats.txt	genbank	GenBank/Phaeophyceae_AssemblyStats	na	GCA_020975765.1	PRJNA646283	SAMN16326461	74381	cultivar=Kr2015	latest	Major	Full	2021-11-30	Sungkyunkwan University

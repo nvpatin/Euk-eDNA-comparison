@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/7955_assembly_stats_genbank.txt	7955	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/002/035/GCA_000002035.4_GRCz11/GCA_000002035.4_GRCz11_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	reference genome	GCA_000002035.4	PRJNA11776	SAMN06930106	7955	strain=Tuebingen	latest	Major	Full	2017-05-09	Genome Reference Consortium

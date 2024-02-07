@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/370305_assembly_stats_genbank.txt	370305	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/962/905/GCA_033962905.2_MM106_haplome_A_genome/GCA_033962905.2_MM106_haplome_A_genome_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_033962905.2	PRJNA1041623	SAMN26566347	370305	cultivar=MM106	latest	Major	Full	2023-12-18	China Agricultural University

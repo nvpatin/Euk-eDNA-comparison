@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/622444_assembly_stats_genbank.txt	622444	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/864/105/GCA_002864105.1_ASM286410v1/GCA_002864105.1_ASM286410v1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	na	GCA_002864105.1	PRJNA353947	SAMN06033040	622444	na	latest	Major	Full	2018-01-05	Michigan State University

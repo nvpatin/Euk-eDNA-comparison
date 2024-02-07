@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/209853_assembly_stats_genbank.txt	209853	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/908/715/GCA_019908715.1_ASM1990871v1/GCA_019908715.1_ASM1990871v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_019908715.1	PRJNA700437	SAMN20326447	209853	na	latest	Major	Full	2021-09-08	Medicinal Genomics

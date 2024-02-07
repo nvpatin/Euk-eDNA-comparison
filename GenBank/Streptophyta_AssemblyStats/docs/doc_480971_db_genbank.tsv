@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/480971_assembly_stats_genbank.txt	480971	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/918/865/GCA_004918865.1_Cbr_v1.0/GCA_004918865.1_Cbr_v1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_004918865.1	PRJNA528117	SAMN11174932	480971	ecotype=Cerrado	latest	Major	Full	2019-04-26	Universidade Federal de Goias - UFG

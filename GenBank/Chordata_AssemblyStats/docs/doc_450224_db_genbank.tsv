@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/450224_assembly_stats_genbank.txt	450224	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/853/015/GCA_029853015.1_ASM2985301v1/GCA_029853015.1_ASM2985301v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_029853015.1	PRJNA945566	SAMN33788368	450224	na	latest	Major	Full	2023-04-21	Institute of Oceanology, Chinese Academy of Sciences

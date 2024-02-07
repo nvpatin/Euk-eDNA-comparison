@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/27294_assembly_stats_genbank.txt	27294	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/110/235/GCA_016110235.1_KUNI_IBR014/GCA_016110235.1_KUNI_IBR014_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_016110235.1	PRJNA666179	SAMN16282778	27294	strain=IBR014	latest	Major	Full	2020-12-17	IBR (UNR-CONICET)

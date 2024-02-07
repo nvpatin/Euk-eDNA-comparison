@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/5047_assembly_stats_genbank.txt	5047	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/801/565/GCA_018801565.1_E_coen_e19_1/GCA_018801565.1_E_coen_e19_1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_018801565.1	PRJNA593223	SAMN13473040	5047	strain=ATCC 90664, /ecotype=CTE	latest	Major	Full	2021-06-09	University of Kentucky

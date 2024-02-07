@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/9837_assembly_stats_genbank.txt	9837	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/604/445/GCA_000604445.1_CB1/GCA_000604445.1_CB1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000604445.1	PRJEB407	SAMEA3138966	9837	na	latest	Major	Full	2013-07-03	VETMEDUNI_POPGEN

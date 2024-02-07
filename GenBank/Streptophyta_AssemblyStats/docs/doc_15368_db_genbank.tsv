@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/15368_assembly_stats_genbank.txt	15368	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/892/295/GCA_002892295.1_ASM289229v1/GCA_002892295.1_ASM289229v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_002892295.1	PRJNA377287	SAMN06459228	15368	na	latest	Major	Full	2018-01-18	The Sainsbury Laboratory

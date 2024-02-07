@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/140635_assembly_stats_genbank.txt	140635	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/496/805/GCA_022496805.1_ASM2249680v1/GCA_022496805.1_ASM2249680v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_022496805.1	PRJNA795595	SAMN24737339	140635	na	latest	Major	Full	2022-03-11	The First Institute of Oceanography,MNR

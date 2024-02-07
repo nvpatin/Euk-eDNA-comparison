@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/5007_assembly_stats_genbank.txt	5007	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/074/885/GCA_011074885.2_ASM1107488v2/GCA_011074885.2_ASM1107488v2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_011074885.2	PRJNA554210	SAMN12257691	5007	strain=UCD 2041	latest	Major	Full	2020-10-30	Australian Wine Research Institute

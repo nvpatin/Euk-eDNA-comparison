@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1399860_assembly_stats_genbank.txt	1399860	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/591/415/GCA_002591415.1_OphauB2/GCA_002591415.1_OphauB2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_002591415.1	PRJNA388689	SAMN07142923	1399860	strain=Map64	latest	Major	Full	2017-10-18	Utrecht University

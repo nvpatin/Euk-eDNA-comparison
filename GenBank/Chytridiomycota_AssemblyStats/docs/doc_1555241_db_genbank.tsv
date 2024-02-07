@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chytridiomycota_AssemblyStats/1555241_assembly_stats_genbank.txt	1555241	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/615/045/GCA_003615045.1_Caupr1/GCA_003615045.1_Caupr1_assembly_stats.txt	genbank	GenBank/Chytridiomycota_AssemblyStats	representative genome	GCA_003615045.1	PRJNA421608	SAMN08148457	1555241	strain=ATCC 52028	latest	Major	Full	2018-10-05	DOE Joint Genome Institute

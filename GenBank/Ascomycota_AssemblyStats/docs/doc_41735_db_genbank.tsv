@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/41735_assembly_stats_genbank.txt	41735	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/305/525/GCA_013305525.1_ASM1330552v1/GCA_013305525.1_ASM1330552v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_013305525.1	PRJNA623402	SAMN14546090	41735	strain=NRRL 201	latest	Major	Full	2020-06-09	Vanderbilt University

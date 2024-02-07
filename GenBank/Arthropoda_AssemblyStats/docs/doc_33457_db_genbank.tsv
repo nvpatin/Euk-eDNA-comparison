@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/33457_assembly_stats_genbank.txt	33457	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/068/225/GCA_900068225.1_Heliconius_aoede.JM-09-347/GCA_900068225.1_Heliconius_aoede.JM-09-347_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_900068225.1	PRJEB8011	SAMEA3670507	33457	na	latest	Major	Full	2017-04-25	CAM

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/330168_assembly_stats_genbank.txt	330168	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/420/285/GCA_011420285.1_BTI_Eche1.2/GCA_011420285.1_BTI_Eche1.2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_011420285.1	PRJNA563696	SAMN12686737	330168	cultivar=Elbtalaue	latest	Major	Full	2020-03-19	Boyce Thompson Institute

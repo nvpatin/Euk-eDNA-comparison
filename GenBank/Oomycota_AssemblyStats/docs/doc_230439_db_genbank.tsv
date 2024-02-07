@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/230439_assembly_stats_genbank.txt	230439	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/099/245/GCA_002099245.1_Ptab_968-S26/GCA_002099245.1_Ptab_968-S26_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_002099245.1	PRJNA285243	SAMN03744138	230439	strain=968-S26	latest	Major	Full	2017-04-18	UC Davis Genome Center

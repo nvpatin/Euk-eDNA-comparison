@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/29057_assembly_stats_genbank.txt	29057	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/921/685/GCA_008921685.1_ASM892168v1/GCA_008921685.1_ASM892168v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_008921685.1	PRJNA534504	SAMN11491597	29057	na	latest	Major	Full	2019-10-08	USDA-ARS

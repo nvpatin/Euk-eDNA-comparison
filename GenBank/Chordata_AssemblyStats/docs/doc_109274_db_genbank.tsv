@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/109274_assembly_stats_genbank.txt	109274	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/466/805/GCA_018466805.1_ZJU1.0/GCA_018466805.1_ZJU1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_018466805.1	PRJNA713516	SAMN18594038	109274	strain=HM12	latest	Major	Full	2021-05-25	Zhejiang University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/88082_assembly_stats_genbank.txt	88082	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/545/835/GCA_016545835.1_ASM1654583v1/GCA_016545835.1_ASM1654583v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_016545835.1	PRJNA558767	SAMN12497667	88082	ecotype=Arizona	latest	Major	Full	2021-01-06	Clemson University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/3848_assembly_stats_genbank.txt	3848	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/722/935/GCA_000722935.2_W05v1.0/GCA_000722935.2_W05v1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000722935.2	PRJNA223435	SAMN02905861	3848	cultivar=W05	latest	Major	Full	2014-12-17	The Chinese University of Hong Kong

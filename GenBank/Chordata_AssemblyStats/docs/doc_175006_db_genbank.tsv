@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/175006_assembly_stats_genbank.txt	175006	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/028/575/GCA_030028575.1_MMel_1.1/GCA_030028575.1_MMel_1.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_030028575.1	PRJNA934711	SAMN33278196	175006	ecotype=Western Australia	latest	Major	Full	2023-05-17	The University of Hong Kong

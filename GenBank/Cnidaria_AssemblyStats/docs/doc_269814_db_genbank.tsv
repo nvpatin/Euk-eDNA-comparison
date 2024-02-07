@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Cnidaria_AssemblyStats/269814_assembly_stats_genbank.txt	269814	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/407/335/GCA_001407335.1_Kudoa_DNA2/GCA_001407335.1_Kudoa_DNA2_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	na	GCA_001407335.1	PRJNA261422	SAMN03068681	269814	na	latest	Major	Full	2015-10-22	Duke Institue for Genome Sciences and Policy

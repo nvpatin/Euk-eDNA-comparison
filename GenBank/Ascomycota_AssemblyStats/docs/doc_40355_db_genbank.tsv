@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/40355_assembly_stats_genbank.txt	40355	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/310/725/GCA_020310725.1_ASM2031072v1/GCA_020310725.1_ASM2031072v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_020310725.1	PRJNA287809	SAMN03787411	40355	strain=ATCC 46428	latest	Major	Full	2021-10-06	LNCC

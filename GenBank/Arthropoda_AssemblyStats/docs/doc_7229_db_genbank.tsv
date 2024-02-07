@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/7229_assembly_stats_genbank.txt	7229	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/269/505/GCA_000269505.2_DroMir_2.2/GCA_000269505.2_DroMir_2.2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000269505.2	PRJNA77213	SAMN02953815	7229	strain=MSH22	latest	Major	Full	2013-04-19	University of California, Berkeley

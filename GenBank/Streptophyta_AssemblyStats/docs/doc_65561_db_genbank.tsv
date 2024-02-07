@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/65561_assembly_stats_genbank.txt	65561	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/979/155/GCA_012979155.1_hypericum.10X.300bp/GCA_012979155.1_hypericum.10X.300bp_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_012979155.1	PRJNA523311	SAMN10970914	65561	na	latest	Major	Full	2020-05-06	University of Padova

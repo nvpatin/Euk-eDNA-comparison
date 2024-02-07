@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Dinophyta_AssemblyStats/2961_assembly_stats_genbank.txt	2961	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/702/695/GCA_019702695.1_ASM1970269v1/GCA_019702695.1_ASM1970269v1_assembly_stats.txt	genbank	GenBank/Dinophyta_AssemblyStats	representative genome	GCA_019702695.1	PRJNA517804	SAMN10845566	2961	strain=NMCA1314	latest	Major	Full	2021-08-20	New York University AbuDhabi, UAE

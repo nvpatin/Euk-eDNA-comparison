@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2778373_assembly_stats_genbank.txt	2778373	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/034/235/GCA_011034235.1_ASM1103423v1/GCA_011034235.1_ASM1103423v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_011034235.1	PRJNA412392	SAMN07711058	2778373	strain=EtdFoc-222	latest	Major	Full	2020-02-27	Cook Lab - University of California at Davis

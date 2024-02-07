@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/30611_assembly_stats_genbank.txt	30611	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/181/295/GCA_000181295.3_OtoGar3/GCA_000181295.3_OtoGar3_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_000181295.3	PRJNA16955	SAMN02981229	30611	na	latest	Major	Full	2011-03-16	Broad Institute of MIT and Harvard, USA, Cambridge

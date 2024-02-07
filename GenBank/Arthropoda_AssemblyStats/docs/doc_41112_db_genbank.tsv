@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/41112_assembly_stats_genbank.txt	41112	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/796/505/GCA_004796505.1_ASM479650v1/GCA_004796505.1_ASM479650v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_004796505.1	PRJNA356192	SAMN06433610	41112	na	latest	Major	Full	2019-04-16	College of Life Sciences, Wuhan University

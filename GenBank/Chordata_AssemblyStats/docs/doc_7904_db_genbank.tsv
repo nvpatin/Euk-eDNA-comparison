@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/7904_assembly_stats_genbank.txt	7904	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/113/195/GCA_020113195.1_MU_Atrans_1.0/GCA_020113195.1_MU_Atrans_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_020113195.1	PRJNA755998	SAMN20849129	7904	strain=batch67_ind68	latest	Major	Full	2021-09-23	canseq150

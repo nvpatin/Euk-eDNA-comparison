@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/148065_assembly_stats_genbank.txt	148065	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/026/765/GCA_004026765.1_MicHir_v1_BIUU/GCA_004026765.1_MicHir_v1_BIUU_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_004026765.1	PRJNA399354	SAMN07678146	148065	na	latest	Major	Full	2019-01-16	Broad Institute

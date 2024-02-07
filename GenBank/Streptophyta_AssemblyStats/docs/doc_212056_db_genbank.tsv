@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/212056_assembly_stats_genbank.txt	212056	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/013/225/GCA_003013225.1_ASM301322v1/GCA_003013225.1_ASM301322v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_003013225.1	PRJNA383284	SAMN06768338	212056	na	latest	Major	Full	2018-03-21	Academia Sinica

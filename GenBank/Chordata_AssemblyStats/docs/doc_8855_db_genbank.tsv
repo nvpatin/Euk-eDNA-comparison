@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/8855_assembly_stats_genbank.txt	8855	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/104/995/GCA_018104995.1_ASM1810499v1/GCA_018104995.1_ASM1810499v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_018104995.1	PRJNA669953	SAMN16481400	8855	na	latest	Major	Full	2021-04-23	HUAZHONG Agricultural University

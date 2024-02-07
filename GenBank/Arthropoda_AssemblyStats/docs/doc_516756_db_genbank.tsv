@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/516756_assembly_stats_genbank.txt	516756	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/483/705/GCA_001483705.2_ASM148370v2/GCA_001483705.2_ASM148370v2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_001483705.2	PRJNA279814	SAMN03801430	516756	na	latest	Minor	Full	2016-05-09	BGI

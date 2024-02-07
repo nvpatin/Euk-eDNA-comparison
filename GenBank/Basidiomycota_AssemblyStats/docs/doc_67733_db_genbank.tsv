@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/67733_assembly_stats_genbank.txt	67733	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/011/035/GCA_020011035.1_ASM2001103v1/GCA_020011035.1_ASM2001103v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_020011035.1	PRJNA679796	SAMN16846661	67733	strain=LH00001	latest	Major	Full	2021-09-16	Kunming Institute of Botany

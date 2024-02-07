@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/56036_assembly_stats_genbank.txt	56036	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/829/155/GCA_902829155.1_FRAX10-0.1/GCA_902829155.1_FRAX10-0.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_902829155.1	PRJEB20151	SAMEA6544804	56036	na	latest	Major	Full	2020-04-15	QMUL

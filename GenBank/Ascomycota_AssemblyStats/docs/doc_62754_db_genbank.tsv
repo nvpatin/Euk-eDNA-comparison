@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/62754_assembly_stats_genbank.txt	62754	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/192/285/GCA_009192285.1_ASM919228v1/GCA_009192285.1_ASM919228v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_009192285.1	PRJNA575610	SAMN12905432	62754	strain=M10	latest	Major	Full	2019-10-21	Huazhong Agricultural University

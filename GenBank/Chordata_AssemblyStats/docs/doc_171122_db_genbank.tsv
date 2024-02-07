@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/171122_assembly_stats_genbank.txt	171122	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/024/845/GCA_004024845.1_TonSau_v1_BIUU/GCA_004024845.1_TonSau_v1_BIUU_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_004024845.1	PRJNA399356	SAMN07678031	171122	na	latest	Major	Full	2019-01-15	Broad Institute

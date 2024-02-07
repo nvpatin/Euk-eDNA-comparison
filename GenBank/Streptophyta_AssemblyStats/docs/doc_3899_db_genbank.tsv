@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/3899_assembly_stats_genbank.txt	3899	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/408/175/GCA_030408175.1_UTM_Trep_v1.0/GCA_030408175.1_UTM_Trep_v1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_030408175.1	PRJNA951196	SAMN34034005	3899	na	latest	Major	Full	2023-07-05	University of Toronto Mississauga

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Mucoromycota_AssemblyStats/4874_assembly_stats_genbank.txt	4874	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/809/945/GCA_009809945.1_UNITO_GmarBEG34_1.0/GCA_009809945.1_UNITO_GmarBEG34_1.0_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_009809945.1	PRJNA575165	SAMN12878420	4874	strain=BEG34	latest	Major	Full	2019-12-30	CNR

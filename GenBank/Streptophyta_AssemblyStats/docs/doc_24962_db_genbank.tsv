@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/24962_assembly_stats_genbank.txt	24962	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/955/255/GCA_019955255.1_CAUS_2016PP/GCA_019955255.1_CAUS_2016PP_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_019955255.1	PRJNA291138	SAMN03940282	24962	na	latest	Major	Full	2021-09-13	Wageningen University

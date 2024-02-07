@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Mucoromycota_AssemblyStats/1343610_assembly_stats_genbank.txt	1343610	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/502/565/GCA_015502565.1_UCR_MambBC1291/GCA_015502565.1_UCR_MambBC1291_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	na	GCA_015502565.1	PRJNA463333	SAMN09074671	1343610	strain=BC1291	latest	Major	Full	2020-11-16	DOE Joint Genome Institute

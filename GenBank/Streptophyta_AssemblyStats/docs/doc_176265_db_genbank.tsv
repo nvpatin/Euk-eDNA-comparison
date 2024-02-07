@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/176265_assembly_stats_genbank.txt	176265	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/589/665/GCA_017589665.1_ASM1758966v1/GCA_017589665.1_ASM1758966v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_017589665.1	PRJNA664414	SAMN16213845	176265	cultivar=David Bowie	latest	Major	Full	2021-03-26	UNL

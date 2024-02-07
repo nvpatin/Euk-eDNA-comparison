@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/72004_assembly_stats_genbank.txt	72004	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/298/355/GCA_000298355.1_BosGru_v2.0/GCA_000298355.1_BosGru_v2.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_000298355.1	PRJNA74739	SAMN00744358	72004	na	latest	Major	Full	2013-01-09	BGI-shenzhen

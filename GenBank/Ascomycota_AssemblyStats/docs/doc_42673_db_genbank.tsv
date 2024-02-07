@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/42673_assembly_stats_genbank.txt	42673	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/262/555/GCA_001262555.1_ASM126255v1/GCA_001262555.1_ASM126255v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001262555.1	PRJNA281294	SAMN03486947	42673	strain=MRC8546	latest	Major	Full	2015-08-06	University of Pretoria

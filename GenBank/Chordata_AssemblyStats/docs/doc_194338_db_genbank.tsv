@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/194338_assembly_stats_genbank.txt	194338	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/259/725/GCA_003259725.1_athCun1/GCA_003259725.1_athCun1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_003259725.1	PRJNA431202	SAMN08961563	194338	na	latest	Major	Full	2018-06-21	Stefan Boerno's shared submissions

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/4082_assembly_stats_genbank.txt	4082	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/705/065/GCA_027705065.1_ASM2770506v1/GCA_027705065.1_ASM2770506v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_027705065.1	PRJNA809001	SAMN26137367	4082	cultivar=ZY61	latest	Major	Full	2023-01-11	Cornell University

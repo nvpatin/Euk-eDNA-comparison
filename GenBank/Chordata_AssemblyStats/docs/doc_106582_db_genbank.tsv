@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/106582_assembly_stats_genbank.txt	106582	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/150/915/GCA_000150915.1_ASM15091v1/GCA_000150915.1_ASM15091v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000150915.1	PRJNA29483	SAMN02743804	106582	strain=Mazinzi Reef	latest	Major	Partial	2008-07-09	Cichlid Genome Consortium

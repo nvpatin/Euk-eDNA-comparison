@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/59291_assembly_stats_genbank.txt	59291	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/477/555/GCA_905477555.1_ML_MAG_01/GCA_905477555.1_ML_MAG_01_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_905477555.1	PRJEB40990	SAMEA7494070	59291	na	latest	Major	Full	2021-04-15	CENTER FOR EVOLUTIONARY HOLOGENOMICS

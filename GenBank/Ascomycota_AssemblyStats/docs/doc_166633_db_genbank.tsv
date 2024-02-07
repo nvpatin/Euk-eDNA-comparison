@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/166633_assembly_stats_genbank.txt	166633	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/219/475/GCA_021219475.1_ccnx2/GCA_021219475.1_ccnx2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_021219475.1	PRJNA713306	SAMN18241837	166633	strain=ccnX2	latest	Major	Full	2021-12-15	Shanghai Jiao Tong University

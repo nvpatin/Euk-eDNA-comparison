@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chlorophyta_AssemblyStats/3117_assembly_stats_genbank.txt	3117	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/138/255/GCA_004138255.1_ASM413825v1/GCA_004138255.1_ASM413825v1_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	na	GCA_004138255.1	PRJNA484545	SAMN09766007	3117	na	latest	Major	Full	2019-02-05	Soochow university

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/179890_assembly_stats_genbank.txt	179890	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/035/047/345/GCA_035047345.1_BraVen1.1/GCA_035047345.1_BraVen1.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_035047345.1	PRJNA986319	SAMN35825190	179890	ecotype=Gauteng	latest	Major	Full	2024-01-03	South African National Biodiversity Institute

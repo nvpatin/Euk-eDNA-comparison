@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/282268_assembly_stats_genbank.txt	282268	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/617/505/GCA_009617505.1_Faus151/GCA_009617505.1_Faus151_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_009617505.1	PRJNA542165	SAMN11613498	282268	strain=3FSP	latest	Major	Full	2019-11-06	University of Sao Paulo

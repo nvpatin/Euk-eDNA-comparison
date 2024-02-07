@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/72873_assembly_stats_genbank.txt	72873	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/636/935/GCA_007636935.1_CLO_TRES_1/GCA_007636935.1_CLO_TRES_1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_007636935.1	PRJNA553513	SAMN12236919	72873	ecotype=Ithaca	latest	Major	Full	2019-07-30	Cornell University

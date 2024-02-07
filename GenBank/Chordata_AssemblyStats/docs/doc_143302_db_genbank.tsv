@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/143302_assembly_stats_genbank.txt	143302	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/260/355/GCA_000260355.1_ConCri1.0/GCA_000260355.1_ConCri1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_000260355.1	PRJNA72447	SAMN00727830	143302	na	latest	Major	Full	2012-05-01	Broad Institute

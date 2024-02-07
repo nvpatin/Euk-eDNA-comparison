@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/202533_assembly_stats_genbank.txt	202533	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/614/865/GCA_010614865.2_ASM1061486v2/GCA_010614865.2_ASM1061486v2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_010614865.2	PRJNA510316	SAMN13619660	202533	ecotype=Namibia, Etosha	latest	Minor	Full	2020-02-14	None

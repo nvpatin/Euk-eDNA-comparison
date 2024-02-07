@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/5493_assembly_stats_genbank.txt	5493	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/031/851/675/GCA_031851675.1_ASM3185167v1/GCA_031851675.1_ASM3185167v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_031851675.1	PRJNA1016273	SAMN37373126	5493	na	latest	Major	Full	2023-09-24	University College Dublin

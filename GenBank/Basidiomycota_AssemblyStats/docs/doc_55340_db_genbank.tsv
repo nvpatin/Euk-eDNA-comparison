@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/55340_assembly_stats_genbank.txt	55340	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/385/825/GCA_022385825.1_Amycha1/GCA_022385825.1_Amycha1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_022385825.1	PRJNA265560	SAMN03159466	55340	strain=DWAch2	latest	Major	Full	2022-02-17	DOE Joint Genome Institute

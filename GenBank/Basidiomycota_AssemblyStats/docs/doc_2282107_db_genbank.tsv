@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/2282107_assembly_stats_genbank.txt	2282107	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/287/475/GCA_002287475.2_ASM228747v2/GCA_002287475.2_ASM228747v2_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_002287475.2	PRJNA377805	SAMN06480491	2282107	strain=FFPRI411160	latest	Minor	Full	2019-07-11	Academia Sinica

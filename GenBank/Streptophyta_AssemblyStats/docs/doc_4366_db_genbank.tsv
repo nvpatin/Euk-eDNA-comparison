@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/4366_assembly_stats_genbank.txt	4366	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/925/005/GCA_001925005.1_ASM192500v1/GCA_001925005.1_ASM192500v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_001925005.1	PRJNA291419	SAMN03951121	4366	cultivar=wide leaf	latest	Major	Full	2016-12-30	University of California, Irvine

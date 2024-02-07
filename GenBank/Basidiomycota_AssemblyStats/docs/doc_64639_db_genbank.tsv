@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/64639_assembly_stats_genbank.txt	64639	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/935/795/GCA_009935795.1_ASM993579v1/GCA_009935795.1_ASM993579v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_009935795.1	PRJNA464177	SAMN09078388	64639	strain=DZS1	latest	Major	Full	2020-01-27	Dezhou University

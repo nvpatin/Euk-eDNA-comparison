@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/13419_assembly_stats_genbank.txt	13419	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/113/865/GCA_022113865.1_ASM2211386v1/GCA_022113865.1_ASM2211386v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_022113865.1	PRJNA704246	SAMN18148367	13419	cultivar=HH(Hongyun)	latest	Major	Full	2022-02-10	Henan Academy of Forestry

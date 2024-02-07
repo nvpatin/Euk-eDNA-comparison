@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/4793_assembly_stats_genbank.txt	4793	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/031/305/395/GCA_031305395.1_STE-U-9442/GCA_031305395.1_STE-U-9442_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_031305395.1	PRJNA945341	SAMN33778876	4793	na	latest	Major	Full	2023-09-14	Stellenbosch University

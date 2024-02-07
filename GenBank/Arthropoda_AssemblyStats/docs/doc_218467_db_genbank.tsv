@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/218467_assembly_stats_genbank.txt	218467	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/671/375/GCA_000671375.2_Cexi_2.0/GCA_000671375.2_Cexi_2.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_000671375.2	PRJNA168116	SAMN02617800	218467	na	latest	Major	Full	2017-12-12	The i5k Initiative

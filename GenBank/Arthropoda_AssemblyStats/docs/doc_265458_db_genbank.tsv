@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/265458_assembly_stats_genbank.txt	265458	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/176/525/GCA_009176525.2_AAFC_CNas_1.1/GCA_009176525.2_AAFC_CNas_1.1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_009176525.2	PRJNA565389	SAMN12743477	265458	na	latest	Minor	Full	2019-10-18	Agriculture Canada

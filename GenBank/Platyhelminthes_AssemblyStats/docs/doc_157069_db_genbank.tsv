@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Platyhelminthes_AssemblyStats/157069_assembly_stats_genbank.txt	157069	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/618/515/GCA_900618515.1_T_regenti_v1_0_4_001_upd/GCA_900618515.1_T_regenti_v1_0_4_001_upd_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	na	GCA_900618515.1	PRJEB4662	SAMEA1876470	157069	na	latest	Major	Full	2018-12-13	WTSI

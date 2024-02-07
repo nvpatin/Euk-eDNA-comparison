@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/476689_assembly_stats_genbank.txt	476689	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/673/005/GCA_028673005.1_amnh_byu_tan/GCA_028673005.1_amnh_byu_tan_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_028673005.1	PRJNA743558	SAMN20055395	476689	na	latest	Major	Full	2023-02-22	Brigham Young University

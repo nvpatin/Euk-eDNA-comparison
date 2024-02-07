@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Apicomplexa_AssemblyStats/85471_assembly_stats_genbank.txt	85471	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/005/765/GCA_900005765.1_PRELSG/GCA_900005765.1_PRELSG_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	representative genome	GCA_900005765.1	PRJEB9074	SAMEA2385706	85471	strain=SGS1	latest	Major	Full	2016-11-17	WTSI

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Cnidaria_AssemblyStats/48498_assembly_stats_genbank.txt	48498	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/896/105/GCA_001896105.1_O_faveolata_v1/GCA_001896105.1_O_faveolata_v1_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	na	GCA_001896105.1	PRJNA342412	SAMN05756398	48498	na	latest	Major	Full	2016-12-09	STRI

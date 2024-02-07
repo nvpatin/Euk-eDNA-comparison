@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/37186_assembly_stats_genbank.txt	37186	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/433/095/GCA_016433095.1_ASM1643309v1/GCA_016433095.1_ASM1643309v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_016433095.1	PRJNA682311	SAMN16987477	37186	na	latest	Major	Full	2020-12-29	CIBIO, University of Porto

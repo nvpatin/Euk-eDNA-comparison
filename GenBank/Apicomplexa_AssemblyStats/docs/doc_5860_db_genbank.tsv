@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Apicomplexa_AssemblyStats/5860_assembly_stats_genbank.txt	5860	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/994/265/GCA_903994265.1_PVSEL_v1/GCA_903994265.1_PVSEL_v1_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	na	GCA_903994265.1	PRJEB19355	SAMEA7130172	5860	na	latest	Major	Full	2020-08-06	KAUST

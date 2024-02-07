@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/306554_assembly_stats_genbank.txt	306554	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/705/125/GCA_014705125.1_ASM1470512v1/GCA_014705125.1_ASM1470512v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_014705125.1	PRJNA625663	SAMN14604532	306554	strain=KY745	latest	Major	Full	2020-09-22	University of Kentucky

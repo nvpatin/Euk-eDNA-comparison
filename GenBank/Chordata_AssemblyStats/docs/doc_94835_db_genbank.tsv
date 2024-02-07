@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/94835_assembly_stats_genbank.txt	94835	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/775/435/GCA_000775435.1_ggan_v0.2/GCA_000775435.1_ggan_v0.2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000775435.1	PRJNA172383	SAMN03102901	94835	na	latest	Major	Full	2014-11-14	The International Crocodilian Genomes Working Group

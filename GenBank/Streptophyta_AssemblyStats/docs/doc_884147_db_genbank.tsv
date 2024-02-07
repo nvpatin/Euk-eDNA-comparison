@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/884147_assembly_stats_genbank.txt	884147	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/345/155/GCA_030345155.1_ASM3034515v1/GCA_030345155.1_ASM3034515v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_030345155.1	PRJNA982136	SAMN35677702	884147	cultivar=PI 588149	latest	Major	Full	2023-06-26	Cornell Univerisity

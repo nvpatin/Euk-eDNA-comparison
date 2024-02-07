@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/4795_assembly_stats_genbank.txt	4795	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/215/365/GCA_002215365.1_ASM221536v1/GCA_002215365.1_ASM221536v1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_002215365.1	PRJNA318028	SAMN04632436	4795	strain=zdho120	latest	Major	Full	2017-07-06	Beltsville Agricultural Research Center

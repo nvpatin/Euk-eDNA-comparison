@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/90344_assembly_stats_genbank.txt	90344	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/457/145/GCA_022457145.1_ASM2245714v1/GCA_022457145.1_ASM2245714v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022457145.1	PRJNA777582	SAMN22864663	90344	strain=WT	latest	Major	Full	2022-03-03	Fungit Biosolutions

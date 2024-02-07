@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/2562068_assembly_stats_genbank.txt	2562068	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/737/535/GCA_014737535.1_ASM1473753v1/GCA_014737535.1_ASM1473753v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_014737535.1	PRJNA659133	SAMN15897732	2562068	na	latest	Major	Full	2020-09-25	Chinese Academy of Agricultural Sciences

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/245335_assembly_stats_genbank.txt	245335	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/951/799/445/GCA_951799445.1_cbIsoMyos1.1/GCA_951799445.1_cbIsoMyos1.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_951799445.1	PRJEB62538	SAMEA111266033	245335	na	latest	Major	Full	2023-05-27	WELLCOME SANGER INSTITUTE

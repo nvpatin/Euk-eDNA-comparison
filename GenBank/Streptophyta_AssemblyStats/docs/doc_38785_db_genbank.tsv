@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/38785_assembly_stats_genbank.txt	38785	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/151/155/GCA_026151155.1_UiO_Aaren_v1.0/GCA_026151155.1_UiO_Aaren_v1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_026151155.1	PRJNA844220	SAMN28797779	38785	cultivar=MJ09-4, /ecotype=Puste Pole	latest	Major	Full	2022-11-14	University of Oslo

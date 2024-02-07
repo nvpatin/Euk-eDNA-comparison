@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/3765_assembly_stats_genbank.txt	3765	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/662/545/GCA_001662545.1_ASM166254v1/GCA_001662545.1_ASM166254v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_001662545.1	PRJNA322107	SAMN05017599	3765	na	latest	Major	Full	2016-06-13	BIO-FD&C CO.,LTD

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/4109_assembly_stats_genbank.txt	4109	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/239/805/GCA_001239805.1_ASM123980v1/GCA_001239805.1_ASM123980v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_001239805.1	PRJNA269007	SAMN03247563	4109	cultivar=cmm1t	latest	Major	Full	2015-04-21	Universita di Verona

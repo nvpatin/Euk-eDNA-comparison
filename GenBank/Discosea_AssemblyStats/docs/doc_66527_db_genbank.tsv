@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Discosea_AssemblyStats/66527_assembly_stats_genbank.txt	66527	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/185/145/GCA_001185145.1_ASM118514v1/GCA_001185145.1_ASM118514v1_assembly_stats.txt	genbank	GenBank/Discosea_AssemblyStats	na	GCA_001185145.1	PRJNA286069	SAMN03764508	66527	strain=CDC-V039	latest	Major	Full	2015-07-22	Robert Koch Institute

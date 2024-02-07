@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chrysophyceae_AssemblyStats/1117030_assembly_stats_genbank.txt	1117030	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/148/585/GCA_015148585.1_ASM1514858v1/GCA_015148585.1_ASM1514858v1_assembly_stats.txt	genbank	GenBank/Chrysophyceae_AssemblyStats	na	GCA_015148585.1	PRJNA546545	SAMN11906412	1117030	strain=1006	latest	Major	Full	2020-10-30	University Duisburg-Essen

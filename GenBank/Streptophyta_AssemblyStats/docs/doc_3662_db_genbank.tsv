@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/3662_assembly_stats_genbank.txt	3662	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/738/365/GCA_002738365.1_Cmos_1.0/GCA_002738365.1_Cmos_1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_002738365.1	PRJNA385310	SAMN06886672	3662	cultivar=Rifu	latest	Major	Full	2017-10-31	Cornell University

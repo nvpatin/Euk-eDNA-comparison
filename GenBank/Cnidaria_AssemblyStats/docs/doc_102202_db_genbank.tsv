@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Cnidaria_AssemblyStats/102202_assembly_stats_genbank.txt	102202	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/634/185/GCA_014634185.1_Amyr_1.0/GCA_014634185.1_Amyr_1.0_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	representative genome	GCA_014634185.1	PRJDB8519	SAMD00186144	102202	na	latest	Major	Full	2020-09-04	Atmosphere and Ocean Research Institute, The University of Tokyo

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2725329_assembly_stats_genbank.txt	2725329	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/849/695/GCA_014849695.1_ASM1484969v1/GCA_014849695.1_ASM1484969v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_014849695.1	PRJNA644891	SAMN15482008	2725329	na	latest	Major	Full	2020-10-05	Swiss Federal Research Institute WSL

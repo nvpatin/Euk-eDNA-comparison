@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/446911_assembly_stats_genbank.txt	446911	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/618/385/GCA_023618385.1_ASM2361838v1/GCA_023618385.1_ASM2361838v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_023618385.1	PRJNA833221	SAMN27963308	446911	strain=PG009	latest	Major	Full	2022-06-01	Dalian Medical University

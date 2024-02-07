@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/468822_assembly_stats_genbank.txt	468822	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/980/735/GCA_006980735.1_ASM698073v1/GCA_006980735.1_ASM698073v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_006980735.1	PRJNA361480	SAMN10022830	468822	na	latest	Major	Full	2019-07-15	Institute for Biology, University of Leipzig

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/132113_assembly_stats_genbank.txt	132113	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/188/095/GCA_000188095.4_BIMP_2.2/GCA_000188095.4_BIMP_2.2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_000188095.4	PRJNA61101	SAMN02953787	132113	na	latest	Minor	Full	2011-09-22	Biotechnology Center, University of Illinois (BCUI)

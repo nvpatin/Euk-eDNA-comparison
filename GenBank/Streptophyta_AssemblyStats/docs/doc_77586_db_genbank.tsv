@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/77586_assembly_stats_genbank.txt	77586	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/325/765/GCA_000325765.3_Lperr_V1.4/GCA_000325765.3_Lperr_V1.4_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_000325765.3	PRJNA163065	SAMN02981441	77586	na	latest	Major	Full	2014-02-21	Arizona Genomics Institute

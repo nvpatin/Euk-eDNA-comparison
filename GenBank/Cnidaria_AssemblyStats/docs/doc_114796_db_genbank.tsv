@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Cnidaria_AssemblyStats/114796_assembly_stats_genbank.txt	114796	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/155/075/GCA_018155075.1_ASM1815507v1/GCA_018155075.1_ASM1815507v1_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	representative genome	GCA_018155075.1	PRJNA576371	SAMN12993007	114796	na	latest	Major	Full	2021-04-28	University Medical Center Groningen (UMCG)

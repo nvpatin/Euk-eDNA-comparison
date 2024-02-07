@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1682393_assembly_stats_genbank.txt	1682393	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/744/255/GCA_020744255.1_Mictri1/GCA_020744255.1_Mictri1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_020744255.1	PRJNA370119	SAMN06297163	1682393	strain=MPI-CAGE-CH-0230	latest	Major	Full	2021-11-04	DOE Joint Genome Institute

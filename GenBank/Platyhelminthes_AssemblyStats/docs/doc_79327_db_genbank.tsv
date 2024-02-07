@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Platyhelminthes_AssemblyStats/79327_assembly_stats_genbank.txt	79327	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/181/075/GCA_000181075.1_ASM18107v1/GCA_000181075.1_ASM18107v1_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	na	GCA_000181075.1	PRJNA12585	SAMN02953673	79327	strain=S2F2	latest	Major	Full	2007-01-26	Genome Sequencing Center, Washington University

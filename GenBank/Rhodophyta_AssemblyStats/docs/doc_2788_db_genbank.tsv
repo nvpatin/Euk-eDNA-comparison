@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Rhodophyta_AssemblyStats/2788_assembly_stats_genbank.txt	2788	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/829/735/GCA_009829735.1_ASM982973v1/GCA_009829735.1_ASM982973v1_assembly_stats.txt	genbank	GenBank/Rhodophyta_AssemblyStats	representative genome	GCA_009829735.1	PRJNA589917	SAMN13316713	2788	cultivar=RZ	latest	Major	Full	2020-01-06	Ocean University

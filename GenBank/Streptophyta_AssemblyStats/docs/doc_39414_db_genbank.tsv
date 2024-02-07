@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/39414_assembly_stats_genbank.txt	39414	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/659/135/GCA_028659135.1_PL_genome_S119/GCA_028659135.1_PL_genome_S119_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_028659135.1	PRJNA649873	SAMN15684949	39414	na	latest	Major	Full	2023-02-16	University of Southampton

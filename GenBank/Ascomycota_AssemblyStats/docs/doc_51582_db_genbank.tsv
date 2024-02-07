@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/51582_assembly_stats_genbank.txt	51582	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/008/105/GCA_001008105.1_Atex_B6156_v1/GCA_001008105.1_Atex_B6156_v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001008105.1	PRJNA275006	SAMN03573219	51582	strain=B6156	latest	Major	Full	2015-05-15	University of Kentucky

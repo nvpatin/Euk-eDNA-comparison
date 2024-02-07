@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/653948_assembly_stats_genbank.txt	653948	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/706/625/GCA_902706625.1_Albugo_laibachii_Nc14/GCA_902706625.1_Albugo_laibachii_Nc14_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_902706625.1	PRJEB2361	SAMEA783992	653948	na	latest	Major	Full	2019-12-17	JIC

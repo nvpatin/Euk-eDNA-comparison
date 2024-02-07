@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/AssemblyStats/2493646_assembly_stats_genbank.txt	2493646	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/746/295/GCA_016746295.1_UT_Pstr_1.0/GCA_016746295.1_UT_Pstr_1.0_assembly_stats.txt	genbank	GenBank/AssemblyStats	representative genome	GCA_016746295.1	PRJNA681676	SAMN16131590	2493646	na	latest	Major	Full	2021-01-21	University of Texas at Austin

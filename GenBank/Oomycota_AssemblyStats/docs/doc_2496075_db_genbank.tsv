@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/2496075_assembly_stats_genbank.txt	2496075	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/873/745/GCA_018873745.1_NZ4037v1/GCA_018873745.1_NZ4037v1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_018873745.1	PRJNA687640	SAMN17151088	2496075	na	latest	Major	Full	2021-06-14	University of Exeter

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/181762_assembly_stats_genbank.txt	181762	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/499/595/GCA_017499595.2_MGC_Penvy_1/GCA_017499595.2_MGC_Penvy_1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_017499595.2	PRJNA700437	SAMN17831733	181762	strain=MGC-MH-2018	latest	Major	Full	2022-02-04	Medicinal Genomics

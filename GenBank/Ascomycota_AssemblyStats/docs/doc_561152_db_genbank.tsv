@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/561152_assembly_stats_genbank.txt	561152	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/657/125/GCA_017657125.1_ASM1765712v1/GCA_017657125.1_ASM1765712v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_017657125.1	PRJNA553117	SAMN12229526	561152	strain=MRI360	latest	Major	Full	2021-04-02	Max Rubner-Institut

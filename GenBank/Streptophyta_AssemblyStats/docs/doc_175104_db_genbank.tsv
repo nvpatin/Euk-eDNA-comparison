@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/175104_assembly_stats_genbank.txt	175104	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/403/715/GCA_001403715.1_Primula_Slocus/GCA_001403715.1_Primula_Slocus_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_001403715.1	PRJEB7311	SAMEA2802728	175104	na	latest	Major	Partial	2015-10-07	TGAC

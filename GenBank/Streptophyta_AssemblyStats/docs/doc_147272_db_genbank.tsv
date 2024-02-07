@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/147272_assembly_stats_genbank.txt	147272	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/530/915/GCA_022530915.1_ASM2253091v1/GCA_022530915.1_ASM2253091v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_022530915.1	PRJNA763284	SAMN21437032	147272	ecotype=China	latest	Major	Full	2022-03-10	College of Grassland Science

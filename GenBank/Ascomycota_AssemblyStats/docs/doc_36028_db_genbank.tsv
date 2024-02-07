@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/36028_assembly_stats_genbank.txt	36028	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/706/915/GCA_003706915.2_ASM370691v2/GCA_003706915.2_ASM370691v2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003706915.2	PRJNA429441	SAMN08343315	36028	strain=NRRL YB-3808	latest	Major	Full	2018-11-19	UW-Madison

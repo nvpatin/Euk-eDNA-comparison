@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Bryozoa_AssemblyStats/192920_assembly_stats_genbank.txt	192920	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/935/421/085/GCA_935421085.1_tzBugStol2.1_alternate_haplotype/GCA_935421085.1_tzBugStol2.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Bryozoa_AssemblyStats	na	GCA_935421085.1	PRJEB51932	SAMEA7536683	192920	na	latest	Major	Full	2022-04-16	WELLCOME SANGER INSTITUTE

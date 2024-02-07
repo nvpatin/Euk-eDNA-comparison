@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/44085_assembly_stats_genbank.txt	44085	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/031/124/845/GCA_031124845.1_ASM3112484v1/GCA_031124845.1_ASM3112484v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_031124845.1	PRJNA977123	SAMN35538605	44085	strain=CBS 8420	latest	Major	Full	2023-09-05	UCD Conway Institute

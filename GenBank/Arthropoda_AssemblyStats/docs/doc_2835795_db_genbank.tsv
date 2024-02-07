@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/2835795_assembly_stats_genbank.txt	2835795	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/583/045/GCA_028583045.1_him_ht1/GCA_028583045.1_him_ht1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_028583045.1	PRJNA728835	SAMN19104596	2835795	na	latest	Major	Full	2023-02-09	LOEWE Centre for Translational Biodiversity

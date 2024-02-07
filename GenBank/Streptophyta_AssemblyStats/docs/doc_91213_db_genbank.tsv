@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/91213_assembly_stats_genbank.txt	91213	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/122/765/GCA_003122765.1_ASM312276v1/GCA_003122765.1_ASM312276v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_003122765.1	PRJNA445704	SAMN08795866	91213	na	latest	Major	Full	2018-05-14	University of California Davis

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/253104_assembly_stats_genbank.txt	253104	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/414/485/GCA_001414485.1_H_herbarum_v1/GCA_001414485.1_H_herbarum_v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001414485.1	PRJNA298390	SAMN04158973	253104	strain=CBS 466.73	latest	Major	Full	2015-10-27	University of Exeter

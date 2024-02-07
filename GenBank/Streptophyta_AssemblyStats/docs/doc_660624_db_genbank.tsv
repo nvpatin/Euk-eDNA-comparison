@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/660624_assembly_stats_genbank.txt	660624	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/223/645/GCA_018223645.1_ASM1822364v1/GCA_018223645.1_ASM1822364v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_018223645.1	PRJNA723725	SAMN18826951	660624	cultivar=Hutoumoli	latest	Major	Full	2021-05-02	China Agricultural University

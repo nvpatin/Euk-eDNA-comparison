@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/198938_assembly_stats_genbank.txt	198938	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/963/965/GCA_021963965.1_bArtBel1.0.p/GCA_021963965.1_bArtBel1.0.p_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_021963965.1	PRJNA791509	SAMN24224802	198938	ecotype=canescens	latest	Major	Full	2022-02-04	UCLA

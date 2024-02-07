@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/272628_assembly_stats_genbank.txt	272628	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/911/387/695/GCA_911387695.1_ilThySylv1.1_alternate_haplotype/GCA_911387695.1_ilThySylv1.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_911387695.1	PRJEB46434	SAMEA7523279	272628	na	latest	Major	Full	2021-07-22	WELLCOME SANGER INSTITUTE

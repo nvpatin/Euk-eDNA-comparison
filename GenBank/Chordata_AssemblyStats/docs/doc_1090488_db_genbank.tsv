@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/1090488_assembly_stats_genbank.txt	1090488	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/583/405/GCA_028583405.1_KU_S6/GCA_028583405.1_KU_S6_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_028583405.1	PRJNA697561	SAMN17672856	1090488	na	latest	Major	Full	2023-02-10	Korea University

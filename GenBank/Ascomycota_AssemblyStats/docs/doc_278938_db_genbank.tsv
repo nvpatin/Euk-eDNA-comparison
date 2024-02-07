@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/278938_assembly_stats_genbank.txt	278938	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/786/205/GCA_004786205.1_ASM478620v1/GCA_004786205.1_ASM478620v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_004786205.1	PRJNA401386	SAMN07604185	278938	strain=Be9601	latest	Major	Full	2019-04-12	Wageningen University

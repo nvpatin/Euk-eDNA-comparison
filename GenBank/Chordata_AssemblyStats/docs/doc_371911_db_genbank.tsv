@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/371911_assembly_stats_genbank.txt	371911	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/628/625/GCA_033628625.1_ASM3362862v1/GCA_033628625.1_ASM3362862v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_033628625.1	PRJNA739535	SAMN19791465	371911	strain=RP	latest	Major	Full	2023-11-14	BGI-Shenzhen

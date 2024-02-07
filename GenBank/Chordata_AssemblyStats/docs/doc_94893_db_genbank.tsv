@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/94893_assembly_stats_genbank.txt	94893	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/577/455/GCA_022577455.1_rAriEle1.0.p/GCA_022577455.1_rAriEle1.0.p_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_022577455.1	PRJNA796781	SAMN24818160	94893	ecotype=subspecies occidentalis	latest	Major	Full	2022-03-15	UCLA

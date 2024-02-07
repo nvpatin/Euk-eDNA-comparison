@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/459629_assembly_stats_genbank.txt	459629	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/753/735/GCA_001753735.1_Embelia_ribes_ER1_v1/GCA_001753735.1_Embelia_ribes_ER1_v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_001753735.1	PRJNA343859	SAMN05787349	459629	na	latest	Major	Full	2016-10-06	Transdisciplinary University

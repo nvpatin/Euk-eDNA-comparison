@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/743302_assembly_stats_genbank.txt	743302	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/578/775/GCA_022578775.1_Xylven1/GCA_022578775.1_Xylven1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022578775.1	PRJNA571061	SAMN16865066	743302	strain=FL0490	latest	Major	Full	2022-02-28	DOE Joint Genome Institute

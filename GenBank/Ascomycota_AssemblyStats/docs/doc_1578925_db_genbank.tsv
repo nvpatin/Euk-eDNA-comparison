@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1578925_assembly_stats_genbank.txt	1578925	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/013/045/GCA_003013045.1_ASM301304v1/GCA_003013045.1_ASM301304v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003013045.1	PRJNA320483	SAMN08377453	1578925	strain=PM1	latest	Major	Full	2018-03-21	International Wheat Blast Consortium

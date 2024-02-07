@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/413958_assembly_stats_genbank.txt	413958	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/213/335/GCA_023213335.1_BH-2021.pat/GCA_023213335.1_BH-2021.pat_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_023213335.1	PRJNA769540	SAMN19554970	413958	na	latest	Major	Full	2022-05-02	National Science and Technology Development Agency

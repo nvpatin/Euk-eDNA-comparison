@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/356906_assembly_stats_genbank.txt	356906	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/590/115/GCA_017590115.1_ASM1759011v1/GCA_017590115.1_ASM1759011v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_017590115.1	PRJNA417520	SAMN18252885	356906	na	latest	Major	Full	2021-03-26	Institute of Zoology, Chinese Academy of Sciences

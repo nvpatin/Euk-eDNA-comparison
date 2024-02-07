@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/366904_assembly_stats_genbank.txt	366904	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/785/265/GCA_016785265.1_ASM1678526v1/GCA_016785265.1_ASM1678526v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_016785265.1	PRJNA592738	SAMN13439296	366904	na	latest	Major	Full	2021-02-01	Center for Ecological and Environmental Sciences

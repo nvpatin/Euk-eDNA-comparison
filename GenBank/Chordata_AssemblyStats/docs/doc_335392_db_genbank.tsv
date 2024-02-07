@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/335392_assembly_stats_genbank.txt	335392	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/172/125/GCA_032172125.1_rGlyIns1_a1.0/GCA_032172125.1_rGlyIns1_a1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_032172125.1	PRJNA1016397	SAMN36942438	335392	na	latest	Major	Full	2023-09-28	Canada's Genomic Enterprise

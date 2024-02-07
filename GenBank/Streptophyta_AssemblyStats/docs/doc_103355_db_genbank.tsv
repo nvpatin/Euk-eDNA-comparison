@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/103355_assembly_stats_genbank.txt	103355	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/039/315/GCA_011039315.1_ASM1103931v1/GCA_011039315.1_ASM1103931v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_011039315.1	PRJNA606024	SAMN14112269	103355	cultivar=concord	latest	Major	Full	2020-02-28	Cornell University

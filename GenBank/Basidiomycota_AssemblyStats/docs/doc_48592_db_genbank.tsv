@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/48592_assembly_stats_genbank.txt	48592	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/647/645/GCA_016647645.1_Suivar1/GCA_016647645.1_Suivar1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_016647645.1	PRJNA519865	SAMN10865531	48592	strain=UH-Sva-Z1	latest	Major	Full	2021-01-15	DOE Joint Genome Institute

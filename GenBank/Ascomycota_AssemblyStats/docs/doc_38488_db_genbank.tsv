@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/38488_assembly_stats_genbank.txt	38488	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/379/285/GCA_004379285.1_ASM437928v1/GCA_004379285.1_ASM437928v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_004379285.1	PRJNA401386	SAMN07604183	38488	strain=MUCL2830	latest	Major	Full	2019-03-26	Wageningen University

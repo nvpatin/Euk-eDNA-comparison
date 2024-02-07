@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/303139_assembly_stats_genbank.txt	303139	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/392/965/GCA_028392965.1_V1.4/GCA_028392965.1_V1.4_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_028392965.1	PRJNA489465	SAMN10026577	303139	na	latest	Major	Full	2023-02-01	Michigan State University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/405846_assembly_stats_genbank.txt	405846	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/113/925/GCA_007113925.1_ASM711392v1/GCA_007113925.1_ASM711392v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_007113925.1	PRJNA544635	SAMN09010465	405846	strain=CMW 17545	latest	Major	Full	2019-07-18	University of Pretoria

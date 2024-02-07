@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/61235_assembly_stats_genbank.txt	61235	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/894/235/GCA_002894235.1_CS5819v1/GCA_002894235.1_CS5819v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002894235.1	PRJNA361522	SAMN06234580	61235	strain=CS5819	latest	Major	Full	2018-01-22	CSIRO

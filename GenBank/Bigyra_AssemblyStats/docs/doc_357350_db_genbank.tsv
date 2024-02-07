@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Bigyra_AssemblyStats/357350_assembly_stats_genbank.txt	357350	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/687/465/GCA_001687465.1_ASM168746v1/GCA_001687465.1_ASM168746v1_assembly_stats.txt	genbank	GenBank/Bigyra_AssemblyStats	representative genome	GCA_001687465.1	PRJNA301433	SAMN04576703	357350	strain=EHF34	latest	Major	Full	2016-07-19	Dalhousie University

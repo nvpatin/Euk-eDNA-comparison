@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/4083_assembly_stats_genbank.txt	4083	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/013/705/GCA_006013705.1_ASM601370v1/GCA_006013705.1_ASM601370v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_006013705.1	PRJNA508893	SAMN10186767	4083	ecotype=LA3111	latest	Major	Full	2019-06-05	HelmholtzZentrum Munich

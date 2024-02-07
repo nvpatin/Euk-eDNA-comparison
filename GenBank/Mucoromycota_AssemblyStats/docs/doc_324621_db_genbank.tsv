@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Mucoromycota_AssemblyStats/324621_assembly_stats_genbank.txt	324621	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/951/145/GCA_003951145.1_OSU_Jimlac_1.0/GCA_003951145.1_OSU_Jimlac_1.0_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_003951145.1	PRJNA494432	SAMN10169340	324621	strain=OSC162217	latest	Major	Full	2018-12-17	Oregon State University

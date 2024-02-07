@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/43649_assembly_stats_genbank.txt	43649	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/034/509/955/GCA_034509955.1_ASU_Unig_1/GCA_034509955.1_ASU_Unig_1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_034509955.1	PRJNA825570	SAMN28669246	43649	na	latest	Major	Full	2023-12-21	Arizona State University

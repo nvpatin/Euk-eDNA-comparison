@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/340692_assembly_stats_genbank.txt	340692	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/031/479/575/GCA_031479575.1_ASM3147957v1/GCA_031479575.1_ASM3147957v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_031479575.1	PRJNA1000111	SAMN36760035	340692	na	latest	Major	Full	2023-09-14	Heilongjiang River Fisheries Research Institute

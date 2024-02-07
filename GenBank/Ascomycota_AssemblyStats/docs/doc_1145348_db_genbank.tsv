@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1145348_assembly_stats_genbank.txt	1145348	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/645/825/GCA_023645825.1_KEW_Slac1/GCA_023645825.1_KEW_Slac1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_023645825.1	PRJNA783777	SAMN23451846	1145348	na	latest	Major	Full	2022-06-02	Royal Botanic Gardens Kew

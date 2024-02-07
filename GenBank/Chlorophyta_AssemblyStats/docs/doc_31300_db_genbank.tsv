@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chlorophyta_AssemblyStats/31300_assembly_stats_genbank.txt	31300	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/193/075/GCA_009193075.1_ASM919307v1/GCA_009193075.1_ASM919307v1_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_009193075.1	PRJNA556117	SAMN12340813	31300	na	latest	Major	Full	2019-10-21	Nanjing Institute of Geography and Limnology

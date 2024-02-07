@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Annelid_AssemblyStats/169957_assembly_stats_genbank.txt	169957	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/405/105/GCA_020405105.1_ASM2040510v1/GCA_020405105.1_ASM2040510v1_assembly_stats.txt	genbank	GenBank/Annelid_AssemblyStats	na	GCA_020405105.1	PRJNA751411	SAMN20517504	169957	breed=nightcrawler	latest	Major	Full	2021-10-10	Manonmaniam Sundaranar University

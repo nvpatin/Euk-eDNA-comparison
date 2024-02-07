@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Apicomplexa_AssemblyStats/857276_assembly_stats_genbank.txt	857276	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/835/715/GCA_001835715.1_ASM183571v1/GCA_001835715.1_ASM183571v1_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	na	GCA_001835715.1	PRJNA246478	SAMN04417249	857276	na	latest	Major	Full	2016-10-24	CDC

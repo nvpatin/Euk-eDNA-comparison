@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/30069_assembly_stats_genbank.txt	30069	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/349/045/GCA_000349045.1_Anop_step_SDA-500_V1/GCA_000349045.1_Anop_step_SDA-500_V1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000349045.1	PRJNA191554	SAMN02953837	30069	strain=SDA-500	latest	Major	Full	2013-03-28	Broad Institute

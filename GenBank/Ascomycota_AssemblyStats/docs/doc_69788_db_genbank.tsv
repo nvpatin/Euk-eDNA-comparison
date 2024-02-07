@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/69788_assembly_stats_genbank.txt	69788	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/750/025/GCA_001750025.1_ASM175002v1/GCA_001750025.1_ASM175002v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001750025.1	PRJNA339619	SAMN05601186	69788	strain=113	latest	Major	Full	2016-09-29	Rutgers, The State University of New Jersey

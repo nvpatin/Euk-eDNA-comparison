@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/1569972_assembly_stats_genbank.txt	1569972	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/615/435/GCA_020615435.1_ZJU_Trem_1.0/GCA_020615435.1_ZJU_Trem_1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_020615435.1	PRJNA723667	SAMN18824807	1569972	na	latest	Major	Full	2021-11-04	Zhejiang University

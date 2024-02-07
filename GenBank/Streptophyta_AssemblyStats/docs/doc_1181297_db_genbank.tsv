@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/1181297_assembly_stats_genbank.txt	1181297	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/812/395/GCA_009812395.1_DU_Znig_v1/GCA_009812395.1_DU_Znig_v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_009812395.1	PRJNA562570	SAMN12644862	1181297	na	latest	Major	Full	2019-12-31	Deakin University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/136037_assembly_stats_genbank.txt	136037	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/696/155/GCA_000696155.1_ZooNev1.0/GCA_000696155.1_ZooNev1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_000696155.1	PRJNA203242	SAMN02146280	136037	na	latest	Major	Full	2014-06-05	BGI

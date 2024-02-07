@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Mucoromycota_AssemblyStats/101127_assembly_stats_genbank.txt	101127	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/104/935/GCA_002104935.1_Hesve2/GCA_002104935.1_Hesve2_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_002104935.1	PRJNA243954	SAMN02745228	101127	strain=NRRL 3301	latest	Major	Full	2017-04-20	DOE Joint Genome Institute

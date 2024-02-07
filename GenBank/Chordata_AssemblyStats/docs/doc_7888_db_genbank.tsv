@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/7888_assembly_stats_genbank.txt	7888	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/279/795/GCA_019279795.1_PAN1.0/GCA_019279795.1_PAN1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_019279795.1	PRJNA701604	SAMN17890435	7888	na	latest	Major	Full	2021-07-20	Northwestern Polytechnical University

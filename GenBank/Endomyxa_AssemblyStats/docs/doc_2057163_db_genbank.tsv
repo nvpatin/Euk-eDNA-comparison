@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Endomyxa_AssemblyStats/2057163_assembly_stats_genbank.txt	2057163	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/330/925/GCA_025330925.1_Haplo_1/GCA_025330925.1_Haplo_1_assembly_stats.txt	genbank	GenBank/Endomyxa_AssemblyStats	representative genome	GCA_025330925.1	PRJNA727524	SAMN19022341	2057163	strain=Haplo_1	latest	Major	Full	2022-09-20	University of Sassari

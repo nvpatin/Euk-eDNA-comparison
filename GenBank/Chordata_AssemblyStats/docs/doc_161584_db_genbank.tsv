@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/161584_assembly_stats_genbank.txt	161584	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/901/709/685/GCA_901709685.1_fSynAcu1.1_alternate_haplotype/GCA_901709685.1_fSynAcu1.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_901709685.1	PRJEB32742	SAMEA104381750	161584	na	latest	Major	Full	2019-06-02	SC

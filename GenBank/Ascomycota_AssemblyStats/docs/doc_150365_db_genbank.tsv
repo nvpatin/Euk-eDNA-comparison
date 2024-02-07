@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/150365_assembly_stats_genbank.txt	150365	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/807/595/GCA_033807595.1_ASM3380759v1/GCA_033807595.1_ASM3380759v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_033807595.1	PRJNA1034788	SAMN38110310	150365	na	latest	Major	Full	2023-11-20	Academia Sinica

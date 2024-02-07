@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/5147_assembly_stats_genbank.txt	5147	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/870/435/GCA_033870435.1_ASM3387043v1/GCA_033870435.1_ASM3387043v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_033870435.1	PRJNA744349	SAMN20088412	5147	strain=SN1693	latest	Major	Full	2023-11-21	Ruhr-University Bochum

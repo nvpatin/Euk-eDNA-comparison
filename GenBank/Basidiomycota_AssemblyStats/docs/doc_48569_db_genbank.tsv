@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/48569_assembly_stats_genbank.txt	48569	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/695/475/GCA_016695475.1_Suidec1/GCA_016695475.1_Suidec1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_016695475.1	PRJNA333477	SAMN05446964	48569	strain=EM49	latest	Major	Full	2021-01-06	DOE Joint Genome Institute

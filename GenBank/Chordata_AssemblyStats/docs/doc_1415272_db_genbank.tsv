@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/1415272_assembly_stats_genbank.txt	1415272	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/660/315/GCA_900660315.1_Diretmoides_pauciradiatus_assembly/GCA_900660315.1_Diretmoides_pauciradiatus_assembly_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_900660315.1	PRJEB30779	SAMEA5226239	1415272	na	latest	Major	Full	2019-06-19	CEES

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/106626_assembly_stats_genbank.txt	106626	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/174/605/GCA_900174605.1_Rap_scaffold_v2/GCA_900174605.1_Rap_scaffold_v2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_900174605.1	PRJEB8423	SAMEA103941919	106626	na	latest	Major	Full	2017-09-28	Zhang Zhang

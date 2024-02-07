@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/167740_assembly_stats_genbank.txt	167740	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/156/025/GCA_004156025.2_ASM415602v2/GCA_004156025.2_ASM415602v2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_004156025.2	PRJNA360212	SAMN06205220	167740	strain=FERA 650	latest	Major	Full	2019-10-08	NIAB-East Malling Research

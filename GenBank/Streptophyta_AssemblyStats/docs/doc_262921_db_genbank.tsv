@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/262921_assembly_stats_genbank.txt	262921	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/746/105/GCA_009746105.1_ASM974610v1/GCA_009746105.1_ASM974610v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_009746105.1	PRJNA432092	SAMN08434804	262921	na	latest	Major	Full	2019-12-13	University of Washington

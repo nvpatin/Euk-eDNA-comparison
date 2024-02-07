@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/347893_assembly_stats_genbank.txt	347893	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/933/935/GCA_002933935.1_ASM293393v1/GCA_002933935.1_ASM293393v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_002933935.1	PRJNA419026	SAMN08200759	347893	ecotype=Hunan	latest	Major	Full	2018-02-20	Sichuan University

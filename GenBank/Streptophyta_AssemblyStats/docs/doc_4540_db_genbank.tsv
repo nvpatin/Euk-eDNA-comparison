@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/4540_assembly_stats_genbank.txt	4540	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/046/395/GCA_003046395.2_Pm_0390_v2/GCA_003046395.2_Pm_0390_v2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_003046395.2	PRJNA431363	SAMN08389585	4540	na	latest	Major	Full	2018-10-25	Shanghai Center for Plant Stress Biology

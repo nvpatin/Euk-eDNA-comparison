@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/1922239_assembly_stats_genbank.txt	1922239	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/823/575/GCA_009823575.1_CNRS_Gbra_1.0/GCA_009823575.1_CNRS_Gbra_1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_009823575.1	PRJNA503097	SAMN10352357	1922239	strain=Va	latest	Major	Full	2019-12-31	Universite Lyon 1

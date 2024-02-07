@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/8208_assembly_stats_genbank.txt	8208	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/735/185/GCA_000735185.1_NC01/GCA_000735185.1_NC01_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_000735185.1	PRJNA66471	SAMN02206445	8208	na	latest	Major	Full	2014-07-29	Antarctic Fish Genome Project

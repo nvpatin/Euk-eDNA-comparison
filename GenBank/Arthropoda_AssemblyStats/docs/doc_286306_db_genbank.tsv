@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/286306_assembly_stats_genbank.txt	286306	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/399/895/GCA_019399895.1_Cobs2.1/GCA_019399895.1_Cobs2.1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_019399895.1	PRJNA680013	SAMN16869678	286306	ecotype=Brazil	latest	Major	Full	2021-07-29	University of Muenster

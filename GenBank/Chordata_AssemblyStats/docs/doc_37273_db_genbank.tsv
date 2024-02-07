@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/37273_assembly_stats_genbank.txt	37273	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/663/075/GCA_009663075.1_ASM966307v1/GCA_009663075.1_ASM966307v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_009663075.1	PRJNA550492	SAMN12130783	37273	na	latest	Major	Full	2019-11-14	University of Wuerzburg

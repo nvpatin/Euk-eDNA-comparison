@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/1692169_assembly_stats_genbank.txt	1692169	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/682/625/GCA_033682625.1_ASM3368262v1/GCA_033682625.1_ASM3368262v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_033682625.1	PRJNA1020878	SAMN37533331	1692169	na	latest	Major	Full	2023-11-15	Colorado State University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/9739_assembly_stats_genbank.txt	9739	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/151/865/GCA_000151865.3_Ttru_1.4/GCA_000151865.3_Ttru_1.4_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000151865.3	PRJNA20367	SAMN00000070	9739	na	latest	Minor	Full	2012-01-02	Baylor College of Medicine

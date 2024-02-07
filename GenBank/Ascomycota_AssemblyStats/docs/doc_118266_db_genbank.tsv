@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/118266_assembly_stats_genbank.txt	118266	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/783/505/GCA_030783505.1_ASM3078350v1/GCA_030783505.1_ASM3078350v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_030783505.1	PRJNA879330	SAMN31590582	118266	strain=MBC 696	latest	Major	Full	2023-08-17	USDA-ARS-NCAUR

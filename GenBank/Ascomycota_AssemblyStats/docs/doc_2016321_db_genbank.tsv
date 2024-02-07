@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2016321_assembly_stats_genbank.txt	2016321	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/028/435/GCA_030028435.1_ASM3002843v1/GCA_030028435.1_ASM3002843v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_030028435.1	PRJNA949004	SAMN33981401	2016321	strain=ZJUCC200937	latest	Major	Full	2023-05-17	ANSES

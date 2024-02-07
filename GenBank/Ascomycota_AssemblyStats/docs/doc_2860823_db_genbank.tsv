@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2860823_assembly_stats_genbank.txt	2860823	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/225/955/GCA_026225955.1_ASM2622595v1/GCA_026225955.1_ASM2622595v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_026225955.1	PRJNA851901	SAMN29255209	2860823	strain=H3	latest	Major	Full	2022-11-17	Nanjing Agricultural University

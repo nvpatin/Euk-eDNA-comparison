@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/496653_assembly_stats_genbank.txt	496653	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/448/925/GCA_030448925.1_ASM3044892v1/GCA_030448925.1_ASM3044892v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_030448925.1	PRJNA783764	SAMN23451715	496653	cultivar=HH	latest	Major	Full	2023-07-13	Huazhong Agricultural University

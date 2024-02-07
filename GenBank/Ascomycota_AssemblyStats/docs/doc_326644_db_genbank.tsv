@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/326644_assembly_stats_genbank.txt	326644	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/842/695/GCA_018842695.1_ASM1884269v1/GCA_018842695.1_ASM1884269v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_018842695.1	PRJNA612436	SAMN14372331	326644	strain=D263	latest	Major	Full	2021-06-11	Academia Sinica

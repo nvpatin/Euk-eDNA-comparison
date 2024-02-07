@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/181124_assembly_stats_genbank.txt	181124	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/815/895/GCA_025815895.1_ASM2581589v1/GCA_025815895.1_ASM2581589v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_025815895.1	PRJNA838774	SAMN28515304	181124	strain=43A	latest	Major	Full	2022-10-24	Uppsala University

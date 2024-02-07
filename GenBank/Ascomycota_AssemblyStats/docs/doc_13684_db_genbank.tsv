@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/13684_assembly_stats_genbank.txt	13684	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/267/025/GCA_002267025.1_ASM226702v1/GCA_002267025.1_ASM226702v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002267025.1	PRJNA398070	SAMN07500996	13684	na	latest	Major	Full	2017-08-23	North Dakota State University

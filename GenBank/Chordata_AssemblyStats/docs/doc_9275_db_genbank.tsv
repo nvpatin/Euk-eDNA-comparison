@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/9275_assembly_stats_genbank.txt	9275	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/646/695/GCA_007646695.3_UniMelb_ThyCyn2.0_hybrid_assembly/GCA_007646695.3_UniMelb_ThyCyn2.0_hybrid_assembly_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_007646695.3	PRJNA354646	SAMN06049672	9275	na	latest	Major	Full	2022-04-04	The University of Melbourne

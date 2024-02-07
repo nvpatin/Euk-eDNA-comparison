@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Platyhelminthes_AssemblyStats/99802_assembly_stats_genbank.txt	99802	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/951/995/GCA_000951995.1_S_erinaceieuropaei/GCA_000951995.1_S_erinaceieuropaei_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	na	GCA_000951995.1	PRJEB1202	SAMEA2030242	99802	na	latest	Major	Full	2014-09-26	WTSI

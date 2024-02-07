@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/271171_assembly_stats_genbank.txt	271171	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/859/785/GCA_016859785.1_MUN_r1.11/GCA_016859785.1_MUN_r1.11_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_016859785.1	PRJDB5374	SAMD00069276	271171	cultivar=HPK4	latest	Major	Full	2021-01-19	Kazusa DNA Research Institute

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/50612_assembly_stats_genbank.txt	50612	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/035/128/595/GCA_035128595.1_Eptata_v1/GCA_035128595.1_Eptata_v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_035128595.1	PRJNA953751	SAMN34122694	50612	na	latest	Major	Full	2024-01-09	University College London

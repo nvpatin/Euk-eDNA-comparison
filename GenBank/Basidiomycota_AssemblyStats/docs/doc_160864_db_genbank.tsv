@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/160864_assembly_stats_genbank.txt	160864	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/606/055/GCA_022606055.1_Tragib1/GCA_022606055.1_Tragib1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_022606055.1	PRJNA331355	SAMN05443372	160864	strain=CIRM-BRFM 1770	latest	Major	Full	2022-03-16	DOE Joint Genome Institute

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2699536_assembly_stats_genbank.txt	2699536	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/577/575/GCA_022577575.1_ASM2257757v1/GCA_022577575.1_ASM2257757v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_022577575.1	PRJNA784374	SAMN23488212	2699536	strain=A1.7	latest	Major	Full	2022-03-15	University of Minho

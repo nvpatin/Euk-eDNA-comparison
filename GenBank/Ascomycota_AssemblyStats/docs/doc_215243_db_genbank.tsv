@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/215243_assembly_stats_genbank.txt	215243	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/835/515/GCA_000835515.1_Exop_olig_CBS72588_V1/GCA_000835515.1_Exop_olig_CBS72588_V1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_000835515.1	PRJNA325798	SAMN03176945	215243	strain=CBS 72588	latest	Major	Full	2015-02-23	Broad Institute

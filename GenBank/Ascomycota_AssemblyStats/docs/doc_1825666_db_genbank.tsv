@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1825666_assembly_stats_genbank.txt	1825666	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/801/745/GCA_011801745.1_ASM1180174v1/GCA_011801745.1_ASM1180174v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_011801745.1	PRJNA607807	SAMN14148962	1825666	strain=PM01	latest	Major	Full	2020-03-31	Purdue University, Botany and Plant Pathology

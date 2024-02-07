@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Apicomplexa_AssemblyStats/707206_assembly_stats_genbank.txt	707206	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/625/125/GCA_001625125.1_ASM162512v1/GCA_001625125.1_ASM162512v1_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	representative genome	GCA_001625125.1	PRJNA309868	SAMN04441127	707206	strain=SISKIN1	latest	Major	Full	2016-04-24	BioCI

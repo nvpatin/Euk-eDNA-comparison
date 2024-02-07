@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/137743_assembly_stats_genbank.txt	137743	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/606/235/GCA_022606235.1_Abobie1/GCA_022606235.1_Abobie1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_022606235.1	PRJNA444028	SAMN08777216	137743	strain=CIRM-BRFM 1778	latest	Major	Full	2022-03-16	DOE Joint Genome Institute

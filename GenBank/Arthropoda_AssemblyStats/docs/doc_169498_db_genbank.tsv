@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/169498_assembly_stats_genbank.txt	169498	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/309/665/GCA_017309665.1_UL_Cfrigida_v1.1/GCA_017309665.1_UL_Cfrigida_v1.1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_017309665.1	PRJNA688905	SAMN17191201	169498	na	latest	Major	Full	2021-03-09	Universite Laval

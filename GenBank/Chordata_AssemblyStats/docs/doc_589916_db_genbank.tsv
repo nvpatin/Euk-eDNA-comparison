@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/589916_assembly_stats_genbank.txt	589916	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/504/685/GCA_025504685.1_ASM2550468v1/GCA_025504685.1_ASM2550468v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_025504685.1	PRJNA847874	SAMN28958185	589916	ecotype=Colorado	latest	Major	Full	2022-10-03	University of Colorado Boulder

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/119750_assembly_stats_genbank.txt	119750	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/272/975/GCA_030272975.1_ASM3027297v1/GCA_030272975.1_ASM3027297v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_030272975.1	PRJNA794279	SAMN24619403	119750	na	latest	Major	Full	2023-06-13	Kuwait Institute for Scientific Research (KISR)

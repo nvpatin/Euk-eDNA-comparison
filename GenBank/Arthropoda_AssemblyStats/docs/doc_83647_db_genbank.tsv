@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/83647_assembly_stats_genbank.txt	83647	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/119/065/GCA_014119065.1_ASM1411906v1/GCA_014119065.1_ASM1411906v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_014119065.1	PRJNA633727	SAMN14968925	83647	na	latest	Major	Full	2020-08-10	Jiangxi Agricultural University

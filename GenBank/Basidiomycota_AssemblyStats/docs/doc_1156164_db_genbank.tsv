@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/1156164_assembly_stats_genbank.txt	1156164	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/818/075/GCA_022818075.1_ASM2281807v1/GCA_022818075.1_ASM2281807v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_022818075.1	PRJNA766083	SAMN21618491	1156164	na	latest	Major	Full	2022-04-05	Colorado State University

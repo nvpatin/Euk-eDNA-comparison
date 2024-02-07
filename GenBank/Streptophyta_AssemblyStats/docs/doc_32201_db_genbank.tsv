@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/32201_assembly_stats_genbank.txt	32201	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/808/215/GCA_016808215.1_C.illinoinensisOaxaca_v1/GCA_016808215.1_C.illinoinensisOaxaca_v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_016808215.1	PRJNA680555	SAMN16882286	32201	cultivar=87MX3-2.11	latest	Major	Full	2021-02-10	DOE Joint Genome Institute

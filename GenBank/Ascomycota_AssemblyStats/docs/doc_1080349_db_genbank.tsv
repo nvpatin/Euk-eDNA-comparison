@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1080349_assembly_stats_genbank.txt	1080349	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/946/405/395/GCA_946405395.1_Wolfe_SeubUCD650/GCA_946405395.1_Wolfe_SeubUCD650_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_946405395.1	PRJEB55404	SAMEA110654737	1080349	strain=UCD650	latest	Major	Full	2022-08-27	UNIVERSITY COLLEGE DUBLIN

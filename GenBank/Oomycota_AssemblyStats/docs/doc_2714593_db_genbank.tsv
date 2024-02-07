@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/2714593_assembly_stats_genbank.txt	2714593	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/320/135/GCA_011320135.1_UAnd_PBet_P8084/GCA_011320135.1_UAnd_PBet_P8084_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_011320135.1	PRJNA608953	SAMN14214885	2714593	strain=P8084	latest	Major	Full	2020-03-16	Universidad de los Andes

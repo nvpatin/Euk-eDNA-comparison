@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/30521_assembly_stats_genbank.txt	30521	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/887/515/GCA_005887515.3_BosGru3.1/GCA_005887515.3_BosGru3.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_005887515.3	PRJNA540974	SAMN11569574	30521	ecotype=maiwa	latest	Minor	Full	2019-06-10	Lanzhou University

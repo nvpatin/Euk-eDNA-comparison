@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/42839_assembly_stats_genbank.txt	42839	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/846/955/GCA_002846955.1_A_aquasalis_v1.0/GCA_002846955.1_A_aquasalis_v1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_002846955.1	PRJNA389759	SAMN07206858	42839	na	latest	Major	Full	2017-12-21	Universidade Federal de Minas Gerais

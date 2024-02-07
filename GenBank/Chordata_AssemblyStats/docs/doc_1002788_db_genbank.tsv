@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/1002788_assembly_stats_genbank.txt	1002788	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/791/375/GCA_027791375.2_UM_Iind_1.1/GCA_027791375.2_UM_Iind_1.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_027791375.2	PRJNA900296	SAMN31686289	1002788	na	latest	Minor	Full	2023-01-13	Brood Parasitic Bird Genomes Consortium

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/687131_assembly_stats_genbank.txt	687131	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/255/725/GCA_029255725.1_ASM2925572v1/GCA_029255725.1_ASM2925572v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_029255725.1	PRJNA932016	SAMN33142570	687131	na	latest	Major	Full	2023-03-17	University of Florida

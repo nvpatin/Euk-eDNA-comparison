@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ciliophora_AssemblyStats/74790_assembly_stats_genbank.txt	74790	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/759/055/GCA_016759055.1_ASM1675905v1/GCA_016759055.1_ASM1675905v1_assembly_stats.txt	genbank	GenBank/Ciliophora_AssemblyStats	representative genome	GCA_016759055.1	PRJNA556774	SAMN12325316	74790	strain=Dd1	latest	Major	Full	2021-01-25	Academia Sinica

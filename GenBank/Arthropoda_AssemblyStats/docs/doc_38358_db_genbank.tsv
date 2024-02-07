@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/38358_assembly_stats_genbank.txt	38358	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/529/535/GCA_014529535.2_BU_Bcop_v2/GCA_014529535.2_BU_Bcop_v2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_014529535.2	PRJNA291918	SAMN12533751	38358	strain=Holo2	latest	Major	Full	2023-01-04	Brown University

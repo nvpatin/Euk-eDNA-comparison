@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/435163_assembly_stats_genbank.txt	435163	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/823/395/GCA_009823395.1_ASM982339v1/GCA_009823395.1_ASM982339v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_009823395.1	PRJNA565600	SAMN12753623	435163	na	latest	Major	Full	2020-01-02	Yellow Sea Fisheries Research Institute

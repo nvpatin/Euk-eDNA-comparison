@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/3381_assembly_stats_genbank.txt	3381	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/680/685/GCA_015680685.1_Gmon01/GCA_015680685.1_Gmon01_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_015680685.1	PRJNA339497	SAMN05607108	3381	ecotype=China	latest	Major	Full	2020-11-24	Novogene

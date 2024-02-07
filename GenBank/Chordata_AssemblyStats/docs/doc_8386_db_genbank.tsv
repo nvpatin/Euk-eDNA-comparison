@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/8386_assembly_stats_genbank.txt	8386	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/303/285/GCA_900303285.1_RM170330/GCA_900303285.1_RM170330_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_900303285.1	PRJEB24695	SAMEA104558286	8386	na	latest	Major	Full	2018-03-26	UNIVERSITY OF NEW SOUTH WALES

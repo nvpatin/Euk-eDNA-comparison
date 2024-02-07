@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1955775_assembly_stats_genbank.txt	1955775	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/660/665/GCA_001660665.1_Emmo_afri_EA111/GCA_001660665.1_Emmo_afri_EA111_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001660665.1	PRJNA284519	SAMN03703140	1955775	strain=CBS 136260	latest	Major	Full	2016-06-09	Broad Institute

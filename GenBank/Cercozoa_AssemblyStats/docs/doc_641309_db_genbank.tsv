@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Cercozoa_AssemblyStats/641309_assembly_stats_genbank.txt	641309	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/698/435/GCA_000698435.2_ASM69843v2/GCA_000698435.2_ASM69843v2_assembly_stats.txt	genbank	GenBank/Cercozoa_AssemblyStats	na	GCA_000698435.2	PRJNA210748	SAMN02228105	641309	strain=CCMP622	latest	Minor	Partial	2014-06-05	Dalhousie University

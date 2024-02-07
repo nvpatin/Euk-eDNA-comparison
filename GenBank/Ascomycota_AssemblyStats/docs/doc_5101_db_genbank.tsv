@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/5101_assembly_stats_genbank.txt	5101	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/270/345/GCA_001270345.1_ASM127034v1/GCA_001270345.1_ASM127034v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001270345.1	PRJNA272649	SAMN03284724	5101	strain=ZN1	latest	Major	Full	2015-08-18	East China University of Science and Technology

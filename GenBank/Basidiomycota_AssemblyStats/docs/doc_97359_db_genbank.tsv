@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/97359_assembly_stats_genbank.txt	97359	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/026/445/GCA_007026445.1_Auramp1/GCA_007026445.1_Auramp1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_007026445.1	PRJNA334997	SAMN05444728	97359	strain=NL-1724	latest	Major	Full	2019-07-16	DOE Joint Genome Institute

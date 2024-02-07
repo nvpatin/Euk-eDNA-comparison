@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/76196_assembly_stats_genbank.txt	76196	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/230/085/GCA_018230085.1_SRR5879276/GCA_018230085.1_SRR5879276_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_018230085.1	PRJNA606954	SAMN07424895	76196	ecotype=non-mimetic	latest	Major	Full	2021-05-03	Florida Museum of Natural History

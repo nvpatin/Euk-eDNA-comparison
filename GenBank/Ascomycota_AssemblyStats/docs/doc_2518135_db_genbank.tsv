@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2518135_assembly_stats_genbank.txt	2518135	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/216/415/GCA_004216415.1_S18-22/GCA_004216415.1_S18-22_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_004216415.1	PRJNA520871	SAMN10868988	2518135	strain=E14	latest	Major	Full	2019-02-20	Centre for Functional Diversity

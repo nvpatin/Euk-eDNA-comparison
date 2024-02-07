@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/1843537_assembly_stats_genbank.txt	1843537	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/034/508/575/GCA_034508575.1_Mani_v1.7/GCA_034508575.1_Mani_v1.7_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_034508575.1	PRJNA1002960	SAMN36866741	1843537	na	latest	Major	Full	2023-12-15	University of Basel

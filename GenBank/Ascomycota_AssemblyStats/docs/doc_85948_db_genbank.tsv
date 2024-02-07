@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/85948_assembly_stats_genbank.txt	85948	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/094/045/GCA_010094045.1_Veren1/GCA_010094045.1_Veren1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_010094045.1	PRJNA239483	SAMN02744852	85948	strain=CBS 304.66	latest	Major	Full	2020-01-31	DOE Joint Genome Institute

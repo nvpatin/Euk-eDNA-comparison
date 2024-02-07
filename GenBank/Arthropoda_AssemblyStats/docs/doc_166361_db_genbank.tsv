@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/166361_assembly_stats_genbank.txt	166361	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/648/695/GCA_000648695.2_Otau_2.0/GCA_000648695.2_Otau_2.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_000648695.2	PRJNA167478	SAMN02628949	166361	breed=undomesticated insect	latest	Major	Full	2017-10-31	The i5k Initiative

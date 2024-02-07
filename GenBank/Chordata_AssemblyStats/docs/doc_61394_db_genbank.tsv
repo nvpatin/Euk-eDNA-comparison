@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/61394_assembly_stats_genbank.txt	61394	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/801/355/GCA_016801355.1_CarCar1.0/GCA_016801355.1_CarCar1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_016801355.1	PRJNA637064	SAMN15096300	61394	na	latest	Major	Full	2021-02-02	Felidae consortium

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/60591_assembly_stats_genbank.txt	60591	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/186/555/GCA_021186555.1_TAMU-RSper-2021/GCA_021186555.1_TAMU-RSper-2021_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_021186555.1	PRJNA779705	SAMN23070905	60591	na	latest	Major	Full	2021-12-14	Texas A&M University

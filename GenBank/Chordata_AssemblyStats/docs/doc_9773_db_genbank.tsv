@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/9773_assembly_stats_genbank.txt	9773	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/329/385/GCA_004329385.1_megNov1/GCA_004329385.1_megNov1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_004329385.1	PRJNA509641	SAMN10585801	9773	breed=North Atlantic	latest	Major	Full	2019-03-06	Arizona Cancer Evolution Center (ACE)

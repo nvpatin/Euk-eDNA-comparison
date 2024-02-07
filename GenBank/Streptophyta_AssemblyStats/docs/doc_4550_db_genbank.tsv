@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/4550_assembly_stats_genbank.txt	4550	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/002/355/GCA_900002355.1_Rye_Select_Lo7_assembly/GCA_900002355.1_Rye_Select_Lo7_assembly_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_900002355.1	PRJEB6214	SAMEA2493929	4550	na	latest	Major	Full	2017-02-08	IPK-Gatersleben

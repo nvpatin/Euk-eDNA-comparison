@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/55513_assembly_stats_genbank.txt	55513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/641/045/GCA_008641045.1_PisVer_v2/GCA_008641045.1_PisVer_v2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_008641045.1	PRJNA526975	SAMN11269074	55513	cultivar=Batoury	latest	Major	Full	2019-09-23	Chinese Academy of Sciences

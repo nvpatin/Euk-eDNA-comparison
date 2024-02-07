@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/43700_assembly_stats_genbank.txt	43700	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/952/655/GCA_001952655.1_M_albus_1.0/GCA_001952655.1_M_albus_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_001952655.1	PRJNA183073	SAMN06219872	43700	na	latest	Major	Full	2017-01-17	Wuhan University

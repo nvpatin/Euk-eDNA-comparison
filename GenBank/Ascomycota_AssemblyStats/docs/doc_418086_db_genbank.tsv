@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/418086_assembly_stats_genbank.txt	418086	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/309/295/GCA_017309295.1_JHU_Cniv_v1/GCA_017309295.1_JHU_Cniv_v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_017309295.1	PRJNA686979	SAMN17131863	418086	strain=CBS 9983	latest	Major	Full	2021-03-09	Johns Hopkins University

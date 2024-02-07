@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/283035_assembly_stats_genbank.txt	283035	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/315/115/GCA_008315115.2_SLUC_FBN_1.2/GCA_008315115.2_SLUC_FBN_1.2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_008315115.2	PRJNA561467	SAMN12618724	283035	na	latest	Major	Full	2020-08-14	Leibniz Institute for Farm Animal Biology (FBN)

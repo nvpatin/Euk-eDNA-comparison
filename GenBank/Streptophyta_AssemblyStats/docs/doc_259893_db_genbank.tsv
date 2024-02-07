@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/259893_assembly_stats_genbank.txt	259893	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/659/345/GCA_028659345.1_ASM2865934v1/GCA_028659345.1_ASM2865934v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_028659345.1	PRJNA747845	SAMN20297371	259893	cultivar=beiai	latest	Major	Full	2023-02-16	Anyang Institute of Technology

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/9902_assembly_stats_genbank.txt	9902	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/879/515/GCA_963879515.1_ETH_BisBon1/GCA_963879515.1_ETH_BisBon1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_963879515.1	PRJEB71066	SAMEA114863253	9902	na	latest	Major	Full	2023-12-17	ETH ZURICH

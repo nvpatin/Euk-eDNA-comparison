@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Euglenozoa_AssemblyStats/5689_assembly_stats_genbank.txt	5689	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/770/625/GCA_009770625.1_UL_Ltar_1.0/GCA_009770625.1_UL_Ltar_1.0_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	na	GCA_009770625.1	PRJNA589623	SAMN13285789	5689	strain=Parrot-TarII	latest	Major	Full	2019-12-20	Universite Laval

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Cnidaria_AssemblyStats/45264_assembly_stats_genbank.txt	45264	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/143/615/GCA_004143615.1_amil_sf_1.1/GCA_004143615.1_amil_sf_1.1_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	na	GCA_004143615.1	PRJNA473876	SAMN09287627	45264	na	latest	Major	Full	2019-02-06	Australian National University

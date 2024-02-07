@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/30044_assembly_stats_genbank.txt	30044	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/223/945/GCA_021223945.1_ASM2122394v1/GCA_021223945.1_ASM2122394v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_021223945.1	PRJNA736147	SAMN19610354	30044	na	latest	Major	Full	2021-12-17	BGI-Shenzhen

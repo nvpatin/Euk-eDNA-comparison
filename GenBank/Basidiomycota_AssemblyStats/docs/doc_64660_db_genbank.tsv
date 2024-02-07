@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/64660_assembly_stats_genbank.txt	64660	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/854/295/GCA_025854295.1_ASM2585429v1/GCA_025854295.1_ASM2585429v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_025854295.1	PRJNA890007	SAMN31265398	64660	strain=LRG-d1-1	latest	Major	Full	2022-10-26	Qingdao Agriculturual University

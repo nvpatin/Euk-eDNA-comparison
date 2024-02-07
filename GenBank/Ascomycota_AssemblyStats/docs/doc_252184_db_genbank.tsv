@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/252184_assembly_stats_genbank.txt	252184	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/512/295/GCA_030512295.1_Bombom1/GCA_030512295.1_Bombom1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_030512295.1	PRJNA371210	SAMN06296184	252184	strain=SMH3391-2	latest	Major	Full	2023-07-20	DOE Joint Genome Institute

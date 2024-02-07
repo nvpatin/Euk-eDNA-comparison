@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/56857_assembly_stats_genbank.txt	56857	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/174/775/GCA_002174775.1_MC_HNAU_1.0/GCA_002174775.1_MC_HNAU_1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_002174775.1	PRJNA359127	SAMN06209354	56857	na	latest	Major	Full	2017-06-07	Chinese Academy of Agricultural Sciences

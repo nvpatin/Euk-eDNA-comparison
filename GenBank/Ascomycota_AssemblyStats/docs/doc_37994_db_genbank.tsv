@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/37994_assembly_stats_genbank.txt	37994	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/490/725/GCA_016490725.1_ASM1649072v1/GCA_016490725.1_ASM1649072v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_016490725.1	PRJNA687156	SAMN17136414	37994	strain=SYSU-MS7908	latest	Major	Full	2021-01-05	Sun Yat-Sen University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/153914_assembly_stats_genbank.txt	153914	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/435/655/GCA_030435655.1_Armnov1/GCA_030435655.1_Armnov1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_030435655.1	PRJNA677793	SAMN16773852	153914	strain=ICMP 16352	latest	Major	Full	2023-07-11	DOE Joint Genome Institute

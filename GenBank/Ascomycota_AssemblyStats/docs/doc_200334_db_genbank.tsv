@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/200334_assembly_stats_genbank.txt	200334	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/931/303/985/GCA_931303985.1_PYCC_8465/GCA_931303985.1_PYCC_8465_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_931303985.1	PRJEB49385	SAMEA11106845	200334	na	latest	Major	Full	2022-02-26	yeast genomics lab@nova, unl, portugal

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Euglenozoa_AssemblyStats/372075_assembly_stats_genbank.txt	372075	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/034/640/465/GCA_034640465.1_ASM3464046v1/GCA_034640465.1_ASM3464046v1_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	na	GCA_034640465.1	PRJNA1045618	SAMN38163568	372075	strain=IZEL/BR/89/169E	latest	Major	Full	2023-12-26	University of Sao Paulo

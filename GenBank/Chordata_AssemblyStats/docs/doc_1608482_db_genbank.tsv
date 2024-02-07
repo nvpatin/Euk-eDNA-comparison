@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/1608482_assembly_stats_genbank.txt	1608482	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/898/765/GCA_014898765.1_PumYag/GCA_014898765.1_PumYag_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_014898765.1	PRJNA633021	SAMN14930875	1608482	ecotype=Mexico	latest	Major	Full	2020-10-20	Felidae consortium

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/749593_assembly_stats_genbank.txt	749593	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/879/705/GCA_001879705.1_ASM187970v1/GCA_001879705.1_ASM187970v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001879705.1	PRJNA314892	SAMN04545318	749593	strain=USPMTOX48	latest	Major	Full	2016-11-17	University of Sao Paulo

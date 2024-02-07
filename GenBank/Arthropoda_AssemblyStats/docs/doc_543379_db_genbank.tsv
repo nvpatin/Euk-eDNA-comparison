@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/543379_assembly_stats_genbank.txt	543379	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/249/905/GCA_002249905.1_ASM224990v1/GCA_002249905.1_ASM224990v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_002249905.1	PRJNA342820	SAMN05770041	543379	strain=Alberta	latest	Major	Full	2017-08-02	University of Rochester

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/314023_assembly_stats_genbank.txt	314023	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/549/205/GCA_030549205.1_Apibac1/GCA_030549205.1_Apibac1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_030549205.1	PRJNA371214	SAMN06296968	314023	strain=CBS 540.89	latest	Major	Full	2023-07-27	DOE Joint Genome Institute

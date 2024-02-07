@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1194242_assembly_stats_genbank.txt	1194242	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/786/045/GCA_002786045.1_ASM278604v1/GCA_002786045.1_ASM278604v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_002786045.1	PRJNA385672	SAMN06899490	1194242	strain=GA2-2.7B1a	latest	Major	Full	2017-11-17	Northwest A&F University

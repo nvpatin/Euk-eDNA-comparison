@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/4781_assembly_stats_genbank.txt	4781	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/000/015/GCA_900000015.1_Plasmopara_halstedii_genome/GCA_900000015.1_Plasmopara_halstedii_genome_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_900000015.1	PRJEB6932	SAMEA2781508	4781	na	latest	Major	Full	2015-11-18	IPF

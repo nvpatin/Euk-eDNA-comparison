@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/2018698_assembly_stats_genbank.txt	2018698	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/987/915/GCA_003987915.1_ASM398791v1/GCA_003987915.1_ASM398791v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_003987915.1	PRJNA476325	SAMN10215880	2018698	strain=CBS 193.57	latest	Major	Full	2018-12-31	Universidade de Sao Paulo

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/153910_assembly_stats_genbank.txt	153910	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/407/015/GCA_030407015.1_Armfum1/GCA_030407015.1_Armfum1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_030407015.1	PRJNA677794	SAMN16773873	153910	strain=CBS 122221	latest	Major	Full	2023-07-05	DOE Joint Genome Institute

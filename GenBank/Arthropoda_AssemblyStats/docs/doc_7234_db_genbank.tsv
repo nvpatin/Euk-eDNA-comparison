@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/7234_assembly_stats_genbank.txt	7234	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/005/195/GCA_000005195.1_dper_caf1/GCA_000005195.1_dper_caf1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000005195.1	PRJNA12705	SAMN02953632	7234	strain=MSH-3	latest	Major	Full	2006-04-18	Broad Institute

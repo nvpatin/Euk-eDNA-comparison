@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Annelid_AssemblyStats/53620_assembly_stats_genbank.txt	53620	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/642/065/GCA_025642065.1_P08H-3/GCA_025642065.1_P08H-3_assembly_stats.txt	genbank	GenBank/Annelid_AssemblyStats	representative genome	GCA_025642065.1	PRJNA786438	SAMN23672631	53620	na	latest	Major	Full	2022-10-11	Universite de Montreal

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chlorophyta_AssemblyStats/2710713_assembly_stats_genbank.txt	2710713	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/439/295/GCA_033439295.1_ENVS_GUPI-18cp/GCA_033439295.1_ENVS_GUPI-18cp_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_033439295.1	PRJNA1016092	SAMN37368140	2710713	strain=GUPI-18	latest	Major	Full	2023-11-09	Aarhus University

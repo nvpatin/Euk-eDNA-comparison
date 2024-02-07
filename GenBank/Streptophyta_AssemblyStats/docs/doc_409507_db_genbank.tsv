@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/409507_assembly_stats_genbank.txt	409507	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/992/175/GCA_033992175.1_SCre/GCA_033992175.1_SCre_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_033992175.1	PRJNA1003507	SAMN36892215	409507	na	latest	Major	Full	2023-11-30	University of Debrecen

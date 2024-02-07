@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2035830_assembly_stats_genbank.txt	2035830	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/151/695/GCA_026151695.1_PM34_polca_canu/GCA_026151695.1_PM34_polca_canu_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_026151695.1	PRJNA863673	SAMN30058201	2035830	strain=PM34	latest	Major	Full	2022-11-11	University of British Columbia

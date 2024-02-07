@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1209924_assembly_stats_genbank.txt	1209924	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/413/865/GCA_030413865.1_CLIM01/GCA_030413865.1_CLIM01_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_030413865.1	PRJNA952538	SAMN34075281	1209924	na	latest	Major	Full	2023-07-10	University of Bologna

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/178035_assembly_stats_genbank.txt	178035	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/272/555/GCA_001272555.1_ASM127255v1/GCA_001272555.1_ASM127255v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_001272555.1	PRJNA279825	SAMN03837760	178035	na	latest	Major	Full	2015-08-21	BGI

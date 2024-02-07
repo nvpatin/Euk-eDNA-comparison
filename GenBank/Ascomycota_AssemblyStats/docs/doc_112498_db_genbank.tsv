@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/112498_assembly_stats_genbank.txt	112498	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/510/955/GCA_001510955.1_DK05_1.1/GCA_001510955.1_DK05_1.1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001510955.1	PRJEB11432	SAMEA3613843	112498	na	latest	Major	Partial	2016-01-06	SRUC

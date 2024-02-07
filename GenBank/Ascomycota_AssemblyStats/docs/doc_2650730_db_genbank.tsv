@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2650730_assembly_stats_genbank.txt	2650730	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/685/255/GCA_030685255.1_Schcon1/GCA_030685255.1_Schcon1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_030685255.1	PRJNA953072	SAMN34105747	2650730	strain=SC1-Ups	latest	Major	Full	2023-06-30	DOE Joint Genome Institute

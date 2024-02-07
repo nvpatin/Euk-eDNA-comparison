@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/39271_assembly_stats_genbank.txt	39271	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/031/470/985/GCA_031470985.1_ASM3147098v1/GCA_031470985.1_ASM3147098v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_031470985.1	PRJNA960878	SAMN34336724	39271	na	latest	Major	Full	2023-09-15	Chungbuk National University

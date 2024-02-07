@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/308565_assembly_stats_genbank.txt	308565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/686/955/GCA_026686955.1_XMU_epcya_1.0/GCA_026686955.1_XMU_epcya_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_026686955.1	PRJNA844481	SAMN28817802	308565	na	latest	Major	Full	2022-12-06	Xiamen University

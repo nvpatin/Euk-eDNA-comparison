@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/241526_assembly_stats_genbank.txt	241526	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/359/905/GCA_019359905.1_Cafric_001/GCA_019359905.1_Cafric_001_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_019359905.1	PRJNA432884	SAMN08465288	241526	strain=CEC4854	latest	Major	Full	2021-07-27	Institut Pasteur

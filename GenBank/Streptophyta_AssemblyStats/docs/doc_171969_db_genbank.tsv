@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/171969_assembly_stats_genbank.txt	171969	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/747/015/GCA_029747015.1_UA_SGP5p_2/GCA_029747015.1_UA_SGP5p_2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_029747015.1	PRJNA318822	SAMN25812642	171969	na	latest	Major	Full	2023-04-17	The University of Arizona

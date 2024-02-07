@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/100870_assembly_stats_genbank.txt	100870	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/812/785/GCA_002812785.1_ASM281278v1/GCA_002812785.1_ASM281278v1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_002812785.1	PRJNA290406	SAMN03892802	100870	strain=SHS3	latest	Major	Full	2017-12-06	Nanjing Agricultural University

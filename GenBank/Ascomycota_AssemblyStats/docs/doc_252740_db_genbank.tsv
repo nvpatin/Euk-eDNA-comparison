@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/252740_assembly_stats_genbank.txt	252740	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/795/275/GCA_003795275.1_ASM379527v1/GCA_003795275.1_ASM379527v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003795275.1	PRJNA296468	SAMN04099705	252740	strain=YSFL	latest	Major	Full	2018-11-19	Northwest A&F University

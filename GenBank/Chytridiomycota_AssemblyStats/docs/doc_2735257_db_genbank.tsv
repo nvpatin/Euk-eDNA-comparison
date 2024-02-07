@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chytridiomycota_AssemblyStats/2735257_assembly_stats_genbank.txt	2735257	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/604/605/GCA_027604605.1_ASM2760460v1/GCA_027604605.1_ASM2760460v1_assembly_stats.txt	genbank	GenBank/Chytridiomycota_AssemblyStats	representative genome	GCA_027604605.1	PRJNA629981	SAMN14816287	2735257	strain=WJD170	latest	Major	Full	2023-01-09	University of Michigan

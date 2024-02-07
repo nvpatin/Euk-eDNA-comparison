@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/238744_assembly_stats_genbank.txt	238744	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/332/855/GCA_905332855.1_Menidia_menidia_CT_1.0/GCA_905332855.1_Menidia_menidia_CT_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_905332855.1	PRJEB43421	SAMEA8193155	238744	na	latest	Major	Full	2021-03-21	Cornell University

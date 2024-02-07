@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/78168_assembly_stats_genbank.txt	78168	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/156/105/GCA_002156105.1_ASM215610v1/GCA_002156105.1_ASM215610v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_002156105.1	PRJNA371406	SAMN06298772	78168	cultivar=CGPA1	latest	Major	Full	2017-05-22	Beltsville Agricultural Research Center

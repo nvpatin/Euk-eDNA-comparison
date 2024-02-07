@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/1915071_assembly_stats_genbank.txt	1915071	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/745/375/GCA_026745375.1_ASM2674537v1/GCA_026745375.1_ASM2674537v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_026745375.1	PRJNA351743	SAMN06333963	1915071	na	latest	Major	Full	2022-12-08	IRIDIAN GENOMES

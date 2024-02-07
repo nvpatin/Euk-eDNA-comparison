@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Bigyra_AssemblyStats/2172886_assembly_stats_genbank.txt	2172886	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/332/575/GCA_004332575.1_ASM433257v1/GCA_004332575.1_ASM433257v1_assembly_stats.txt	genbank	GenBank/Bigyra_AssemblyStats	representative genome	GCA_004332575.1	PRJNA453414	SAMN08978281	2172886	strain=HS399	latest	Major	Full	2019-03-19	Heliae Development

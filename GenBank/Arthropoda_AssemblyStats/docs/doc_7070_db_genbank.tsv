@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/7070_assembly_stats_genbank.txt	7070	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/002/335/GCA_000002335.3_Tcas5.2/GCA_000002335.3_Tcas5.2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_000002335.3	PRJNA12540	SAMN02953634	7070	strain=Georgia GA2	latest	Major	Full	2016-03-10	Kansas State University

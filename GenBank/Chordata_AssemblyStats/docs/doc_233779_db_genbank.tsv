@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/233779_assembly_stats_genbank.txt	233779	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/364/475/GCA_009364475.1_usc_Sbombifrons_0.1/GCA_009364475.1_usc_Sbombifrons_0.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_009364475.1	PRJNA529692	SAMN11282360	233779	ecotype=Arizona Cochise	latest	Major	Full	2019-10-28	University of Southern California

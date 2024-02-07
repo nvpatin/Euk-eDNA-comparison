@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/72917_assembly_stats_genbank.txt	72917	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/775/935/GCA_000775935.1_ASM77593v1/GCA_000775935.1_ASM77593v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000775935.1	PRJNA248374	SAMN02798061	72917	cultivar=TN-R	latest	Major	Full	2014-11-13	University of Tennessee

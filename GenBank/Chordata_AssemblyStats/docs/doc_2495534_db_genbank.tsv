@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/2495534_assembly_stats_genbank.txt	2495534	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/082/375/GCA_010082375.1_BGI_Emos.V1/GCA_010082375.1_BGI_Emos.V1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_010082375.1	PRJNA556735	SAMN12384871	2495534	na	latest	Major	Full	2020-01-31	BGI-Shenzhen

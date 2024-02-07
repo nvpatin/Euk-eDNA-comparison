@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/204263_assembly_stats_genbank.txt	204263	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/311/275/GCA_020311275.1_ASM2031127v1/GCA_020311275.1_ASM2031127v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_020311275.1	PRJNA732553	SAMN19323876	204263	na	latest	Major	Full	2021-10-05	Leibniz Institute for Zoo and Wildlife Research (IZW)

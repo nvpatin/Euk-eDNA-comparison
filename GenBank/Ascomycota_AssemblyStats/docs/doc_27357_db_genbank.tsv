@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/27357_assembly_stats_genbank.txt	27357	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/593/745/GCA_001593745.1_ASM159374v1/GCA_001593745.1_ASM159374v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001593745.1	PRJNA314171	SAMN04530072	27357	strain=1	latest	Major	Full	2016-03-18	Seoul National University

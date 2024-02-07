@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/78410_assembly_stats_genbank.txt	78410	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/305/505/GCA_001305505.1_Nd324p1.0/GCA_001305505.1_Nd324p1.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001305505.1	PRJNA285413	SAMN03753650	78410	na	latest	Major	Full	2015-10-01	The New Zealand Institute for Plant & Food Research Ltd

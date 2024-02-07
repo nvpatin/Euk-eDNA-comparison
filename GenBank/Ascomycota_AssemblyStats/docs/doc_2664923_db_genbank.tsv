@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2664923_assembly_stats_genbank.txt	2664923	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/946/151/405/GCA_946151405.1_CGXH109_1/GCA_946151405.1_CGXH109_1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_946151405.1	PRJEB33601	SAMEA9069201	2664923	na	latest	Major	Full	2022-09-11	CANADIAN FOOD INSPECTION AGENCY

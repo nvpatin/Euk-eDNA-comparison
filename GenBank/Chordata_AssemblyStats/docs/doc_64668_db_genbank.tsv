@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/64668_assembly_stats_genbank.txt	64668	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/344/045/GCA_023344045.1_bLagMut1_alternate/GCA_023344045.1_bLagMut1_alternate_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_023344045.1	PRJNA836585	SAMN25144835	64668	na	latest	Major	Full	2022-05-12	Vertebrate Genomes Project

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/1232801_assembly_stats_genbank.txt	1232801	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/805/615/GCA_009805615.1_SNU_Aamp_1/GCA_009805615.1_SNU_Aamp_1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_009805615.1	PRJNA549550	SAMN12091412	1232801	na	latest	Major	Full	2019-12-27	Seoul National University

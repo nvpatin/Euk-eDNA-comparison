@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/241442_assembly_stats_genbank.txt	241442	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/155/185/GCA_019155185.1_ASM1915518v1/GCA_019155185.1_ASM1915518v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_019155185.1	PRJNA650219	SAMN15699278	241442	na	latest	Major	Full	2021-07-07	Institute of Hydrobiology

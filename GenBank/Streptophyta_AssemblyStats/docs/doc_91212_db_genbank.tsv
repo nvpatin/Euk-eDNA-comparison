@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/91212_assembly_stats_genbank.txt	91212	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/349/545/GCA_023349545.1_dhJugClai1.0.a/GCA_023349545.1_dhJugClai1.0.a_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_023349545.1	PRJNA807333	SAMN25062275	91212	na	latest	Major	Full	2022-05-12	UCLA

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2675883_assembly_stats_genbank.txt	2675883	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/416/715/GCA_028416715.1_ASM2841671v1/GCA_028416715.1_ASM2841671v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_028416715.1	PRJNA884986	SAMN31060915	2675883	strain=BPAL1	latest	Major	Full	2023-02-02	SVKM's Mithibai College

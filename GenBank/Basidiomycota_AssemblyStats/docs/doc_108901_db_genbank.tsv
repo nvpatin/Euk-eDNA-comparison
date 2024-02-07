@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/108901_assembly_stats_genbank.txt	108901	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/794/775/GCA_002794775.1_PPIT.v3/GCA_002794775.1_PPIT.v3_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_002794775.1	PRJNA380037	SAMN06626968	108901	strain=BCRC 35384	latest	Major	Full	2017-11-21	Academia Sinica

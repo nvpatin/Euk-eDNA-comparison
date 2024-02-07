@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Blastocladiomycota_AssemblyStats/64508_assembly_stats_genbank.txt	64508	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/349/905/GCA_025349905.2_Blabri1/GCA_025349905.2_Blabri1_assembly_stats.txt	genbank	GenBank/Blastocladiomycota_AssemblyStats	representative genome	GCA_025349905.2	PRJNA331555	SAMN05444061	64508	strain=JEL711	latest	Major	Full	2022-09-20	DOE Joint Genome Institute

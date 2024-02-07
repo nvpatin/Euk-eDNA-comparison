@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/747221_assembly_stats_genbank.txt	747221	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/233/225/GCA_029233225.1_rLeplis1.pri.20221122/GCA_029233225.1_rLeplis1.pri.20221122_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_029233225.1	PRJNA926684	SAMN32881975	747221	na	latest	Major	Full	2023-03-20	Threatened Species Initiative

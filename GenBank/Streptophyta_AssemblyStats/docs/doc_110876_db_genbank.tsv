@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/110876_assembly_stats_genbank.txt	110876	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/031/894/775/GCA_031894775.1_ASM3189477v1/GCA_031894775.1_ASM3189477v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_031894775.1	PRJNA974075	SAMN36268576	110876	cultivar=Tolgar	latest	Major	Full	2023-09-25	Agriculture Victoria

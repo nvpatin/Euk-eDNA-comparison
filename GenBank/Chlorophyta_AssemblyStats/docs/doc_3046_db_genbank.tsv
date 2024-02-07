@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chlorophyta_AssemblyStats/3046_assembly_stats_genbank.txt	3046	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/284/615/GCA_002284615.2_Dunsal1_v._2/GCA_002284615.2_Dunsal1_v._2_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_002284615.2	PRJNA32771	SAMN02746051	3046	strain=CCAP 19/18	latest	Major	Full	2020-07-10	JGI

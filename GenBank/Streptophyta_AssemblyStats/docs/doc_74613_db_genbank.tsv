@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/74613_assembly_stats_genbank.txt	74613	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/886/165/GCA_027886165.1_GRF_GUR_1.0/GCA_027886165.1_GRF_GUR_1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_027886165.1	PRJNA787406	SAMN23799592	74613	cultivar=manju	latest	Major	Full	2023-01-17	Genome Research Foundation

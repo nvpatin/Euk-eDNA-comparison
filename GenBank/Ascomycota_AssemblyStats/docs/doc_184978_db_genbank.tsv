@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/184978_assembly_stats_genbank.txt	184978	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/015/605/GCA_010015605.1_Decga1/GCA_010015605.1_Decga1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_010015605.1	PRJNA333973	SAMN05446828	184978	strain=P77	latest	Major	Full	2020-01-29	DOE Joint Genome Institute

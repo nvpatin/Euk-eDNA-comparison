@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/9483_assembly_stats_genbank.txt	9483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/004/665/GCA_000004665.1_Callithrix_jacchus-3.2/GCA_000004665.1_Callithrix_jacchus-3.2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000004665.1	PRJNA20401	SAMN02981242	9483	na	latest	Major	Full	2010-01-22	Washington University (WashU)

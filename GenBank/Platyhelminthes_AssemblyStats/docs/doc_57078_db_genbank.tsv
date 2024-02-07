@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Platyhelminthes_AssemblyStats/57078_assembly_stats_genbank.txt	57078	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/950/715/GCA_000950715.1_D_dendriticum_Leon_v1_0_4/GCA_000950715.1_D_dendriticum_Leon_v1_0_4_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	na	GCA_000950715.1	PRJEB3954	SAMEA2009450	57078	na	latest	Major	Full	2014-09-24	WTSI

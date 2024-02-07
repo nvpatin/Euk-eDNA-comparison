@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/5627_assembly_stats_genbank.txt	5627	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/683/735/GCA_001683735.1_ASM168373v1/GCA_001683735.1_ASM168373v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_001683735.1	PRJNA314283	SAMN04531184	5627	strain=9006-11	latest	Major	Full	2016-07-12	Korea University

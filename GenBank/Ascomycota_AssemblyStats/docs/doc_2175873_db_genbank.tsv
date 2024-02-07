@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2175873_assembly_stats_genbank.txt	2175873	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/235/935/GCA_014235935.1_CMUS01/GCA_014235935.1_CMUS01_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_014235935.1	PRJNA577394	SAMN13025166	2175873	strain=LFN0074	latest	Major	Full	2020-08-18	University of Salamanca

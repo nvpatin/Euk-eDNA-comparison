@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/252598_assembly_stats_genbank.txt	252598	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/769/245/GCA_000769245.1_ASM76924v1/GCA_000769245.1_ASM76924v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_000769245.1	PRJNA260553	SAMN03024104	252598	strain=ATCC MYA-796	latest	Major	Full	2014-10-30	UFMG - Universidade Federal de Minas Gerais

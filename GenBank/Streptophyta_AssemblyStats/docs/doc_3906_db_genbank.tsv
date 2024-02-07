@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/3906_assembly_stats_genbank.txt	3906	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/375/635/GCA_001375635.1_VfEP_Reference-Unigene/GCA_001375635.1_VfEP_Reference-Unigene_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_001375635.1	PRJEB8906	SAMEA3311348	3906	na	latest	Major	Full	2015-04-20	IPK GATERSLEBEN

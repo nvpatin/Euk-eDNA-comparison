@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/49168_assembly_stats_genbank.txt	49168	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/413/875/GCA_025413875.1_RHMOLv1/GCA_025413875.1_RHMOLv1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_025413875.1	PRJNA804375	SAMN25819031	49168	na	latest	Major	Full	2022-09-28	Ori-Gene Co. Ltd.

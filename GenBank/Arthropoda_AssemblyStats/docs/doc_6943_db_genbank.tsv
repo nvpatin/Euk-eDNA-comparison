@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/6943_assembly_stats_genbank.txt	6943	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/143/305/GCA_030143305.1_ASM3014330v1/GCA_030143305.1_ASM3014330v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_030143305.1	PRJNA932813	SAMN33212410	6943	na	latest	Major	Full	2023-05-31	Arcadia Science

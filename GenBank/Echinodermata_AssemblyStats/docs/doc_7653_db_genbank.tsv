@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Echinodermata_AssemblyStats/7653_assembly_stats_genbank.txt	7653	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/342/785/GCA_015342785.2_UCSD_Lpic_2.1/GCA_015342785.2_UCSD_Lpic_2.1_assembly_stats.txt	genbank	GenBank/Echinodermata_AssemblyStats	representative genome	GCA_015342785.2	PRJNA647794	SAMN15609743	7653	na	latest	Major	Full	2023-03-08	University of North Carolina Wilmington

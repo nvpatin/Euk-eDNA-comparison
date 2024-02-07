@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ciliophora_AssemblyStats/65129_assembly_stats_genbank.txt	65129	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/182/985/GCA_905182985.1_Paramecium_sonneborni_V1/GCA_905182985.1_Paramecium_sonneborni_V1_assembly_stats.txt	genbank	GenBank/Ciliophora_AssemblyStats	representative genome	GCA_905182985.1	PRJEB41876	SAMEA7767318	65129	na	latest	Major	Full	2021-06-19	Genoscope CEA

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/190676_assembly_stats_genbank.txt	190676	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/079/485/GCA_023079485.1_ASM2307948v1/GCA_023079485.1_ASM2307948v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_023079485.1	PRJNA811496	SAMN26525212	190676	ecotype=Toronto	latest	Major	Full	2022-04-22	Johns Hopkins University

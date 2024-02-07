@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Cnidaria_AssemblyStats/51062_assembly_stats_genbank.txt	51062	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/958/299/805/GCA_958299805.1_jaPorLute2.1_alternate_haplotype/GCA_958299805.1_jaPorLute2.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	na	GCA_958299805.1	PRJEB64117	SAMEA110183911	51062	na	latest	Major	Full	2023-07-07	WELLCOME SANGER INSTITUTE

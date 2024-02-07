@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/500148_assembly_stats_genbank.txt	500148	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/426/205/GCA_013426205.1_ASM1342620v1/GCA_013426205.1_ASM1342620v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_013426205.1	PRJNA608152	SAMN15394350	500148	strain=4556	latest	Major	Full	2020-07-20	Swansea University

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/8467_assembly_stats_genbank.txt	8467	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/653/815/GCA_023653815.1_GSC_CCare_1.0/GCA_023653815.1_GSC_CCare_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_023653815.1	PRJNA826225	SAMN27958248	8467	na	latest	Major	Full	2022-06-07	Canada's Genomic Enterprise

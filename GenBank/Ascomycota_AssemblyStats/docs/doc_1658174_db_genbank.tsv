@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1658174_assembly_stats_genbank.txt	1658174	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/883/805/GCA_001883805.1_Blas_perc_EI222_V1/GCA_001883805.1_Blas_perc_EI222_V1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001883805.1	PRJNA284520	SAMN03703142	1658174	strain=EI222	latest	Major	Full	2016-11-18	Broad Institute

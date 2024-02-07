@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/229535_assembly_stats_genbank.txt	229535	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/278/595/GCA_001278595.1_ASM127859v1/GCA_001278595.1_ASM127859v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001278595.1	PRJNA277835	SAMN03776871	229535	strain=DAOMC 185683	latest	Major	Full	2015-09-03	Agriculture and Agri-Food Canada

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/89558_assembly_stats_genbank.txt	89558	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/901/105/GCA_026901105.3_APGP_CSIRO_Goli_CH_v1.2/GCA_026901105.3_APGP_CSIRO_Goli_CH_v1.2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_026901105.3	PRJNA898089	SAMN31703006	89558	na	latest	Minor	Full	2022-12-14	Rahul Vivek Rane

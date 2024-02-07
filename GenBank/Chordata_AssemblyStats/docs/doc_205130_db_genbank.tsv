@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/205130_assembly_stats_genbank.txt	205130	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/700/395/GCA_900700395.1_fMasArm1.2_alternate_haplotype/GCA_900700395.1_fMasArm1.2_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_900700395.1	PRJEB31553	SAMEA104026378	205130	na	latest	Major	Partial	2019-04-01	SC

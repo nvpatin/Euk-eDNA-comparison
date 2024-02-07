@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Cnidaria_AssemblyStats/102205_assembly_stats_genbank.txt	102205	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/787/425/GCA_019787425.1_ASM1978742v1/GCA_019787425.1_ASM1978742v1_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	representative genome	GCA_019787425.1	PRJNA736579	SAMN19654032	102205	na	latest	Major	Full	2021-08-27	National Science and Technology Development Agency

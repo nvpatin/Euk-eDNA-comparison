@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/9749_assembly_stats_genbank.txt	9749	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/288/925/GCA_002288925.3_ASM228892v3/GCA_002288925.3_ASM228892v3_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_002288925.3	PRJNA360851	SAMN06216270	9749	na	latest	Major	Full	2019-09-03	BC Cancer Agency

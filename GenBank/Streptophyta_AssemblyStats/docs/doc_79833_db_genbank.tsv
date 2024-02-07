@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/79833_assembly_stats_genbank.txt	79833	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/725/075/GCA_009725075.1_ASM972507v1/GCA_009725075.1_ASM972507v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_009725075.1	PRJNA509097	SAMN10617848	79833	cultivar=Daheishan	latest	Major	Full	2019-12-04	Sichuan Agricultural University

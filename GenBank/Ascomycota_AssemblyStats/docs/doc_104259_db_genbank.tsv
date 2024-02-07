@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/104259_assembly_stats_genbank.txt	104259	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/048/715/GCA_001048715.1_Pbras_Allpaths-LG/GCA_001048715.1_Pbras_Allpaths-LG_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001048715.1	PRJEB7514	SAMEA2820536	104259	na	latest	Major	Full	2015-07-01	HKI JENA

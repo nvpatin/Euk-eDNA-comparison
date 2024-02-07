@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/240822_assembly_stats_genbank.txt	240822	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/882/115/GCA_010882115.1_ASM1088211v1/GCA_010882115.1_ASM1088211v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_010882115.1	PRJNA604876	SAMN14001151	240822	strain=HBGT01	latest	Major	Full	2020-02-20	Institute of Zoology Chinese Academy of Sciences

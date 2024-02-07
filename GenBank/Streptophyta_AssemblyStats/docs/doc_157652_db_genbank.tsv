@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/157652_assembly_stats_genbank.txt	157652	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/370/565/GCA_003370565.1_ASM337056v1/GCA_003370565.1_ASM337056v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_003370565.1	PRJNA414658	SAMN07821433	157652	ecotype=Jos	latest	Major	Full	2018-08-10	African Centre of excellence in Phytomedicine Resaerch

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/394691_assembly_stats_genbank.txt	394691	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/700/765/GCA_916700765.1_S-fasciatus_KUI2796/GCA_916700765.1_S-fasciatus_KUI2796_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_916700765.1	PRJEB42258	SAMEA7962343	394691	na	latest	Major	Full	2021-11-12	UNIVERSITY OF CALIFORNIA AT BERKELEY

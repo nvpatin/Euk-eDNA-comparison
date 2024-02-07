@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/392227_assembly_stats_genbank.txt	392227	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/011/675/GCA_004011675.1_ASM401167v1/GCA_004011675.1_ASM401167v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_004011675.1	PRJNA471201	SAMN08969226	392227	na	latest	Major	Full	2019-01-11	Yellow Sea Fisheries Research Institute, CAFS

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/9852_assembly_stats_genbank.txt	9852	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/570/765/GCA_007570765.1_GSC_moose_1.0/GCA_007570765.1_GSC_moose_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_007570765.1	PRJNA526240	SAMN11091360	9852	na	latest	Major	Full	2019-07-12	Canada's Genomic Enterprise

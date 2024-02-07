@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Dinophyta_AssemblyStats/104179_assembly_stats_genbank.txt	104179	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/767/595/GCA_009767595.1_ASM976759v1/GCA_009767595.1_ASM976759v1_assembly_stats.txt	genbank	GenBank/Dinophyta_AssemblyStats	representative genome	GCA_009767595.1	PRJNA556154	SAMN02716926	104179	strain=SL-2019	latest	Major	Full	2019-12-18	Xiamen university

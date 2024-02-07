@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/184440_assembly_stats_genbank.txt	184440	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/273/125/GCA_030273125.1_C.striata_1.0/GCA_030273125.1_C.striata_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_030273125.1	PRJNA900280	SAMN31685414	184440	ecotype=Rhode Island	latest	Major	Full	2023-06-20	Northeastern University

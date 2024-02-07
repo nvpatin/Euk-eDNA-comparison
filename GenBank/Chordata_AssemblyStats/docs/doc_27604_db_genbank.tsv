@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/27604_assembly_stats_genbank.txt	27604	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/224/305/GCA_029224305.1_Cmar_C18_SBIK-F_TBG_1/GCA_029224305.1_Cmar_C18_SBIK-F_TBG_1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_029224305.1	PRJNA856827	SAMN29592900	27604	na	latest	Major	Full	2023-03-16	Senckenberg BiK-F, LOEWE-TBG

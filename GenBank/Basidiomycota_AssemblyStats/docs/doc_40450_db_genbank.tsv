@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/40450_assembly_stats_genbank.txt	40450	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/606/075/GCA_022606075.1_Pipbet1_1/GCA_022606075.1_Pipbet1_1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_022606075.1	PRJNA444025	SAMN08796462	40450	strain=CIRM-BRFM 1772	latest	Major	Full	2022-03-16	DOE Joint Genome Institute

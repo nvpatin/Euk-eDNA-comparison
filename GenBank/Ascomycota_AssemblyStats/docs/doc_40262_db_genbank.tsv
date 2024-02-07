@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/40262_assembly_stats_genbank.txt	40262	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/179/595/GCA_002179595.1_ASM217959v1/GCA_002179595.1_ASM217959v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002179595.1	PRJNA279966	SAMN03453047	40262	strain=AR3913	latest	Major	Full	2017-06-08	Rutgers University

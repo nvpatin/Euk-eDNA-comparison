@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Oomycota_AssemblyStats/4792_assembly_stats_genbank.txt	4792	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/509/465/GCA_000509465.1_Phyt_para_CJ02B3_V1/GCA_000509465.1_Phyt_para_CJ02B3_V1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	na	GCA_000509465.1	PRJNA205154	SAMN02178347	4792	strain=CJ02B3	latest	Major	Full	2013-12-18	Broad Institute

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/887758_assembly_stats_genbank.txt	887758	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/034/508/555/GCA_034508555.1_Vnig_TBG3334_EichkAsp/GCA_034508555.1_Vnig_TBG3334_EichkAsp_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_034508555.1	PRJNA996517	SAMN36598611	887758	na	latest	Major	Full	2023-12-15	Senckenberg BiK-F, LOEWE-TBG

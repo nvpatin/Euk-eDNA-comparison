@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chlorophyta_AssemblyStats/44745_assembly_stats_genbank.txt	44745	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/970/955/GCA_003970955.1_ASM397095v1/GCA_003970955.1_ASM397095v1_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	na	GCA_003970955.1	PRJNA487914	SAMN09912191	44745	strain=SAG 192.80	latest	Major	Full	2018-12-17	Shenzhen university

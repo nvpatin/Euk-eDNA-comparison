@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/34356_assembly_stats_genbank.txt	34356	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/919/595/GCA_004919595.1_Kodohm_148/GCA_004919595.1_Kodohm_148_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_004919595.1	PRJNA525764	SAMN11074024	34356	na	latest	Major	Full	2019-04-29	USDA ARS

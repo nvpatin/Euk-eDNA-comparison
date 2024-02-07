@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/69319_assembly_stats_genbank.txt	69319	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/572/035/GCA_000572035.2_Mdem2/GCA_000572035.2_Mdem2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000572035.2	PRJNA195937	SAMN02708865	69319	strain=Queensland-Clemson subculture	latest	Major	Full	2015-10-07	University of Illinois at Urbana-Champaign

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/72087_assembly_stats_genbank.txt	72087	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/275/GCA_916701275.1_S-miniatus_SEB-74/GCA_916701275.1_S-miniatus_SEB-74_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_916701275.1	PRJEB42258	SAMEA7962367	72087	na	latest	Major	Full	2021-09-30	UNIVERSITY OF CALIFORNIA AT BERKELEY

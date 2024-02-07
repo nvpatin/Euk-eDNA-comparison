@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/5490_assembly_stats_genbank.txt	5490	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/033/435/GCA_003033435.1_ASM303343v1/GCA_003033435.1_ASM303343v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003033435.1	PRJNA416493	SAMN07958194	5490	strain=PYCC 2903	latest	Major	Full	2018-04-04	UCIBIO-REQUIMTE

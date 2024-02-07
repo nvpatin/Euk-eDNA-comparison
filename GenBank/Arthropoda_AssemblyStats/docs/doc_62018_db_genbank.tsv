@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/62018_assembly_stats_genbank.txt	62018	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/747/625/GCA_022747625.1_ioHetAmer1.0.a/GCA_022747625.1_ioHetAmer1.0.a_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_022747625.1	PRJNA796998	SAMN24913893	62018	na	latest	Major	Full	2022-03-28	UCLA

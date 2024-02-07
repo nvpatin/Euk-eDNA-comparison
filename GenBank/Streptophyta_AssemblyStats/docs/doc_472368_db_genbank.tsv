@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/472368_assembly_stats_genbank.txt	472368	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/598/015/GCA_001598015.1_Boea_hygrometrica.v1/GCA_001598015.1_Boea_hygrometrica.v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_001598015.1	PRJNA182117	SAMN02215335	472368	cultivar=XS01	latest	Major	Full	2016-04-28	BGI-Shenzhen

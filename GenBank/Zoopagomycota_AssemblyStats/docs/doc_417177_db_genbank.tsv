@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Zoopagomycota_AssemblyStats/417177_assembly_stats_genbank.txt	417177	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/579/325/GCA_027579325.1_UCR_CofuBCRC34190_1.0/GCA_027579325.1_UCR_CofuBCRC34190_1.0_assembly_stats.txt	genbank	GenBank/Zoopagomycota_AssemblyStats	na	GCA_027579325.1	PRJNA581603	SAMN13165571	417177	strain=BCRC 34190	latest	Major	Full	2023-01-06	DOE Joint Genome Institute

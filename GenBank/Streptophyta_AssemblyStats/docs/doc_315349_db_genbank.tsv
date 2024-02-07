@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/315349_assembly_stats_genbank.txt	315349	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/801/875/GCA_016801875.1_ASM1680187v1/GCA_016801875.1_ASM1680187v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_016801875.1	PRJNA633104	SAMN14932980	315349	cultivar=LA1974	latest	Major	Full	2021-02-02	Cranfield University

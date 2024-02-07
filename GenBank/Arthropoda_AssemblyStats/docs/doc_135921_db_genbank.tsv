@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/135921_assembly_stats_genbank.txt	135921	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/054/995/GCA_003054995.1_ASM305499v1/GCA_003054995.1_ASM305499v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_003054995.1	PRJNA378164	SAMN06611084	135921	na	latest	Major	Full	2018-04-17	VU University Amsterdam

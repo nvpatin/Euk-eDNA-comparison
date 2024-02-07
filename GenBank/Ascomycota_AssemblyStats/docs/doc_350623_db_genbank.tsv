@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/350623_assembly_stats_genbank.txt	350623	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/257/865/GCA_018257865.1_ASM1825786v1/GCA_018257865.1_ASM1825786v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_018257865.1	PRJNA693574	SAMN17391790	350623	strain=ANT050947	latest	Major	Full	2021-05-04	Sunchon National University

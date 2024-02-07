@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1220201_assembly_stats_genbank.txt	1220201	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/436/935/GCA_021436935.1_ASM2143693v1/GCA_021436935.1_ASM2143693v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_021436935.1	PRJNA768996	SAMN22074031	1220201	strain=HOSP050413_5_135	latest	Major	Full	2022-01-11	Normandie University

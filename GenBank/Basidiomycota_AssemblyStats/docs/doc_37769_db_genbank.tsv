@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/37769_assembly_stats_genbank.txt	37769	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/964/225/GCA_014964225.1_Cryp_deca_WM1802/GCA_014964225.1_Cryp_deca_WM1802_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_014964225.1	PRJNA660927	SAMN15964327	37769	strain=WM1802	latest	Major	Full	2020-10-26	University of Exeter

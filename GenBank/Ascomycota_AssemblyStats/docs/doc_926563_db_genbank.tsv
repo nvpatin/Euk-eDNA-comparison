@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/926563_assembly_stats_genbank.txt	926563	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/577/825/GCA_022577825.1_ASM2257782v1/GCA_022577825.1_ASM2257782v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_022577825.1	PRJNA794368	SAMN24648684	926563	strain=PYCC 8426	latest	Major	Full	2022-03-15	UCIBIO

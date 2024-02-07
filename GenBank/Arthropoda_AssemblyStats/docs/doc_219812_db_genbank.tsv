@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/219812_assembly_stats_genbank.txt	219812	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/636/605/GCA_011636605.1_Tbic.v1.0/GCA_011636605.1_Tbic.v1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_011636605.1	PRJNA533535	SAMN11458713	219812	na	latest	Major	Full	2020-03-23	University of Innsbruck

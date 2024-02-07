@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Apicomplexa_AssemblyStats/5861_assembly_stats_genbank.txt	5861	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/002/385/GCA_900002385.2_GCA_900002385/GCA_900002385.2_GCA_900002385_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	representative genome	GCA_900002385.2	PRJEB5706	SAMEA1032065	5861	strain=17X	latest	Major	Full	2019-06-04	WTSI

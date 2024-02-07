@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/105766_assembly_stats_genbank.txt	105766	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/654/745/GCA_017654745.1_ASM1765474v1/GCA_017654745.1_ASM1765474v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_017654745.1	PRJNA674641	SAMN16666566	105766	na	latest	Major	Full	2021-03-31	Universidad de Chile

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/96373_assembly_stats_genbank.txt	96373	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/455/505/GCA_001455505.1_ASM145550v1/GCA_001455505.1_ASM145550v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001455505.1	PRJNA284246	SAMN03700049	96373	strain=CBS 138716	latest	Major	Full	2015-12-02	University of Pretoria

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/43580_assembly_stats_genbank.txt	43580	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/556/475/GCA_007556475.1_ZoPa_MNHNZO2015-572_v1.0/GCA_007556475.1_ZoPa_MNHNZO2015-572_v1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_007556475.1	PRJNA530916	SAMN11339534	43580	na	latest	Major	Full	2019-07-26	University of Montpellier

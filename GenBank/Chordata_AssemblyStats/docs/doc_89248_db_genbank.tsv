@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/89248_assembly_stats_genbank.txt	89248	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/613/505/GCA_021613505.1_UCLA_HA_Equagga_1.0/GCA_021613505.1_UCLA_HA_Equagga_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_021613505.1	PRJNA785630	SAMN16526506	89248	na	latest	Major	Full	2022-01-31	University of California Los Angeles

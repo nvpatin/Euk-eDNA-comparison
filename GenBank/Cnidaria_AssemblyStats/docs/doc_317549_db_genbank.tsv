@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Cnidaria_AssemblyStats/317549_assembly_stats_genbank.txt	317549	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/702/795/GCA_902702795.2_PACLA8/GCA_902702795.2_PACLA8_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	representative genome	GCA_902702795.2	PRJEB33489	SAMEA6085997	317549	strain=A484AB	latest	Major	Full	2022-11-08	Centro Nacional de Análisis Genómico

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/30960_assembly_stats_genbank.txt	30960	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/064/625/GCA_903064625.1_Mallotus_villosus_assembly/GCA_903064625.1_Mallotus_villosus_assembly_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_903064625.1	PRJEB38139	SAMEA6813208	30960	na	latest	Major	Full	2020-05-18	CEES

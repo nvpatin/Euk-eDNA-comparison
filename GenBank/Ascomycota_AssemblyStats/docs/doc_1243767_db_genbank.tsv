@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1243767_assembly_stats_genbank.txt	1243767	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/775/035/GCA_002775035.1_ASM277503v1/GCA_002775035.1_ASM277503v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002775035.1	PRJNA413306	SAMN07739527	1243767	strain=MF5954	latest	Major	Full	2017-11-15	Victoria University of Wellington

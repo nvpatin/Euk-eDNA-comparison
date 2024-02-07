@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/749465_assembly_stats_genbank.txt	749465	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/726/555/GCA_020726555.1_Boeex1/GCA_020726555.1_Boeex1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_020726555.1	PRJNA441695	SAMN11533434	749465	strain=MPI-SDFR-AT-0100	latest	Major	Full	2021-10-29	DOE Joint Genome Institute

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/40505_assembly_stats_genbank.txt	40505	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/495/735/GCA_027495735.1_Lca_v1.0/GCA_027495735.1_Lca_v1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_027495735.1	PRJNA777559	SAMN22863838	40505	na	latest	Major	Full	2022-12-29	Texas A&M-Corpus Christi

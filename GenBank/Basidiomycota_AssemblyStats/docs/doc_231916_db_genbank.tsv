@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/231916_assembly_stats_genbank.txt	231916	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/938/385/GCA_002938385.1_ASM293838v1/GCA_002938385.1_ASM293838v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_002938385.1	PRJNA387735	SAMN07169108	231916	strain=SRW20	latest	Major	Full	2018-02-22	Ohio State University

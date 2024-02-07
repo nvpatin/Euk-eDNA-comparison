@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/86056_assembly_stats_genbank.txt	86056	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/723/235/GCA_001723235.1_ASM172323v1/GCA_001723235.1_ASM172323v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001723235.1	PRJNA340065	SAMN05631102	86056	strain=dH24460	latest	Major	Full	2016-09-12	CBS-KNAW Fungal Biodiversity Centre

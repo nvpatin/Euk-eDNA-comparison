@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Zoopagomycota_AssemblyStats/1052880_assembly_stats_genbank.txt	1052880	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/579/625/GCA_027579625.1_UCR_CoasBCRC34628_1.0/GCA_027579625.1_UCR_CoasBCRC34628_1.0_assembly_stats.txt	genbank	GenBank/Zoopagomycota_AssemblyStats	na	GCA_027579625.1	PRJNA538871	SAMN11532557	1052880	strain=BCRC 34628	latest	Major	Full	2023-01-06	DOE Joint Genome Institute

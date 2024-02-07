@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/51284_assembly_stats_genbank.txt	51284	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/414/455/GCA_001414455.1_H_fructigenus_v1/GCA_001414455.1_H_fructigenus_v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001414455.1	PRJNA298282	SAMN04157984	51284	strain=CBS 650.92	latest	Major	Full	2015-10-27	University of Exeter

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/56720_assembly_stats_genbank.txt	56720	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/383/615/GCA_963383615.1_fLipPho2.1/GCA_963383615.1_fLipPho2.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_963383615.1	PRJEB65340	SAMEA7522844	56720	na	latest	Major	Full	2023-08-26	WELLCOME SANGER INSTITUTE

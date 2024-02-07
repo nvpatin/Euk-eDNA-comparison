@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/749589_assembly_stats_genbank.txt	749589	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/151/525/GCA_004151525.1_ASM415152v1/GCA_004151525.1_ASM415152v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_004151525.1	PRJNA506611	SAMN10465098	749589	strain=WTN-11-157	latest	Major	Full	2019-02-08	Curtin University

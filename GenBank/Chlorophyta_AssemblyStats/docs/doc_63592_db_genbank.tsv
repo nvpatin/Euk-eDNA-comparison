@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chlorophyta_AssemblyStats/63592_assembly_stats_genbank.txt	63592	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/401/115/GCA_026401115.1_UNIGE_Tchui_1.0/GCA_026401115.1_UNIGE_Tchui_1.0_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_026401115.1	PRJNA903812	SAMN31814558	63592	strain=SAG 8-6	latest	Major	Full	2022-11-25	University of Geneva

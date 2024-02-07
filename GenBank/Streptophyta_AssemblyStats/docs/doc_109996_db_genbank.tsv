@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/109996_assembly_stats_genbank.txt	109996	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/531/685/GCA_029531685.1_APGP_CSIRO_Rrap_0.1/GCA_029531685.1_APGP_CSIRO_Rrap_0.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_029531685.1	PRJNA803269	SAMN25643149	109996	ecotype=Australia	latest	Major	Full	2023-04-06	Australian Pest Genome Partnership

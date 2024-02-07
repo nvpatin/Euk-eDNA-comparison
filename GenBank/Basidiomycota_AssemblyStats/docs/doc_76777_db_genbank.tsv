@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/76777_assembly_stats_genbank.txt	76777	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/149/165/GCA_900149165.1_Msy_KS327_June2015/GCA_900149165.1_Msy_KS327_June2015_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_900149165.1	PRJEB13283	SAMEA3928480	76777	na	latest	Major	Full	2017-01-09	SCIENCE FOR LIFE LABORATORY

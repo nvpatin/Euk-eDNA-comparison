@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/42374_assembly_stats_genbank.txt	42374	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/647/555/GCA_000647555.1_319/GCA_000647555.1_319_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_000647555.1	PRJNA221141	SAMN02593544	42374	strain=UOB319	latest	Major	Full	2014-04-23	University of Birmingham

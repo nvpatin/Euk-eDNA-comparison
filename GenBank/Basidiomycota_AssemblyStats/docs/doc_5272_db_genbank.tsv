@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/5272_assembly_stats_genbank.txt	5272	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/015/435/GCA_900015435.1_MvLf-1247-A2-R1/GCA_900015435.1_MvLf-1247-A2-R1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_900015435.1	PRJEB12080	SAMEA3706519	5272	strain=1247	latest	Major	Full	2016-12-23	INRA-LIPM

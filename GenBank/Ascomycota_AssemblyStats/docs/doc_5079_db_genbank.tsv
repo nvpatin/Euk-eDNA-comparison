@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/5079_assembly_stats_genbank.txt	5079	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/369/805/GCA_002369805.1_ASM236980v1/GCA_002369805.1_ASM236980v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002369805.1	PRJNA389228	SAMN07192627	5079	strain=NCIM1366	latest	Major	Full	2017-09-26	CSIR-NIIST

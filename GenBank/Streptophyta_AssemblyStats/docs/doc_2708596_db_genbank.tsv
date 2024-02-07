@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/2708596_assembly_stats_genbank.txt	2708596	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/069/175/GCA_947069175.1_scalesia_atractyloides_v1/GCA_947069175.1_scalesia_atractyloides_v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_947069175.1	PRJEB52418	SAMEA14215630	2708596	na	latest	Major	Full	2022-10-16	NTNU Museum

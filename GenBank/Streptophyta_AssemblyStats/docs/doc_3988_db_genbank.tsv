@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/3988_assembly_stats_genbank.txt	3988	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/151/685/GCA_000151685.2_JCVI_RCG_1.1/GCA_000151685.2_JCVI_RCG_1.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000151685.2	PRJNA16585	SAMN02953659	3988	cultivar=Hale	latest	Major	Full	2011-07-07	J. Craig Venter Institute

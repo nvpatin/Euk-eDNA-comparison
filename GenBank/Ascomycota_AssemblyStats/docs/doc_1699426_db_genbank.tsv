@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/1699426_assembly_stats_genbank.txt	1699426	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/374/615/GCA_002374615.1_ASM237461v1/GCA_002374615.1_ASM237461v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002374615.1	PRJNA312754	SAMN04516247	1699426	strain=UWOPS 04-243x5	latest	Major	Full	2017-09-26	University of Guelph

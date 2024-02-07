@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/7054_assembly_stats_genbank.txt	7054	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/802/855/GCA_008802855.1_Ppyr1.3/GCA_008802855.1_Ppyr1.3_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_008802855.1	PRJNA378805	SAMN08132578	7054	na	latest	Major	Full	2019-10-02	Photinus pyralis genome working group

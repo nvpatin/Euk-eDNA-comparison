@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/73499_assembly_stats_genbank.txt	73499	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/796/755/GCA_002796755.1_ASM279675v1/GCA_002796755.1_ASM279675v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_002796755.1	PRJNA418875	SAMN08038437	73499	strain=HWLR35	latest	Major	Full	2017-11-27	Western Sydney University

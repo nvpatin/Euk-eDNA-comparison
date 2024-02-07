@@ -1,0 +1,425 @@
+# Assembly Statistics Report
+# Assembly name:  PVSEL_v1
+# Organism name:  Plasmodium vinckei (apicomplexans)
+# Taxid:          5860
+# BioSample:      SAMEA7130172
+# BioProject:     PRJEB19355
+# Submitter:      KAUST
+# Date:           2020-08-06
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# Genome coverage: 252x
+# GenBank assembly accession: GCA_903994265.1
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_903994264.1		Primary Assembly
+## GCA_903994266.1		non-nuclear
+#
+# Statistic Types
+# Statistic	Description
+# component-count	Number of unique components
+# contig-L50	Number of contigs that are longer than, or equal to, the N50 length
+# contig-N50	Contig length at which 50% of total bases in assembly are in contigs of that length or greater
+# contig-count	Number of contigs
+# gc-perc	gc-count/atgc-count as percentage
+# molecule-count	Number of chromosomes and plasmids in full assembly
+# region-count	Number of genomic regions defined in full assembly
+# scaffold-L50	Number of scaffolds that are longer than, or equal to, the N50 length
+# scaffold-N50	Scaffold length at which 50% of total bases in assembly are in scaffolds of that length or greater
+# scaffold-N75	Scaffold length at which 75% of total bases in assembly are in contigs of that length or greater
+# scaffold-N90	scaffold length at which 90% of total bases in assembly are in contigs of that length or greater
+# scaffold-count	Number of scaffolds
+# spanned-gaps	Number of spanned gaps. Spanned gaps are gaps within a scaffold
+# top-level-count	Number of chromosomes or plasmids, unplaced/unlocalized scaffolds, alt-loci scaffolds, and patch scaffolds
+# total-gap-length	Total length of gaps
+# total-length	Total sequence length including bases and gaps
+# ungapped-length	Total length excluding gaps
+# unspanned-gaps	Number of unspanned gaps. Unspanned gaps are gaps between scaffolds
+#
+# Sequence-type Description
+# all	statistic covers all the sequences in the unit-assembly and molecule(s) specified.
+# molecule	statistic covers the specified molecule. molecule-name and molecule-type/loc will be given.
+# unlocalized	statistic covers the sequences assigned to a molecule but with no position. molecule-name and molecule-type/loc will be given.
+# unplaced	statistic covers the sequences not assigned to any molecule in the assembly.
+#
+# unit-name	molecule-name	molecule-type/loc	sequence-type	statistic	value
+all	all	all	all	total-length	19533052
+all	all	all	all	spanned-gaps	11
+all	all	all	all	unspanned-gaps	0
+all	all	all	all	region-count	0
+all	all	all	all	scaffold-count	16
+all	all	all	all	scaffold-N50	1799994
+all	all	all	all	scaffold-L50	5
+all	all	all	all	scaffold-N75	1199642
+all	all	all	all	scaffold-N90	745607
+all	all	all	all	contig-count	27
+all	all	all	all	contig-N50	1199642
+all	all	all	all	contig-L50	6
+all	all	all	all	total-gap-length	1100
+all	all	all	all	molecule-count	16
+all	all	all	all	top-level-count	16
+all	all	all	all	component-count	16
+all	all	all	all	gc-perc	23
+Primary Assembly	all	all	all	total-length	19498479
+Primary Assembly	all	all	all	ungapped-length	19497379
+Primary Assembly	all	all	all	scaffold-count	14
+Primary Assembly	all	all	all	scaffold-N50	1799994
+Primary Assembly	all	all	all	spanned-gaps	11
+Primary Assembly	all	all	all	unspanned-gaps	0
+Primary Assembly	all	all	all	gc-perc	23
+Primary Assembly	all	all	assembled-molecule	total-length	19498479
+Primary Assembly	all	all	assembled-molecule	ungapped-length	19497379
+Primary Assembly	all	all	assembled-molecule	scaffold-count	14
+Primary Assembly	all	all	assembled-molecule	scaffold-N50	1799994
+Primary Assembly	all	all	assembled-molecule	spanned-gaps	11
+Primary Assembly	all	all	assembled-molecule	unspanned-gaps	0
+Primary Assembly	all	all	assembled-molecule	gc-perc	23
+Primary Assembly	all	all	unlocalized-scaffold	total-length	0
+Primary Assembly	all	all	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	all	all	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	all	all	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	all	all	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	all	all	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	PVSEL_01	Chromosome	all	total-length	745607
+Primary Assembly	PVSEL_01	Chromosome	all	ungapped-length	745307
+Primary Assembly	PVSEL_01	Chromosome	all	scaffold-count	1
+Primary Assembly	PVSEL_01	Chromosome	all	scaffold-N50	745607
+Primary Assembly	PVSEL_01	Chromosome	all	spanned-gaps	3
+Primary Assembly	PVSEL_01	Chromosome	all	unspanned-gaps	0
+Primary Assembly	PVSEL_01	Chromosome	all	gc-perc	23
+Primary Assembly	PVSEL_01	Chromosome	assembled-molecule	total-length	745607
+Primary Assembly	PVSEL_01	Chromosome	assembled-molecule	ungapped-length	745307
+Primary Assembly	PVSEL_01	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	PVSEL_01	Chromosome	assembled-molecule	scaffold-N50	745607
+Primary Assembly	PVSEL_01	Chromosome	assembled-molecule	spanned-gaps	3
+Primary Assembly	PVSEL_01	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	PVSEL_01	Chromosome	assembled-molecule	gc-perc	23
+Primary Assembly	PVSEL_01	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	PVSEL_01	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	PVSEL_01	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	PVSEL_01	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	PVSEL_01	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	PVSEL_01	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	PVSEL_02	Chromosome	all	total-length	649876
+Primary Assembly	PVSEL_02	Chromosome	all	ungapped-length	649876
+Primary Assembly	PVSEL_02	Chromosome	all	scaffold-count	1
+Primary Assembly	PVSEL_02	Chromosome	all	scaffold-N50	649876
+Primary Assembly	PVSEL_02	Chromosome	all	spanned-gaps	0
+Primary Assembly	PVSEL_02	Chromosome	all	unspanned-gaps	0
+Primary Assembly	PVSEL_02	Chromosome	all	gc-perc	23.5
+Primary Assembly	PVSEL_02	Chromosome	assembled-molecule	total-length	649876
+Primary Assembly	PVSEL_02	Chromosome	assembled-molecule	ungapped-length	649876
+Primary Assembly	PVSEL_02	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	PVSEL_02	Chromosome	assembled-molecule	scaffold-N50	649876
+Primary Assembly	PVSEL_02	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	PVSEL_02	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	PVSEL_02	Chromosome	assembled-molecule	gc-perc	23.5
+Primary Assembly	PVSEL_02	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	PVSEL_02	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	PVSEL_02	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	PVSEL_02	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	PVSEL_02	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	PVSEL_02	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	PVSEL_03	Chromosome	all	total-length	712839
+Primary Assembly	PVSEL_03	Chromosome	all	ungapped-length	712739
+Primary Assembly	PVSEL_03	Chromosome	all	scaffold-count	1
+Primary Assembly	PVSEL_03	Chromosome	all	scaffold-N50	712839
+Primary Assembly	PVSEL_03	Chromosome	all	spanned-gaps	1
+Primary Assembly	PVSEL_03	Chromosome	all	unspanned-gaps	0
+Primary Assembly	PVSEL_03	Chromosome	all	gc-perc	23.5
+Primary Assembly	PVSEL_03	Chromosome	assembled-molecule	total-length	712839
+Primary Assembly	PVSEL_03	Chromosome	assembled-molecule	ungapped-length	712739
+Primary Assembly	PVSEL_03	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	PVSEL_03	Chromosome	assembled-molecule	scaffold-N50	712839
+Primary Assembly	PVSEL_03	Chromosome	assembled-molecule	spanned-gaps	1
+Primary Assembly	PVSEL_03	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	PVSEL_03	Chromosome	assembled-molecule	gc-perc	23.5
+Primary Assembly	PVSEL_03	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	PVSEL_03	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	PVSEL_03	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	PVSEL_03	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	PVSEL_03	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	PVSEL_03	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	PVSEL_04	Chromosome	all	total-length	843641
+Primary Assembly	PVSEL_04	Chromosome	all	ungapped-length	843641
+Primary Assembly	PVSEL_04	Chromosome	all	scaffold-count	1
+Primary Assembly	PVSEL_04	Chromosome	all	scaffold-N50	843641
+Primary Assembly	PVSEL_04	Chromosome	all	spanned-gaps	0
+Primary Assembly	PVSEL_04	Chromosome	all	unspanned-gaps	0
+Primary Assembly	PVSEL_04	Chromosome	all	gc-perc	23
+Primary Assembly	PVSEL_04	Chromosome	assembled-molecule	total-length	843641
+Primary Assembly	PVSEL_04	Chromosome	assembled-molecule	ungapped-length	843641
+Primary Assembly	PVSEL_04	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	PVSEL_04	Chromosome	assembled-molecule	scaffold-N50	843641
+Primary Assembly	PVSEL_04	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	PVSEL_04	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	PVSEL_04	Chromosome	assembled-molecule	gc-perc	23
+Primary Assembly	PVSEL_04	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	PVSEL_04	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	PVSEL_04	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	PVSEL_04	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	PVSEL_04	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	PVSEL_04	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	PVSEL_05	Chromosome	all	total-length	1346433
+Primary Assembly	PVSEL_05	Chromosome	all	ungapped-length	1346333
+Primary Assembly	PVSEL_05	Chromosome	all	scaffold-count	1
+Primary Assembly	PVSEL_05	Chromosome	all	scaffold-N50	1346433
+Primary Assembly	PVSEL_05	Chromosome	all	spanned-gaps	1
+Primary Assembly	PVSEL_05	Chromosome	all	unspanned-gaps	0
+Primary Assembly	PVSEL_05	Chromosome	all	gc-perc	23.5
+Primary Assembly	PVSEL_05	Chromosome	assembled-molecule	total-length	1346433
+Primary Assembly	PVSEL_05	Chromosome	assembled-molecule	ungapped-length	1346333
+Primary Assembly	PVSEL_05	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	PVSEL_05	Chromosome	assembled-molecule	scaffold-N50	1346433
+Primary Assembly	PVSEL_05	Chromosome	assembled-molecule	spanned-gaps	1
+Primary Assembly	PVSEL_05	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	PVSEL_05	Chromosome	assembled-molecule	gc-perc	23.5
+Primary Assembly	PVSEL_05	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	PVSEL_05	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	PVSEL_05	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	PVSEL_05	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	PVSEL_05	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	PVSEL_05	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	PVSEL_06	Chromosome	all	total-length	1199642
+Primary Assembly	PVSEL_06	Chromosome	all	ungapped-length	1199642
+Primary Assembly	PVSEL_06	Chromosome	all	scaffold-count	1
+Primary Assembly	PVSEL_06	Chromosome	all	scaffold-N50	1199642
+Primary Assembly	PVSEL_06	Chromosome	all	spanned-gaps	0
+Primary Assembly	PVSEL_06	Chromosome	all	unspanned-gaps	0
+Primary Assembly	PVSEL_06	Chromosome	all	gc-perc	23
+Primary Assembly	PVSEL_06	Chromosome	assembled-molecule	total-length	1199642
+Primary Assembly	PVSEL_06	Chromosome	assembled-molecule	ungapped-length	1199642
+Primary Assembly	PVSEL_06	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	PVSEL_06	Chromosome	assembled-molecule	scaffold-N50	1199642
+Primary Assembly	PVSEL_06	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	PVSEL_06	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	PVSEL_06	Chromosome	assembled-molecule	gc-perc	23
+Primary Assembly	PVSEL_06	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	PVSEL_06	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	PVSEL_06	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	PVSEL_06	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	PVSEL_06	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	PVSEL_06	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	PVSEL_07	Chromosome	all	total-length	862736
+Primary Assembly	PVSEL_07	Chromosome	all	ungapped-length	862636
+Primary Assembly	PVSEL_07	Chromosome	all	scaffold-count	1
+Primary Assembly	PVSEL_07	Chromosome	all	scaffold-N50	862736
+Primary Assembly	PVSEL_07	Chromosome	all	spanned-gaps	1
+Primary Assembly	PVSEL_07	Chromosome	all	unspanned-gaps	0
+Primary Assembly	PVSEL_07	Chromosome	all	gc-perc	23
+Primary Assembly	PVSEL_07	Chromosome	assembled-molecule	total-length	862736
+Primary Assembly	PVSEL_07	Chromosome	assembled-molecule	ungapped-length	862636
+Primary Assembly	PVSEL_07	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	PVSEL_07	Chromosome	assembled-molecule	scaffold-N50	862736
+Primary Assembly	PVSEL_07	Chromosome	assembled-molecule	spanned-gaps	1
+Primary Assembly	PVSEL_07	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	PVSEL_07	Chromosome	assembled-molecule	gc-perc	23
+Primary Assembly	PVSEL_07	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	PVSEL_07	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	PVSEL_07	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	PVSEL_07	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	PVSEL_07	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	PVSEL_07	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	PVSEL_08	Chromosome	all	total-length	1318031
+Primary Assembly	PVSEL_08	Chromosome	all	ungapped-length	1318031
+Primary Assembly	PVSEL_08	Chromosome	all	scaffold-count	1
+Primary Assembly	PVSEL_08	Chromosome	all	scaffold-N50	1318031
+Primary Assembly	PVSEL_08	Chromosome	all	spanned-gaps	0
+Primary Assembly	PVSEL_08	Chromosome	all	unspanned-gaps	0
+Primary Assembly	PVSEL_08	Chromosome	all	gc-perc	23.5
+Primary Assembly	PVSEL_08	Chromosome	assembled-molecule	total-length	1318031
+Primary Assembly	PVSEL_08	Chromosome	assembled-molecule	ungapped-length	1318031
+Primary Assembly	PVSEL_08	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	PVSEL_08	Chromosome	assembled-molecule	scaffold-N50	1318031
+Primary Assembly	PVSEL_08	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	PVSEL_08	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	PVSEL_08	Chromosome	assembled-molecule	gc-perc	23.5
+Primary Assembly	PVSEL_08	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	PVSEL_08	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	PVSEL_08	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	PVSEL_08	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	PVSEL_08	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	PVSEL_08	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	PVSEL_09	Chromosome	all	total-length	1799994
+Primary Assembly	PVSEL_09	Chromosome	all	ungapped-length	1799994
+Primary Assembly	PVSEL_09	Chromosome	all	scaffold-count	1
+Primary Assembly	PVSEL_09	Chromosome	all	scaffold-N50	1799994
+Primary Assembly	PVSEL_09	Chromosome	all	spanned-gaps	0
+Primary Assembly	PVSEL_09	Chromosome	all	unspanned-gaps	0
+Primary Assembly	PVSEL_09	Chromosome	all	gc-perc	23
+Primary Assembly	PVSEL_09	Chromosome	assembled-molecule	total-length	1799994
+Primary Assembly	PVSEL_09	Chromosome	assembled-molecule	ungapped-length	1799994
+Primary Assembly	PVSEL_09	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	PVSEL_09	Chromosome	assembled-molecule	scaffold-N50	1799994
+Primary Assembly	PVSEL_09	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	PVSEL_09	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	PVSEL_09	Chromosome	assembled-molecule	gc-perc	23
+Primary Assembly	PVSEL_09	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	PVSEL_09	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	PVSEL_09	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	PVSEL_09	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	PVSEL_09	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	PVSEL_09	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	PVSEL_10	Chromosome	all	total-length	1804222
+Primary Assembly	PVSEL_10	Chromosome	all	ungapped-length	1804222
+Primary Assembly	PVSEL_10	Chromosome	all	scaffold-count	1
+Primary Assembly	PVSEL_10	Chromosome	all	scaffold-N50	1804222
+Primary Assembly	PVSEL_10	Chromosome	all	spanned-gaps	0
+Primary Assembly	PVSEL_10	Chromosome	all	unspanned-gaps	0
+Primary Assembly	PVSEL_10	Chromosome	all	gc-perc	23
+Primary Assembly	PVSEL_10	Chromosome	assembled-molecule	total-length	1804222
+Primary Assembly	PVSEL_10	Chromosome	assembled-molecule	ungapped-length	1804222
+Primary Assembly	PVSEL_10	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	PVSEL_10	Chromosome	assembled-molecule	scaffold-N50	1804222
+Primary Assembly	PVSEL_10	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	PVSEL_10	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	PVSEL_10	Chromosome	assembled-molecule	gc-perc	23
+Primary Assembly	PVSEL_10	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	PVSEL_10	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	PVSEL_10	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	PVSEL_10	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	PVSEL_10	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	PVSEL_10	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	PVSEL_11	Chromosome	all	total-length	1806912
+Primary Assembly	PVSEL_11	Chromosome	all	ungapped-length	1806912
+Primary Assembly	PVSEL_11	Chromosome	all	scaffold-count	1
+Primary Assembly	PVSEL_11	Chromosome	all	scaffold-N50	1806912
+Primary Assembly	PVSEL_11	Chromosome	all	spanned-gaps	0
+Primary Assembly	PVSEL_11	Chromosome	all	unspanned-gaps	0
+Primary Assembly	PVSEL_11	Chromosome	all	gc-perc	23
+Primary Assembly	PVSEL_11	Chromosome	assembled-molecule	total-length	1806912
+Primary Assembly	PVSEL_11	Chromosome	assembled-molecule	ungapped-length	1806912
+Primary Assembly	PVSEL_11	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	PVSEL_11	Chromosome	assembled-molecule	scaffold-N50	1806912
+Primary Assembly	PVSEL_11	Chromosome	assembled-molecule	spanned-gaps	0
+Primary Assembly	PVSEL_11	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	PVSEL_11	Chromosome	assembled-molecule	gc-perc	23
+Primary Assembly	PVSEL_11	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	PVSEL_11	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	PVSEL_11	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	PVSEL_11	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	PVSEL_11	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	PVSEL_11	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	PVSEL_12	Chromosome	all	total-length	1654260
+Primary Assembly	PVSEL_12	Chromosome	all	ungapped-length	1654060
+Primary Assembly	PVSEL_12	Chromosome	all	scaffold-count	1
+Primary Assembly	PVSEL_12	Chromosome	all	scaffold-N50	1654260
+Primary Assembly	PVSEL_12	Chromosome	all	spanned-gaps	2
+Primary Assembly	PVSEL_12	Chromosome	all	unspanned-gaps	0
+Primary Assembly	PVSEL_12	Chromosome	all	gc-perc	23
+Primary Assembly	PVSEL_12	Chromosome	assembled-molecule	total-length	1654260
+Primary Assembly	PVSEL_12	Chromosome	assembled-molecule	ungapped-length	1654060
+Primary Assembly	PVSEL_12	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	PVSEL_12	Chromosome	assembled-molecule	scaffold-N50	1654260
+Primary Assembly	PVSEL_12	Chromosome	assembled-molecule	spanned-gaps	2
+Primary Assembly	PVSEL_12	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	PVSEL_12	Chromosome	assembled-molecule	gc-perc	23
+Primary Assembly	PVSEL_12	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	PVSEL_12	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	PVSEL_12	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	PVSEL_12	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	PVSEL_12	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	PVSEL_12	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	PVSEL_13	Chromosome	all	total-length	2185590
+Primary Assembly	PVSEL_13	Chromosome	all	ungapped-length	2185390
+Primary Assembly	PVSEL_13	Chromosome	all	scaffold-count	1
+Primary Assembly	PVSEL_13	Chromosome	all	scaffold-N50	2185590
+Primary Assembly	PVSEL_13	Chromosome	all	spanned-gaps	2
+Primary Assembly	PVSEL_13	Chromosome	all	unspanned-gaps	0
+Primary Assembly	PVSEL_13	Chromosome	all	gc-perc	23
+Primary Assembly	PVSEL_13	Chromosome	assembled-molecule	total-length	2185590
+Primary Assembly	PVSEL_13	Chromosome	assembled-molecule	ungapped-length	2185390
+Primary Assembly	PVSEL_13	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	PVSEL_13	Chromosome	assembled-molecule	scaffold-N50	2185590
+Primary Assembly	PVSEL_13	Chromosome	assembled-molecule	spanned-gaps	2
+Primary Assembly	PVSEL_13	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	PVSEL_13	Chromosome	assembled-molecule	gc-perc	23
+Primary Assembly	PVSEL_13	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	PVSEL_13	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	PVSEL_13	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	PVSEL_13	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	PVSEL_13	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	PVSEL_13	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	PVSEL_14	Chromosome	all	total-length	2568696
+Primary Assembly	PVSEL_14	Chromosome	all	ungapped-length	2568596
+Primary Assembly	PVSEL_14	Chromosome	all	scaffold-count	1
+Primary Assembly	PVSEL_14	Chromosome	all	scaffold-N50	2568696
+Primary Assembly	PVSEL_14	Chromosome	all	spanned-gaps	1
+Primary Assembly	PVSEL_14	Chromosome	all	unspanned-gaps	0
+Primary Assembly	PVSEL_14	Chromosome	all	gc-perc	23
+Primary Assembly	PVSEL_14	Chromosome	assembled-molecule	total-length	2568696
+Primary Assembly	PVSEL_14	Chromosome	assembled-molecule	ungapped-length	2568596
+Primary Assembly	PVSEL_14	Chromosome	assembled-molecule	scaffold-count	1
+Primary Assembly	PVSEL_14	Chromosome	assembled-molecule	scaffold-N50	2568696
+Primary Assembly	PVSEL_14	Chromosome	assembled-molecule	spanned-gaps	1
+Primary Assembly	PVSEL_14	Chromosome	assembled-molecule	unspanned-gaps	0
+Primary Assembly	PVSEL_14	Chromosome	assembled-molecule	gc-perc	23
+Primary Assembly	PVSEL_14	Chromosome	unlocalized-scaffold	total-length	0
+Primary Assembly	PVSEL_14	Chromosome	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	PVSEL_14	Chromosome	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	PVSEL_14	Chromosome	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	PVSEL_14	Chromosome	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	PVSEL_14	Chromosome	unlocalized-scaffold	unspanned-gaps	0
+non-nuclear	all	all	all	total-length	34573
+non-nuclear	all	all	all	ungapped-length	34573
+non-nuclear	all	all	all	scaffold-count	2
+non-nuclear	all	all	all	scaffold-N50	28574
+non-nuclear	all	all	all	spanned-gaps	0
+non-nuclear	all	all	all	unspanned-gaps	0
+non-nuclear	all	all	all	gc-perc	16.5
+non-nuclear	all	all	assembled-molecule	total-length	34573
+non-nuclear	all	all	assembled-molecule	ungapped-length	34573
+non-nuclear	all	all	assembled-molecule	scaffold-count	2
+non-nuclear	all	all	assembled-molecule	scaffold-N50	28574
+non-nuclear	all	all	assembled-molecule	spanned-gaps	0
+non-nuclear	all	all	assembled-molecule	unspanned-gaps	0
+non-nuclear	all	all	assembled-molecule	gc-perc	16.5
+non-nuclear	all	all	unlocalized-scaffold	total-length	0
+non-nuclear	all	all	unlocalized-scaffold	ungapped-length	0
+non-nuclear	all	all	unlocalized-scaffold	scaffold-count	0
+non-nuclear	all	all	unlocalized-scaffold	scaffold-N50	0
+non-nuclear	all	all	unlocalized-scaffold	spanned-gaps	0
+non-nuclear	all	all	unlocalized-scaffold	unspanned-gaps	0
+non-nuclear	PVSEL_MIT	Mitochondrion	all	total-length	5999
+non-nuclear	PVSEL_MIT	Mitochondrion	all	ungapped-length	5999
+non-nuclear	PVSEL_MIT	Mitochondrion	all	scaffold-count	1
+non-nuclear	PVSEL_MIT	Mitochondrion	all	scaffold-N50	5999
+non-nuclear	PVSEL_MIT	Mitochondrion	all	spanned-gaps	0
+non-nuclear	PVSEL_MIT	Mitochondrion	all	unspanned-gaps	0
+non-nuclear	PVSEL_MIT	Mitochondrion	all	gc-perc	31
+non-nuclear	PVSEL_MIT	Mitochondrion	assembled-molecule	total-length	5999
+non-nuclear	PVSEL_MIT	Mitochondrion	assembled-molecule	ungapped-length	5999
+non-nuclear	PVSEL_MIT	Mitochondrion	assembled-molecule	scaffold-count	1
+non-nuclear	PVSEL_MIT	Mitochondrion	assembled-molecule	scaffold-N50	5999
+non-nuclear	PVSEL_MIT	Mitochondrion	assembled-molecule	spanned-gaps	0
+non-nuclear	PVSEL_MIT	Mitochondrion	assembled-molecule	unspanned-gaps	0
+non-nuclear	PVSEL_MIT	Mitochondrion	assembled-molecule	gc-perc	31
+non-nuclear	PVSEL_MIT	Mitochondrion	unlocalized-scaffold	total-length	0
+non-nuclear	PVSEL_MIT	Mitochondrion	unlocalized-scaffold	ungapped-length	0
+non-nuclear	PVSEL_MIT	Mitochondrion	unlocalized-scaffold	scaffold-count	0
+non-nuclear	PVSEL_MIT	Mitochondrion	unlocalized-scaffold	scaffold-N50	0
+non-nuclear	PVSEL_MIT	Mitochondrion	unlocalized-scaffold	spanned-gaps	0
+non-nuclear	PVSEL_MIT	Mitochondrion	unlocalized-scaffold	unspanned-gaps	0
+non-nuclear	PVSEL_API	Apicoplast	all	total-length	28574
+non-nuclear	PVSEL_API	Apicoplast	all	ungapped-length	28574
+non-nuclear	PVSEL_API	Apicoplast	all	scaffold-count	1
+non-nuclear	PVSEL_API	Apicoplast	all	scaffold-N50	28574
+non-nuclear	PVSEL_API	Apicoplast	all	spanned-gaps	0
+non-nuclear	PVSEL_API	Apicoplast	all	unspanned-gaps	0
+non-nuclear	PVSEL_API	Apicoplast	all	gc-perc	13.5
+non-nuclear	PVSEL_API	Apicoplast	assembled-molecule	total-length	28574
+non-nuclear	PVSEL_API	Apicoplast	assembled-molecule	ungapped-length	28574
+non-nuclear	PVSEL_API	Apicoplast	assembled-molecule	scaffold-count	1
+non-nuclear	PVSEL_API	Apicoplast	assembled-molecule	scaffold-N50	28574
+non-nuclear	PVSEL_API	Apicoplast	assembled-molecule	spanned-gaps	0
+non-nuclear	PVSEL_API	Apicoplast	assembled-molecule	unspanned-gaps	0
+non-nuclear	PVSEL_API	Apicoplast	assembled-molecule	gc-perc	13.5
+non-nuclear	PVSEL_API	Apicoplast	unlocalized-scaffold	total-length	0
+non-nuclear	PVSEL_API	Apicoplast	unlocalized-scaffold	ungapped-length	0
+non-nuclear	PVSEL_API	Apicoplast	unlocalized-scaffold	scaffold-count	0
+non-nuclear	PVSEL_API	Apicoplast	unlocalized-scaffold	scaffold-N50	0
+non-nuclear	PVSEL_API	Apicoplast	unlocalized-scaffold	spanned-gaps	0
+non-nuclear	PVSEL_API	Apicoplast	unlocalized-scaffold	unspanned-gaps	0

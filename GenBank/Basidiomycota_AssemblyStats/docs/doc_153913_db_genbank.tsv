@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/153913_assembly_stats_genbank.txt	153913	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/435/615/GCA_030435615.1_Armlut1/GCA_030435615.1_Armlut1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_030435615.1	PRJNA500536	SAMN10363187	153913	strain=HWK02	latest	Major	Full	2023-07-11	DOE Joint Genome Institute

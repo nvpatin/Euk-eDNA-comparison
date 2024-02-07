@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/265193_assembly_stats_genbank.txt	265193	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/653/615/GCA_023653615.1_APSI0/GCA_023653615.1_APSI0_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_023653615.1	PRJNA812413	SAMN26379206	265193	strain=L8in5	latest	Major	Full	2022-06-06	SPO

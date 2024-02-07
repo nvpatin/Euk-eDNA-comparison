@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/27457_assembly_stats_genbank.txt	27457	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/283/865/GCA_020283865.1_ASM2028386v1/GCA_020283865.1_ASM2028386v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_020283865.1	PRJNA619226	SAMN14492331	27457	na	latest	Major	Full	2021-10-06	Chinese Academy of Inspection and Quarantine

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/13290_assembly_stats_genbank.txt	13290	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/334/575/GCA_004334575.1_Tca517_3.0/GCA_004334575.1_Tca517_3.0_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_004334575.1	PRJNA295310	SAMN04045712	13290	strain=517	latest	Major	Full	2019-03-08	Washington State University

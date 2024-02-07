@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/3885_assembly_stats_genbank.txt	3885	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/708/805/GCA_015708805.1_OAC-Rex_P_vulgaris/GCA_015708805.1_OAC-Rex_P_vulgaris_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_015708805.1	PRJNA237957	SAMN02370824	3885	cultivar=OAC Rex	latest	Major	Full	2020-12-01	University of Windsor

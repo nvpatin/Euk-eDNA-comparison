@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/2065263_assembly_stats_genbank.txt	2065263	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/838/885/GCA_002838885.1_Pvir0.4/GCA_002838885.1_Pvir0.4_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_002838885.1	PRJNA356499	SAMN06115385	2065263	strain=Petshop1	latest	Major	Full	2017-12-13	German Cancer Research Center

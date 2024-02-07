@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/690259_assembly_stats_genbank.txt	690259	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/520/285/GCA_008520285.1_ASM852028v1/GCA_008520285.1_ASM852028v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_008520285.1	PRJNA504379	SAMN10390762	690259	na	latest	Major	Full	2019-09-18	Northwest A&F University

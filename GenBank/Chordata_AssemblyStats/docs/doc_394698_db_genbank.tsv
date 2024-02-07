@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/394698_assembly_stats_genbank.txt	394698	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/055/GCA_916701055.1_S_nebulosus_SEB-720/GCA_916701055.1_S_nebulosus_SEB-720_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_916701055.1	PRJEB42258	SAMEA7962373	394698	na	latest	Major	Full	2021-11-13	UNIVERSITY OF CALIFORNIA AT BERKELEY

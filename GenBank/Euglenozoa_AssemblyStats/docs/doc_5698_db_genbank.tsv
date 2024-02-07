@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Euglenozoa_AssemblyStats/5698_assembly_stats_genbank.txt	5698	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/719/475/GCA_003719475.1_ASM371947v1/GCA_003719475.1_ASM371947v1_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	representative genome	GCA_003719475.1	PRJNA315397	SAMN04566061	5698	strain=AM80	latest	Major	Full	2018-11-08	Virginia Commonwealth University

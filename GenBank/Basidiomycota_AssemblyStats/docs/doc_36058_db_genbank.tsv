@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/36058_assembly_stats_genbank.txt	36058	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/039/435/GCA_015039435.1_Xerba1/GCA_015039435.1_Xerba1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_015039435.1	PRJNA265603	SAMN03159395	36058	strain=84.06	latest	Major	Full	2020-10-27	DOE Joint Genome Institute

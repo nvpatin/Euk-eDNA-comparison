@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/2752694_assembly_stats_genbank.txt	2752694	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/655/985/GCA_017655985.1_ASM1765598v1/GCA_017655985.1_ASM1765598v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_017655985.1	PRJNA650550	SAMN15717378	2752694	strain=CBS 129047	latest	Major	Full	2021-04-01	Radboudumc

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/1520601_assembly_stats_genbank.txt	1520601	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/727/855/GCA_025727855.1_ibira2.1/GCA_025727855.1_ibira2.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_025727855.1	PRJNA872198	SAMN30448151	1520601	na	latest	Major	Full	2022-10-17	Universidade Federal de Santa Catarina

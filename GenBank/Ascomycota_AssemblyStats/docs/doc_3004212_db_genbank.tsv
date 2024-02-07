@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ascomycota_AssemblyStats/3004212_assembly_stats_genbank.txt	3004212	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/606/225/GCA_029606225.1_ASM2960622v1/GCA_029606225.1_ASM2960622v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_029606225.1	PRJNA604095	SAMN32135776	3004212	strain=FRR 4481	latest	Major	Full	2023-04-06	University of Melbourne

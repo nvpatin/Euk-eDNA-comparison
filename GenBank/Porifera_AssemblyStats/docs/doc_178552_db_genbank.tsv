@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Porifera_AssemblyStats/178552_assembly_stats_genbank.txt	178552	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/693/285/GCA_963693285.1_odXesMuta1.1/GCA_963693285.1_odXesMuta1.1_assembly_stats.txt	genbank	GenBank/Porifera_AssemblyStats	representative genome	GCA_963693285.1	PRJEB70765	SAMEA9267624	178552	na	latest	Major	Full	2023-12-06	WELLCOME SANGER INSTITUTE

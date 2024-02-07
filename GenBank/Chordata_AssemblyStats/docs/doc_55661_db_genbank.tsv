@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/55661_assembly_stats_genbank.txt	55661	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/709/325/GCA_000709325.1_ASM70932v1/GCA_000709325.1_ASM70932v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000709325.1	PRJNA212870	SAMN02298149	55661	na	latest	Major	Full	2014-06-17	BGI

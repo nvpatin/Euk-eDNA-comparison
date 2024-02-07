@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/45249_assembly_stats_genbank.txt	45249	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/175/345/GCA_905175345.1_ASS3/GCA_905175345.1_ASS3_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_905175345.1	PRJEB42198	SAMEA7742144	45249	na	latest	Major	Full	2021-01-28	GREGOR MENDEL INSTITUTE

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/42100_assembly_stats_genbank.txt	42100	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/692/045/GCA_008692045.1_mPhoSin1.alt/GCA_008692045.1_mPhoSin1.alt_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_008692045.1	PRJNA557832	SAMN12325353	42100	na	latest	Major	Full	2019-09-24	Vertebrate Genomes Project

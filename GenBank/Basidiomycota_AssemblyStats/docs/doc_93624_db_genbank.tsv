@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Basidiomycota_AssemblyStats/93624_assembly_stats_genbank.txt	93624	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/721/835/GCA_019721835.1_ASM1972183v1/GCA_019721835.1_ASM1972183v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_019721835.1	PRJNA700437	SAMN20327603	93624	strain=Oregon-Coast-3-SW	latest	Major	Full	2021-08-23	Medicinal Genomics

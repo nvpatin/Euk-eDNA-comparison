@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/7748_assembly_stats_genbank.txt	7748	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/220/065/GCA_030220065.1_ASM3022006v1/GCA_030220065.1_ASM3022006v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_030220065.1	PRJNA902967	SAMN34074044	7748	strain=9505	latest	Major	Full	2023-06-07	Faculty of Sciences from the University of Lisbon

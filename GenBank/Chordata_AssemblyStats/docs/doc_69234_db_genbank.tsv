@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Chordata_AssemblyStats/69234_assembly_stats_genbank.txt	69234	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/332/405/GCA_905332405.1_picta_flye_male/GCA_905332405.1_picta_flye_male_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_905332405.1	PRJEB43222	SAMEA8117521	69234	na	latest	Major	Full	2021-06-25	University of Edinburgh

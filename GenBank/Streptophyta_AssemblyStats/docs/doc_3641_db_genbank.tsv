@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/3641_assembly_stats_genbank.txt	3641	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/208/745/GCA_000208745.2_Criollo_cocoa_genome_V2/GCA_000208745.2_Criollo_cocoa_genome_V2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_000208745.2	PRJEB14326	SAMEA4028428	3641	cultivar=B97-61/B2	latest	Major	Full	2016-07-09	CIRAD

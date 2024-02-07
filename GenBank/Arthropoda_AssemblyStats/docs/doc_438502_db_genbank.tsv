@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/438502_assembly_stats_genbank.txt	438502	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/757/345/GCA_009757345.1_UGE_Caugens_1.0/GCA_009757345.1_UGE_Caugens_1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_009757345.1	PRJNA416902	SAMN07967199	438502	na	latest	Major	Full	2019-12-16	University of Geneva

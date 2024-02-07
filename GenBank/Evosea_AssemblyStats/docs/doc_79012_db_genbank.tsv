@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Evosea_AssemblyStats/79012_assembly_stats_genbank.txt	79012	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/277/485/GCA_000277485.1_ASM27748v1/GCA_000277485.1_ASM27748v1_assembly_stats.txt	genbank	GenBank/Evosea_AssemblyStats	representative genome	GCA_000277485.1	PRJNA45875	SAMN00009465	79012	strain=TNS-C-0014	latest	Major	Full	2012-07-10	BCM-HGSC

@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Arthropoda_AssemblyStats/50586_assembly_stats_genbank.txt	50586	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/664/845/GCA_022664845.1_AU_Lsac_1.0/GCA_022664845.1_AU_Lsac_1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_022664845.1	PRJNA707018	SAMN18160780	50586	na	latest	Major	Full	2022-03-21	Auburn University

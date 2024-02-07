@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/126418_assembly_stats_genbank.txt	126418	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/103/335/GCA_013103335.1_ASM1310333v1/GCA_013103335.1_ASM1310333v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_013103335.1	PRJNA562106	SAMN12634285	126418	cultivar=Forsythia-HENAU2018	latest	Major	Full	2020-05-15	Henan Agricultural University

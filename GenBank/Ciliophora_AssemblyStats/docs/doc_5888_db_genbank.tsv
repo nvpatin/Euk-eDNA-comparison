@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ciliophora_AssemblyStats/5888_assembly_stats_genbank.txt	5888	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/165/425/GCA_000165425.1_ASM16542v1/GCA_000165425.1_ASM16542v1_assembly_stats.txt	genbank	GenBank/Ciliophora_AssemblyStats	representative genome	GCA_000165425.1	PRJNA18363	SAMEA3138302	5888	strain=Stock d4-2	latest	Major	Full	2007-02-02	Genoscope

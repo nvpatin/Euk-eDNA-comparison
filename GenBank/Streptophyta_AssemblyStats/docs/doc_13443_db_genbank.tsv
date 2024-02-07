@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Streptophyta_AssemblyStats/13443_assembly_stats_genbank.txt	13443	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/873/655/GCA_030873655.1_IGA_Cara_2.4/GCA_030873655.1_IGA_Cara_2.4_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_030873655.1	PRJNA944143	SAMN33898536	13443	cultivar=Red Bourbon	latest	Major	Full	2023-08-25	IGA Technology Services Srl

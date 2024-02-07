@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Ciliophora_AssemblyStats/94289_assembly_stats_genbank.txt	94289	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/273/305/GCA_001273305.2_ASM127330v2/GCA_001273305.2_ASM127330v2_assembly_stats.txt	genbank	GenBank/Ciliophora_AssemblyStats	representative genome	GCA_001273305.2	PRJNA274292	SAMN03325312	94289	strain=BA	latest	Major	Full	2015-12-23	HHMI JRC

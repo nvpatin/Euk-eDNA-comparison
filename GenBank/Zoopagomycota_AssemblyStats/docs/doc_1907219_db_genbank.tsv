@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Zoopagomycota_AssemblyStats/1907219_assembly_stats_genbank.txt	1907219	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/614/145/GCA_003614145.1_Pipcy3_1/GCA_003614145.1_Pipcy3_1_assembly_stats.txt	genbank	GenBank/Zoopagomycota_AssemblyStats	representative genome	GCA_003614145.1	PRJNA346814	SAMN05920701	1907219	na	latest	Major	Full	2018-10-04	DOE Joint Genome Institute
