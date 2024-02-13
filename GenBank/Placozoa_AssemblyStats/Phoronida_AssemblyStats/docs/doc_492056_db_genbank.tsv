@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GenBank/Phoronida_AssemblyStats/492056_assembly_stats_genbank.txt	492056	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/565/715/GCA_028565715.1_ASM2856571v1/GCA_028565715.1_ASM2856571v1_assembly_stats.txt	genbank	GenBank/Phoronida_AssemblyStats	representative genome	GCA_028565715.1	PRJNA607746	SAMN14145361	492056	na	latest	Major	Full	2023-02-09	Iridian Genomes
