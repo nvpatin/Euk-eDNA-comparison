@@ -10,7 +10,6 @@ library(here)
 library(tidyverse)
 library(RColorBrewer)
 library(ggplot2)
-library(wesanderson)
 library(purrr)
 library(Polychrome)
 ```
