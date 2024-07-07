@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/1902202_assembly_stats_genbank.txt	1902202	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/654/155/GCA_020654155.1_ASM2065415v1/GCA_020654155.1_ASM2065415v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_020654155.1	PRJNA626074	SAMN20691735	1902202	strain=SYSU	latest	Major	Full	2021-10-27	Sun Yat-sen University

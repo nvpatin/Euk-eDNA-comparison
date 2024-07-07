@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5480_assembly_stats_genbank.txt	5480	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/982/675/GCA_000982675.1_GA1.1/GCA_000982675.1_GA1.1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_000982675.1	PRJEB1685	SAMEA3146298	5480	strain=GA1	latest	Major	Full	2014-10-24	CRG

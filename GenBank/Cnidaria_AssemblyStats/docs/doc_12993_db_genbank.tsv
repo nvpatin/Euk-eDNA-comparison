@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Cnidaria_AssemblyStats/12993_assembly_stats_genbank.txt	12993	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/291/935/GCA_900291935.2_Cxam_T1-a_Genome_v2/GCA_900291935.2_Cxam_T1-a_Genome_v2_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	representative genome	GCA_900291935.2	PRJEB23739	SAMEA104446260	12993	strain=T1-A	latest	Major	Full	2022-10-28	PENN STATE

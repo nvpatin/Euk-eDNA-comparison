@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Bryozoa_AssemblyStats/2663170_assembly_stats_genbank.txt	2663170	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/167/845/GCA_026167845.1_ASM2616784v1/GCA_026167845.1_ASM2616784v1_assembly_stats.txt	genbank	GenBank/Bryozoa_AssemblyStats	representative genome	GCA_026167845.1	PRJNA580280	SAMN14137977	2663170	na	latest	Major	Full	2022-11-14	IRIDIAN GENOMES

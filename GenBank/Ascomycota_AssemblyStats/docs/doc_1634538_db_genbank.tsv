@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1634538_assembly_stats_genbank.txt	1634538	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/911/195/GCA_002911195.1_ASM291119v1/GCA_002911195.1_ASM291119v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002911195.1	PRJNA300435	SAMN04221433	1634538	strain=AR2711	latest	Major	Full	2017-11-20	USDA

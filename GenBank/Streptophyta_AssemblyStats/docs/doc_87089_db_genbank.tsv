@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/87089_assembly_stats_genbank.txt	87089	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/901/955/GCA_021901955.1_ASM2190195v1/GCA_021901955.1_ASM2190195v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_021901955.1	PRJNA782472	SAMN23382612	87089	na	latest	Major	Full	2022-02-03	Huazhong Agricultural University

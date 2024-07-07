@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Oomycota_AssemblyStats/157072_assembly_stats_genbank.txt	157072	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/520/115/GCA_000520115.1_Apha_inva_NJM9701_V1/GCA_000520115.1_Apha_inva_NJM9701_V1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_000520115.1	PRJNA188082	SAMN01907307	157072	strain=NJM9701	latest	Major	Full	2014-01-15	Broad Institute

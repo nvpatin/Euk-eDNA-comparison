@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/188344_assembly_stats_genbank.txt	188344	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/691/785/GCA_000691785.1_ASM69178v1/GCA_000691785.1_ASM69178v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_000691785.1	PRJNA212897	SAMN02333687	188344	na	latest	Major	Full	2014-05-23	BGI

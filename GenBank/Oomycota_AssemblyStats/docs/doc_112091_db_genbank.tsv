@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Oomycota_AssemblyStats/112091_assembly_stats_genbank.txt	112091	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/828/595/GCA_019828595.1_UMN_Aphcoc_1.0/GCA_019828595.1_UMN_Aphcoc_1.0_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_019828595.1	PRJNA719397	SAMN18617838	112091	na	latest	Major	Full	2021-08-31	University of Minnesota

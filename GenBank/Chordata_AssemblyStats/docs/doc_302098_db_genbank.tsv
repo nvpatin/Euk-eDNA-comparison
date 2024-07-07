@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/302098_assembly_stats_genbank.txt	302098	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/363/455/GCA_004363455.1_EubJap_v1_BIUU/GCA_004363455.1_EubJap_v1_BIUU_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_004363455.1	PRJNA399464	SAMN07678124	302098	na	latest	Major	Full	2019-03-22	Broad Institute

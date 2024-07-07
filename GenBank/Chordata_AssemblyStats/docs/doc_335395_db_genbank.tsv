@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/335395_assembly_stats_genbank.txt	335395	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/430/475/GCA_009430475.1_Amar_v1/GCA_009430475.1_Amar_v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_009430475.1	PRJNA512124	SAMN10724089	335395	na	latest	Major	Full	2019-10-31	McDonnell Genome Institute - Washington University School of Medicine

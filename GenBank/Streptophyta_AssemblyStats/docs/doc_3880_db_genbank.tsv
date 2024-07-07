@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3880_assembly_stats_genbank.txt	3880	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/219/495/GCA_000219495.2_MedtrA17_4.0/GCA_000219495.2_MedtrA17_4.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000219495.2	PRJNA10791	SAMN02299339	3880	strain=A17	latest	Major	Full	2014-06-18	Medicago truncatula Consortium

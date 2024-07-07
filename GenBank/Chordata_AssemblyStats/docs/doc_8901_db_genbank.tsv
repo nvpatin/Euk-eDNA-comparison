@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/8901_assembly_stats_genbank.txt	8901	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/375/905/GCA_023375905.1_ASM2337590v1/GCA_023375905.1_ASM2337590v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_023375905.1	PRJNA796267	SAMN24836896	8901	strain=Nhe1	latest	Major	Full	2022-05-16	Xiamen University

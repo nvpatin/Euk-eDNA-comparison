@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/13706_assembly_stats_genbank.txt	13706	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/105/135/GCA_002105135.1_Synrac1/GCA_002105135.1_Synrac1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_002105135.1	PRJNA330704	SAMN05421883	13706	strain=NRRL 2496	latest	Major	Full	2017-04-20	DOE Joint Genome Institute

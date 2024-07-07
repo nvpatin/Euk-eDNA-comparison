@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Oomycota_AssemblyStats/1131323_assembly_stats_genbank.txt	1131323	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/751/395/GCA_000751395.2_P._pisi_assembly/GCA_000751395.2_P._pisi_assembly_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	na	GCA_000751395.2	PRJEB6298	SAMEA2531522	1131323	na	latest	Major	Full	2014-07-22	Uppsala BioCenter

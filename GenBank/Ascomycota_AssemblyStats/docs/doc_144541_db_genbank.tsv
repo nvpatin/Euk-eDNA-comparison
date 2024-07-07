@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/144541_assembly_stats_genbank.txt	144541	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/804/575/GCA_019804575.2_ASM1980457v2/GCA_019804575.2_ASM1980457v2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_019804575.2	PRJNA328806	SAMN05382276	144541	strain=6Q3QHG6JMA	latest	Major	Full	2022-12-28	Iridian Genomes

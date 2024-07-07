@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/29067_assembly_stats_genbank.txt	29067	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/708/855/GCA_015708855.1_Pflavus_platanus500/GCA_015708855.1_Pflavus_platanus500_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_015708855.1	PRJNA600180	SAMN13795725	29067	na	latest	Major	Full	2020-12-01	Smithsonian Herndon Data Center

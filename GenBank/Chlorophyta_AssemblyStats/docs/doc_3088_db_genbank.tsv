@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chlorophyta_AssemblyStats/3088_assembly_stats_genbank.txt	3088	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/272/055/GCA_030272055.1_ASM3027205v1/GCA_030272055.1_ASM3027205v1_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	na	GCA_030272055.1	PRJNA887758	SAMN06733347	3088	strain=DOE0152z	latest	Major	Full	2023-06-14	Los Alamos National Laboratory

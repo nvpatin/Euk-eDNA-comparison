@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3707_assembly_stats_genbank.txt	3707	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/703/725/GCA_018703725.1_ASM1870372v1/GCA_018703725.1_ASM1870372v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_018703725.1	PRJNA615316	SAMN14466390	3707	cultivar=Sichuan Huangzi	latest	Major	Full	2021-06-04	Hunan agricultural university

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/183150_assembly_stats_genbank.txt	183150	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/586/565/GCA_008586565.1_ASM858656v1/GCA_008586565.1_ASM858656v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_008586565.1	PRJNA549378	SAMN12084253	183150	ecotype=Beijing	latest	Major	Full	2019-09-19	Peking University

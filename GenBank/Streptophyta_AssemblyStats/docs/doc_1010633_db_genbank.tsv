@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/1010633_assembly_stats_genbank.txt	1010633	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/806/635/GCA_902806635.1_CM05836_v1.1/GCA_902806635.1_CM05836_v1.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_902806635.1	PRJEB36539	SAMEA6542037	1010633	na	latest	Major	Full	2020-04-16	KAUST Centre of Desert Agriculture

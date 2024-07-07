@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/36035_assembly_stats_genbank.txt	36035	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/491/785/GCA_900491785.1_S_ludwigii_v1/GCA_900491785.1_S_ludwigii_v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_900491785.1	PRJEB27462	SAMEA4765245	36035	strain=UTAD17	latest	Major	Full	2018-09-05	Technische Universitat Munchen - WZW

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/266040_assembly_stats_genbank.txt	266040	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/339/685/GCA_013339685.2_BIME_Hyas_1.3/GCA_013339685.2_BIME_Hyas_1.3_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_013339685.2	PRJNA633311	SAMN14941060	266040	na	latest	Minor	Full	2020-06-16	TIGMIC Group

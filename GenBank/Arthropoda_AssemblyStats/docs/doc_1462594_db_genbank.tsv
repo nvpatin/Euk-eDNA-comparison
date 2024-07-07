@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/1462594_assembly_stats_genbank.txt	1462594	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/168/455/GCA_026168455.1_ASM2616845v1/GCA_026168455.1_ASM2616845v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_026168455.1	PRJNA868490	SAMN30247626	1462594	breed=Tele_zju	latest	Major	Full	2022-11-14	Zhejiang University

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1230527_assembly_stats_genbank.txt	1230527	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/262/405/GCA_026262405.1_ASM2626240v1/GCA_026262405.1_ASM2626240v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_026262405.1	PRJNA874084	SAMN30525625	1230527	na	latest	Major	Full	2022-11-21	CIRAD

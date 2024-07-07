@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/441023_assembly_stats_genbank.txt	441023	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/909/325/GCA_001909325.1_Rspec1.0/GCA_001909325.1_Rspec1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_001909325.1	PRJNA326965	SAMN05185177	441023	na	latest	Major	Full	2016-12-20	University of Colorado-Boulder

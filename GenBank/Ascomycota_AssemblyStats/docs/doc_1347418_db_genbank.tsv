@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1347418_assembly_stats_genbank.txt	1347418	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/365/245/GCA_013365245.1_ASM1336524v1/GCA_013365245.1_ASM1336524v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_013365245.1	PRJNA613165	SAMN14395395	1347418	na	latest	Major	Full	2020-06-22	Banaras Hindu University

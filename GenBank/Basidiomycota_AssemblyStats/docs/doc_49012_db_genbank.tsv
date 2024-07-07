@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/49012_assembly_stats_genbank.txt	49012	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/010/845/GCA_001010845.1_ASM101084v1/GCA_001010845.1_ASM101084v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_001010845.1	PRJNA275631	SAMN03351821	49012	strain=SSC39B	latest	Major	Full	2015-05-20	University of Sao Paulo

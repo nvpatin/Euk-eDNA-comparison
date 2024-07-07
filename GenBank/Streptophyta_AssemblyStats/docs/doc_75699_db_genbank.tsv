@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/75699_assembly_stats_genbank.txt	75699	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/169/955/GCA_025169955.1_ASM2516995v1/GCA_025169955.1_ASM2516995v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_025169955.1	PRJNA788330	SAMN23962244	75699	cultivar=JSAF	latest	Major	Full	2022-09-14	Biozeron Shenzhen Inc.

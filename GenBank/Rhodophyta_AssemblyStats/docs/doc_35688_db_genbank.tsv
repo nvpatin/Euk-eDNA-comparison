@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Rhodophyta_AssemblyStats/35688_assembly_stats_genbank.txt	35688	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/397/085/GCA_000397085.1_Porphyridium_purpureum/GCA_000397085.1_Porphyridium_purpureum_assembly_stats.txt	genbank	GenBank/Rhodophyta_AssemblyStats	na	GCA_000397085.1	PRJNA189757	SAMN02981527	35688	na	latest	Major	Full	2013-05-16	Rutgers University

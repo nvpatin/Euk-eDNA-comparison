@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/44682_assembly_stats_genbank.txt	44682	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/205/555/GCA_020205555.1_ASM2020555v1/GCA_020205555.1_ASM2020555v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_020205555.1	PRJNA752920	SAMN20855167	44682	na	latest	Major	Full	2021-10-04	Fudan university

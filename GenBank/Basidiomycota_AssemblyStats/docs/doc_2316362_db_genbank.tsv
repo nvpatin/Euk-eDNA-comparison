@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/2316362_assembly_stats_genbank.txt	2316362	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/126/415/GCA_004126415.1_ASM412641v1/GCA_004126415.1_ASM412641v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_004126415.1	PRJNA516162	SAMN10782981	2316362	strain=IHI B618	latest	Major	Full	2019-02-01	IHI Zittau / TU Dresden

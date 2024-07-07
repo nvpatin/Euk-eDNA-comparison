@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/994334_assembly_stats_genbank.txt	994334	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/990/765/GCA_003990765.1_Jimfl_AD_1/GCA_003990765.1_Jimfl_AD_1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	na	GCA_003990765.1	PRJNA331666	SAMN05444555	994334	strain=AD002	latest	Major	Full	2019-01-02	DOE Joint Genome Institute

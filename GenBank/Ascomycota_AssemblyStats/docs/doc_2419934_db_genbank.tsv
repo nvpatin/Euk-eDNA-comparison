@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2419934_assembly_stats_genbank.txt	2419934	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/242/295/GCA_023242295.1_ASM2324229v1/GCA_023242295.1_ASM2324229v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_023242295.1	PRJNA759853	SAMN21205738	2419934	strain=FPH2015-502	latest	Major	Full	2022-05-05	Ohio State University

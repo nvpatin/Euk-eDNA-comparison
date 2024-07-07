@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/500656_assembly_stats_genbank.txt	500656	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/063/745/GCA_003063745.1_AZXXM/GCA_003063745.1_AZXXM_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_003063745.1	PRJNA385595	SAMN06894596	500656	strain=apg0007	latest	Major	Full	2018-04-23	Harvard University

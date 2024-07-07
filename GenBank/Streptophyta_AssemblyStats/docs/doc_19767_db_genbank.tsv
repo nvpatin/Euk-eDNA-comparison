@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/19767_assembly_stats_genbank.txt	19767	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/648/045/GCA_947648045.1_BcorONT_v1.0/GCA_947648045.1_BcorONT_v1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_947648045.1	PRJEB56520	SAMEA111437107	19767	na	latest	Major	Full	2023-07-02	CENTER FOR BIOTECHNOLOGY, BIELEFELD UNIVERSITY

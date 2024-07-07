@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/7239_assembly_stats_genbank.txt	7239	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/035/043/285/GCA_035043285.1_ASM3504328v1/GCA_035043285.1_ASM3504328v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_035043285.1	PRJNA1020440	SAMN37596459	7239	na	latest	Major	Full	2024-01-03	Stanford University

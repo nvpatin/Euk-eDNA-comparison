@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9009_assembly_stats_genbank.txt	9009	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/218/305/GCA_002218305.1_ASM221830v1/GCA_002218305.1_ASM221830v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_002218305.1	PRJNA301734	SAMN04255336	9009	strain=Texas	latest	Major	Full	2017-07-13	Texas A&M University

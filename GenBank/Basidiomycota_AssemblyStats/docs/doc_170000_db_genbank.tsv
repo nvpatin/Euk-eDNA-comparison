@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/170000_assembly_stats_genbank.txt	170000	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/943/846/425/GCA_943846425.1_K8108/GCA_943846425.1_K8108_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_943846425.1	PRJEB46918	SAMEA9533646	170000	na	latest	Major	Full	2022-07-01	SYNGENTA / RWTH Aachen University

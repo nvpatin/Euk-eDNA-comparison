@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1562205_assembly_stats_genbank.txt	1562205	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/078/685/GCA_023078685.1_ASM2307868v1/GCA_023078685.1_ASM2307868v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_023078685.1	PRJNA818853	SAMN26885670	1562205	strain=ML1664	latest	Major	Full	2022-04-21	National Taiwan University

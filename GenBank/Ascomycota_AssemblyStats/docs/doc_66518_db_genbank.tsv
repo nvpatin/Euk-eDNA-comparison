@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/66518_assembly_stats_genbank.txt	66518	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/629/725/GCA_032629725.1_Phain_OT5/GCA_032629725.1_Phain_OT5_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_032629725.1	PRJNA695287	SAMN17610551	66518	strain=DSM 5139	latest	Major	Full	2023-10-13	University of Eastern Finland

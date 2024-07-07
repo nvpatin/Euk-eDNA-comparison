@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/31033_assembly_stats_genbank.txt	31033	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/180/615/GCA_000180615.2_FUGU5/GCA_000180615.2_FUGU5_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000180615.2	PRJNA1434	SAMEA3138310	31033	na	latest	Major	Full	2011-10-13	The Fugu Genome Sequencing Consortium

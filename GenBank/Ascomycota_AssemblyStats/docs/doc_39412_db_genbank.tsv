@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/39412_assembly_stats_genbank.txt	39412	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/099/365/GCA_002099365.1_ASM209936v1/GCA_002099365.1_ASM209936v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_002099365.1	PRJNA357962	SAMN06158380	39412	strain=BMU07605	latest	Major	Full	2017-04-18	Peking University First Hospital

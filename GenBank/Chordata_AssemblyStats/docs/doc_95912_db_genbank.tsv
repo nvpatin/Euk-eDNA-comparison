@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/95912_assembly_stats_genbank.txt	95912	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/009/895/GCA_003009895.1_ASM300989v1/GCA_003009895.1_ASM300989v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_003009895.1	PRJNA390068	SAMN07212965	95912	na	latest	Major	Full	2018-03-19	Potsdam University

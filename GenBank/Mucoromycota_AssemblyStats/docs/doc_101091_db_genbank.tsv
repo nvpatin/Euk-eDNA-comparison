@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/101091_assembly_stats_genbank.txt	101091	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/683/725/GCA_001683725.1_ASM168372v1/GCA_001683725.1_ASM168372v1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	na	GCA_001683725.1	PRJNA314369	SAMN04532838	101091	strain=KUS-F28377	latest	Major	Full	2016-07-12	Korea University

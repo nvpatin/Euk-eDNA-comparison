@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/7936_assembly_stats_genbank.txt	7936	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/695/075/GCA_000695075.1_Anguilla_anguilla_v1_09_nov_10/GCA_000695075.1_Anguilla_anguilla_v1_09_nov_10_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000695075.1	PRJNA73577	SAMN02777865	7936	na	latest	Major	Full	2014-05-20	ZF-screens B.V.

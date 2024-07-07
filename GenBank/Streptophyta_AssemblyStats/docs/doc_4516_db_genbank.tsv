@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/4516_assembly_stats_genbank.txt	4516	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/070/015/GCA_900070015.1_Hordeum_bulbosum_assembly1/GCA_900070015.1_Hordeum_bulbosum_assembly1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_900070015.1	PRJEB3403	SAMEA3158488	4516	na	latest	Major	Full	2017-02-22	IPK-Gatersleben

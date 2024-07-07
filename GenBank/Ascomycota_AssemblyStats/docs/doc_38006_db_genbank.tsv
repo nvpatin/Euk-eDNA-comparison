@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/38006_assembly_stats_genbank.txt	38006	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/777/785/GCA_030777785.1_ASM3077778v1/GCA_030777785.1_ASM3077778v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_030777785.1	PRJNA879330	SAMN31590301	38006	strain=MBC 372	latest	Major	Full	2023-08-17	USDA-ARS-NCAUR

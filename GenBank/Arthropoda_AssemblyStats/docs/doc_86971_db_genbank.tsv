@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/86971_assembly_stats_genbank.txt	86971	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/806/795/GCA_902806795.1_TRIGBR_hybrid/GCA_902806795.1_TRIGBR_hybrid_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_902806795.1	PRJEB35413	SAMEA6463268	86971	na	latest	Major	Full	2020-02-28	WAGENINGEN UNIVERSITY

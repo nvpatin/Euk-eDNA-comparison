@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/79784_assembly_stats_genbank.txt	79784	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/227/395/GCA_003227395.1_ASM322739v1/GCA_003227395.1_ASM322739v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_003227395.1	PRJNA369596	SAMN06289673	79784	na	latest	Major	Full	2018-06-14	Ewha Womans University

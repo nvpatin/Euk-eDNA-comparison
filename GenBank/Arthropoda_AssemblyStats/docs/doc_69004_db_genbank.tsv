@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/69004_assembly_stats_genbank.txt	69004	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/473/445/GCA_000473445.2_Anop_fara_FAR1_V2/GCA_000473445.2_Anop_fara_FAR1_V2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_000473445.2	PRJNA67229	SAMN02953872	69004	strain=FAR1	latest	Major	Full	2014-01-17	Broad Institute

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/51549_assembly_stats_genbank.txt	51549	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/679/315/GCA_024679315.1_ASM2467931v1/GCA_024679315.1_ASM2467931v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_024679315.1	PRJNA843928	SAMN28772710	51549	na	latest	Major	Full	2022-08-15	The Max Planck Institute of Molecular Cell Biology and Genetics

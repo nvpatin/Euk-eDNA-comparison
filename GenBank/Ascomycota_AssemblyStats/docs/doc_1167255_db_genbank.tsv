@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1167255_assembly_stats_genbank.txt	1167255	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/345/685/GCA_022345685.2_ASM2234568v2/GCA_022345685.2_ASM2234568v2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022345685.2	PRJNA481553	SAMN09683608	1167255	cultivar=RG_1167255	latest	Major	Full	2023-02-06	IRIDIAN GENOMES

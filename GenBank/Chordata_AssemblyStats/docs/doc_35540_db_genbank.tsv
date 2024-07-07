@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/35540_assembly_stats_genbank.txt	35540	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/554/395/GCA_028554395.1_APGP_CSIRO_Pwel_v1/GCA_028554395.1_APGP_CSIRO_Pwel_v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_028554395.1	PRJNA912258	SAMN32236640	35540	ecotype=Strahan	latest	Major	Full	2023-02-08	Rahul Vivek Rane

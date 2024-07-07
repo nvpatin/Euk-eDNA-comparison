@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1215361_assembly_stats_genbank.txt	1215361	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/319/225/GCA_026319225.1_ASM2631922v1/GCA_026319225.1_ASM2631922v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_026319225.1	PRJNA858866	SAMN29758422	1215361	strain=Coll922	latest	Major	Full	2022-11-23	Canadian Food Inspection Agency

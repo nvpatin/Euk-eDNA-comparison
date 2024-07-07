@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/85310_assembly_stats_genbank.txt	85310	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/928/085/145/GCA_928085145.1_PGI_NEZAVIv3/GCA_928085145.1_PGI_NEZAVIv3_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_928085145.1	PRJEB47893	SAMEA10332717	85310	na	latest	Major	Full	2022-06-30	ROTHAMSTED RESEARCH

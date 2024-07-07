@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/491646_assembly_stats_genbank.txt	491646	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/432/695/GCA_024432695.1_Barbary10X.pri/GCA_024432695.1_Barbary10X.pri_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_024432695.1	PRJNA802106	SAMN24625189	491646	na	latest	Major	Full	2022-07-25	New York University Abu Dhabi

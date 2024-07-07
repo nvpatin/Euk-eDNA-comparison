@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/144049_assembly_stats_genbank.txt	144049	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/509/875/GCA_023509875.1_ASM2350987v1/GCA_023509875.1_ASM2350987v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_023509875.1	PRJNA826071	SAMN27671418	144049	strain=CBS 126565	latest	Major	Full	2022-05-19	Kazimierz Wielki University

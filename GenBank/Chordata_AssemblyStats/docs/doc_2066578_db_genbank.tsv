@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/2066578_assembly_stats_genbank.txt	2066578	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/347/165/GCA_003347165.1_ASM334716v1/GCA_003347165.1_ASM334716v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_003347165.1	PRJNA427361	SAMN08271869	2066578	ecotype=South American	latest	Major	Full	2018-07-31	Auburn University

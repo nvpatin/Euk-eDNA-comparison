@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1042127_assembly_stats_genbank.txt	1042127	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/244/585/GCA_024244585.1_ASM2424458v1/GCA_024244585.1_ASM2424458v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_024244585.1	PRJNA527935	SAMN11264778	1042127	strain=EXF-2491	latest	Major	Full	2022-07-13	Biotechnical Faculty, University of Ljubljana

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/147949_assembly_stats_genbank.txt	147949	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/292/245/GCA_021292245.1_ASM2129224v1/GCA_021292245.1_ASM2129224v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_021292245.1	PRJNA777359	SAMN22851699	147949	ecotype=Adirondacks	latest	Major	Full	2022-01-11	Cornell University

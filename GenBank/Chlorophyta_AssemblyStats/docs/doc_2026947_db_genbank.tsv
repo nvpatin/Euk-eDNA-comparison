@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chlorophyta_AssemblyStats/2026947_assembly_stats_genbank.txt	2026947	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/834/595/GCA_016834595.1_ASM1683459v1/GCA_016834595.1_ASM1683459v1_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_016834595.1	PRJNA633871	SAMN14973063	2026947	strain=CCAP 11/173	latest	Major	Full	2021-02-08	University of Edinburgh

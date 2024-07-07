@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/746128_assembly_stats_genbank.txt	746128	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/752/175/GCA_028752175.1_ASM2875217v1/GCA_028752175.1_ASM2875217v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_028752175.1	PRJNA768288	SAMN22024769	746128	strain=Afir974	latest	Major	Full	2023-02-21	Wageningen University

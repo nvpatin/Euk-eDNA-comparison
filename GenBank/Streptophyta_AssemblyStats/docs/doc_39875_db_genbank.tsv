@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/39875_assembly_stats_genbank.txt	39875	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/255/685/GCA_029255685.2_ASM2925568v2/GCA_029255685.2_ASM2925568v2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_029255685.2	PRJNA904366	SAMN31841002	39875	na	latest	Major	Full	2023-09-29	Colorado State University

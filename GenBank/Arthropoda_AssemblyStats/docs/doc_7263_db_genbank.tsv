@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/7263_assembly_stats_genbank.txt	7263	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/654/025/GCA_001654025.1_ASM165402v1/GCA_001654025.1_ASM165402v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_001654025.1	PRJNA309836	SAMN04440796	7263	na	latest	Major	Full	2016-05-09	Biotechnology Institute of UNAM

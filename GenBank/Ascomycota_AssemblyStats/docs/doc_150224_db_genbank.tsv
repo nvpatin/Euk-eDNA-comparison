@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/150224_assembly_stats_genbank.txt	150224	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/893/665/GCA_002893665.1_ASM289366v1/GCA_002893665.1_ASM289366v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_002893665.1	PRJNA411829	SAMN07689062	150224	strain=UWOPS99-745.6	latest	Major	Full	2018-01-19	University of Western Ontario

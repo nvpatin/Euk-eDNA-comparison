@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Zoopagomycota_AssemblyStats/133377_assembly_stats_genbank.txt	133377	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/097/675/GCA_003097675.1_ASM309767v1/GCA_003097675.1_ASM309767v1_assembly_stats.txt	genbank	GenBank/Zoopagomycota_AssemblyStats	representative genome	GCA_003097675.1	PRJNA329411	SAMN05412443	133377	strain=AUS-126-30	latest	Major	Full	2018-05-08	University of Toronto

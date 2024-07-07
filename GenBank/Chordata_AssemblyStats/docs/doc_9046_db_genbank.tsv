@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9046_assembly_stats_genbank.txt	9046	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/292/215/GCA_021292215.1_ASM2129221v1/GCA_021292215.1_ASM2129221v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_021292215.1	PRJNA354685	SAMN06118903	9046	na	latest	Major	Full	2021-12-27	Shaanxi Normal University

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/980415_assembly_stats_genbank.txt	980415	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/466/285/GCA_000466285.1_LetJap1.0/GCA_000466285.1_LetJap1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000466285.1	PRJNA192554	SAMN02981514	980415	na	latest	Major	Full	2013-09-13	Institute of Molecular and Cell Biology

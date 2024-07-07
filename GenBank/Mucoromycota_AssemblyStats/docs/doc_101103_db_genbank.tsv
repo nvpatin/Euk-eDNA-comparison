@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/101103_assembly_stats_genbank.txt	101103	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/093/555/GCA_025093555.1_Cirumb1/GCA_025093555.1_Cirumb1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_025093555.1	PRJNA331974	SAMN05444945	101103	strain=NRRL1351	latest	Major	Full	2022-09-08	DOE Joint Genome Institute

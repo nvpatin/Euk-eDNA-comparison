@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/39397_assembly_stats_genbank.txt	39397	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/243/815/GCA_003243815.1_ASM324381v1/GCA_003243815.1_ASM324381v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_003243815.1	PRJNA434537	SAMN08563950	39397	strain=CBA6005	latest	Major	Full	2018-06-18	World Institute of Kimchi

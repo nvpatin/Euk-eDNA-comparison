@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2839758_assembly_stats_genbank.txt	2839758	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/839/625/GCA_014839625.1_UCS_PECM_1.0/GCA_014839625.1_UCS_PECM_1.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_014839625.1	PRJNA521489	SAMN10889014	2839758	strain=S1M29	latest	Major	Full	2020-10-02	Universidade de Caxias do Sul

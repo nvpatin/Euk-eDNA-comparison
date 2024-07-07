@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3755_assembly_stats_genbank.txt	3755	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/632/915/GCA_008632915.2_ASM863291v2/GCA_008632915.2_ASM863291v2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_008632915.2	PRJDB7547	SAMD00145063	3755	na	latest	Major	Full	2019-09-20	Sequentia Biotech SL

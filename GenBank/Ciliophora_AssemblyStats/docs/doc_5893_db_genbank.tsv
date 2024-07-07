@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ciliophora_AssemblyStats/5893_assembly_stats_genbank.txt	5893	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/260/095/GCA_000260095.1_Tetra_borealis_V1/GCA_000260095.1_Tetra_borealis_V1_assembly_stats.txt	genbank	GenBank/Ciliophora_AssemblyStats	representative genome	GCA_000260095.1	PRJNA51575	SAMN00727833	5893	strain=Xbor	latest	Major	Full	2012-05-01	Broad Institute

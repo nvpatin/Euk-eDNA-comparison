@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/101121_assembly_stats_genbank.txt	101121	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/787/465/GCA_000787465.1_ASM78746v1/GCA_000787465.1_ASM78746v1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_000787465.1	PRJNA261109	SAMN03070115	101121	strain=HACC 243	latest	Major	Full	2014-11-26	Aalborg University

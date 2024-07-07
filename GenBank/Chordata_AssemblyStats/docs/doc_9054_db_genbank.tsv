@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9054_assembly_stats_genbank.txt	9054	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/143/745/GCA_004143745.1_ASM414374v1/GCA_004143745.1_ASM414374v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_004143745.1	PRJNA449162	SAMN08888240	9054	na	latest	Major	Full	2019-02-06	Shenzhen University

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Zoopagomycota_AssemblyStats/133412_assembly_stats_genbank.txt	133412	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/970/865/GCA_001970865.1_ASM197086v1/GCA_001970865.1_ASM197086v1_assembly_stats.txt	genbank	GenBank/Zoopagomycota_AssemblyStats	na	GCA_001970865.1	PRJNA311769	SAMN04489870	133412	strain=ID-206-W2	latest	Major	Full	2017-01-25	University of Toronto

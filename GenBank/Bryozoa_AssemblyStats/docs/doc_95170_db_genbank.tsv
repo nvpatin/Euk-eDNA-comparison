@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Bryozoa_AssemblyStats/95170_assembly_stats_genbank.txt	95170	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/914/767/555/GCA_914767555.1_tzMemMemb1.1_alternate_haplotype/GCA_914767555.1_tzMemMemb1.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Bryozoa_AssemblyStats	na	GCA_914767555.1	PRJEB47371	SAMEA7536681	95170	na	latest	Major	Full	2021-09-15	WELLCOME SANGER INSTITUTE

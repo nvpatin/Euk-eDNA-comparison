@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/161453_assembly_stats_genbank.txt	161453	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/901/007/775/GCA_901007775.1_Doryramphus_dactylophorus_assembly/GCA_901007775.1_Doryramphus_dactylophorus_assembly_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_901007775.1	PRJEB32126	SAMEA5563351	161453	na	latest	Major	Full	2020-04-15	CEES

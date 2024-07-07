@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/185578_assembly_stats_genbank.txt	185578	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/439/205/GCA_000439205.1_Anili1/GCA_000439205.1_Anili1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000439205.1	PRJNA197423	SAMN02953855	185578	na	latest	Major	Full	2013-07-22	Virginia Tech

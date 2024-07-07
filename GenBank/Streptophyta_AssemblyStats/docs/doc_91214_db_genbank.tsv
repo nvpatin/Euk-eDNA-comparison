@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/91214_assembly_stats_genbank.txt	91214	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/961/763/995/GCA_961763995.1_jcinerea.fasta.gz/GCA_961763995.1_jcinerea.fasta.gz_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_961763995.1	PRJEB56451	SAMEA111438462	91214	na	latest	Major	Full	2023-08-01	institute for systems genomics

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/70558_assembly_stats_genbank.txt	70558	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/086/695/GCA_020086695.1_ASM2008669v1/GCA_020086695.1_ASM2008669v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_020086695.1	PRJNA716633	SAMN18441718	70558	strain=AQ67100	latest	Major	Full	2021-09-21	University of L'Aquila

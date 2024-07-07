@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5970_assembly_stats_genbank.txt	5970	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/349/795/GCA_003349795.1_ASM334979v1/GCA_003349795.1_ASM334979v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003349795.1	PRJNA454200	SAMN08999700	5970	strain=PKS1	latest	Major	Full	2018-07-31	University of Natural Resources and Life Sciences, Vienna

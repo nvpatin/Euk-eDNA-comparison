@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3668_assembly_stats_genbank.txt	3668	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/268/545/GCA_003268545.1_Lsi_v1.0/GCA_003268545.1_Lsi_v1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_003268545.1	PRJNA387611	SAMN07159290	3668	cultivar=USVL1	latest	Major	Full	2018-06-27	Cornell University

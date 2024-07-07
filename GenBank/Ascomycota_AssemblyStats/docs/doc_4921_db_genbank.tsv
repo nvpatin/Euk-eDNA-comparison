@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/4921_assembly_stats_genbank.txt	4921	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/339/405/GCA_003339405.1_UCD_Pnorv_NO1/GCA_003339405.1_UCD_Pnorv_NO1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003339405.1	PRJNA449367	SAMN08898938	4921	strain=CBS 1922	latest	Major	Full	2018-07-24	University College Dublin

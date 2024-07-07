@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/573593_assembly_stats_genbank.txt	573593	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/035/772/895/GCA_035772895.1_ASM3577289v1/GCA_035772895.1_ASM3577289v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_035772895.1	PRJNA896916	SAMN31682473	573593	ecotype=Tibet	latest	Major	Full	2024-01-17	Kent State University

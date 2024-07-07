@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/562976_assembly_stats_genbank.txt	562976	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/677/825/GCA_025677825.1_Helpul1/GCA_025677825.1_Helpul1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_025677825.1	PRJNA500399	SAMN10362792	562976	strain=RSA 2064	latest	Major	Full	2022-10-13	DOE Joint Genome Institute

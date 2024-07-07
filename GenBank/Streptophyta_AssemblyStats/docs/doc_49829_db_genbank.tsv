@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/49829_assembly_stats_genbank.txt	49829	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/829/125/GCA_022829125.1_ASM2282912v1/GCA_022829125.1_ASM2282912v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_022829125.1	PRJNA810344	SAMN26245729	49829	na	latest	Major	Full	2022-04-08	Ruhr-University Bochum

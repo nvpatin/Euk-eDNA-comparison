@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/96569_assembly_stats_genbank.txt	96569	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/686/915/GCA_026686915.1_ASM2668691v1/GCA_026686915.1_ASM2668691v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_026686915.1	PRJNA489348	SAMN09976384	96569	na	latest	Major	Full	2022-12-06	Sun Yat-sen University

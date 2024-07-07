@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/111838_assembly_stats_genbank.txt	111838	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/167/655/GCA_018167655.1_Mior012/GCA_018167655.1_Mior012_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_018167655.1	PRJNA505851	SAMN18478481	111838	na	latest	Major	Full	2021-04-26	Oklahoma State Universtiy

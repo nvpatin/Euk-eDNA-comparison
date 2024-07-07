@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Discosea_AssemblyStats/5755_assembly_stats_genbank.txt	5755	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/193/105/GCA_000193105.1_Acas_2.0/GCA_000193105.1_Acas_2.0_assembly_stats.txt	genbank	GenBank/Discosea_AssemblyStats	na	GCA_000193105.1	PRJNA20303	SAMN00000060	5755	strain=Neff	latest	Major	Full	2011-03-22	Baylor College of Medicine

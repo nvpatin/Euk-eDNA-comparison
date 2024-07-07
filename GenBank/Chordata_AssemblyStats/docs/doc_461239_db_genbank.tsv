@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/461239_assembly_stats_genbank.txt	461239	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/397/775/GCA_013397775.1_ASM1339777v1/GCA_013397775.1_ASM1339777v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_013397775.1	PRJNA545868	SAMN12253941	461239	na	latest	Major	Full	2020-07-10	B10K Consortium

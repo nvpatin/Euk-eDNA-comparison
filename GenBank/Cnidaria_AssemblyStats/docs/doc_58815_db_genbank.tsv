@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Cnidaria_AssemblyStats/58815_assembly_stats_genbank.txt	58815	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/770/025/GCA_025770025.1_ASM2577002v1/GCA_025770025.1_ASM2577002v1_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	representative genome	GCA_025770025.1	PRJNA598183	SAMN14247563	58815	na	latest	Major	Full	2022-10-20	IRIDIAN GENOMES

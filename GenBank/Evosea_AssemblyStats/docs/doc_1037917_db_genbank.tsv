@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Evosea_AssemblyStats/1037917_assembly_stats_genbank.txt	1037917	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/667/245/GCA_003667245.1_DUN_Pmulti_V1.0/GCA_003667245.1_DUN_Pmulti_V1.0_assembly_stats.txt	genbank	GenBank/Evosea_AssemblyStats	representative genome	GCA_003667245.1	PRJNA495730	SAMN10230471	1037917	strain=AS2	latest	Major	Full	2018-10-19	University of Dundee

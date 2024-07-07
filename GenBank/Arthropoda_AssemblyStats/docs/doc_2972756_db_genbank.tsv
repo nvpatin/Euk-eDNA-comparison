@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/2972756_assembly_stats_genbank.txt	2972756	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/293/925/GCA_028293925.1_ASM2829392v1/GCA_028293925.1_ASM2829392v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_028293925.1	PRJNA868386	SAMN30244259	2972756	na	latest	Major	Full	2023-01-30	Arkansas State University

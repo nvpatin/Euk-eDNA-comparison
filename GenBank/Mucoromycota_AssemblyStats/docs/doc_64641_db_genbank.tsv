@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/64641_assembly_stats_genbank.txt	64641	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/716/855/GCA_025716855.1_Pilano1/GCA_025716855.1_Pilano1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_025716855.1	PRJNA335142	SAMN05444685	64641	strain=RSA1997	latest	Major	Full	2022-10-16	DOE Joint Genome Institute

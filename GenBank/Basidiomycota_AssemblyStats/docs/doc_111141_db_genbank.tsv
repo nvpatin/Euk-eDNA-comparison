@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/111141_assembly_stats_genbank.txt	111141	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/025/155/GCA_015025155.1_Lacqui1/GCA_015025155.1_Lacqui1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_015025155.1	PRJNA245616	SAMN02744097	111141	strain=S23C	latest	Major	Full	2020-10-27	DOE Joint Genome Institute

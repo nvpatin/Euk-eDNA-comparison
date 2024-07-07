@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3330_assembly_stats_genbank.txt	3330	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/966/675/GCA_000966675.3_WS77111_v2/GCA_000966675.3_WS77111_v2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_000966675.3	PRJNA242552	SAMN02736787	3330	na	latest	Major	Full	2020-01-09	SMarTForests Consortium

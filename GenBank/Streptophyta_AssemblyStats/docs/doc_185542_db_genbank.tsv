@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/185542_assembly_stats_genbank.txt	185542	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/181/385/GCA_905181385.1_ILEXPARAG/GCA_905181385.1_ILEXPARAG_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_905181385.1	PRJEB36685	SAMEA7759029	185542	na	latest	Major	Full	2021-01-28	UNIVERSIDAD DE BUENOS AIRES

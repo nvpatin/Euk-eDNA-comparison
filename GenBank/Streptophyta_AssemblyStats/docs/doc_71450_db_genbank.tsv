@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/71450_assembly_stats_genbank.txt	71450	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/177/815/GCA_006177815.1_M_inflexa_v1.1/GCA_006177815.1_M_inflexa_v1.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_006177815.1	PRJNA476339	SAMN09430624	71450	na	latest	Major	Full	2019-06-10	University of Kentucky

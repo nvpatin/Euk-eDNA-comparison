@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/10036_assembly_stats_genbank.txt	10036	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/349/665/GCA_000349665.1_MesAur1.0/GCA_000349665.1_MesAur1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000349665.1	PRJNA77669	SAMN00769068	10036	na	latest	Major	Full	2013-03-29	Broad Institute

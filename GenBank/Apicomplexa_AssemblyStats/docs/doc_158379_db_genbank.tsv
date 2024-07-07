@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Apicomplexa_AssemblyStats/158379_assembly_stats_genbank.txt	158379	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/172/235/GCA_000172235.1_ASM17223v1/GCA_000172235.1_ASM17223v1_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	representative genome	GCA_000172235.1	PRJNA27765	SAMN02953717	158379	na	latest	Major	Full	2010-01-28	University of Minnesota

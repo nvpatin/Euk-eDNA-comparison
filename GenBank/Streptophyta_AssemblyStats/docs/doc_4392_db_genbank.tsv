@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/4392_assembly_stats_genbank.txt	4392	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/546/955/GCA_026546955.1_ASM2654695v1/GCA_026546955.1_ASM2654695v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_026546955.1	PRJNA357336	SAMN06186715	4392	cultivar=Shennongjia	latest	Major	Full	2022-11-30	Chinese Academy of Forestry

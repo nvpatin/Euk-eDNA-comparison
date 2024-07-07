@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3999_assembly_stats_genbank.txt	3999	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/398/585/GCA_018398585.1_QK_Jojo_M_Omni-C/GCA_018398585.1_QK_Jojo_M_Omni-C_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_018398585.1	PRJNA694450	SAMN17524756	3999	ecotype=Middle eastern	latest	Major	Full	2021-05-19	University of Queensland

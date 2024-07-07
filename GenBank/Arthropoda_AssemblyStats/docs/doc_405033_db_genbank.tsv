@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/405033_assembly_stats_genbank.txt	405033	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/951/806/755/GCA_951806755.1_ES_BH_1412.v2_0/GCA_951806755.1_ES_BH_1412.v2_0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_951806755.1	PRJEB62818	SAMEA113571962	405033	na	latest	Major	Full	2023-06-15	UNIVERSITY OF EDINBURGH

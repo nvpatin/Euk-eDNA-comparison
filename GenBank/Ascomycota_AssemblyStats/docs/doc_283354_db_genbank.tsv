@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/283354_assembly_stats_genbank.txt	283354	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/757/995/GCA_023757995.1_ASM2375799v1/GCA_023757995.1_ASM2375799v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_023757995.1	PRJNA706766	SAMN18144510	283354	strain=BMP 0045	latest	Major	Full	2022-06-17	Cornell University

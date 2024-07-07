@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/122812_assembly_stats_genbank.txt	122812	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/003/875/GCA_900003875.1_sa_scaffold/GCA_900003875.1_sa_scaffold_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_900003875.1	PRJEB8424	SAMEA3249777	122812	na	latest	Major	Full	2020-02-19	Zhang Zhang

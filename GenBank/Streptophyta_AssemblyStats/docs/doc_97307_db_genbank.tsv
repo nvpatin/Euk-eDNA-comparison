@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/97307_assembly_stats_genbank.txt	97307	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/362/665/GCA_024362665.1_NICEM_padus_1/GCA_024362665.1_NICEM_padus_1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_024362665.1	PRJNA838254	SAMN28415519	97307	na	latest	Major	Full	2022-07-21	Seoul National University

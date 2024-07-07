@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Platyhelminthes_AssemblyStats/39320_assembly_stats_genbank.txt	39320	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/944/470/545/GCA_944470545.2_tdHetHame1.3/GCA_944470545.2_tdHetHame1.3_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	na	GCA_944470545.2	PRJEB44434	SAMEA110148366	39320	na	latest	Major	Full	2022-09-20	WELLCOME SANGER INSTITUTE

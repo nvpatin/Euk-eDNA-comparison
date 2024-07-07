@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/50452_assembly_stats_genbank.txt	50452	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/612/745/GCA_000612745.1_AA1/GCA_000612745.1_AA1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000612745.1	PRJEB4433	SAMEA3138974	50452	na	latest	Major	Partial	2014-04-01	LECA

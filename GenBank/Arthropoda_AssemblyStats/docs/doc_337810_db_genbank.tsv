@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/337810_assembly_stats_genbank.txt	337810	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/233/275/GCA_029233275.1_ASM2923327v1/GCA_029233275.1_ASM2923327v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_029233275.1	PRJNA935513	SAMN33319121	337810	breed=mantis shrimp	latest	Major	Full	2023-03-17	Yancheng teachers university

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3983_assembly_stats_genbank.txt	3983	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/737/115/GCA_000737115.1_MK_v2b/GCA_000737115.1_MK_v2b_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000737115.1	PRJNA236442	SAMN02592734	3983	cultivar=KU50	latest	Major	Full	2014-08-01	The Cassava Genome Consortium

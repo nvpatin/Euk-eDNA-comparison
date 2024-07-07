@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/27342_assembly_stats_genbank.txt	27342	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/020/605/GCA_001020605.1_Schpa1/GCA_001020605.1_Schpa1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_001020605.1	PRJNA239088	SAMN02744842	27342	strain=KUC8140	latest	Major	Full	2015-06-05	DOE Joint Genome Institute

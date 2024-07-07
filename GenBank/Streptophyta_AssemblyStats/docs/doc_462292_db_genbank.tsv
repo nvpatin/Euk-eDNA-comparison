@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/462292_assembly_stats_genbank.txt	462292	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/031/232/105/GCA_031232105.1_ASM3123210v1/GCA_031232105.1_ASM3123210v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_031232105.1	PRJNA962192	SAMN34387967	462292	cultivar=Andean	latest	Major	Full	2023-09-07	Peking University

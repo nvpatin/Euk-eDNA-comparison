@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2482753_assembly_stats_genbank.txt	2482753	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/399/475/GCA_021399475.1_Hyafin1/GCA_021399475.1_Hyafin1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_021399475.1	PRJNA340804	SAMN05720501	2482753	strain=PMI_746	latest	Major	Full	2022-01-10	DOE Joint Genome Institute

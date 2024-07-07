@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/1596008_assembly_stats_genbank.txt	1596008	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/238/005/GCA_018238005.1_DRR087481/GCA_018238005.1_DRR087481_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_018238005.1	PRJNA606954	SAMD00074967	1596008	strain=CF	latest	Major	Full	2021-05-03	Florida Museum of Natural History

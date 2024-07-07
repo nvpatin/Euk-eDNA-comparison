@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/172846_assembly_stats_genbank.txt	172846	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/605/095/GCA_021605095.1_Cext_1.0/GCA_021605095.1_Cext_1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_021605095.1	PRJDB11547	SAMD00298297	172846	na	latest	Major	Full	2021-11-19	Institute for Advanced Biosciences, Keio University

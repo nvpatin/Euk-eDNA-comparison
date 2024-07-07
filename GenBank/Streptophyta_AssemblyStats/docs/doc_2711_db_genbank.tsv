@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/2711_assembly_stats_genbank.txt	2711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/201/065/GCA_022201065.1_DVS_B1.0/GCA_022201065.1_DVS_B1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_022201065.1	PRJNA736176	SAMN19611724	2711	cultivar=Valencia sweet orange	latest	Major	Full	2022-02-11	Clemson University

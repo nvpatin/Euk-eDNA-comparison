@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/92897_assembly_stats_genbank.txt	92897	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/512/285/GCA_030512285.1_Cernew1/GCA_030512285.1_Cernew1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_030512285.1	PRJNA371209	SAMN06296371	92897	strain=SMH2532-1	latest	Major	Full	2023-07-20	DOE Joint Genome Institute

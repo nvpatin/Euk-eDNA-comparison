@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Bigyra_AssemblyStats/12968_assembly_stats_genbank.txt	12968	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/151/665/GCA_000151665.1_ASM15166v1/GCA_000151665.1_ASM15166v1_assembly_stats.txt	genbank	GenBank/Bigyra_AssemblyStats	representative genome	GCA_000151665.1	PRJEA45923	SAMEA2272370	12968	na	latest	Major	Full	2010-07-06	Genoscope - Institut de Genomique - CEA

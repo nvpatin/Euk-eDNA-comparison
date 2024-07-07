@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/483707_assembly_stats_genbank.txt	483707	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/778/145/GCA_002778145.1_ASM277814v1/GCA_002778145.1_ASM277814v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002778145.1	PRJNA395605	SAMN07414051	483707	strain=RL570	latest	Major	Full	2017-11-16	University of Montana

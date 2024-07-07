@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/117272_assembly_stats_genbank.txt	117272	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/425/755/GCA_019425755.1_ASM1942575v1/GCA_019425755.1_ASM1942575v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_019425755.1	PRJNA713964	SAMN18275832	117272	cultivar=Arusha	latest	Major	Full	2021-07-30	University of York

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/191418_assembly_stats_genbank.txt	191418	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/667/785/GCA_009667785.1_Mjurtina_v1/GCA_009667785.1_Mjurtina_v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_009667785.1	PRJNA498046	SAMN12284730	191418	na	latest	Major	Full	2019-11-18	University of Exeter

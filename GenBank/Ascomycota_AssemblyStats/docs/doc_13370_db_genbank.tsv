@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/13370_assembly_stats_genbank.txt	13370	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/660/285/GCA_900660285.1_BRENAR_v1/GCA_900660285.1_BRENAR_v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_900660285.1	PRJEB30032	SAMEA5150282	13370	na	latest	Major	Full	2019-02-12	Swedish University of Agricultural Sciences

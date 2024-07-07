@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/72267_assembly_stats_genbank.txt	72267	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/732/785/GCA_902732785.1_TRIGEV_GD011_Illumina/GCA_902732785.1_TRIGEV_GD011_Illumina_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_902732785.1	PRJEB36429	SAMEA6503152	72267	na	latest	Major	Full	2020-02-04	WAGENINGEN UNIVERSITY

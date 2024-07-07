@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Pelagophyceae_AssemblyStats/35679_assembly_stats_genbank.txt	35679	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/702/425/GCA_019702425.1_ASM1970242v1/GCA_019702425.1_ASM1970242v1_assembly_stats.txt	genbank	GenBank/Pelagophyceae_AssemblyStats	na	GCA_019702425.1	PRJNA517804	SAMN10845612	35679	strain=NMCA1429	latest	Major	Full	2021-08-19	New York University AbuDhabi, UAE

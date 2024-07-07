@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/2043367_assembly_stats_genbank.txt	2043367	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/035/079/385/GCA_035079385.1_AsRig_1.0/GCA_035079385.1_AsRig_1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_035079385.1	PRJNA999032	SAMN36719000	2043367	ecotype=Romblon	latest	Major	Full	2024-01-04	University of the Philippines Los Banos

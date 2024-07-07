@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/89916_assembly_stats_genbank.txt	89916	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/758/675/GCA_025758675.1_ASM2575867v1/GCA_025758675.1_ASM2575867v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_025758675.1	PRJNA859108	SAMN29766858	89916	strain=DBVPG 5271	latest	Major	Full	2022-10-19	University of Perugia

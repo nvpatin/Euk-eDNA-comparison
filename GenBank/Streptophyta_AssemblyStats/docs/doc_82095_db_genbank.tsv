@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/82095_assembly_stats_genbank.txt	82095	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/034/770/075/GCA_034770075.1_ASM3477007v1/GCA_034770075.1_ASM3477007v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_034770075.1	PRJNA1012530	SAMN37262211	82095	cultivar=Yeongchun	latest	Major	Full	2023-12-29	Chungnam National University

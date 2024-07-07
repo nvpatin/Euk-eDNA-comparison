@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/1266862_assembly_stats_genbank.txt	1266862	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/122/265/GCA_026122265.1_UConn_ADub_2022/GCA_026122265.1_UConn_ADub_2022_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_026122265.1	PRJNA834854	SAMN29908572	1266862	na	latest	Major	Full	2022-11-15	University of Connecticut

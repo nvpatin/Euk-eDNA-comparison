@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5127_assembly_stats_genbank.txt	5127	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/023/035/GCA_001023035.1_ASM102303v1/GCA_001023035.1_ASM102303v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001023035.1	PRJNA231623	SAMN03075940	5127	strain=KSU X-10626	latest	Major	Full	2015-06-09	University of Milan

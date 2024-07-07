@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/47429_assembly_stats_genbank.txt	47429	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/407/055/GCA_030407055.1_Armmel1/GCA_030407055.1_Armmel1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_030407055.1	PRJNA571622	SAMN12812551	47429	strain=ELDO17	latest	Major	Full	2023-07-05	DOE Joint Genome Institute

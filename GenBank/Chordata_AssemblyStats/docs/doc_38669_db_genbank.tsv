@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/38669_assembly_stats_genbank.txt	38669	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/363/435/GCA_024363435.2_mPerLon1.1.hap2/GCA_024363435.2_mPerLon1.1.hap2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_024363435.2	PRJNA855967	SAMN29044251	38669	ecotype=longimembris	latest	Major	Full	2023-09-28	UCLA

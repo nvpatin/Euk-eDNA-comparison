@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chlorophyta_AssemblyStats/33097_assembly_stats_genbank.txt	33097	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/584/585/GCA_001584585.1_ASM158458v1/GCA_001584585.1_ASM158458v1_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_001584585.1	PRJNA302163	SAMN04493491	33097	na	latest	Major	Full	2016-03-09	Kansas State University

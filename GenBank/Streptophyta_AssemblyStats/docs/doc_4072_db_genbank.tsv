@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/4072_assembly_stats_genbank.txt	4072	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/031/234/615/GCA_031234615.1_ASM3123461v1/GCA_031234615.1_ASM3123461v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_031234615.1	PRJNA962192	SAMN34387966	4072	cultivar=G1-36576	latest	Major	Full	2023-09-07	Peking University

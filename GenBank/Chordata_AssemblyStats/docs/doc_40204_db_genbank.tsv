@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/40204_assembly_stats_genbank.txt	40204	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/551/555/GCA_028551555.1_PUWL_Pcris_2/GCA_028551555.1_PUWL_Pcris_2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_028551555.1	PRJNA915193	SAMN32379461	40204	strain=CALT, /ecotype=California	latest	Major	Full	2023-02-08	Purdue University

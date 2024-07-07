@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Xanthophyceae_AssemblyStats/73019_assembly_stats_genbank.txt	73019	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/358/315/GCA_032358315.1_ASM3235831v1/GCA_032358315.1_ASM3235831v1_assembly_stats.txt	genbank	GenBank/Xanthophyceae_AssemblyStats	representative genome	GCA_032358315.1	PRJNA894617	SAMN35990801	73019	na	latest	Major	Full	2023-10-04	Iridian Genomes

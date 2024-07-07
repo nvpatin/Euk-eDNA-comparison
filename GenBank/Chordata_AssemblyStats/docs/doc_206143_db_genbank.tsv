@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/206143_assembly_stats_genbank.txt	206143	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/697/985/GCA_000697985.1_PamArg1.0/GCA_000697985.1_PamArg1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_000697985.1	PRJNA240272	SAMN02699082	206143	breed=wild-type	latest	Major	Full	2014-06-03	Kuwait Institute for Scientific Research (KISR)

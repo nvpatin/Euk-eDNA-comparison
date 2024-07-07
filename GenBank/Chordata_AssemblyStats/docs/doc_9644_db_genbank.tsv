@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9644_assembly_stats_genbank.txt	9644	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/612/945/GCA_000612945.1_CS3220/GCA_000612945.1_CS3220_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000612945.1	PRJEB5121	SAMEA3138984	9644	na	latest	Major	Partial	2014-03-31	BIK-F

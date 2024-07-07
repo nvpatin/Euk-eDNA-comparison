@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3659_assembly_stats_genbank.txt	3659	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/224/045/GCA_000224045.1_CSB10A_v1/GCA_000224045.1_CSB10A_v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000224045.1	PRJNA40333	SAMN02981244	3659	cultivar=Borszczagowski	latest	Major	Full	2011-08-26	Polish Consortium of Cucumber Genome Sequencing

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Zoopagomycota_AssemblyStats/1286916_assembly_stats_genbank.txt	1286916	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/603/285/GCA_025603285.1_Piptie1/GCA_025603285.1_Piptie1_assembly_stats.txt	genbank	GenBank/Zoopagomycota_AssemblyStats	representative genome	GCA_025603285.1	PRJNA470435	SAMN27763651	1286916	na	latest	Major	Full	2022-10-05	DOE Joint Genome Institute

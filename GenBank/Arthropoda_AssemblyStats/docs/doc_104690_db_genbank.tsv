@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/104690_assembly_stats_genbank.txt	104690	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/035/045/GCA_021035045.1_ASM2103504v1/GCA_021035045.1_ASM2103504v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_021035045.1	PRJNA512220	SAMN10662594	104690	na	latest	Major	Full	2021-12-03	South China Agricultural University

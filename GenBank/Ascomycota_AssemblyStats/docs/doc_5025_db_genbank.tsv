@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5025_assembly_stats_genbank.txt	5025	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/857/725/GCA_001857725.1_VenInaR1.1.0/GCA_001857725.1_VenInaR1.1.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001857725.1	PRJNA261633	SAMN03080638	5025	na	latest	Major	Full	2016-10-31	Venturia comparative genomics consortium

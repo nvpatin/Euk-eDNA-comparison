@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/90675_assembly_stats_genbank.txt	90675	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/633/955/GCA_000633955.1_Cs/GCA_000633955.1_Cs_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_000633955.1	PRJNA231618	SAMN02644653	90675	cultivar=DH55	latest	Major	Full	2014-04-24	Agriculture & AgriFood Canada

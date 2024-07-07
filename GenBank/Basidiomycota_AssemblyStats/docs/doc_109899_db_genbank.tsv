@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/109899_assembly_stats_genbank.txt	109899	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/073/295/GCA_003073295.1_Sebvebe1/GCA_003073295.1_Sebvebe1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_003073295.1	PRJNA410309	SAMN07687483	109899	strain=NFPB0129	latest	Major	Full	2018-04-27	DOE Joint Genome Institute

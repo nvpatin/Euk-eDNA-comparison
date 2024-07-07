@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/116150_assembly_stats_genbank.txt	116150	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/499/025/GCA_900499025.1_Paegeria_k64b2000_dplexOGS2/GCA_900499025.1_Paegeria_k64b2000_dplexOGS2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_900499025.1	PRJEB28004	SAMEA4810222	116150	na	latest	Major	Full	2018-08-08	STOCKHOLM UNIVERSITY

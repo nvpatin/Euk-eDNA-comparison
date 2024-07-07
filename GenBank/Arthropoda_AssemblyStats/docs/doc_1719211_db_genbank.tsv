@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/1719211_assembly_stats_genbank.txt	1719211	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/913/698/275/GCA_913698275.1_Choog2/GCA_913698275.1_Choog2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_913698275.1	PRJEB46387	SAMN04103812	1719211	na	latest	Major	Full	2021-09-13	UNIVERSITY OF LIVERPOOL

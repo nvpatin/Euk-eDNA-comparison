@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/84754_assembly_stats_genbank.txt	84754	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/517/465/GCA_000517465.1_PseuAph1.0/GCA_000517465.1_PseuAph1.0_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_000517465.1	PRJNA215967	SAMN02319046	84754	strain=DSM 70725	latest	Major	Full	2014-01-10	Fraunhofer IGB

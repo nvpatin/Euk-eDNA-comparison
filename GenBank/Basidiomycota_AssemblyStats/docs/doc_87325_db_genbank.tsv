@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/87325_assembly_stats_genbank.txt	87325	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/983/365/GCA_001983365.1_ASM198336v1/GCA_001983365.1_ASM198336v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_001983365.1	PRJNA339438	SAMN05591108	87325	strain=Ingham01	latest	Major	Full	2017-02-02	Michigan State University

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/1612427_assembly_stats_genbank.txt	1612427	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/397/195/GCA_018397195.1_ASM1839719v1/GCA_018397195.1_ASM1839719v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_018397195.1	PRJNA695433	SAMN17614387	1612427	na	latest	Major	Full	2021-05-18	University of Debrecen

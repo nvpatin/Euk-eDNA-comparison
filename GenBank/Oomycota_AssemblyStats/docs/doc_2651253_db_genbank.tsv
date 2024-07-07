@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Oomycota_AssemblyStats/2651253_assembly_stats_genbank.txt	2651253	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/679/275/GCA_024679275.1_ASM2467927v1/GCA_024679275.1_ASM2467927v1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_024679275.1	PRJNA746351	SAMN20204291	2651253	strain=Pnied_OSU-2014	latest	Major	Full	2022-08-15	Oregon State University

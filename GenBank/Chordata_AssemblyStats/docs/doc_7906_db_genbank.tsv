@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/7906_assembly_stats_genbank.txt	7906	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/119/895/GCA_004119895.1_ASM411989v1/GCA_004119895.1_ASM411989v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_004119895.1	PRJNA491785	SAMN10088814	7906	na	latest	Major	Full	2019-01-30	Yangtze River Fisheries Research Institute, Chinese Academy of Fishery Sciences

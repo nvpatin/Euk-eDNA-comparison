@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/62751_assembly_stats_genbank.txt	62751	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/151/065/GCA_004151065.2_LarixSibirica0.15/GCA_004151065.2_LarixSibirica0.15_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_004151065.2	PRJNA393226	SAMN07326255	62751	ecotype=Siberia	latest	Major	Full	2022-12-09	Siberian Federal University

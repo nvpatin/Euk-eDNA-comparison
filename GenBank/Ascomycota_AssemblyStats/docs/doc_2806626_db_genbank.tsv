@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2806626_assembly_stats_genbank.txt	2806626	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/280/125/GCA_020280125.1_ASM2028012v1/GCA_020280125.1_ASM2028012v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_020280125.1	PRJNA695125	SAMN17602076	2806626	strain=1112	latest	Major	Full	2021-10-05	Copenhagen university

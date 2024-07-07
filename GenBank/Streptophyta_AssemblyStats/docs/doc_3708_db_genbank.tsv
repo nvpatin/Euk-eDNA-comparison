@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3708_assembly_stats_genbank.txt	3708	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/686/985/GCA_000686985.2_Bra_napus_v2.0/GCA_000686985.2_Bra_napus_v2.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000686985.2	PRJNA237736	SAMN02742820	3708	cultivar=ZS11	latest	Major	Full	2017-09-15	BGI-Shenzhen

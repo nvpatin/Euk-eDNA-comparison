@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/240204_assembly_stats_genbank.txt	240204	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/628/505/GCA_033628505.1_ASM3362850v1/GCA_033628505.1_ASM3362850v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_033628505.1	PRJNA739535	SAMN19791470	240204	strain=PH	latest	Major	Full	2023-11-14	BGI-Shenzhen

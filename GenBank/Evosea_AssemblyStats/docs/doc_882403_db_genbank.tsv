@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Evosea_AssemblyStats/882403_assembly_stats_genbank.txt	882403	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/252/675/GCA_015252675.1_ASM1525267v1/GCA_015252675.1_ASM1525267v1_assembly_stats.txt	genbank	GenBank/Evosea_AssemblyStats	representative genome	GCA_015252675.1	PRJNA639417	SAMN15236370	882403	strain=MYA-3825	latest	Major	Full	2020-11-06	University of Dundee

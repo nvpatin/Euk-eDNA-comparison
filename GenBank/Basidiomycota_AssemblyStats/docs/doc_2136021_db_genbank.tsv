@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/2136021_assembly_stats_genbank.txt	2136021	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/606/275/GCA_022606275.1_Tramen1/GCA_022606275.1_Tramen1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_022606275.1	PRJNA444023	SAMN08779875	2136021	strain=CIRM-BRFM 1781	latest	Major	Full	2022-03-15	DOE Joint Genome Institute

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/483875_assembly_stats_genbank.txt	483875	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/916/435/GCA_020916435.1_ASM2091643v1/GCA_020916435.1_ASM2091643v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_020916435.1	PRJNA771236	SAMN23137985	483875	cultivar=locoweed	latest	Major	Full	2021-11-22	Northwestern University

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1725355_assembly_stats_genbank.txt	1725355	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/936/135/GCA_001936135.1_KJJ81/GCA_001936135.1_KJJ81_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001936135.1	PRJNA295614	SAMN04076424	1725355	strain=KJJ81	latest	Major	Full	2017-01-05	Chung-Ang University

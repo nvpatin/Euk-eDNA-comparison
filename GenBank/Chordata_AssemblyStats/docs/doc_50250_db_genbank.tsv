@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/50250_assembly_stats_genbank.txt	50250	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/173/965/GCA_032173965.1_ASM3217396v1/GCA_032173965.1_ASM3217396v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_032173965.1	PRJNA1020841	SAMN37531136	50250	ecotype=Pacific	latest	Major	Full	2023-09-29	University of British Columbia

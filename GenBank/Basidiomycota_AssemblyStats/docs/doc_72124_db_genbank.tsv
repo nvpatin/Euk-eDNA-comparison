@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/72124_assembly_stats_genbank.txt	72124	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/014/935/GCA_021014935.1_Hygaur1/GCA_021014935.1_Hygaur1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_021014935.1	PRJNA346268	SAMN05877903	72124	strain=ATCC 28755	latest	Major	Full	2021-11-30	DOE Joint Genome Institute

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/43146_assembly_stats_genbank.txt	43146	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/676/215/GCA_003676215.3_ASM367621v3/GCA_003676215.3_ASM367621v3_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_003676215.3	PRJNA480062	SAMN09625554	43146	na	latest	Major	Full	2019-02-06	Cornell University

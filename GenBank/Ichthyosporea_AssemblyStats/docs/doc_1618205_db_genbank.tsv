@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ichthyosporea_AssemblyStats/1618205_assembly_stats_genbank.txt	1618205	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/586/965/GCA_001586965.3_ASM158696v3/GCA_001586965.3_ASM158696v3_assembly_stats.txt	genbank	GenBank/Ichthyosporea_AssemblyStats	representative genome	GCA_001586965.3	PRJNA305168	SAMN04318421	1618205	na	latest	Major	Full	2018-09-21	University of Alaska Fairbanks

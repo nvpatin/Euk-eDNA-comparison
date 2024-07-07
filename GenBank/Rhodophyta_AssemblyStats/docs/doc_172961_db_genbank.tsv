@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Rhodophyta_AssemblyStats/172961_assembly_stats_genbank.txt	172961	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/539/475/GCA_022539475.1_USP_GDom_1.0/GCA_022539475.1_USP_GDom_1.0_assembly_stats.txt	genbank	GenBank/Rhodophyta_AssemblyStats	representative genome	GCA_022539475.1	PRJNA544476	SAMN11840808	172961	na	latest	Major	Full	2022-03-14	USP

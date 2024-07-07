@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/249491_assembly_stats_genbank.txt	249491	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/735/935/GCA_001735935.1_ASM173593v1/GCA_001735935.1_ASM173593v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_001735935.1	PRJNA325849	SAMN05255291	249491	strain=RK 075	latest	Major	Full	2016-09-20	RWTH Aachen University

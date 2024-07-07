@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/1825980_assembly_stats_genbank.txt	1825980	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/399/395/GCA_007399395.1_rGopEvg1_v1.alt/GCA_007399395.1_rGopEvg1_v1.alt_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_007399395.1	PRJNA489104	SAMN03496275	1825980	ecotype=Sinaloan lineage	latest	Major	Full	2019-07-24	Vertebrate Genomes Project

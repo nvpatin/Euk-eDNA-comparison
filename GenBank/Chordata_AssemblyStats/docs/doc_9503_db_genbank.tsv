@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9503_assembly_stats_genbank.txt	9503	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/573/765/GCA_963573765.1_PGDP_AloSen/GCA_963573765.1_PGDP_AloSen_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_963573765.1	PRJEB67744	SAMEA14464382	9503	na	latest	Major	Full	2023-11-01	IBE(CSIC-UNIVERSITAT POMPEU FABRA)

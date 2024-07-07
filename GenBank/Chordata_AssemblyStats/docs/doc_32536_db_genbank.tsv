@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/32536_assembly_stats_genbank.txt	32536	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/443/585/GCA_001443585.1_aciJub1/GCA_001443585.1_aciJub1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_001443585.1	PRJNA297632	SAMN04127588	32536	na	latest	Major	Full	2015-11-13	Saint Petersburg State University

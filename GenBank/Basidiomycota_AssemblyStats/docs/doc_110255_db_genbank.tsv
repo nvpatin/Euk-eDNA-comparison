@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/110255_assembly_stats_genbank.txt	110255	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/069/095/GCA_900069095.1_Tubaria_l100.fa/GCA_900069095.1_Tubaria_l100.fa_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_900069095.1	PRJEB8570	SAMEA3267773	110255	na	latest	Major	Full	2020-07-09	Royal Botanic Gardens, Kew

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/128215_assembly_stats_genbank.txt	128215	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/904/315/GCA_021904315.1_S.magellanicum_v1.1/GCA_021904315.1_S.magellanicum_v1.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_021904315.1	PRJNA242127	SAMN05660751	128215	na	latest	Major	Full	2022-02-08	DOE Joint Genome Institute

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/147425_assembly_stats_genbank.txt	147425	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/035/048/845/GCA_035048845.1_SB22/GCA_035048845.1_SB22_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_035048845.1	PRJNA1003451	SAMN36890927	147425	ecotype=Mexico	latest	Major	Full	2024-01-04	Oregon state university

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/312270_assembly_stats_genbank.txt	312270	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/150/935/GCA_018150935.1_ASM1815093v1/GCA_018150935.1_ASM1815093v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_018150935.1	PRJNA675888	SAMN16729676	312270	na	latest	Major	Full	2021-04-28	Stanford University

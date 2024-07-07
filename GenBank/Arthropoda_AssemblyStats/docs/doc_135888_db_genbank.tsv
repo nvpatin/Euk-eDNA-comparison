@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/135888_assembly_stats_genbank.txt	135888	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/264/675/GCA_030264675.1_Caltech_Anig_1.0/GCA_030264675.1_Caltech_Anig_1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_030264675.1	PRJNA764224	SAMN33247259	135888	na	latest	Major	Full	2023-06-13	California Institute of Technology

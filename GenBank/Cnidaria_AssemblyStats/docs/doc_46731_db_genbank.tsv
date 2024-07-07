@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Cnidaria_AssemblyStats/46731_assembly_stats_genbank.txt	46731	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/704/095/GCA_003704095.1_ASM370409v1/GCA_003704095.1_ASM370409v1_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	representative genome	GCA_003704095.1	PRJNA454489	SAMN09007954	46731	na	latest	Major	Full	2018-10-31	University of Miami

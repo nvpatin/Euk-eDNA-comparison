@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/458696_assembly_stats_genbank.txt	458696	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/880/815/GCA_016880815.1_ASM1688081v1/GCA_016880815.1_ASM1688081v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_016880815.1	PRJNA640746	SAMN15331941	458696	na	latest	Major	Full	2021-02-12	Shanghai Chenshan Botanical Garden

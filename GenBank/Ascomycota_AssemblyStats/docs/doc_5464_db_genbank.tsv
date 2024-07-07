@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5464_assembly_stats_genbank.txt	5464	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/814/275/GCA_002814275.1_cmusae1.0/GCA_002814275.1_cmusae1.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002814275.1	PRJNA407219	SAMN07638925	5464	strain=GM20	latest	Major	Full	2017-12-08	CAPES

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/48387_assembly_stats_genbank.txt	48387	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/909/165/GCA_010909165.1_ASM1090916v1/GCA_010909165.1_ASM1090916v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_010909165.1	PRJNA543716	SAMN11775617	48387	na	latest	Major	Full	2020-02-20	Institute of Botany, Chinese Academy of Sciences

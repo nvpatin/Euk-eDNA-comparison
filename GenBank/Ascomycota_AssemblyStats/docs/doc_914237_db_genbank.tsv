@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/914237_assembly_stats_genbank.txt	914237	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/074/885/GCA_900074885.1_version_1/GCA_900074885.1_version_1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_900074885.1	PRJEB12897	SAMEA3895816	914237	strain=UK7	latest	Major	Full	2016-10-26	Technische Universitat Munchen - WZW

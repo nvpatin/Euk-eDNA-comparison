@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Cnidaria_AssemblyStats/308579_assembly_stats_genbank.txt	308579	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/167/195/GCA_025167195.1_ASM2516719v1/GCA_025167195.1_ASM2516719v1_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	na	GCA_025167195.1	PRJNA734867	SAMN19547994	308579	na	latest	Major	Full	2022-09-13	Universidad de Oviedo

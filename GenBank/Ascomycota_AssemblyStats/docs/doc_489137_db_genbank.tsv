@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/489137_assembly_stats_genbank.txt	489137	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/180/185/GCA_013180185.1_ASM1318018v1/GCA_013180185.1_ASM1318018v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_013180185.1	PRJNA522928	SAMN09453052	489137	strain=Muri	latest	Major	Full	2020-05-28	University of Wisconsin-Madison

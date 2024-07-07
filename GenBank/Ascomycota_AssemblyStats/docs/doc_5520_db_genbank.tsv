@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5520_assembly_stats_genbank.txt	5520	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/745/475/GCA_026745475.1_ASM2674547v1/GCA_026745475.1_ASM2674547v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_026745475.1	PRJNA808256	SAMN26062287	5520	strain=F00608	latest	Major	Full	2022-12-08	FRC Kazan Scientific Center of RAS

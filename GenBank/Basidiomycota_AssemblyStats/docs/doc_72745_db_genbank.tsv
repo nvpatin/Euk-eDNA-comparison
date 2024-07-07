@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/72745_assembly_stats_genbank.txt	72745	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/702/625/GCA_022702625.1_MscKan1/GCA_022702625.1_MscKan1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_022702625.1	PRJNA744716	SAMN20114919	72745	strain=1118	latest	Major	Full	2022-03-28	Universite Paris Saclay / CNRS

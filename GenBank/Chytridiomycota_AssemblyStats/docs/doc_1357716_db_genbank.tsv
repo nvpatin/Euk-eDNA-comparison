@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chytridiomycota_AssemblyStats/1357716_assembly_stats_genbank.txt	1357716	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/617/725/GCA_020617725.1_AMFP15.3.pb/GCA_020617725.1_AMFP15.3.pb_assembly_stats.txt	genbank	GenBank/Chytridiomycota_AssemblyStats	na	GCA_020617725.1	PRJNA610831	SAMN14316979	1357716	strain=AMFP15/3	latest	Major	Full	2021-10-26	Ghent University

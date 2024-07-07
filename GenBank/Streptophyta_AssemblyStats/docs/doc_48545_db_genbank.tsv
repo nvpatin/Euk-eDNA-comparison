@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/48545_assembly_stats_genbank.txt	48545	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/018/285/GCA_002018285.1_ASM201828v1/GCA_002018285.1_ASM201828v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_002018285.1	PRJNA210776	SAMN06166495	48545	na	latest	Major	Full	2017-03-03	Oregon State University

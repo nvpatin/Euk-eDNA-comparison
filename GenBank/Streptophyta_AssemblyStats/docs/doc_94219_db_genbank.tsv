@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/94219_assembly_stats_genbank.txt	94219	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/539/455/GCA_022539455.1_Dnobile/GCA_022539455.1_Dnobile_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_022539455.1	PRJNA725550	SAMN18951225	94219	na	latest	Major	Full	2022-03-10	Guangzhou Medical University

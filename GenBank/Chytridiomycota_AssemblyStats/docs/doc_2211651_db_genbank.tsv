@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chytridiomycota_AssemblyStats/2211651_assembly_stats_genbank.txt	2211651	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/765/615/GCA_025765615.1_Clapol1_1/GCA_025765615.1_Clapol1_1_assembly_stats.txt	genbank	GenBank/Chytridiomycota_AssemblyStats	representative genome	GCA_025765615.1	PRJNA460969	SAMN09070748	2211651	strain=WB228	latest	Major	Full	2022-10-16	DOE Joint Genome Institute

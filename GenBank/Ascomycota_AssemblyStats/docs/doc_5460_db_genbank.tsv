@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5460_assembly_stats_genbank.txt	5460	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/867/225/GCA_030867225.1_Colca1/GCA_030867225.1_Colca1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_030867225.1	PRJNA262368	SAMN05660677	5460	strain=CBS 131602	latest	Major	Full	2023-08-22	DOE Joint Genome Institute

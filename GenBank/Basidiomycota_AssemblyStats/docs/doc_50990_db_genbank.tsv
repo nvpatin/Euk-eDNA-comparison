@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/50990_assembly_stats_genbank.txt	50990	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/355/085/GCA_004355085.1_Ricmel1/GCA_004355085.1_Ricmel1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_004355085.1	PRJNA334780	SAMN05445462	50990	strain=SZMC22713	latest	Major	Full	2019-03-19	DOE Joint Genome Institute

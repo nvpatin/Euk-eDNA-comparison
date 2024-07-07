@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/40686_assembly_stats_genbank.txt	40686	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/228/465/GCA_029228465.1_ASM2922846v1/GCA_029228465.1_ASM2922846v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_029228465.1	PRJNA892601	SAMN31390105	40686	cultivar=JORR	latest	Major	Full	2023-03-20	Cornell University

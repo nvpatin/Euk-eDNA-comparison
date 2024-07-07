@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/182062_assembly_stats_genbank.txt	182062	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/368/315/GCA_013368315.1_LU_TEN_1.0/GCA_013368315.1_LU_TEN_1.0_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_013368315.1	PRJNA496464	SAMN10245919	182062	strain=CBS 291.85	latest	Major	Full	2020-06-23	Lund University

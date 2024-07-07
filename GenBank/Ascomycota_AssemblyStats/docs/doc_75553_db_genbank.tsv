@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/75553_assembly_stats_genbank.txt	75553	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/368/095/GCA_004368095.1_ASM436809v1/GCA_004368095.1_ASM436809v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_004368095.1	PRJNA513223	SAMN10698884	75553	strain=FRR 0576	latest	Major	Full	2019-03-25	University of Melbourne

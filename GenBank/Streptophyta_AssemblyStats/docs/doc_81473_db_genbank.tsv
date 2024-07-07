@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/81473_assembly_stats_genbank.txt	81473	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/641/055/GCA_028641055.1_Alomy_genome_v1/GCA_028641055.1_Alomy_genome_v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_028641055.1	PRJNA889547	SAMN31247821	81473	ecotype=Rothamsted	latest	Major	Full	2023-02-22	Clemson University

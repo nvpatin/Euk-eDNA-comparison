@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/114083_assembly_stats_genbank.txt	114083	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/167/965/GCA_026167965.1_bCyaSte1.0.p/GCA_026167965.1_bCyaSte1.0.p_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_026167965.1	PRJNA875161	SAMN30523672	114083	ecotype=frontalis	latest	Major	Full	2022-11-14	UCLA

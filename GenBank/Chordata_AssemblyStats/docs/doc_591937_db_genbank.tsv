@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/591937_assembly_stats_genbank.txt	591937	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/574/805/GCA_963574805.1_PGDP_PilKir/GCA_963574805.1_PGDP_PilKir_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_963574805.1	PRJEB67744	SAMEA112482839	591937	na	latest	Major	Full	2023-11-03	IBE(CSIC-UNIVERSITAT POMPEU FABRA)

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Apicomplexa_AssemblyStats/5866_assembly_stats_genbank.txt	5866	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/723/445/GCA_000723445.1_BBBOND_0001/GCA_000723445.1_BBBOND_0001_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	na	GCA_000723445.1	PRJEB5046	SAMEA3139030	5866	strain=BOND	latest	Major	Full	2014-06-26	SC
