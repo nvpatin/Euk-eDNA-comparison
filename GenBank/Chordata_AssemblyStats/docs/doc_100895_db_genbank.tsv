@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/100895_assembly_stats_genbank.txt	100895	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/537/755/GCA_028537755.1_mMicCal1.0.hap2/GCA_028537755.1_mMicCal1.0.hap2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_028537755.1	PRJNA904289	SAMN31837211	100895	ecotype=kernensis	latest	Major	Full	2023-02-07	UCLA

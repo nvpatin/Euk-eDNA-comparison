@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/182084_assembly_stats_genbank.txt	182084	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/536/105/GCA_020536105.1_JGL_1.0/GCA_020536105.1_JGL_1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_020536105.1	PRJNA720501	SAMN20146133	182084	na	latest	Major	Full	2021-10-20	Guangxi University of Chinese Medicine

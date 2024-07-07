@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/71354_assembly_stats_genbank.txt	71354	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/261/945/GCA_026261945.1_ASM2626194v1/GCA_026261945.1_ASM2626194v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_026261945.1	PRJNA612790	SAMN14381463	71354	na	latest	Major	Full	2022-11-23	Wageningen University & Research

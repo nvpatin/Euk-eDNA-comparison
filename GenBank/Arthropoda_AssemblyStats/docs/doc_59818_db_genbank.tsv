@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/59818_assembly_stats_genbank.txt	59818	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/066/115/GCA_012066115.1_UMMZ_TP_P3.0F6/GCA_012066115.1_UMMZ_TP_P3.0F6_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_012066115.1	PRJNA598686	SAMN13712654	59818	na	latest	Major	Full	2020-04-09	University of Michigan

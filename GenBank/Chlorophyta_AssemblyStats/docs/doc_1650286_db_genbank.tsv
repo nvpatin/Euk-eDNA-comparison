@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chlorophyta_AssemblyStats/1650286_assembly_stats_genbank.txt	1650286	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/202/925/GCA_019202925.1_LANL_v2/GCA_019202925.1_LANL_v2_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	na	GCA_019202925.1	PRJNA704951	SAMN18751698	1650286	strain=UTEX 2437	latest	Major	Full	2021-07-13	Los Alamos National Laboratory

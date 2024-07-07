@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/161455_assembly_stats_genbank.txt	161455	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/901/007/785/GCA_901007785.1_Entelurus_aequoreus_assembly/GCA_901007785.1_Entelurus_aequoreus_assembly_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_901007785.1	PRJEB32126	SAMEA5563352	161455	na	latest	Major	Full	2020-04-15	CEES

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1580850_assembly_stats_genbank.txt	1580850	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/856/765/GCA_001856765.1_ASM185676v1/GCA_001856765.1_ASM185676v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001856765.1	PRJNA320455	SAMN04939521	1580850	na	latest	Major	Full	2016-10-16	Forestry and Agricultural Biotechnology Institute

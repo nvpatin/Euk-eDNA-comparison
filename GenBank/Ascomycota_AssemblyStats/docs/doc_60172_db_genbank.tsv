@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/60172_assembly_stats_genbank.txt	60172	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/952/775/GCA_000952775.2_ASM95277v2/GCA_000952775.2_ASM95277v2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_000952775.2	PRJNA225689	SAMN03255773	60172	strain=RS1	latest	Major	Full	2016-05-01	JCVI

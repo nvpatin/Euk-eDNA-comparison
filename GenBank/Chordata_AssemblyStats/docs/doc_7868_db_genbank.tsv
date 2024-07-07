@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/7868_assembly_stats_genbank.txt	7868	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/165/045/GCA_000165045.2_Callorhinchus_milii-6.1.3/GCA_000165045.2_Callorhinchus_milii-6.1.3_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000165045.2	PRJNA18361	SAMN00000800	7868	na	latest	Major	Full	2013-12-11	Institute of Molecular and Cell Biology, Singapore

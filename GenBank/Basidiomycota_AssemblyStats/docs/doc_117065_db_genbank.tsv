@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/117065_assembly_stats_genbank.txt	117065	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/905/825/GCA_014905825.1_Lyoat1/GCA_014905825.1_Lyoat1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_014905825.1	PRJNA556458	SAMN15434292	117065	strain=CBS 144462	latest	Major	Full	2020-10-22	DOE Joint Genome Institute

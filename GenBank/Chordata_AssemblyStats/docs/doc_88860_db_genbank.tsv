@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/88860_assembly_stats_genbank.txt	88860	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/410/635/GCA_022410635.1_HLtreOri1/GCA_022410635.1_HLtreOri1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_022410635.1	PRJNA790040	SAMN24193125	88860	na	latest	Major	Full	2022-02-28	Center for Systems Biology Dresden

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1125792_assembly_stats_genbank.txt	1125792	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/372/555/GCA_013372555.1_ASM1337255v1/GCA_013372555.1_ASM1337255v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_013372555.1	PRJNA612942	SAMN14389035	1125792	strain=LNFT-H01	latest	Major	Full	2020-06-24	Shenyang Agricultural University

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/460523_assembly_stats_genbank.txt	460523	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/161/175/GCA_017161175.1_ASM1716117v1/GCA_017161175.1_ASM1716117v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_017161175.1	PRJNA655503	SAMN15738545	460523	strain=CBS 4732	latest	Major	Full	2021-03-03	Worcester Polytechnic Institute

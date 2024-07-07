@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/273620_assembly_stats_genbank.txt	273620	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/875/055/GCA_029875055.1_ASM2987505v1/GCA_029875055.1_ASM2987505v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_029875055.1	PRJNA902967	SAMN31781924	273620	strain=FRISK0478	latest	Major	Full	2023-04-26	Faculty of Sciences from the University of Lisbon

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/7176_assembly_stats_genbank.txt	7176	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/209/185/GCA_000209185.1_CulPip1.0/GCA_000209185.1_CulPip1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000209185.1	PRJNA18751	SAMN02953674	7176	strain=JHB	latest	Major	Full	2007-04-23	Broad Institute

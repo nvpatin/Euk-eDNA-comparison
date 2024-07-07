@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/4956_assembly_stats_genbank.txt	4956	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/026/365/GCA_000026365.1_ASM2636v1/GCA_000026365.1_ASM2636v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_000026365.1	PRJNA12502	SAMEA3138235	4956	strain=CBS 732	latest	Major	Full	2009-06-05	Genolevures Consortium

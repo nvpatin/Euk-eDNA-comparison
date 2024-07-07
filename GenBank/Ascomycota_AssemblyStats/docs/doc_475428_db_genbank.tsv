@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/475428_assembly_stats_genbank.txt	475428	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/956/345/GCA_001956345.1_RamPxa01_v1/GCA_001956345.1_RamPxa01_v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001956345.1	PRJNA358650	SAMN06176960	475428	strain=YAF0012	latest	Major	Full	2017-01-18	Yunnan Academy of Forestry

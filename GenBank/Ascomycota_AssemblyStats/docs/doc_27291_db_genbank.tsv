@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/27291_assembly_stats_genbank.txt	27291	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/079/085/GCA_002079085.1_ASM207908v1/GCA_002079085.1_ASM207908v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002079085.1	PRJEB7245	SAMEA2757766	27291	strain=N44	latest	Major	Full	2017-03-21	SC

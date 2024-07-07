@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/419612_assembly_stats_genbank.txt	419612	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/311/805/GCA_000311805.2_CB1/GCA_000311805.2_CB1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000311805.2	PRJNA76177	SAMN01910617	419612	na	latest	Major	Full	2013-07-30	The Bactrian Camels Genome Sequencing and Analysis Consortium

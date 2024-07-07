@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/51655_assembly_stats_genbank.txt	51655	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/325/945/GCA_000325945.1_ASM32594v1/GCA_000325945.1_ASM32594v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000325945.1	PRJDB194	SAMD00004058	51655	strain=PXS	latest	Major	Full	2012-12-04	National Institute of Agrobiological Sciences

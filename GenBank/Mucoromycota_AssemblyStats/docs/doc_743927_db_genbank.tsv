@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/743927_assembly_stats_genbank.txt	743927	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/091/675/GCA_023091675.1_ASM2309167v1/GCA_023091675.1_ASM2309167v1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_023091675.1	PRJNA817100	SAMN27177162	743927	strain=CBS 889.72	latest	Major	Full	2022-04-22	Friedrich-Schiller-University

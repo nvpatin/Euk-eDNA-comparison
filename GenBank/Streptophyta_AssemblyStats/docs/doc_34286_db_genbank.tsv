@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/34286_assembly_stats_genbank.txt	34286	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/677/235/GCA_013677235.1_ASM1367723v1/GCA_013677235.1_ASM1367723v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_013677235.1	PRJNA488266	SAMN10346756	34286	na	latest	Major	Full	2020-09-03	Mississippi State University

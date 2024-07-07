@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/228871_assembly_stats_genbank.txt	228871	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/411/095/GCA_000411095.1_VEGI_AA_v_1.0/GCA_000411095.1_VEGI_AA_v_1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_000411095.1	PRJNA202984	SAMN02169162	228871	na	latest	Major	Full	2013-06-14	McGill University

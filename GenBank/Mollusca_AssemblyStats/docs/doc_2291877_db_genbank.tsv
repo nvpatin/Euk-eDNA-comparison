@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/AssemblyStats/2291877_assembly_stats_genbank.txt	2291877	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/843/695/GCA_014843695.1_ASM1484369v1/GCA_014843695.1_ASM1484369v1_assembly_stats.txt	genbank	GenBank/AssemblyStats	representative genome	GCA_014843695.1	PRJNA629898	SAMN14814676	2291877	na	latest	Major	Full	2020-10-07	Hong Kong Baptist University

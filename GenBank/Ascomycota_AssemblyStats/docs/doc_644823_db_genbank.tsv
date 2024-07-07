@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/644823_assembly_stats_genbank.txt	644823	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/566/815/GCA_030566815.1_ASM3056681v1/GCA_030566815.1_ASM3056681v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_030566815.1	PRJNA736342	SAMN20341171	644823	strain=CBS 10928	latest	Major	Full	2023-07-31	UW-Madison

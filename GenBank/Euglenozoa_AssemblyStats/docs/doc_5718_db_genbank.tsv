@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Euglenozoa_AssemblyStats/5718_assembly_stats_genbank.txt	5718	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/482/205/GCA_000482205.1_Hmus_1.0/GCA_000482205.1_Hmus_1.0_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	representative genome	GCA_000482205.1	PRJNA203519	SAMN02953863	5718	strain=TCC001E	latest	Major	Full	2013-10-25	Virginia Commonwealth University

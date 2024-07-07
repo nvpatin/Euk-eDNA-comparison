@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5599_assembly_stats_genbank.txt	5599	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/751/505/GCA_014751505.1_ASM1475150v1/GCA_014751505.1_ASM1475150v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_014751505.1	PRJNA661160	SAMN16223391	5599	strain=Z7	latest	Major	Full	2020-09-25	ZHEJIANG UNIVERSITY

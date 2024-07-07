@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2268990_assembly_stats_genbank.txt	2268990	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/649/515/GCA_019649515.1_ASM1964951v1/GCA_019649515.1_ASM1964951v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_019649515.1	PRJNA631240	SAMN14856565	2268990	strain=CBS 15034	latest	Major	Full	2021-08-17	University of Ljubljana

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Zoopagomycota_AssemblyStats/78915_assembly_stats_genbank.txt	78915	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/614/735/GCA_003614735.1_Thasp1/GCA_003614735.1_Thasp1_assembly_stats.txt	genbank	GenBank/Zoopagomycota_AssemblyStats	representative genome	GCA_003614735.1	PRJNA421763	SAMN09741940	78915	strain=RSA 1356	latest	Major	Full	2018-10-04	DOE Joint Genome Institute

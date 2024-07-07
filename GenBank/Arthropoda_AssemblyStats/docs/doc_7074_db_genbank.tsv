@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/7074_assembly_stats_genbank.txt	7074	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/388/445/GCA_022388445.1_Zophobas_atratus_KSU_v.1/GCA_022388445.1_Zophobas_atratus_KSU_v.1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_022388445.1	PRJNA764250	SAMN21490463	7074	na	latest	Major	Full	2022-02-24	Kansas State University

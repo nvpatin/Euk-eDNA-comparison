@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ciliophora_AssemblyStats/47894_assembly_stats_genbank.txt	47894	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/807/125/GCA_023807125.1_ASM2380712v1/GCA_023807125.1_ASM2380712v1_assembly_stats.txt	genbank	GenBank/Ciliophora_AssemblyStats	na	GCA_023807125.1	PRJNA777442	SAMN22862951	47894	na	latest	Major	Full	2022-06-20	Northwest Agriculture and Forestry University

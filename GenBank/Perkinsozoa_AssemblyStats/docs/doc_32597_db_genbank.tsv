@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Perkinsozoa_AssemblyStats/32597_assembly_stats_genbank.txt	32597	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/115/115/GCA_013115115.1_ASM1311511v1/GCA_013115115.1_ASM1311511v1_assembly_stats.txt	genbank	GenBank/Perkinsozoa_AssemblyStats	na	GCA_013115115.1	PRJNA554963	SAMN12288128	32597	na	latest	Major	Full	2020-05-18	NSW Department of Primary Industries

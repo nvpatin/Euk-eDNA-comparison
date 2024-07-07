@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/7938_assembly_stats_genbank.txt	7938	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/606/085/GCA_001606085.1_ASM160608v1/GCA_001606085.1_ASM160608v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_001606085.1	PRJNA285069	SAMN03737505	7938	na	latest	Major	Full	2016-04-04	Universite Laval

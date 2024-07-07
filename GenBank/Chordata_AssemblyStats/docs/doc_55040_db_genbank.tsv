@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/55040_assembly_stats_genbank.txt	55040	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/313/775/GCA_032313775.1_UCinereo1.0/GCA_032313775.1_UCinereo1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_032313775.1	PRJNA1005958	SAMN37004681	55040	ecotype=Vermont	latest	Major	Full	2023-10-04	Washington State University

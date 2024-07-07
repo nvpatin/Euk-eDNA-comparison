@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/253628_assembly_stats_genbank.txt	253628	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/836/295/GCA_000836295.1_O_gall_CBS43764/GCA_000836295.1_O_gall_CBS43764_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_000836295.1	PRJNA325802	SAMN03176948	253628	strain=CBS 43764	latest	Major	Full	2015-02-23	Broad Institute

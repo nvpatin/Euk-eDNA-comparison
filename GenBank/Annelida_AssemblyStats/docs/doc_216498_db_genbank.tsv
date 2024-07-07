@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Annelid_AssemblyStats/216498_assembly_stats_genbank.txt	216498	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/703/475/GCA_001703475.1_H_elegans_v1.0/GCA_001703475.1_H_elegans_v1.0_assembly_stats.txt	genbank	GenBank/Annelid_AssemblyStats	representative genome	GCA_001703475.1	PRJNA307290	SAMN04381889	216498	strain=CA01	latest	Major	Full	2016-08-11	Caltech

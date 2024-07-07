@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/7245_assembly_stats_genbank.txt	7245	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/005/975/GCA_000005975.1_dyak_caf1/GCA_000005975.1_dyak_caf1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000005975.1	PRJNA12366	SAMN02952910	7245	strain=Tai18E2	latest	Major	Full	2006-06-27	FlyBase

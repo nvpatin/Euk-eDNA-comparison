@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Oomycota_AssemblyStats/129355_assembly_stats_genbank.txt	129355	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/333/055/GCA_000333055.2_SMSTG_v2.0/GCA_000333055.2_SMSTG_v2.0_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	na	GCA_000333055.2	PRJNA184360	SAMN01840345	129355	strain=SMSTG	latest	Major	Full	2015-10-27	University of Exeter

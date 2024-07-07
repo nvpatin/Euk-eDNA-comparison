@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2259054_assembly_stats_genbank.txt	2259054	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/746/055/GCA_009746055.1_ASM974605v1/GCA_009746055.1_ASM974605v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_009746055.1	PRJNA549352	SAMN12084068	2259054	strain=FL01	latest	Major	Full	2019-12-12	Southwest University

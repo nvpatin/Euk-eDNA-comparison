@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1176388_assembly_stats_genbank.txt	1176388	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/911/254/575/GCA_911254575.1_Wolfe_Cansan/GCA_911254575.1_Wolfe_Cansan_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_911254575.1	PRJEB46370	SAMEA8974654	1176388	strain=UCD423	latest	Major	Full	2021-07-20	UNIVERSITY COLLEGE DUBLIN

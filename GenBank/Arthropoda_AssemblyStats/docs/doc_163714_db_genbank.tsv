@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/163714_assembly_stats_genbank.txt	163714	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/338/395/GCA_905338395.1_Cto_b1v02_max_arth_b2g_genome/GCA_905338395.1_Cto_b1v02_max_arth_b2g_genome_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_905338395.1	PRJEB38362	SAMEA7455089	163714	na	latest	Major	Full	2021-05-18	University of Lausanne

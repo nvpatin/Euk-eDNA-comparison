@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5076_assembly_stats_genbank.txt	5076	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/710/275/GCA_000710275.1_ASM71027v1/GCA_000710275.1_ASM71027v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_000710275.1	PRJNA246057	SAMN02742620	5076	strain=P2niaD18	latest	Major	Full	2014-06-23	Ruhr-Univeristaet Bochum

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/180498_assembly_stats_genbank.txt	180498	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/208/675/GCA_000208675.2_JAT_r4.5/GCA_000208675.2_JAT_r4.5_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000208675.2	PRJDA52543	SAMD00004075	180498	strain=Palawan	latest	Major	Full	2013-04-08	Kazusa DNA Research Institute

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3498_assembly_stats_genbank.txt	3498	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/066/045/GCA_012066045.3_ASM1206604v3/GCA_012066045.3_ASM1206604v3_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_012066045.3	PRJNA597121	SAMN13663887	3498	cultivar=Heyebai	latest	Minor	Full	2020-10-29	Northwest A&F University

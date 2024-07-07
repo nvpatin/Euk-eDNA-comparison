@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/4558_assembly_stats_genbank.txt	4558	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/546/955/GCA_033546955.1_ASM3354695v1/GCA_033546955.1_ASM3354695v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_033546955.1	PRJNA1034755	SAMN38071627	4558	cultivar=Hongyingzi	latest	Major	Full	2023-11-12	Zhejiang Academy of Agricultural Sciences

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3635_assembly_stats_genbank.txt	3635	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/987/745/GCA_000987745.1_ASM98774v1/GCA_000987745.1_ASM98774v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000987745.1	PRJNA259930	SAMN03342414	3635	cultivar=TM-1	latest	Major	Full	2015-05-05	BGI-shenzhen

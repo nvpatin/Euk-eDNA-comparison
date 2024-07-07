@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/48397_assembly_stats_genbank.txt	48397	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/232/035/GCA_019232035.1_ASM1923203v1/GCA_019232035.1_ASM1923203v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_019232035.1	PRJNA691976	SAMN17311309	48397	na	latest	Major	Full	2021-07-15	United States Geological Survey

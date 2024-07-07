@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/77044_assembly_stats_genbank.txt	77044	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/445/595/GCA_001445595.3_Rnecatrix_2.0/GCA_001445595.3_Rnecatrix_2.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001445595.3	PRJDB3312	SAMD00023353	77044	strain=W97	latest	Major	Full	2017-02-01	NARO Institute of Fruit Tree Science

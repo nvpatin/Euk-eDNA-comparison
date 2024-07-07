@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/227166_assembly_stats_genbank.txt	227166	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/120/125/GCA_905120125.1_ERS5330600/GCA_905120125.1_ERS5330600_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_905120125.1	PRJEB41343	SAMEA7573982	227166	na	latest	Major	Full	2022-11-15	Institute of Clinical Molecular Biology

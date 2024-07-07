@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/94993_assembly_stats_genbank.txt	94993	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/706/435/GCA_014706435.1_S_gla_Hod_UTU_1.0/GCA_014706435.1_S_gla_Hod_UTU_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_014706435.1	PRJNA605930	SAMN14055911	94993	strain=Hod-8	latest	Major	Full	2020-10-02	University of Turku

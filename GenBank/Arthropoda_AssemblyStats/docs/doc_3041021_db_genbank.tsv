@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/3041021_assembly_stats_genbank.txt	3041021	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/883/995/GCA_032883995.1_ASM3288399v1/GCA_032883995.1_ASM3288399v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_032883995.1	PRJNA867129	SAMN30184829	3041021	na	latest	Major	Full	2023-10-20	Anhui Normal University

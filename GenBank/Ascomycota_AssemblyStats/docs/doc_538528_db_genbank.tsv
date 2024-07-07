@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/538528_assembly_stats_genbank.txt	538528	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/853/505/GCA_018853505.1_ASM1885350v1/GCA_018853505.1_ASM1885350v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_018853505.1	PRJNA686827	SAMN17126018	538528	strain=LS-19	latest	Major	Full	2021-06-11	ZHEJIANG UNIVERSITY

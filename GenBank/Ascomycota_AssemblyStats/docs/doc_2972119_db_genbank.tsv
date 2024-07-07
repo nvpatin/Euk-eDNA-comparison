@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2972119_assembly_stats_genbank.txt	2972119	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/974/045/GCA_028974045.1_ASM2897404v1/GCA_028974045.1_ASM2897404v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_028974045.1	PRJNA867151	SAMN30185316	2972119	strain=IBT 20477	latest	Major	Full	2023-02-23	Aalborg University

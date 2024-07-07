@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/271316_assembly_stats_genbank.txt	271316	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/582/795/GCA_030582795.1_ASM3058279v1/GCA_030582795.1_ASM3058279v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_030582795.1	PRJNA736342	SAMN20341781	271316	strain=NRRL Y-27749	latest	Major	Full	2023-07-31	UW-Madison

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/1311530_assembly_stats_genbank.txt	1311530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/700/685/GCA_916700685.1_A_latens_148487/GCA_916700685.1_A_latens_148487_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_916700685.1	PRJEB42258	SAMEA7962314	1311530	na	latest	Major	Full	2021-10-09	UNIVERSITY OF CALIFORNIA AT BERKELEY

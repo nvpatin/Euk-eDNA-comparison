@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/91518_assembly_stats_genbank.txt	91518	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/036/555/GCA_022036555.1_ASM2203655v1/GCA_022036555.1_ASM2203655v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_022036555.1	PRJNA769079	SAMN22091215	91518	na	latest	Major	Full	2022-02-10	Consortium for Plant Invasion Genomics (CPING)

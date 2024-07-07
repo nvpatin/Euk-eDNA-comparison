@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/50956_assembly_stats_genbank.txt	50956	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/748/015/GCA_016748015.1_ASM1674801v1/GCA_016748015.1_ASM1674801v1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_016748015.1	PRJNA610605	SAMN14307302	50956	strain=uo1	latest	Major	Full	2021-01-25	University of Ottawa

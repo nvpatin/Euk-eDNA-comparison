@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/54899_assembly_stats_genbank.txt	54899	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/800/745/GCA_000800745.1_ASM80074v1/GCA_000800745.1_ASM80074v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_000800745.1	PRJNA174445	SAMN03254397	54899	strain=TWH P74	latest	Major	Full	2014-12-11	Purdue University

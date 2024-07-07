@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5082_assembly_stats_genbank.txt	5082	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/518/555/GCA_030518555.1_ASM3051855v1/GCA_030518555.1_ASM3051855v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_030518555.1	PRJNA933571	SAMN36293086	5082	strain=LCP06133	latest	Major	Full	2023-07-23	Paris-Saclay University

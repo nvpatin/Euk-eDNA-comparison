@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/81985_assembly_stats_genbank.txt	81985	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/375/325/GCA_000375325.1_Caprub1_0/GCA_000375325.1_Caprub1_0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_000375325.1	PRJNA13878	SAMN02981483	81985	cultivar=Monte Gargano	latest	Major	Full	2013-04-23	DOE Joint Genome Institute

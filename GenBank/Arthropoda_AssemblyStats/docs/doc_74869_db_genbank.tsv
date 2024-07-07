@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/74869_assembly_stats_genbank.txt	74869	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/473/185/GCA_000473185.1_Anop_macu_maculatus3_V1/GCA_000473185.1_Anop_macu_maculatus3_V1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000473185.1	PRJNA67221	SAMN01087922	74869	strain=maculatus3	latest	Major	Full	2013-09-30	Broad Institute

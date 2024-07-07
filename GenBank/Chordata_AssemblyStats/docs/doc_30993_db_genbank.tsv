@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/30993_assembly_stats_genbank.txt	30993	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/758/105/GCA_022758105.1_PGIGA_1.1/GCA_022758105.1_PGIGA_1.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_022758105.1	PRJNA593917	SAMN13495955	30993	na	latest	Major	Full	2022-03-30	GenoFish

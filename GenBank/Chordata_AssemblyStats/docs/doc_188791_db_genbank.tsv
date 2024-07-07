@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/188791_assembly_stats_genbank.txt	188791	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/496/755/GCA_020496755.1_ASM2049675v1/GCA_020496755.1_ASM2049675v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_020496755.1	PRJNA730430	SAMN19231567	188791	na	latest	Major	Full	2021-10-14	Chinese Academy of Sciences

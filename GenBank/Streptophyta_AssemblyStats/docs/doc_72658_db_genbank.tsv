@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/72658_assembly_stats_genbank.txt	72658	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/361/405/GCA_018361405.1_NTU_Bstr_LTM_2.2/GCA_018361405.1_NTU_Bstr_LTM_2.2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_018361405.1	PRJNA609209	SAMN14238613	72658	ecotype=LTM_MT	latest	Major	Full	2021-05-24	National Taiwan University

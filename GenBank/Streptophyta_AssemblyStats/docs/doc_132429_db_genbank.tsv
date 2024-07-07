@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/132429_assembly_stats_genbank.txt	132429	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/843/725/GCA_014843725.1_ASM1484372v1/GCA_014843725.1_ASM1484372v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_014843725.1	PRJNA644665	SAMN15470660	132429	ecotype=Qianfo Mountain	latest	Major	Full	2020-10-07	BGI

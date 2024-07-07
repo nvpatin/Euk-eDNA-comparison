@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Evosea_AssemblyStats/108607_assembly_stats_genbank.txt	108607	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/765/095/GCA_000765095.1_BN839/GCA_000765095.1_BN839_assembly_stats.txt	genbank	GenBank/Evosea_AssemblyStats	na	GCA_000765095.1	PRJEB1507	SAMEA3146266	108607	strain=ATCC 30984	latest	Major	Full	2013-10-09	IMG

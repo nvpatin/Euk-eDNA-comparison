@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ciliophora_AssemblyStats/65128_assembly_stats_genbank.txt	65128	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/733/375/GCA_000733375.1_ASM73337v1/GCA_000733375.1_ASM73337v1_assembly_stats.txt	genbank	GenBank/Ciliophora_AssemblyStats	representative genome	GCA_000733375.1	PRJNA252373	SAMN02849568	65128	strain=CA1	latest	Major	Full	2014-07-25	Indiana University

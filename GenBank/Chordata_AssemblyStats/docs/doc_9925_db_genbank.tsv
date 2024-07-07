@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9925_assembly_stats_genbank.txt	9925	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/765/GCA_000317765.2_CHIR_2.0/GCA_000317765.2_CHIR_2.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000317765.2	PRJNA158393	SAMN02953816	9925	breed=Yunnan black goat	latest	Major	Full	2015-09-16	Beijing Genomics Institute

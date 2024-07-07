@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/2162900_assembly_stats_genbank.txt	2162900	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/455/595/GCA_007455595.1_ASM745559v1/GCA_007455595.1_ASM745559v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_007455595.1	PRJNA551187	SAMN12142104	2162900	na	latest	Major	Full	2019-07-25	Groningen Institute for Evolutionary Life Sciences

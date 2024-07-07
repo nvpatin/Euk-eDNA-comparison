@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/39291_assembly_stats_genbank.txt	39291	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/961/905/GCA_000961905.2_AthRolfv2.0/GCA_000961905.2_AthRolfv2.0_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_000961905.2	PRJNA259929	SAMN03388249	39291	strain=MR10	latest	Major	Full	2017-07-24	Kothari Vishal

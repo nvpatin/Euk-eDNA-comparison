@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/93600_assembly_stats_genbank.txt	93600	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/389/145/GCA_025389145.1_NIFS_Mimiz_1.0/GCA_025389145.1_NIFS_Mimiz_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_025389145.1	PRJNA751427	SAMN20518172	93600	na	latest	Major	Full	2022-09-25	National Institute of Fisheries Science

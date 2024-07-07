@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/27706_assembly_stats_genbank.txt	27706	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/851/395/GCA_014851395.1_ASM1485139v1/GCA_014851395.1_ASM1485139v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_014851395.1	PRJNA640112	SAMN15299117	27706	ecotype=aquatic	latest	Major	Full	2020-10-05	Biozeron Shenzhen Inc.

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3316_assembly_stats_genbank.txt	3316	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/584/345/GCA_018584345.1_redcedar-v3/GCA_018584345.1_redcedar-v3_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_018584345.1	PRJNA684624	SAMN17064540	3316	na	latest	Major	Full	2021-05-27	University of British Columbia

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/109372_assembly_stats_genbank.txt	109372	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/578/945/GCA_022578945.1_Hypfus1/GCA_022578945.1_Hypfus1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022578945.1	PRJNA567220	SAMN12794058	109372	strain=CBS 119018	latest	Major	Full	2022-03-03	DOE Joint Genome Institute

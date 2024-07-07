@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2064830_assembly_stats_genbank.txt	2064830	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/606/435/GCA_022606435.1_ASM2260643v1/GCA_022606435.1_ASM2260643v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022606435.1	PRJNA768650	SAMN22059309	2064830	na	latest	Major	Full	2022-03-17	Henan University of Science & Technology

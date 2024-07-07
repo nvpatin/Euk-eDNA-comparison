@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Platyhelminthes_AssemblyStats/27848_assembly_stats_genbank.txt	27848	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/618/425/GCA_900618425.1_E_caproni_Egypt_0011_upd/GCA_900618425.1_E_caproni_Egypt_0011_upd_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	representative genome	GCA_900618425.1	PRJEB1207	SAMEA1034762	27848	strain=Egypt	latest	Major	Full	2018-12-13	WTSI

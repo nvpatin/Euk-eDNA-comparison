@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2268991_assembly_stats_genbank.txt	2268991	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/232/045/GCA_019232045.1_Wolfe_Odeg_UCD465/GCA_019232045.1_Wolfe_Odeg_UCD465_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_019232045.1	PRJNA730000	SAMN19190415	2268991	strain=UCD465	latest	Major	Full	2021-07-15	University College Dublin

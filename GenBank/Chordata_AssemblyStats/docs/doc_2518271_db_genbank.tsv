@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/2518271_assembly_stats_genbank.txt	2518271	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/690/805/GCA_009690805.1_HemiWil1.0/GCA_009690805.1_HemiWil1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_009690805.1	PRJNA520783	SAMN10867508	2518271	na	latest	Major	Full	2019-11-22	Smithsonian Institution

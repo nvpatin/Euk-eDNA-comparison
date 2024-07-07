@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/51154_assembly_stats_genbank.txt	51154	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/024/745/GCA_004024745.2_CatWag_v2_BIUU_UCD/GCA_004024745.2_CatWag_v2_BIUU_UCD_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_004024745.2	PRJNA399378	SAMN07678067	51154	na	latest	Major	Full	2019-07-15	Broad Institute

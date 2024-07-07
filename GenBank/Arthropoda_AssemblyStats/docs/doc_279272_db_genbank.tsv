@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/279272_assembly_stats_genbank.txt	279272	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/372/475/GCA_013372475.1_ASM1337247v1/GCA_013372475.1_ASM1337247v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_013372475.1	PRJNA540779	SAMN11565490	279272	strain=KCDC13	latest	Major	Full	2020-06-24	Seoul National University

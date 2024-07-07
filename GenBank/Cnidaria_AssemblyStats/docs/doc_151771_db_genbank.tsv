@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Cnidaria_AssemblyStats/151771_assembly_stats_genbank.txt	151771	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/324/835/GCA_004324835.1_DenGig_1.0/GCA_004324835.1_DenGig_1.0_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	representative genome	GCA_004324835.1	PRJNA507923	SAMN10516674	151771	na	latest	Major	Full	2019-03-04	Ulsan National Institute of Science and Technology

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ciliophora_AssemblyStats/5936_assembly_stats_genbank.txt	5936	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/880/385/GCA_001880385.1_ASM188038v1/GCA_001880385.1_ASM188038v1_assembly_stats.txt	genbank	GenBank/Ciliophora_AssemblyStats	na	GCA_001880385.1	PRJNA329413	SAMN05412464	5936	strain=CT5	latest	Major	Full	2016-11-17	Brigham and Women's Hospital

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/65409_assembly_stats_genbank.txt	65409	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/771/605/GCA_005771605.1_ASM577160v1/GCA_005771605.1_ASM577160v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_005771605.1	PRJNA484052	SAMN09759447	65409	ecotype=Heibei	latest	Major	Full	2019-05-29	Shanghai Chen Shan Botanical Garden

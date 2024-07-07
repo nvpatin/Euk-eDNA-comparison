@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Platyhelminthes_AssemblyStats/282301_assembly_stats_genbank.txt	282301	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/188/465/GCA_001188465.1_ML2/GCA_001188465.1_ML2_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	na	GCA_001188465.1	PRJNA284736	SAMN03776880	282301	na	latest	Major	Full	2015-07-29	Cold Spring Harbor Laboratory

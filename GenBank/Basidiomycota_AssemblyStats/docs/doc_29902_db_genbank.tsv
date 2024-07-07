@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/29902_assembly_stats_genbank.txt	29902	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/815/965/GCA_000815965.1_ASM81596v1/GCA_000815965.1_ASM81596v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_000815965.1	PRJNA268263	SAMN03217647	29902	strain=Nwmf-AP1	latest	Major	Full	2015-01-07	State Key Laboratory of Bioreactor Engineering

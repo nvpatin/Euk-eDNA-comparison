@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/72036_assembly_stats_genbank.txt	72036	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/181/255/GCA_000181255.2_ASM18125v2/GCA_000181255.2_ASM18125v2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000181255.2	PRJNA40179	SAMN00016741	72036	strain=Pacific	latest	Major	Full	2011-12-13	GiLS

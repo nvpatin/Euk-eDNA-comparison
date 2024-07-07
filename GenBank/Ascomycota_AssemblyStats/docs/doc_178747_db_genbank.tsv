@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/178747_assembly_stats_genbank.txt	178747	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/017/285/GCA_003017285.1_ASM301728v1/GCA_003017285.1_ASM301728v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003017285.1	PRJNA361233	SAMN06227482	178747	strain=AP47	latest	Major	Full	2018-03-26	Unito

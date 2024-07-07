@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1442378_assembly_stats_genbank.txt	1442378	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/938/049/765/GCA_938049765.3_NO1_Genome_3/GCA_938049765.3_NO1_Genome_3_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_938049765.3	PRJEB51693	SAMEA13422756	1442378	na	latest	Major	Full	2023-03-30	CNAP

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/44586_assembly_stats_genbank.txt	44586	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/296/215/GCA_014296215.1_BGI_Pnoto_1/GCA_014296215.1_BGI_Pnoto_1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_014296215.1	PRJNA632433	SAMN14909115	44586	na	latest	Major	Full	2020-08-26	BGI

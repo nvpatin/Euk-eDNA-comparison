@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/13262_assembly_stats_genbank.txt	13262	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/264/975/GCA_003264975.1_ASM326497v1/GCA_003264975.1_ASM326497v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_003264975.1	PRJNA454279	SAMN09001159	13262	strain=LNK	latest	Major	Full	2018-06-25	USDA-ARS Center for Grain and Animal Health Research

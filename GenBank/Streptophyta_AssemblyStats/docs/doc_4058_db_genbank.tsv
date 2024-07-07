@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/4058_assembly_stats_genbank.txt	4058	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/292/525/GCA_001292525.1_BAC_T16H/GCA_001292525.1_BAC_T16H_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_001292525.1	PRJEB7256	SAMEA2766079	4058	na	latest	Major	Partial	2015-09-11	TSL

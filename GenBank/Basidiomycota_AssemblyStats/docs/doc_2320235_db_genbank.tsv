@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/2320235_assembly_stats_genbank.txt	2320235	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/439/255/GCA_033439255.1_ASM3343925v1/GCA_033439255.1_ASM3343925v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_033439255.1	PRJNA1018320	SAMN37432729	2320235	strain=NPCB A08	latest	Major	Full	2023-11-09	NWAFU

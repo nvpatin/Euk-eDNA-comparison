@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/203536_assembly_stats_genbank.txt	203536	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/212/605/GCA_023212605.1_ASM2321260v1/GCA_023212605.1_ASM2321260v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_023212605.1	PRJNA816553	SAMN26681045	203536	strain=CBS 10005	latest	Major	Full	2022-05-02	Hebei University

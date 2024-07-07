@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Oomycota_AssemblyStats/1196443_assembly_stats_genbank.txt	1196443	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/676/415/GCA_003676415.1_INRA_Pmur_1/GCA_003676415.1_INRA_Pmur_1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_003676415.1	PRJNA448661	SAMN08862468	1196443	na	latest	Major	Full	2018-10-23	INRA

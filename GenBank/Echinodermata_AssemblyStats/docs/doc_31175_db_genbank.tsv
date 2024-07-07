@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Echinodermata_AssemblyStats/31175_assembly_stats_genbank.txt	31175	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/980/235/GCA_033980235.1_CUHK_Dset_2.0/GCA_033980235.1_CUHK_Dset_2.0_assembly_stats.txt	genbank	GenBank/Echinodermata_AssemblyStats	representative genome	GCA_033980235.1	PRJNA973839	SAMN35152373	31175	na	latest	Major	Full	2023-12-01	The Chinese University of Hong Kong

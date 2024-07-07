@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/190870_assembly_stats_genbank.txt	190870	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/801/415/GCA_016801415.1_ASM1680141v1/GCA_016801415.1_ASM1680141v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_016801415.1	PRJNA644186	SAMN15450894	190870	na	latest	Major	Full	2021-02-04	Univeristy of Washington

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/765133_assembly_stats_genbank.txt	765133	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/925/095/GCA_019925095.2_A622/GCA_019925095.2_A622_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_019925095.2	PRJNA732117	SAMN19312593	765133	na	latest	Major	Full	2022-11-21	Southwest Forestry University

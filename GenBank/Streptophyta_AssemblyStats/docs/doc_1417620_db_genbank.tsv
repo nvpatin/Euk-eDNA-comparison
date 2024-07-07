@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/1417620_assembly_stats_genbank.txt	1417620	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/776/045/GCA_019776045.1_xB_Genome.1.0/GCA_019776045.1_xB_Genome.1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_019776045.1	PRJNA353741	SAMN06013847	1417620	cultivar=BB1	latest	Major	Full	2021-08-26	Seoul National University

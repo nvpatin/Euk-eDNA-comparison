@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Bigyra_AssemblyStats/42746_assembly_stats_genbank.txt	42746	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/245/135/GCA_002245135.1_ASM224513v1/GCA_002245135.1_ASM224513v1_assembly_stats.txt	genbank	GenBank/Bigyra_AssemblyStats	representative genome	GCA_002245135.1	PRJNA386230	SAMN06926116	42746	strain=LA	latest	Major	Full	2017-08-09	University of Liverpool

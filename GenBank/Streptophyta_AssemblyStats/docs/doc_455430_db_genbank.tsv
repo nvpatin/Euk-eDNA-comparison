@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/455430_assembly_stats_genbank.txt	455430	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/671/005/GCA_019671005.1_ASM1967100v1/GCA_019671005.1_ASM1967100v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_019671005.1	PRJNA717149	SAMN18499069	455430	na	latest	Major	Full	2021-08-19	Chengdu Botanical Garden

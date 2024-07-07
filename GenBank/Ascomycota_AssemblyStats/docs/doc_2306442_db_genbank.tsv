@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2306442_assembly_stats_genbank.txt	2306442	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/392/945/GCA_022392945.1_ASM2239294v1/GCA_022392945.1_ASM2239294v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022392945.1	PRJNA805285	SAMN25851867	2306442	na	latest	Major	Full	2022-02-25	Agriculture Victoria Research

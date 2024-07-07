@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Porifera_AssemblyStats/2020472_assembly_stats_genbank.txt	2020472	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/571/005/GCA_028571005.1_ASM2857100v1/GCA_028571005.1_ASM2857100v1_assembly_stats.txt	genbank	GenBank/Porifera_AssemblyStats	representative genome	GCA_028571005.1	PRJNA619367	SAMN14492333	2020472	na	latest	Major	Full	2023-02-09	Iridian Genomes

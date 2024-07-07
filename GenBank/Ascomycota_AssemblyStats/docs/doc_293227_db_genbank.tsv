@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/293227_assembly_stats_genbank.txt	293227	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/295/685/GCA_015295685.1_ASM1529568v1/GCA_015295685.1_ASM1529568v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_015295685.1	PRJNA656291	SAMN15776672	293227	na	latest	Major	Full	2020-11-09	University of Dayton Research Institute

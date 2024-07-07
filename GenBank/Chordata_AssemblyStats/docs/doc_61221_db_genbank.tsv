@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/61221_assembly_stats_genbank.txt	61221	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/798/865/GCA_004798865.1_ASM479886v1/GCA_004798865.1_ASM479886v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_004798865.1	PRJNA523222	SAMN10967258	61221	strain=SLA01	latest	Major	Full	2019-04-17	Gladstone Institutes

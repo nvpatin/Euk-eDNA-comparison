@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chytridiomycota_AssemblyStats/109871_assembly_stats_genbank.txt	109871	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/595/275/GCA_003595275.1_ASM359527v1/GCA_003595275.1_ASM359527v1_assembly_stats.txt	genbank	GenBank/Chytridiomycota_AssemblyStats	na	GCA_003595275.1	PRJNA483086	SAMN09725999	109871	strain=RTP6	latest	Major	Full	2018-09-25	University of Otago

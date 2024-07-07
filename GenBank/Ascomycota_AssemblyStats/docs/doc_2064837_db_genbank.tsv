@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2064837_assembly_stats_genbank.txt	2064837	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/406/995/GCA_013406995.1_ASM1340699v1/GCA_013406995.1_ASM1340699v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_013406995.1	PRJNA562676	SAMN12647418	2064837	strain=CMW 47645	latest	Major	Full	2020-07-13	FABI

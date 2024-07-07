@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/133975_assembly_stats_genbank.txt	133975	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/829/145/GCA_020829145.1_ASM2082914v1/GCA_020829145.1_ASM2082914v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_020829145.1	PRJNA661260	SAMN16049376	133975	na	latest	Major	Full	2021-11-10	University of Kansas

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Rhodophyta_AssemblyStats/2690220_assembly_stats_genbank.txt	2690220	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/995/675/GCA_013995675.1_ASM1399567v1/GCA_013995675.1_ASM1399567v1_assembly_stats.txt	genbank	GenBank/Rhodophyta_AssemblyStats	representative genome	GCA_013995675.1	PRJNA564651	SAMN12719222	2690220	strain=THAL066	latest	Major	Full	2020-07-31	National Sun Yat-sen Univeristy

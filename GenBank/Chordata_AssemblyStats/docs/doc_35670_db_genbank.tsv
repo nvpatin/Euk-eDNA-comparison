@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/35670_assembly_stats_genbank.txt	35670	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/733/165/GCA_009733165.1_Nana_v5/GCA_009733165.1_Nana_v5_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_009733165.1	PRJNA527614	SAMN11155092	35670	na	latest	Major	Full	2019-12-11	Genentech Inc.,

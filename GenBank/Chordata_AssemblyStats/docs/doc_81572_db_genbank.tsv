@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/81572_assembly_stats_genbank.txt	81572	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/828/535/GCA_009828535.3_HMol_V3/GCA_009828535.3_HMol_V3_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_009828535.3	PRJNA575281	SAMN12851060	81572	na	latest	Major	Full	2021-11-10	University of California, Santa Cruz

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chlorophyta_AssemblyStats/575411_assembly_stats_genbank.txt	575411	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/906/445/GCA_016906445.1_ASM1690644v1/GCA_016906445.1_ASM1690644v1_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	na	GCA_016906445.1	PRJNA626603	SAMN14645793	575411	strain=20-25310	latest	Major	Full	2021-02-18	University of Georgia

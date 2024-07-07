@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/71365_assembly_stats_genbank.txt	71365	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/406/495/GCA_900406495.1_ASM90040649v1/GCA_900406495.1_ASM90040649v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_900406495.1	PRJEB26555	SAMEA4640859	71365	na	latest	Major	Full	2019-06-14	MAX PLANCK INSTITUTE FOR PLANT BREEDING RESEARCH

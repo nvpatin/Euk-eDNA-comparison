@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/32247_assembly_stats_genbank.txt	32247	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/142/025/GCA_030142025.1_RiAB/GCA_030142025.1_RiAB_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_030142025.1	PRJNA886864	SAMN31143941	32247	cultivar=Autumn Bliss	latest	Major	Full	2023-06-05	NIAB

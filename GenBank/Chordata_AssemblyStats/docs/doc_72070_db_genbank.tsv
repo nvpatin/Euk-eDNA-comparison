@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/72070_assembly_stats_genbank.txt	72070	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/700/925/GCA_916700925.1_S-elongatus_SEB-146/GCA_916700925.1_S-elongatus_SEB-146_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_916700925.1	PRJEB42258	SAMEA7962337	72070	na	latest	Major	Full	2021-11-12	UNIVERSITY OF CALIFORNIA AT BERKELEY

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3702_assembly_stats_genbank.txt	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/001/735/GCA_000001735.2_TAIR10.1/GCA_000001735.2_TAIR10.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	reference genome	GCA_000001735.2	PRJNA10719	SAMN03081427	3702	ecotype=Columbia	latest	Minor	Full	2018-03-15	The Arabidopsis Information Resource (TAIR)

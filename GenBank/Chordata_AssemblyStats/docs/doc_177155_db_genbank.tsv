@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/177155_assembly_stats_genbank.txt	177155	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/901/699/165/GCA_901699165.2_bStrTur1.2_alternate_haplotype/GCA_901699165.2_bStrTur1.2_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_901699165.2	PRJEB32725	SAMEA994735	177155	na	latest	Major	Full	2021-04-15	Wellcome Sanger Institute

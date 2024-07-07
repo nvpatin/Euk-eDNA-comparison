@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/1758874_assembly_stats_genbank.txt	1758874	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/782/845/GCA_025782845.1_Bolcoc1/GCA_025782845.1_Bolcoc1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_025782845.1	PRJNA621324	SAMN14510569	1758874	strain=2016PMI039	latest	Major	Full	2022-10-20	DOE Joint Genome Institute

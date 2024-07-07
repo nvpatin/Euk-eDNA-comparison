@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Onychophora_AssemblyStats/187810_assembly_stats_genbank.txt	187810	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/035/591/015/GCA_035591015.1_ASM3559101v1/GCA_035591015.1_ASM3559101v1_assembly_stats.txt	genbank	GenBank/Onychophora_AssemblyStats	representative genome	GCA_035591015.1	PRJNA956109	SAMN34270138	187810	na	latest	Major	Full	2024-01-11	Iridian Genomes

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/1049336_assembly_stats_genbank.txt	1049336	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/507/165/GCA_000507165.2_Edan_2.0/GCA_000507165.2_Edan_2.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000507165.2	PRJNA171755	SAMN02264621	1049336	na	latest	Major	Full	2017-12-12	The i5k Initiative

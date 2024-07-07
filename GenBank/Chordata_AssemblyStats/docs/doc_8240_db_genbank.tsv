@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/8240_assembly_stats_genbank.txt	8240	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/910/596/085/GCA_910596085.1_fThuMac1.1_alternate_haplotype/GCA_910596085.1_fThuMac1.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_910596085.1	PRJEB46020	SAMEA8654747	8240	na	latest	Major	Full	2021-07-07	Wellcome Sanger Institute

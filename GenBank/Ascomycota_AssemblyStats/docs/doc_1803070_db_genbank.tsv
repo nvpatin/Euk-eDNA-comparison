@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1803070_assembly_stats_genbank.txt	1803070	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/539/335/GCA_022539335.1_Xylhel2/GCA_022539335.1_Xylhel2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022539335.1	PRJNA567302	SAMN12794059	1803070	strain=FL0509	latest	Major	Full	2022-03-10	DOE Joint Genome Institute

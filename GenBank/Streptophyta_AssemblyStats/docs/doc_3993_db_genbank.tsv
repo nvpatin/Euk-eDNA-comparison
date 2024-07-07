@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3993_assembly_stats_genbank.txt	3993	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/918/425/GCA_002918425.1_ASM291842v1/GCA_002918425.1_ASM291842v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_002918425.1	PRJNA411945	SAMN08132862	3993	cultivar=1984-ND001	latest	Major	Full	2018-02-06	USDA-ARS

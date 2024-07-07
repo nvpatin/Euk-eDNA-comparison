@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/1496684_assembly_stats_genbank.txt	1496684	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/801/295/GCA_016801295.1_DSBC_Mcra_1.0/GCA_016801295.1_DSBC_Mcra_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_016801295.1	PRJNA490788	SAMN10059124	1496684	na	latest	Major	Full	2021-02-02	DNA Stories Bioinformatics Center

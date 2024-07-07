@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/13894_assembly_stats_genbank.txt	13894	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/604/295/GCA_003604295.1_ASM360429v1/GCA_003604295.1_ASM360429v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_003604295.1	PRJNA413280	SAMN07738886	13894	cultivar=Chowghat Green Dwarf	latest	Major	Full	2018-10-01	CPCRI

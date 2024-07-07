@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/171651_assembly_stats_genbank.txt	171651	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/846/285/GCA_023846285.1_PhrVer/GCA_023846285.1_PhrVer_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_023846285.1	PRJNA738137	SAMN19774415	171651	ecotype=EJN	latest	Major	Full	2022-06-22	University of California Berkeley

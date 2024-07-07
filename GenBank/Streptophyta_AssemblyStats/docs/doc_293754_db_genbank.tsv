@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/293754_assembly_stats_genbank.txt	293754	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/374/045/GCA_023374045.1_SDNU_Libico_1.0/GCA_023374045.1_SDNU_Libico_1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_023374045.1	PRJNA753199	SAMN20691661	293754	na	latest	Major	Full	2022-05-16	Shandong Normal University

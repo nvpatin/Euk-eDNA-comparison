@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/981085_assembly_stats_genbank.txt	981085	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/414/095/GCA_000414095.2_ASM41409v2/GCA_000414095.2_ASM41409v2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_000414095.2	PRJNA202089	SAMN02141246	981085	na	latest	Major	Full	2013-08-07	BGI

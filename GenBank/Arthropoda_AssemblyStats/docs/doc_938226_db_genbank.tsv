@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/938226_assembly_stats_genbank.txt	938226	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/163/465/GCA_905163465.1_ilCraLigu1.1/GCA_905163465.1_ilCraLigu1.1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_905163465.1	PRJEB42029	SAMEA7519852	938226	na	latest	Major	Full	2021-01-27	SC

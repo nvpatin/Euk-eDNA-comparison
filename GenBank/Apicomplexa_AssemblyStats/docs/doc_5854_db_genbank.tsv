@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Apicomplexa_AssemblyStats/5854_assembly_stats_genbank.txt	5854	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/723/685/GCA_000723685.1_PREICH001/GCA_000723685.1_PREICH001_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	na	GCA_000723685.1	PRJEB4434	SAMEA3139042	5854	strain=CDC	latest	Major	Full	2014-05-29	WTSI

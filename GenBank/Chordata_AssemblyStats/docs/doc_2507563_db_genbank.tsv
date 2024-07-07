@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/2507563_assembly_stats_genbank.txt	2507563	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/368/075/GCA_004368075.1_ASM436807v1/GCA_004368075.1_ASM436807v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_004368075.1	PRJNA512626	SAMN10688927	2507563	na	latest	Major	Full	2019-03-25	University of Bergen

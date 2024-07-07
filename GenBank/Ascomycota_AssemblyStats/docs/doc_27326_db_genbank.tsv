@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/27326_assembly_stats_genbank.txt	27326	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/932/455/GCA_009932455.1_ASM993245v1/GCA_009932455.1_ASM993245v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_009932455.1	PRJNA389552	SAMN07202354	27326	strain=Bath1	latest	Major	Full	2020-01-27	University of Bath

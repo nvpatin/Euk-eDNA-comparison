@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/7173_assembly_stats_genbank.txt	7173	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/349/185/GCA_000349185.1_Anop_arab_DONG5_A_V1/GCA_000349185.1_Anop_arab_DONG5_A_V1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000349185.1	PRJNA191565	SAMN02953842	7173	strain=DONG5_A	latest	Major	Full	2013-04-02	Broad Institute

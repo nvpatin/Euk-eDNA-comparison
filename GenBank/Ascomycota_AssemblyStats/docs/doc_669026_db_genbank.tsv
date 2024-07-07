@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/669026_assembly_stats_genbank.txt	669026	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/096/155/GCA_019096155.1_ASM1909615v1/GCA_019096155.1_ASM1909615v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_019096155.1	PRJNA413482	SAMN07749915	669026	strain=FW57	latest	Major	Full	2021-07-02	Hamburg University

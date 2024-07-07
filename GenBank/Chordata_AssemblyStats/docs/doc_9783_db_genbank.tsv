@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9783_assembly_stats_genbank.txt	9783	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/332/765/GCA_014332765.1_ASM1433276v1/GCA_014332765.1_ASM1433276v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_014332765.1	PRJNA622303	SAMN14648705	9783	na	latest	Major	Full	2020-08-28	University of Utah

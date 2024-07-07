@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chlorophyta_AssemblyStats/2009235_assembly_stats_genbank.txt	2009235	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/316/045/GCA_011316045.1_ASM1131604v1/GCA_011316045.1_ASM1131604v1_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_011316045.1	PRJNA389600	SAMN13264383	2009235	strain=RCC4223	latest	Major	Full	2020-03-17	CNRS

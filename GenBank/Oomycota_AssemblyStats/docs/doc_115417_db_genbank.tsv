@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Oomycota_AssemblyStats/115417_assembly_stats_genbank.txt	115417	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/336/215/GCA_023336215.1_ASM2333621v1/GCA_023336215.1_ASM2333621v1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_023336215.1	PRJNA601986	SAMN13878577	115417	strain=CBS 156.64	latest	Major	Full	2022-05-11	Agriculture and Agri-Food Canada

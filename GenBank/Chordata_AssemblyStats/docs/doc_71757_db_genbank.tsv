@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/71757_assembly_stats_genbank.txt	71757	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/770/095/GCA_030770095.1_ASM3077009v1/GCA_030770095.1_ASM3077009v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_030770095.1	PRJNA922577	SAMN35560685	71757	ecotype=Verde River	latest	Major	Full	2023-08-17	University of Hawaii at Manoa

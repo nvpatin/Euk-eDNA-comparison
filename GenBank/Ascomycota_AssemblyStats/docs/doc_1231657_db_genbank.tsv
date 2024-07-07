@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1231657_assembly_stats_genbank.txt	1231657	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/105/025/GCA_002105025.1_Cloaq1/GCA_002105025.1_Cloaq1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_002105025.1	PRJNA330694	SAMN05421902	1231657	strain=CBS 115471	latest	Major	Full	2017-04-20	DOE Joint Genome Institute

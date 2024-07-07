@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/373115_assembly_stats_genbank.txt	373115	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/599/575/GCA_009599575.1_MSU_Bj_1.1/GCA_009599575.1_MSU_Bj_1.1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_009599575.1	PRJNA565027	SAMN12730768	373115	strain=11BO-GW45	latest	Major	Full	2019-11-05	Michigan State University

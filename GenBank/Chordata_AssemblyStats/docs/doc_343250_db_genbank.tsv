@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/343250_assembly_stats_genbank.txt	343250	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/449/315/GCA_024449315.1_ASM2444931v1/GCA_024449315.1_ASM2444931v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_024449315.1	PRJNA794313	SAMN24674818	343250	ecotype=Thailand	latest	Major	Full	2022-07-26	Kasetsart University

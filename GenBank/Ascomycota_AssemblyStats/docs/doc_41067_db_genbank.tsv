@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/41067_assembly_stats_genbank.txt	41067	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/847/045/GCA_002847045.1_Aspcand1/GCA_002847045.1_Aspcand1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_002847045.1	PRJNA334018	SAMN05446799	41067	strain=CBS 102.13	latest	Major	Full	2017-12-21	DOE Joint Genome Institute

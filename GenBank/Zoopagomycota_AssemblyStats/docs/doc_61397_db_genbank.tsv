@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Zoopagomycota_AssemblyStats/61397_assembly_stats_genbank.txt	61397	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/024/165/GCA_025024165.1_Kicala1/GCA_025024165.1_Kicala1_assembly_stats.txt	genbank	GenBank/Zoopagomycota_AssemblyStats	representative genome	GCA_025024165.1	PRJNA364354	SAMN06264465	61397	strain=RSA 675	latest	Major	Full	2022-09-07	DOE Joint Genome Institute

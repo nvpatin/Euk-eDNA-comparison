@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/211835_assembly_stats_genbank.txt	211835	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/091/685/GCA_020091685.1_ASM2009168v1/GCA_020091685.1_ASM2009168v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_020091685.1	PRJNA662638	SAMN16091799	211835	ecotype=South China Sea	latest	Major	Full	2021-09-23	Guangdong Ocean University

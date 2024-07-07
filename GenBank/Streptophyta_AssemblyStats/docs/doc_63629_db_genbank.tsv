@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/63629_assembly_stats_genbank.txt	63629	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/632/695/GCA_000632695.1_ASM63269v1/GCA_000632695.1_ASM63269v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000632695.1	PRJNA239524	SAMN02666870	63629	na	latest	Major	Partial	2014-04-17	Oryza Chr3 Short Arm Comparative Sequencing Project

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2587412_assembly_stats_genbank.txt	2587412	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/222/925/GCA_005222925.1_ASM522292v1/GCA_005222925.1_ASM522292v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_005222925.1	PRJNA473312	SAMN09270757	2587412	strain=S	latest	Major	Full	2019-05-07	Lomonosov Moscow State University

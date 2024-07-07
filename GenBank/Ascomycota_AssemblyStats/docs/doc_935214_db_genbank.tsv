@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/935214_assembly_stats_genbank.txt	935214	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/273/805/GCA_012273805.1_ASM1227380v1/GCA_012273805.1_ASM1227380v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_012273805.1	PRJNA599221	SAMN13741770	935214	strain=72-15.1	latest	Major	Full	2020-04-13	AgResearch

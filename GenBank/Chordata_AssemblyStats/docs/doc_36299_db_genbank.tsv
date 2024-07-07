@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/36299_assembly_stats_genbank.txt	36299	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/612/475/GCA_017612475.1_CCG_JAWE_1.0/GCA_017612475.1_CCG_JAWE_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_017612475.1	PRJNA625760	SAMN14609389	36299	na	latest	Major	Full	2021-03-29	Smithsonian Institution

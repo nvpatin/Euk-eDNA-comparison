@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/179855_assembly_stats_genbank.txt	179855	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/657/495/GCA_015657495.1_Crevar1/GCA_015657495.1_Crevar1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_015657495.1	PRJNA410303	SAMN07687481	179855	strain=CBS 506.95	latest	Major	Full	2020-11-15	DOE Joint Genome Institute

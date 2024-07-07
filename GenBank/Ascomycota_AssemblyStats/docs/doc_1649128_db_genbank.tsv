@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1649128_assembly_stats_genbank.txt	1649128	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/360/045/GCA_018360045.1_CSU_CCC1504_v1/GCA_018360045.1_CSU_CCC1504_v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_018360045.1	PRJNA528707	SAMN11159898	1649128	strain=CCC 1504	latest	Major	Full	2021-05-14	None

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Bryozoa_AssemblyStats/67896_assembly_stats_genbank.txt	67896	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/760/855/GCA_009760855.2_Cmucedo_v1.1/GCA_009760855.2_Cmucedo_v1.1_assembly_stats.txt	genbank	GenBank/Bryozoa_AssemblyStats	representative genome	GCA_009760855.2	PRJNA592440	SAMN13426717	67896	na	latest	Minor	Full	2020-10-23	Bioinformatics Institute

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1051616_assembly_stats_genbank.txt	1051616	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/551/875/GCA_019551875.1_ASM1955187v1/GCA_019551875.1_ASM1955187v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_019551875.1	PRJNA627666	SAMN14679391	1051616	strain=WCS 072	latest	Major	Full	2021-08-11	University of Amsterdam

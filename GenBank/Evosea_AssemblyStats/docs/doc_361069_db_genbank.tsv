@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Evosea_AssemblyStats/361069_assembly_stats_genbank.txt	361069	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/375/695/GCA_013375695.1_ASM1337569v1/GCA_013375695.1_ASM1337569v1_assembly_stats.txt	genbank	GenBank/Evosea_AssemblyStats	representative genome	GCA_013375695.1	PRJNA635606	SAMN15046137	361069	strain=TNS-C-115	latest	Major	Full	2020-06-29	University of Dundee

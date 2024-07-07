@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/353554_assembly_stats_genbank.txt	353554	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/159/025/GCA_023159025.1_CUHK_Ttub_v3/GCA_023159025.1_CUHK_Ttub_v3_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_023159025.1	PRJNA699399	SAMN17775480	353554	na	latest	Major	Full	2022-04-27	The Chinese University of Hong Kong

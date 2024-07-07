@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/44066_assembly_stats_genbank.txt	44066	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/233/575/GCA_002233575.1_ASM223357v1/GCA_002233575.1_ASM223357v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002233575.1	PRJNA287202	SAMN03777305	44066	strain=CICC 1368	latest	Major	Full	2017-07-25	Zhejiang University

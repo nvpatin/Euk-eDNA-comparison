@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/29655_assembly_stats_genbank.txt	29655	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/185/155/GCA_001185155.1_Zosma_marina.v.2.1/GCA_001185155.1_Zosma_marina.v.2.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_001185155.1	PRJNA41721	SAMN00991190	29655	strain=Finnish	latest	Major	Full	2015-07-22	JGI-PGF

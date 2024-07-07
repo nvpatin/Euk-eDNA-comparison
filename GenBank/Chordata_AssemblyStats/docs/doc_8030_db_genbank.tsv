@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/8030_assembly_stats_genbank.txt	8030	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/233/375/GCA_000233375.4_ICSASG_v2/GCA_000233375.4_ICSASG_v2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000233375.4	PRJNA72713	SAMN02749551	8030	breed=double haploid	latest	Major	Full	2015-06-10	International Cooperation to Sequence the Atlantic Salmon Genome

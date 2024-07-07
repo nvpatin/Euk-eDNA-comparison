@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/152965_assembly_stats_genbank.txt	152965	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/178/965/GCA_015178965.1_Rusoch1/GCA_015178965.1_Rusoch1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_015178965.1	PRJNA460404	SAMN09070658	152965	strain=Prilba	latest	Major	Full	2020-11-02	DOE Joint Genome Institute

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/121402_assembly_stats_genbank.txt	121402	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/788/955/GCA_019788955.1_BYU_Aglo_1.0/GCA_019788955.1_BYU_Aglo_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_019788955.1	PRJNA668352	SAMN17284271	121402	na	latest	Major	Full	2021-08-27	Brigham Young University

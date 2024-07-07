@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ciliophora_AssemblyStats/5963_assembly_stats_genbank.txt	5963	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/970/955/GCA_001970955.1_ASM197095v1/GCA_001970955.1_ASM197095v1_assembly_stats.txt	genbank	GenBank/Ciliophora_AssemblyStats	representative genome	GCA_001970955.1	PRJNA352242	SAMN05968724	5963	na	latest	Major	Full	2017-01-25	University of California, San Francisco

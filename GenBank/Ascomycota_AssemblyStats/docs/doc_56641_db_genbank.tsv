@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/56641_assembly_stats_genbank.txt	56641	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/600/195/GCA_012600195.1_ASM1260019v1/GCA_012600195.1_ASM1260019v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_012600195.1	PRJNA605236	SAMN14052555	56641	na	latest	Major	Full	2020-04-21	University of Minnesota

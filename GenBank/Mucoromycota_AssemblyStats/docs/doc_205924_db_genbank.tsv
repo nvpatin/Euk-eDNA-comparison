@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/205924_assembly_stats_genbank.txt	205924	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/891/255/GCA_020891255.1_Epvsp_1.0/GCA_020891255.1_Epvsp_1.0_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	na	GCA_020891255.1	PRJDB10536	SAMD00246355	205924	strain=E1425	latest	Major	Full	2021-11-08	Ibaraki University College of Agriculture

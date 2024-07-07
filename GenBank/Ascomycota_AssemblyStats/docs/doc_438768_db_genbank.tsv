@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/438768_assembly_stats_genbank.txt	438768	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/411/725/GCA_030411725.1_Echmac1/GCA_030411725.1_Echmac1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_030411725.1	PRJNA953080	SAMN34146171	438768	strain=PSN4	latest	Major	Full	2023-06-30	DOE Joint Genome Institute

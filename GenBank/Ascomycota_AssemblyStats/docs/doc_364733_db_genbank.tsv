@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/364733_assembly_stats_genbank.txt	364733	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/611/755/GCA_000611755.1_Endpu1.0/GCA_000611755.1_Endpu1.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_000611755.1	PRJNA239193	SAMN02650299	364733	strain=KoLRI No. LF000583	latest	Major	Full	2014-04-02	Seoul National University

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/203818_assembly_stats_genbank.txt	203818	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/959/005/GCA_029959005.1_iyBomSono1.0.hap2/GCA_029959005.1_iyBomSono1.0.hap2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_029959005.1	PRJNA948470	SAMN33567129	203818	na	latest	Major	Full	2023-05-09	UCLA

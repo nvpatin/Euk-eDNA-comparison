@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Euglenozoa_AssemblyStats/5657_assembly_stats_genbank.txt	5657	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/482/165/GCA_000482165.1_Sonc_1.0/GCA_000482165.1_Sonc_1.0_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	representative genome	GCA_000482165.1	PRJNA203518	SAMN02953864	5657	strain=TCC290E	latest	Major	Full	2013-10-25	Virginia Commonwealth University

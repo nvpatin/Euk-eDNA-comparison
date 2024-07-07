@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/65489_assembly_stats_genbank.txt	65489	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/182/155/GCA_000182155.4_ObarRS3/GCA_000182155.4_ObarRS3_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_000182155.4	PRJNA30379	SAMN02953732	65489	na	latest	Major	Full	2021-03-10	Oryza Chr3 Short Arm Comparative Sequencing Project

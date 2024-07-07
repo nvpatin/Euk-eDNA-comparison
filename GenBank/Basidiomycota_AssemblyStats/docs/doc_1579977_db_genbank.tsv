@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/1579977_assembly_stats_genbank.txt	1579977	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/287/115/GCA_002287115.1_ASM228711v1/GCA_002287115.1_ASM228711v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_002287115.1	PRJNA382748	SAMN06718193	1579977	strain=Dai 13782	latest	Major	Full	2017-09-06	Beijing Forestry University

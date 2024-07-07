@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/166050_assembly_stats_genbank.txt	166050	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/033/605/GCA_003033605.1_ASM303360v1/GCA_003033605.1_ASM303360v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003033605.1	PRJNA416500	SAMN07958225	166050	strain=CBS 8849	latest	Major	Full	2018-04-04	UCIBIO-REQUIMTE

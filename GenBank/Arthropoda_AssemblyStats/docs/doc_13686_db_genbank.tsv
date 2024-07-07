@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/13686_assembly_stats_genbank.txt	13686	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/188/075/GCA_000188075.2_Si_gnH/GCA_000188075.2_Si_gnH_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000188075.2	PRJNA49629	SAMN02953778	13686	na	latest	Major	Full	2018-08-01	Universite de Lausanne

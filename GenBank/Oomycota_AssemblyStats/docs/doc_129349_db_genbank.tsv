@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Oomycota_AssemblyStats/129349_assembly_stats_genbank.txt	129349	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/679/175/GCA_024679175.1_ASM2467917v1/GCA_024679175.1_ASM2467917v1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	representative genome	GCA_024679175.1	PRJNA746351	SAMN20204292	129349	strain=Pcaja_OSU-2014	latest	Major	Full	2022-08-15	Oregon State University

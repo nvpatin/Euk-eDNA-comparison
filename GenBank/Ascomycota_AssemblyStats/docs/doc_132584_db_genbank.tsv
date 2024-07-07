@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/132584_assembly_stats_genbank.txt	132584	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/411/675/GCA_030411675.1_ASM3041167v1/GCA_030411675.1_ASM3041167v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_030411675.1	PRJNA879330	SAMN30838410	132584	strain=MBC 099	latest	Major	Full	2023-07-05	USDA-ARS-NCAUR

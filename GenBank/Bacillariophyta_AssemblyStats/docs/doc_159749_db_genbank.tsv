@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Bacillariophyta_AssemblyStats/159749_assembly_stats_genbank.txt	159749	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/296/195/GCA_000296195.2_ThaOc_1.0/GCA_000296195.2_ThaOc_1.0_assembly_stats.txt	genbank	GenBank/Bacillariophyta_AssemblyStats	na	GCA_000296195.2	PRJNA36595	SAMN02981384	159749	strain=CCMP1005	latest	Major	Full	2012-07-25	DFG Cluster of Excellence 'Future Ocean'

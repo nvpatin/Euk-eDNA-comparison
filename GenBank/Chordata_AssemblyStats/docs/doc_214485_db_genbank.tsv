@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/214485_assembly_stats_genbank.txt	214485	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/910/805/GCA_001910805.2_ASM191080v2/GCA_001910805.2_ASM191080v2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_001910805.2	PRJNA229179	SAMN03964772	214485	na	latest	Major	Full	2016-12-20	USC

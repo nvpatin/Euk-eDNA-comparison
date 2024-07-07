@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/44322_assembly_stats_genbank.txt	44322	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/343/905/GCA_018343905.1_ASM1834390v1/GCA_018343905.1_ASM1834390v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_018343905.1	PRJNA647756	SAMN16512070	44322	strain=NRRL Y-17506	latest	Major	Full	2021-05-12	UW-Madison

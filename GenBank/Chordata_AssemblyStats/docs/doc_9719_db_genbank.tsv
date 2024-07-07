@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9719_assembly_stats_genbank.txt	9719	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/975/605/GCA_028975605.1_PSIB_hic/GCA_028975605.1_PSIB_hic_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_028975605.1	PRJNA905417	SAMN31872492	9719	strain=PUSI1m	latest	Major	Full	2023-03-08	Institute for Molecular and Cellular biology

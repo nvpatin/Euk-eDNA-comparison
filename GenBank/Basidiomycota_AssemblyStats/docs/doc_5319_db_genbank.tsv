@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/5319_assembly_stats_genbank.txt	5319	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/986/395/GCA_001986395.2_ASM198639v2/GCA_001986395.2_ASM198639v2_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_001986395.2	PRJNA354901	SAMN06054117	5319	strain=F17	latest	Major	Full	2017-07-10	Anhui university
