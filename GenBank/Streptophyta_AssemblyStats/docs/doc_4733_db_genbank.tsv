@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/4733_assembly_stats_genbank.txt	4733	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/914/945/GCA_019914945.1_TyphaL0001/GCA_019914945.1_TyphaL0001_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_019914945.1	PRJNA622838	SAMN14540032	4733	na	latest	Major	Full	2021-09-09	Salk Institute for Biological Studies

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Apicomplexa_AssemblyStats/36330_assembly_stats_genbank.txt	36330	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/090/025/GCA_900090025.2_PowCR01/GCA_900090025.2_PowCR01_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	na	GCA_900090025.2	PRJEB14392	SAMEA2394724	36330	strain=PowCR01	latest	Minor	Full	2016-11-22	WTSI

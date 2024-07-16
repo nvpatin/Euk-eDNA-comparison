@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Annelid_AssemblyStats/1348078_assembly_stats_genbank.txt	1348078	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/345/955/GCA_015345955.1_ASM1534595v1/GCA_015345955.1_ASM1534595v1_assembly_stats.txt	genbank	GenBank/Annelid_AssemblyStats	na	GCA_015345955.1	PRJNA475873	SAMN09404986	1348078	ecotype=Guangxi	latest	Major	Full	2020-11-10	Shaanxi Normal University

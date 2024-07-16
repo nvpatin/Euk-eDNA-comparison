@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/34254_assembly_stats_genbank.txt	34254	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/912/073/615/GCA_912073615.1_contig_le_genome/GCA_912073615.1_contig_le_genome_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_912073615.1	PRJEB46792	SAMEA9459654	34254	na	latest	Major	Full	2021-08-12	NANJING UNIVERISTY

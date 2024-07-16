@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/36643_assembly_stats_genbank.txt	36643	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/193/465/GCA_009193465.1_Aspave1/GCA_009193465.1_Aspave1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_009193465.1	PRJNA333897	SAMN05446841	36643	strain=IBT 18842	latest	Major	Full	2019-10-18	DOE Joint Genome Institute

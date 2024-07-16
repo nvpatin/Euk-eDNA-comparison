@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ciliophora_AssemblyStats/43137_assembly_stats_genbank.txt	43137	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/182/995/GCA_905182995.1_Paramecium_octaurelia_V1/GCA_905182995.1_Paramecium_octaurelia_V1_assembly_stats.txt	genbank	GenBank/Ciliophora_AssemblyStats	representative genome	GCA_905182995.1	PRJEB41874	SAMEA7767317	43137	na	latest	Major	Full	2021-06-18	Genoscope CEA

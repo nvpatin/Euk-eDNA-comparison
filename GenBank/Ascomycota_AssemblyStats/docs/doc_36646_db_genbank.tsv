@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/36646_assembly_stats_genbank.txt	36646	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/072/405/GCA_002072405.1_ASM207240v1/GCA_002072405.1_ASM207240v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002072405.1	PRJNA318735	SAMN05200875	36646	strain=IBT 31321	latest	Major	Full	2017-03-24	Chalmers University of Technology

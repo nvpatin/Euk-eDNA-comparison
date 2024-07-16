@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/27345_assembly_stats_genbank.txt	27345	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/896/445/GCA_007896445.1_ASM789644v1/GCA_007896445.1_ASM789644v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_007896445.1	PRJNA495764	SAMN10231348	27345	na	latest	Major	Full	2019-08-07	University of Sydney

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/416196_assembly_stats_genbank.txt	416196	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/618/585/GCA_029618585.1_ASM2961858v1/GCA_029618585.1_ASM2961858v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_029618585.1	PRJNA924094	SAMN32745830	416196	na	latest	Major	Full	2023-04-07	University of California Riverside

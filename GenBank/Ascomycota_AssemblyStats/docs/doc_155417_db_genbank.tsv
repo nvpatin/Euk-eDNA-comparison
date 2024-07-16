@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/155417_assembly_stats_genbank.txt	155417	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/154/915/GCA_004154915.1_ASM415491v1/GCA_004154915.1_ASM415491v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_004154915.1	PRJNA471727	SAMN09215314	155417	strain=CBS 110550	latest	Major	Full	2019-02-11	University of New Mexico

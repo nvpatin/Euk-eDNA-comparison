@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Euglenozoa_AssemblyStats/2761500_assembly_stats_genbank.txt	2761500	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/918/235/GCA_017918235.1_LU_Pher_1.0/GCA_017918235.1_LU_Pher_1.0_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	representative genome	GCA_017918235.1	PRJNA691541	SAMN17294121	2761500	strain=C119	latest	Major	Full	2021-04-15	Lancaster University

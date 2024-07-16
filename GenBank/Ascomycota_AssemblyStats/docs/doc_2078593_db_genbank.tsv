@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2078593_assembly_stats_genbank.txt	2078593	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/783/085/GCA_006783085.1_ASM678308v1/GCA_006783085.1_ASM678308v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_006783085.1	PRJNA431477	SAMN08389744	2078593	strain=PG-2018a	latest	Major	Full	2019-07-09	RIKEN

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/6958_assembly_stats_genbank.txt	6958	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/135/145/GCA_002135145.1_EurM1.0/GCA_002135145.1_EurM1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_002135145.1	PRJNA350546	SAMN05941925	6958	na	latest	Major	Full	2017-05-12	Wright State University

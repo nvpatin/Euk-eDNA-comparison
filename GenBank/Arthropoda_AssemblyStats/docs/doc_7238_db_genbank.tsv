@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/7238_assembly_stats_genbank.txt	7238	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/005/215/GCA_000005215.1_dsec_caf1/GCA_000005215.1_dsec_caf1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000005215.1	PRJNA12711	SAMN02953639	7238	strain=Rob3c	latest	Major	Full	2006-04-18	Broad Institute

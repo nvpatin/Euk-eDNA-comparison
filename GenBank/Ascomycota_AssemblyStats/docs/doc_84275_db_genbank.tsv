@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/84275_assembly_stats_genbank.txt	84275	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/356/855/GCA_005356855.1_ASM535685v1/GCA_005356855.1_ASM535685v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_005356855.1	PRJNA503907	SAMN10387379	84275	strain=A3	latest	Major	Full	2019-05-14	University of Arkansas

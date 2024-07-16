@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/4686_assembly_stats_genbank.txt	4686	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/876/935/GCA_001876935.1_Aspof.V1/GCA_001876935.1_Aspof.V1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_001876935.1	PRJNA317340	SAMN04606231	4686	na	latest	Major	Full	2017-02-06	University of Georgia

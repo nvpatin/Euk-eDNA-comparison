@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Apicomplexa_AssemblyStats/5855_assembly_stats_genbank.txt	5855	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/002/415/GCA_000002415.2_ASM241v2/GCA_000002415.2_ASM241v2_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	representative genome	GCA_000002415.2	PRJNA150	SAMN02953638	5855	strain=Salvador I	latest	Minor	Full	2009-05-06	TIGR

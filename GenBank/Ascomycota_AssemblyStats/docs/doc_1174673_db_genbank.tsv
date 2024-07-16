@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1174673_assembly_stats_genbank.txt	1174673	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/444/645/GCA_003444645.1_M04M24/GCA_003444645.1_M04M24_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003444645.1	PRJNA478366	SAMN09514283	1174673	strain=M04M24	latest	Major	Full	2018-09-04	Huazhong Agricultural University

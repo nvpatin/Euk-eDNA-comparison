@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/1501231_assembly_stats_genbank.txt	1501231	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/345/395/GCA_030345395.1_ASM3034539v1/GCA_030345395.1_ASM3034539v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_030345395.1	PRJNA930130	SAMN32984420	1501231	ecotype=xerophytic	latest	Major	Full	2023-06-27	Ningxia Forestry Institute

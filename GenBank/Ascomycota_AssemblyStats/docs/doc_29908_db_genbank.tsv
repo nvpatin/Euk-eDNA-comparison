@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/29908_assembly_stats_genbank.txt	29908	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/837/075/GCA_002837075.1_SsEM7_V1/GCA_002837075.1_SsEM7_V1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002837075.1	PRJNA401003	SAMN07585146	29908	strain=SsEM7	latest	Major	Full	2017-12-12	Universidad de Antioquia

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Euglenozoa_AssemblyStats/715481_assembly_stats_genbank.txt	715481	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/059/095/GCA_022059095.1_T.mel.1/GCA_022059095.1_T.mel.1_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	representative genome	GCA_022059095.1	PRJNA786535	SAMN23701209	715481	ecotype=St. Kilda	latest	Major	Full	2022-02-08	University of Edinburgh

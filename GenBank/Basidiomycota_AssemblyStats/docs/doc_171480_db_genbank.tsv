@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/171480_assembly_stats_genbank.txt	171480	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/039/465/GCA_015039465.1_Corgl3/GCA_015039465.1_Corgl3_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_015039465.1	PRJNA366621	SAMN06266946	171480	strain=AT 2004 276	latest	Major	Full	2020-10-27	DOE Joint Genome Institute

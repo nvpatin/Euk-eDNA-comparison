@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/76776_assembly_stats_genbank.txt	76776	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/264/965/GCA_001264965.1_ASM126496v1/GCA_001264965.1_ASM126496v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_001264965.1	PRJNA286710	SAMN03774877	76776	strain=CBS 7956	latest	Major	Full	2015-08-11	Genome Institute of Singapore

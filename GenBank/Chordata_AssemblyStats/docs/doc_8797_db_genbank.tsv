@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/8797_assembly_stats_genbank.txt	8797	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/343/005/GCA_003343005.1_rheAme1/GCA_003343005.1_rheAme1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_003343005.1	PRJNA433110	SAMN08476460	8797	na	latest	Major	Full	2018-07-26	Harvard University

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/80884_assembly_stats_genbank.txt	80884	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/313/795/GCA_000313795.2_ASM31379v2/GCA_000313795.2_ASM31379v2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_000313795.2	PRJNA47061	SAMEA3138427	80884	strain=IMI 349063	latest	Major	Full	2012-03-15	Max Planck Institute for Plant Breeding Research

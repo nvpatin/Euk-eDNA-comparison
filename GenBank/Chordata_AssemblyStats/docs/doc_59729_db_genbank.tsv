@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/59729_assembly_stats_genbank.txt	59729	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/151/805/GCA_000151805.2_Taeniopygia_guttata-3.2.4/GCA_000151805.2_Taeniopygia_guttata-3.2.4_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000151805.2	PRJNA17289	SAMN02981239	59729	na	latest	Major	Full	2013-02-08	Washington University Genome Sequencing Center

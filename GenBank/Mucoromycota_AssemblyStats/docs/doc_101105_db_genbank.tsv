@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/101105_assembly_stats_genbank.txt	101105	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/201/375/GCA_025201375.1_Gonbut1/GCA_025201375.1_Gonbut1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_025201375.1	PRJNA331668	SAMN05444557	101105	strain=CBS 227.36	latest	Major	Full	2022-09-14	DOE Joint Genome Institute

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5486_assembly_stats_genbank.txt	5486	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/327/735/GCA_003327735.1_ASM332773v1/GCA_003327735.1_ASM332773v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_003327735.1	PRJNA448027	SAMN08818848	5486	strain=ATCC 20962	latest	Major	Full	2018-07-18	KRIBB

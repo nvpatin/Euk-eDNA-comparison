@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Platyhelminthes_AssemblyStats/34504_assembly_stats_genbank.txt	34504	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/508/345/GCA_008508345.1_ASM850834v1/GCA_008508345.1_ASM850834v1_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	representative genome	GCA_008508345.1	PRJNA454344	SAMN09005564	34504	strain=IND2009	latest	Major	Full	2019-09-18	University of Queensland

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5544_assembly_stats_genbank.txt	5544	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/988/865/GCA_000988865.1_ASM98886v1/GCA_000988865.1_ASM98886v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_000988865.1	PRJNA252551	SAMN02851310	5544	strain=T6776	latest	Major	Full	2015-05-06	University of Pisa

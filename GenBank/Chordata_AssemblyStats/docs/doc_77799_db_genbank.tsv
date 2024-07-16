@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/77799_assembly_stats_genbank.txt	77799	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/874/555/GCA_029874555.1_ASM2987455v1/GCA_029874555.1_ASM2987455v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_029874555.1	PRJNA902967	SAMN31781916	77799	strain=Ilu16-Mug10	latest	Major	Full	2023-04-26	Faculty of Sciences from the University of Lisbon

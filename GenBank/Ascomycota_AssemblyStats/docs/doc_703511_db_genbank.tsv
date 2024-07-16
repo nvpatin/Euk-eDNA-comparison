@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/703511_assembly_stats_genbank.txt	703511	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/356/995/GCA_010356995.1_Tribi1/GCA_010356995.1_Tribi1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_010356995.1	PRJNA245628	SAMN02744851	703511	strain=CBS 262.69	latest	Major	Full	2020-02-06	DOE Joint Genome Institute

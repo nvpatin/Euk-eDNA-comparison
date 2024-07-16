@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ciliophora_AssemblyStats/5911_assembly_stats_genbank.txt	5911	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/584/475/GCA_016584475.1_JCVI_TeTherMIC_3/GCA_016584475.1_JCVI_TeTherMIC_3_assembly_stats.txt	genbank	GenBank/Ciliophora_AssemblyStats	na	GCA_016584475.1	PRJNA565159	SAMN12736122	5911	strain=SB210-E	latest	Major	Full	2021-01-19	J. Craig Venter Institute

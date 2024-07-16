@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1294629_assembly_stats_genbank.txt	1294629	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/360/465/GCA_018360465.1_CSU_LM576_v1/GCA_018360465.1_CSU_LM576_v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_018360465.1	PRJNA528707	SAMN11159871	1294629	strain=LM576	latest	Major	Full	2021-05-14	None

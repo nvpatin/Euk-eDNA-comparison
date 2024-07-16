@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5141_assembly_stats_genbank.txt	5141	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/786/625/GCA_000786625.1_Neucr_trp3_1/GCA_000786625.1_Neucr_trp3_1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_000786625.1	PRJNA250607	SAMN02910426	5141	strain=73	latest	Major	Full	2014-11-25	DOE Joint Genome Institute

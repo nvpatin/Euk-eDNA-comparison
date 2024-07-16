@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/5483_assembly_stats_genbank.txt	5483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/736/125/GCA_001736125.1_ASM173612v1/GCA_001736125.1_ASM173612v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_001736125.1	PRJNA325852	SAMN05255296	5483	strain=NBRC 1940	latest	Major	Full	2016-09-20	RWTH Aachen University

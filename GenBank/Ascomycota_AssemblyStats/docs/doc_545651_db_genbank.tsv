@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/545651_assembly_stats_genbank.txt	545651	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/630/445/GCA_001630445.1_ASM163044v1/GCA_001630445.1_ASM163044v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001630445.1	PRJNA315862	SAMN04571035	545651	strain=SS01	latest	Major	Full	2016-04-25	University of Messina

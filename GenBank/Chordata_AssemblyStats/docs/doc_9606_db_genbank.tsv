@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9606_assembly_stats_genbank.txt	9606	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/001/405/GCA_000001405.29_GRCh38.p14/GCA_000001405.29_GRCh38.p14_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	reference genome	GCA_000001405.29	PRJNA31257	na	9606	na	latest	Patch	Full	2022-02-03	Genome Reference Consortium

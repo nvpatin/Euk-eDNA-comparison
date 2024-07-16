@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9970_assembly_stats_genbank.txt	9970	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/500/845/GCA_902500845.1_africanbuffalo/GCA_902500845.1_africanbuffalo_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_902500845.1	PRJEB34511	SAMEA5988689	9970	na	latest	Major	Full	2019-11-26	ABER

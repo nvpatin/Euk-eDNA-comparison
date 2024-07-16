@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/8022_assembly_stats_genbank.txt	8022	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/005/705/GCA_900005705.1_AUL_PRJEB4421_v1/GCA_900005705.1_AUL_PRJEB4421_v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_900005705.1	PRJEB4421	SAMEA3146328	8022	na	latest	Major	Full	2014-04-29	Genoscope CEA

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/160031_assembly_stats_genbank.txt	160031	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/387/415/GCA_013387415.1_ASM1338741v1/GCA_013387415.1_ASM1338741v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_013387415.1	PRJNA486175	SAMN09839394	160031	na	latest	Major	Full	2020-07-02	INRS-Institut Armand-Frappier

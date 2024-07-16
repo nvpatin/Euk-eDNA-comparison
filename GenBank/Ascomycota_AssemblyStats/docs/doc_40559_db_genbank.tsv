@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/40559_assembly_stats_genbank.txt	40559	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/148/675/GCA_015148675.1_ASM1514867v1/GCA_015148675.1_ASM1514867v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_015148675.1	PRJNA624742	SAMN14582882	40559	strain=Sl7	latest	Major	Full	2020-10-30	INRAE

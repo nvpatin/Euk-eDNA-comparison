@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/160371_assembly_stats_genbank.txt	160371	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/281/025/GCA_000281025.1_ASM28102v1/GCA_000281025.1_ASM28102v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000281025.1	PRJNA163701	SAMN02981423	160371	na	latest	Major	Partial	2012-07-23	Brigham Young University

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1567482_assembly_stats_genbank.txt	1567482	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/490/745/GCA_016490745.1_ASM1649074v1/GCA_016490745.1_ASM1649074v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_016490745.1	PRJNA682927	SAMN17013923	1567482	cultivar=MRI349	latest	Major	Full	2021-01-05	Max Rubner-Institut

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/79593_assembly_stats_genbank.txt	79593	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/008/265/GCA_001008265.1_ASM100826v1/GCA_001008265.1_ASM100826v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001008265.1	PRJNA275112	SAMN03576799	79593	strain=GR10156	latest	Major	Full	2015-05-15	University of Kentucky

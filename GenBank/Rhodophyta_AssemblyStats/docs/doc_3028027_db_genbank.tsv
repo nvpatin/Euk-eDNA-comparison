@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Rhodophyta_AssemblyStats/3028027_assembly_stats_genbank.txt	3028027	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/122/205/GCA_026122205.1_ASM2612220v1/GCA_026122205.1_ASM2612220v1_assembly_stats.txt	genbank	GenBank/Rhodophyta_AssemblyStats	representative genome	GCA_026122205.1	PRJNA851236	SAMN29217978	3028027	strain=108.79 E11	latest	Major	Full	2022-11-10	Sungkyunkwan University

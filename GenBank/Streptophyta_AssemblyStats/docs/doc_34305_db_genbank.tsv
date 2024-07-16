@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/34305_assembly_stats_genbank.txt	34305	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/181/115/GCA_000181115.2_Lj3.0/GCA_000181115.2_Lj3.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000181115.2	PRJDA28941	SAMD00011082	34305	ecotype=MG-20	latest	Major	Full	2015-09-04	Kazusa DNA Research Institute

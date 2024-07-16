@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/37046_assembly_stats_genbank.txt	37046	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/174/335/GCA_002174335.1_ASM217433v1/GCA_002174335.1_ASM217433v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_002174335.1	PRJNA327123	SAMN06832916	37046	na	latest	Major	Full	2017-06-06	UCLA

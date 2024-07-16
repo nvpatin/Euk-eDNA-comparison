@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/153505_assembly_stats_genbank.txt	153505	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/281/405/GCA_029281405.1_Mycpur1/GCA_029281405.1_Mycpur1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_029281405.1	PRJNA585713	SAMN13170237	153505	strain=9144	latest	Major	Full	2023-03-20	DOE Joint Genome Institute

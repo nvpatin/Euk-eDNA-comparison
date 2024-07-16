@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Apicomplexa_AssemblyStats/5801_assembly_stats_genbank.txt	5801	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/499/425/GCA_000499425.1_EAH001/GCA_000499425.1_EAH001_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	representative genome	GCA_000499425.1	PRJEB4832	SAMEA3138813	5801	strain=Houghton	latest	Major	Full	2013-11-05	SC

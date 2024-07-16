@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/69924_assembly_stats_genbank.txt	69924	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/737/435/GCA_000737435.1_ASM73743v1/GCA_000737435.1_ASM73743v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_000737435.1	PRJNA242923	SAMN02711299	69924	na	latest	Major	Full	2014-08-04	Ohio State University

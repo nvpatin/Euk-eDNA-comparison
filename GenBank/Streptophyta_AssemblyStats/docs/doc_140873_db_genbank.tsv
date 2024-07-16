@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/140873_assembly_stats_genbank.txt	140873	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/015/225/GCA_028015225.1_CAF_CaMyos_1.0/GCA_028015225.1_CAF_CaMyos_1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_028015225.1	PRJNA860309	SAMN29837785	140873	na	latest	Major	Full	2023-01-31	Chinese Academy of Forestry Research

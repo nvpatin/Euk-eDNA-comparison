@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/34407_assembly_stats_genbank.txt	34407	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/988/895/GCA_032988895.1_CKAH01/GCA_032988895.1_CKAH01_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_032988895.1	PRJNA564749	SAMN12721764	34407	strain=CIFC_Que2	latest	Major	Full	2023-10-24	University of Salamanca

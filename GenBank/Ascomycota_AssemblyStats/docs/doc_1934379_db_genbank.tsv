@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1934379_assembly_stats_genbank.txt	1934379	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/296/635/GCA_033296635.1_Chafun1_v1.0/GCA_033296635.1_Chafun1_v1.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_033296635.1	PRJNA441725	SAMN09643960	1934379	strain=CBS 141.50	latest	Major	Full	2023-10-26	DOE Joint Genome Institute

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/164405_assembly_stats_genbank.txt	164405	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/926/035/GCA_019926035.1_SCU_Malt_1/GCA_019926035.1_SCU_Malt_1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_019926035.1	PRJNA702189	SAMN17927736	164405	na	latest	Major	Full	2021-09-10	Southern Cross University

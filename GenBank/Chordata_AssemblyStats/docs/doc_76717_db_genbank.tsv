@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/76717_assembly_stats_genbank.txt	76717	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/015/895/GCA_010015895.1_GSC_riverotter_1.0/GCA_010015895.1_GSC_riverotter_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_010015895.1	PRJNA578111	SAMN13049247	76717	na	latest	Major	Full	2020-01-27	Canada's Genomic Enterprise

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/4911_assembly_stats_genbank.txt	4911	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/417/835/GCA_001417835.1_KM1777_03/GCA_001417835.1_KM1777_03_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001417835.1	PRJDB2891	SAMD00017339	4911	strain=NBRC 1777	latest	Major	Full	2014-10-03	Organization of Advanced Science and Technology, Kobe University

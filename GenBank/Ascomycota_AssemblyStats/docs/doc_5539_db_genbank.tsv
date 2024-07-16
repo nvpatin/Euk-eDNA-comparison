@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5539_assembly_stats_genbank.txt	5539	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/812/745/GCA_002812745.2_ASM281274v2/GCA_002812745.2_ASM281274v2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_002812745.2	PRJNA382337	SAMN06704609	5539	strain=DSM 105466	latest	Major	Full	2018-08-28	IHI Zittau / TU Dresden

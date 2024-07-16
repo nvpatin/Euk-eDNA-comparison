@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2037899_assembly_stats_genbank.txt	2037899	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/803/225/GCA_002803225.1_ASM280322v1/GCA_002803225.1_ASM280322v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_002803225.1	PRJNA407395	SAMN07652639	2037899	strain=T6G9	latest	Major	Full	2017-12-01	Macquarie University

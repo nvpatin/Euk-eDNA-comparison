@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/6832_assembly_stats_genbank.txt	6832	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/210/705/GCA_007210705.1_Tcal_SD_v2.1/GCA_007210705.1_Tcal_SD_v2.1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_007210705.1	PRJNA237968	SAMN02640207	6832	strain=San Diego	latest	Major	Full	2019-07-29	Scripps Institution of Oceanography

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/1566855_assembly_stats_genbank.txt	1566855	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/522/745/GCA_030522745.1_LBBE_Ekiefferi_V1/GCA_030522745.1_LBBE_Ekiefferi_V1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_030522745.1	PRJNA826991	SAMN27594044	1566855	na	latest	Major	Full	2023-07-24	LBBE

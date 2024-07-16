@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/129314_assembly_stats_genbank.txt	129314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/484/525/GCA_001484525.1_ASM148452v1/GCA_001484525.1_ASM148452v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001484525.1	PRJNA272959	SAMN03287978	129314	strain=Cf671	latest	Major	Full	2016-01-04	ICAR-Sugarcane Breeding Institute

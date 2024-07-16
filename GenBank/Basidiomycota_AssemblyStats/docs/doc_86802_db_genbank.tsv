@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/86802_assembly_stats_genbank.txt	86802	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/963/125/GCA_022963125.1_ASM2296312v1/GCA_022963125.1_ASM2296312v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_022963125.1	PRJNA698760	SAMN26417533	86802	strain=DE_29490	latest	Major	Full	2022-04-13	University of Cologne

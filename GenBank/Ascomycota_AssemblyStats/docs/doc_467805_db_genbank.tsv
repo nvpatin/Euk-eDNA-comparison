@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/467805_assembly_stats_genbank.txt	467805	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/028/865/GCA_021028865.1_ASM2102886v1/GCA_021028865.1_ASM2102886v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_021028865.1	PRJNA759074	SAMN22028788	467805	na	latest	Major	Full	2021-12-02	University of Pretoria

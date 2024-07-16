@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/64657_assembly_stats_genbank.txt	64657	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/464/415/GCA_032464415.1_ASM3246441v1/GCA_032464415.1_ASM3246441v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_032464415.1	PRJNA1023070	SAMN37640462	64657	strain=Tr01	latest	Major	Full	2023-10-09	Fujian agriculture and forestry university

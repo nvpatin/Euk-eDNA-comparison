@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/52344_assembly_stats_genbank.txt	52344	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/618/815/GCA_029618815.1_ASM2961881v1/GCA_029618815.1_ASM2961881v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_029618815.1	PRJNA824551	SAMN27408273	52344	na	latest	Major	Full	2023-04-10	Kangwon National University

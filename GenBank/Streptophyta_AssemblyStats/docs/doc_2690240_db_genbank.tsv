@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/2690240_assembly_stats_genbank.txt	2690240	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/058/835/GCA_022058835.1_Jaeger_70/GCA_022058835.1_Jaeger_70_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_022058835.1	PRJNA281110	SAMN13617735	2690240	cultivar=Jaeger 70, /ecotype=North America	latest	Major	Full	2022-02-08	VitisGen

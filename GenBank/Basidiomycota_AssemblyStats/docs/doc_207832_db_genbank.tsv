@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/207832_assembly_stats_genbank.txt	207832	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/994/785/GCA_002994785.1_ASM299478v1/GCA_002994785.1_ASM299478v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_002994785.1	PRJNA400846	SAMN07580954	207832	strain=96026	latest	Major	Full	2018-03-13	University of Helsinki

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/91422_assembly_stats_genbank.txt	91422	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/416/925/GCA_010416925.1_CU_Pmet_PB/GCA_010416925.1_CU_Pmet_PB_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_010416925.1	PRJNA482994	SAMN09724721	91422	na	latest	Major	Full	2020-02-11	Cornell University

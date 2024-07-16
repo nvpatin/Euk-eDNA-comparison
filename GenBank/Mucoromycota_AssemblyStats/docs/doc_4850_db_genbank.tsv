@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/4850_assembly_stats_genbank.txt	4850	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/331/445/GCA_025331445.1_Blatri1/GCA_025331445.1_Blatri1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_025331445.1	PRJNA334931	SAMN05444963	4850	strain=NRRL 2456	latest	Major	Full	2022-09-20	DOE Joint Genome Institute

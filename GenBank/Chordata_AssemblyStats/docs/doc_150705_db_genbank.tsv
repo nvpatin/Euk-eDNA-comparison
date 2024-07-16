@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/150705_assembly_stats_genbank.txt	150705	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/789/725/GCA_027789725.1_aDenEbr1.mat/GCA_027789725.1_aDenEbr1.mat_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_027789725.1	PRJNA910818	SAMN32145295	150705	na	latest	Major	Full	2023-01-13	Vertebrate Genomes Project

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chlorophyta_AssemblyStats/47790_assembly_stats_genbank.txt	47790	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/891/735/GCA_002891735.1_TetSoc1/GCA_002891735.1_TetSoc1_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_002891735.1	PRJNA393411	SAMN07332538	47790	strain=NIES-571	latest	Major	Full	2018-01-18	Volvocales Genome Consortium

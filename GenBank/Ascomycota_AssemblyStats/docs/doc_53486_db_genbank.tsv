@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/53486_assembly_stats_genbank.txt	53486	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/564/245/GCA_002564245.1_ASM256424v1/GCA_002564245.1_ASM256424v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_002564245.1	PRJNA251344	SAMN02799484	53486	strain=CBS 7830	latest	Major	Full	2017-10-17	Carlsberg Laboratory

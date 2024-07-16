@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/72129_assembly_stats_genbank.txt	72129	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/801/325/GCA_016801325.1_ASM1680132v1/GCA_016801325.1_ASM1680132v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_016801325.1	PRJNA672973	SAMN16584187	72129	strain=SGAA	latest	Major	Full	2021-02-02	University of Bristol

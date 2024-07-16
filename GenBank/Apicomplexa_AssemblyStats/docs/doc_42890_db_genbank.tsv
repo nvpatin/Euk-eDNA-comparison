@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Apicomplexa_AssemblyStats/42890_assembly_stats_genbank.txt	42890	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/727/475/GCA_000727475.1_ASM72747v1/GCA_000727475.1_ASM72747v1_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	representative genome	GCA_000727475.1	PRJNA227351	SAMN02903972	42890	strain=SN3	latest	Major	Full	2014-07-15	University of Kentucky

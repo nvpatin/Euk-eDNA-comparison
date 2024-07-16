@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/105487_assembly_stats_genbank.txt	105487	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/818/155/GCA_000818155.1_ASM81815v1/GCA_000818155.1_ASM81815v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_000818155.1	PRJNA268126	SAMN03203459	105487	strain=03-8	latest	Major	Full	2015-01-20	Northwest A&F University

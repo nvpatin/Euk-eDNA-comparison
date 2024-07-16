@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/93036_assembly_stats_genbank.txt	93036	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/929/855/GCA_026929855.1_FRR_PoAnn_1.0/GCA_026929855.1_FRR_PoAnn_1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_026929855.1	PRJNA841947	SAMN28631625	93036	cultivar=MN234	latest	Major	Full	2022-12-16	Brigham Young University

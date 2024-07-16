@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/230806_assembly_stats_genbank.txt	230806	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/281/465/GCA_029281465.1_Mycepi1/GCA_029281465.1_Mycepi1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_029281465.1	PRJNA444097	SAMN08778438	230806	strain=CBHHK145m	latest	Major	Full	2023-03-20	DOE Joint Genome Institute

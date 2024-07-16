@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/159417_assembly_stats_genbank.txt	159417	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/623/165/GCA_947623165.1_kaClaLepa1.1_alternate_haplotype/GCA_947623165.1_kaClaLepa1.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_947623165.1	PRJEB58328	SAMEA7536527	159417	na	latest	Major	Full	2022-12-19	WELLCOME SANGER INSTITUTE

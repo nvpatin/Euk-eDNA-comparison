@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/2011032_assembly_stats_genbank.txt	2011032	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/650/685/GCA_009650685.1_Cryp_gatt_MF34/GCA_009650685.1_Cryp_gatt_MF34_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_009650685.1	PRJNA487802	SAMN09910472	2011032	strain=MF34	latest	Major	Full	2019-11-14	Broad Institute

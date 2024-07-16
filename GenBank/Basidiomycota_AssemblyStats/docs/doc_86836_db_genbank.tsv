@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/86836_assembly_stats_genbank.txt	86836	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/917/965/GCA_002917965.1_ASM291796v1/GCA_002917965.1_ASM291796v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_002917965.1	PRJNA431885	SAMN08425891	86836	strain=LS11	latest	Major	Full	2018-02-06	University of Molise

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/181096_assembly_stats_genbank.txt	181096	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/065/965/GCA_023065965.1_Corvus_cornix_S_Up_H60_v1.0_flye.10kbFILTER/GCA_023065965.1_Corvus_cornix_S_Up_H60_v1.0_flye.10kbFILTER_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_023065965.1	PRJNA772570	SAMN13509879	181096	na	latest	Major	Full	2022-04-20	LMU Munich

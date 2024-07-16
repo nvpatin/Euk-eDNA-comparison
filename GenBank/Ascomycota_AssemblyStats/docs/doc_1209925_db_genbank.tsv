@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1209925_assembly_stats_genbank.txt	1209925	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/868/995/GCA_030868995.1_CMEL01/GCA_030868995.1_CMEL01_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_030868995.1	PRJNA348398	SAMN05908173	1209925	na	latest	Major	Full	2023-08-24	University of Western Brittany

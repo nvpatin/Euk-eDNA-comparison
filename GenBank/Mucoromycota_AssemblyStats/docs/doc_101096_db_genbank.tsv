@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/101096_assembly_stats_genbank.txt	101096	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/294/565/GCA_024294565.1_ASM2429456v1/GCA_024294565.1_ASM2429456v1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	na	GCA_024294565.1	PRJNA764345	SAMN21500196	101096	strain=TFLB-J	latest	Major	Full	2022-07-15	Anhui Agricultural University

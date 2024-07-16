@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/72544_assembly_stats_genbank.txt	72544	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/182/615/GCA_003182615.2_ASM318261v2/GCA_003182615.2_ASM318261v2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_003182615.2	PRJNA438286	SAMN06233877	72544	na	latest	Major	Full	2018-10-30	Northwest A&F University

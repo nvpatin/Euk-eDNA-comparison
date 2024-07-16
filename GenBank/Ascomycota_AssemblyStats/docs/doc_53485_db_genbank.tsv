@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/53485_assembly_stats_genbank.txt	53485	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/027/095/GCA_020027095.1_ASM2002709v1/GCA_020027095.1_ASM2002709v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_020027095.1	PRJNA721006	SAMN18688693	53485	strain=LQA	latest	Major	Full	2021-09-17	College of Agronomy

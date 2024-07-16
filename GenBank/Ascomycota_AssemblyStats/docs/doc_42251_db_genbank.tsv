@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/42251_assembly_stats_genbank.txt	42251	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/070/745/GCA_003070745.1_Tubbor1/GCA_003070745.1_Tubbor1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_003070745.1	PRJNA384613	SAMN06842805	42251	strain=Tbo3840	latest	Major	Full	2018-04-24	DOE Joint Genome Institute

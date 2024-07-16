@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/86838_assembly_stats_genbank.txt	86838	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/281/665/GCA_005281665.1_ASM528166v1/GCA_005281665.1_ASM528166v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_005281665.1	PRJNA491831	SAMN10089541	86838	strain=CM33	latest	Major	Full	2019-05-13	Suranaree University of Technology

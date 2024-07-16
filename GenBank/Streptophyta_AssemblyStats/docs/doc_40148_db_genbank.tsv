@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/40148_assembly_stats_genbank.txt	40148	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/576/495/GCA_000576495.2_OgluRS3/GCA_000576495.2_OgluRS3_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_000576495.2	PRJNA48429	SAMN02981440	40148	na	latest	Major	Full	2021-03-10	Oryza Map Alignment Project (OMAP)

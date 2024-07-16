@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Rotifera_AssemblyStats/104782_assembly_stats_genbank.txt	104782	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/513/175/GCA_000513175.1_AMS_PRJEB1171_v1/GCA_000513175.1_AMS_PRJEB1171_v1_assembly_stats.txt	genbank	GenBank/Rotifera_AssemblyStats	na	GCA_000513175.1	PRJEB1171	SAMEA3138832	104782	na	latest	Major	Full	2013-11-26	Genoscope CEA

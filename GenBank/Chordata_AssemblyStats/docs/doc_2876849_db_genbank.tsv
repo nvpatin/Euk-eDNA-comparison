@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/2876849_assembly_stats_genbank.txt	2876849	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/542/945/GCA_024542945.1_ASM2454294v1/GCA_024542945.1_ASM2454294v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_024542945.1	PRJNA764075	SAMN21468811	2876849	ecotype=China	latest	Major	Full	2022-08-09	Hunan Normal University

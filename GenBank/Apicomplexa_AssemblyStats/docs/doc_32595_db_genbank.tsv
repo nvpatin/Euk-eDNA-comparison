@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Apicomplexa_AssemblyStats/32595_assembly_stats_genbank.txt	32595	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/077/455/GCA_001077455.2_ASM107745v2/GCA_001077455.2_ASM107745v2_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	representative genome	GCA_001077455.2	PRJEB6536	SAMEA2612614	32595	strain=Rouen 1987	latest	Major	Full	2018-02-26	Spanish National Center for Microbiology

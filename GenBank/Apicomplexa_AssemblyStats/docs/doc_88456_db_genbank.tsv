@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Apicomplexa_AssemblyStats/88456_assembly_stats_genbank.txt	88456	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/305/735/GCA_001305735.1_ASM130573v1/GCA_001305735.1_ASM130573v1_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	na	GCA_001305735.1	PRJNA292682	SAMN03983352	88456	strain=CDC:HCNY16:01	latest	Major	Full	2015-10-02	Centers for Disease Control and Prevention

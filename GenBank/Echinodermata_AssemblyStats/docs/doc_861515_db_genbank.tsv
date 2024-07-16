@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Echinodermata_AssemblyStats/861515_assembly_stats_genbank.txt	861515	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/035/610/835/GCA_035610835.1_ASM3561083v1/GCA_035610835.1_ASM3561083v1_assembly_stats.txt	genbank	GenBank/Echinodermata_AssemblyStats	representative genome	GCA_035610835.1	PRJNA1057532	SAMN39136381	861515	na	latest	Major	Full	2024-01-12	First institute of oceanography

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/80661_assembly_stats_genbank.txt	80661	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/766/925/GCA_000766925.2_PP33.Version2/GCA_000766925.2_PP33.Version2_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_000766925.2	PRJNA260232	SAMN03018689	80661	strain=PP33	latest	Major	Full	2015-02-23	Yunnan University

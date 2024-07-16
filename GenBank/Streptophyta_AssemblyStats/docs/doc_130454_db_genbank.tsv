@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/130454_assembly_stats_genbank.txt	130454	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/816/755/GCA_000816755.2_Araip1.1/GCA_000816755.2_Araip1.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_000816755.2	PRJNA258025	SAMN02982874	130454	cultivar=K30076	latest	Major	Full	2017-04-25	Iowa State University

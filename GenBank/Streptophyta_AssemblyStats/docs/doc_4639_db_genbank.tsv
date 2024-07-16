@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/4639_assembly_stats_genbank.txt	4639	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/884/805/GCA_001884805.1_Derea_v1.0/GCA_001884805.1_Derea_v1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_001884805.1	PRJNA341828	SAMN05729394	4639	cultivar=Derea	latest	Major	Full	2016-11-21	University of Exeter

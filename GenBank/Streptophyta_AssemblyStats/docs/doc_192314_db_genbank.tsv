@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/192314_assembly_stats_genbank.txt	192314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/725/065/GCA_009725065.1_Urenif-v1/GCA_009725065.1_Urenif-v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_009725065.1	PRJNA290588	SAMN03893229	192314	na	latest	Major	Full	2019-12-02	UNESP-FCAV

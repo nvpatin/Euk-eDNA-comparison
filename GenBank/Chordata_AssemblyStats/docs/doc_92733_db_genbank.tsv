@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/92733_assembly_stats_genbank.txt	92733	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/576/535/GCA_033576535.1_ASM3357653v1/GCA_033576535.1_ASM3357653v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_033576535.1	PRJNA913987	SAMN32316868	92733	ecotype=Ecuador	latest	Major	Full	2023-11-13	Stanford University

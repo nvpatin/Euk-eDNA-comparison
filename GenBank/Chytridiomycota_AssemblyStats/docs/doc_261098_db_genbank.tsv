@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chytridiomycota_AssemblyStats/261098_assembly_stats_genbank.txt	261098	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/600/675/GCA_027600675.1_ASM2760067v1/GCA_027600675.1_ASM2760067v1_assembly_stats.txt	genbank	GenBank/Chytridiomycota_AssemblyStats	representative genome	GCA_027600675.1	PRJNA619744	SAMN14511787	261098	strain=JEL0388	latest	Major	Full	2023-01-09	DOE Joint Genome Institute

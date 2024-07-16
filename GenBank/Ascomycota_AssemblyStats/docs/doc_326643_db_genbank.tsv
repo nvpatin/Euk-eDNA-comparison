@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/326643_assembly_stats_genbank.txt	326643	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/478/815/GCA_022478815.1_Dalba1/GCA_022478815.1_Dalba1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022478815.1	PRJNA567206	SAMN12794055	326643	strain=CBS 122872	latest	Major	Full	2022-03-03	DOE Joint Genome Institute

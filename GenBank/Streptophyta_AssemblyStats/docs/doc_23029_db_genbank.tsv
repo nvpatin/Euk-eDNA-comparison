@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/23029_assembly_stats_genbank.txt	23029	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/409/495/GCA_006409495.1_Sedum_album_v3/GCA_006409495.1_Sedum_album_v3_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_006409495.1	PRJNA488791	SAMN09943627	23029	na	latest	Major	Full	2019-06-24	Michigan State University

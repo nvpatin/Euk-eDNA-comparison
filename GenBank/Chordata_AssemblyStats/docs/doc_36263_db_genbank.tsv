@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/36263_assembly_stats_genbank.txt	36263	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/713/305/GCA_003713305.1_CicReg_1.0/GCA_003713305.1_CicReg_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_003713305.1	PRJNA491255	SAMN10096784	36263	na	latest	Major	Full	2018-11-06	University of Vienna

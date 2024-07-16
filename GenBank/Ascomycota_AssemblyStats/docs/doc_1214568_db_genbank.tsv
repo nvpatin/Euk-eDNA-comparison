@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1214568_assembly_stats_genbank.txt	1214568	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/655/905/GCA_021655905.1_ASM2165590v1/GCA_021655905.1_ASM2165590v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_021655905.1	PRJNA780228	SAMN23138053	1214568	strain=DUCC20226	latest	Major	Full	2022-01-28	Dankook University

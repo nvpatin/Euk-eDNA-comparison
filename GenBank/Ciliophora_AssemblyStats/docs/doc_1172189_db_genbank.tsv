@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ciliophora_AssemblyStats/1172189_assembly_stats_genbank.txt	1172189	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/711/775/GCA_000711775.1_Oxytricha_MIC_v2.0/GCA_000711775.1_Oxytricha_MIC_v2.0_assembly_stats.txt	genbank	GenBank/Ciliophora_AssemblyStats	representative genome	GCA_000711775.1	PRJNA194431	SAMN02377822	1172189	strain=JRB310	latest	Major	Full	2014-06-25	Princeton University

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/49224_assembly_stats_genbank.txt	49224	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/804/165/GCA_018804165.1_ASM1880416v1/GCA_018804165.1_ASM1880416v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_018804165.1	PRJNA513966	SAMN10717514	49224	strain=FBL 587	latest	Major	Full	2021-06-09	INAIL-DIT, Research Area

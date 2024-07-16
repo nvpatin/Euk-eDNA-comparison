@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/37190_assembly_stats_genbank.txt	37190	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/500/725/GCA_900500725.1_ArcGazv1.4/GCA_900500725.1_ArcGazv1.4_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_900500725.1	PRJEB26995	SAMEA4666125	37190	na	latest	Major	Full	2018-08-22	LMU

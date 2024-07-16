@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/300254_assembly_stats_genbank.txt	300254	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/225/985/GCA_022225985.1_ASM2222598v1/GCA_022225985.1_ASM2222598v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_022225985.1	PRJNA790013	SAMN25209209	300254	strain=M42-189	latest	Major	Full	2022-02-14	Agriculture and Agri-Food Canada

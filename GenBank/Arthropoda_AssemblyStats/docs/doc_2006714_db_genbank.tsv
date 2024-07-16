@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/2006714_assembly_stats_genbank.txt	2006714	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/066/005/GCA_904066005.1_P7705_101_v2/GCA_904066005.1_P7705_101_v2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_904066005.1	PRJEB37749	SAMEA6674985	2006714	na	latest	Major	Full	2020-09-02	NATURHISTORISKA RIKSMUSEET

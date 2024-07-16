@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/119933_assembly_stats_genbank.txt	119933	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/380/135/GCA_004380135.1_ASM438013v1/GCA_004380135.1_ASM438013v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_004380135.1	PRJNA470620	SAMN09098503	119933	strain=173-1a-13FI1M3	latest	Major	Full	2019-03-26	University of Bologna

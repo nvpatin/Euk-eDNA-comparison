@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chlorophyta_AssemblyStats/38881_assembly_stats_genbank.txt	38881	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/005/505/GCA_002005505.1_B_braunii_Showa_v1/GCA_002005505.1_B_braunii_Showa_v1_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_002005505.1	PRJNA60039	SAMN00120186	38881	strain=Showa	latest	Major	Full	2017-02-22	JGI-PGF

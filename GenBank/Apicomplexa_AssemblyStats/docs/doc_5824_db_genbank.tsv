@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Apicomplexa_AssemblyStats/5824_assembly_stats_genbank.txt	5824	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/885/115/GCA_001885115.2_Pbrasilianum_v2/GCA_001885115.2_Pbrasilianum_v2_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	na	GCA_001885115.2	PRJNA344798	SAMN05844987	5824	strain=Bolivian I	latest	Major	Full	2016-12-01	Center for Disease Control and Prevention

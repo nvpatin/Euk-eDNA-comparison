@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Cnidaria_AssemblyStats/6116_assembly_stats_genbank.txt	6116	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/775/035/GCA_949775035.1_jaMetSeni4.1_alternate_haplotype/GCA_949775035.1_jaMetSeni4.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	na	GCA_949775035.1	PRJEB60996	SAMEA110449715	6116	na	latest	Major	Full	2023-04-08	WELLCOME SANGER INSTITUTE

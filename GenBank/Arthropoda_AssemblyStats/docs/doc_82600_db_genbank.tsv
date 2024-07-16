@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/82600_assembly_stats_genbank.txt	82600	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/425/675/GCA_003425675.2_Cpom.V2/GCA_003425675.2_Cpom.V2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_003425675.2	PRJNA464426	SAMN09205828	82600	strain=Jiuquan	latest	Major	Full	2019-03-29	Institute of Insect Sciences

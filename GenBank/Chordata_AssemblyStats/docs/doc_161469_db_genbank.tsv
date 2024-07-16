@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/161469_assembly_stats_genbank.txt	161469	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/802/545/GCA_019802545.1_ASM1980254v1/GCA_019802545.1_ASM1980254v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_019802545.1	PRJNA669508	SAMN16446373	161469	na	latest	Major	Full	2021-09-09	South China Sea Institute of Oceanology, Chinese Academy of Sciences

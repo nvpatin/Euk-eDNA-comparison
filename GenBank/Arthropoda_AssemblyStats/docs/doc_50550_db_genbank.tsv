@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/50550_assembly_stats_genbank.txt	50550	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/281/835/GCA_000281835.1_ASM28183v1/GCA_000281835.1_ASM28183v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000281835.1	PRJNA74387	SAMN02953805	50550	na	latest	Major	Partial	2012-07-27	University of Memphis

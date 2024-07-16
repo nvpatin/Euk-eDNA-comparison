@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/86932_assembly_stats_genbank.txt	86932	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/578/255/GCA_030578255.1_ASM3057825v1/GCA_030578255.1_ASM3057825v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_030578255.1	PRJNA947235	SAMN33845349	86932	na	latest	Major	Full	2023-08-08	UC Berkeley

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/8090_assembly_stats_genbank.txt	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/151/825/GCA_000151825.1_ASM15182v1/GCA_000151825.1_ASM15182v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000151825.1	PRJNA19569	SAMD00036522	8090	strain=HNI	latest	Major	Full	2007-04-26	Medaka genome sequencing project

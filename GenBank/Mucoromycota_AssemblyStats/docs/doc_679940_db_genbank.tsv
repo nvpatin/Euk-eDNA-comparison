@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/679940_assembly_stats_genbank.txt	679940	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/839/865/GCA_014839865.1_ASM1483986v1/GCA_014839865.1_ASM1483986v1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_014839865.1	PRJNA499679	SAMN10361476	679940	strain=NRRL A-21654	latest	Major	Full	2020-10-02	DOE Joint Genome Institute

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/8845_assembly_stats_genbank.txt	8845	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/166/845/GCA_002166845.1_GooseV1.0/GCA_002166845.1_GooseV1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_002166845.1	PRJNA253976	SAMN02898389	8845	breed=Sichuan white goose	latest	Major	Full	2017-06-02	Poultry Science Institute

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/163638_assembly_stats_genbank.txt	163638	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/150/935/GCA_000150935.1_ASM15093v1/GCA_000150935.1_ASM15093v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_000150935.1	PRJNA29485	SAMN02743805	163638	strain=Otter Point	latest	Major	Full	2008-07-09	Cichlid Genome Consortium

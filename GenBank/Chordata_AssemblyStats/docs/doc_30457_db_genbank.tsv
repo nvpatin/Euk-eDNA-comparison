@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/30457_assembly_stats_genbank.txt	30457	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/264/685/GCA_003264685.1_ASM326468v1/GCA_003264685.1_ASM326468v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_003264685.1	PRJNA382168	SAMN06701105	30457	na	latest	Major	Full	2018-06-25	Center for Bioinformatics and Integrative Biology

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/206542_assembly_stats_genbank.txt	206542	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/225/475/GCA_002225475.1_ASM222547v1/GCA_002225475.1_ASM222547v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002225475.1	PRJNA393697	SAMN07339008	206542	strain=MA5790	latest	Major	Full	2017-07-25	University of Natural Resources and Life Sciences

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2747968_assembly_stats_genbank.txt	2747968	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/433/535/GCA_025433535.2_AS_Fvan_2.1/GCA_025433535.2_AS_Fvan_2.1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_025433535.2	PRJNA782245	SAMN26804632	2747968	na	latest	Major	Full	2022-12-20	Academia Sinica

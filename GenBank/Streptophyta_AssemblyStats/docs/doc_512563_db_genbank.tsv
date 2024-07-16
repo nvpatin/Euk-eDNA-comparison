@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/512563_assembly_stats_genbank.txt	512563	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/985/045/GCA_022985045.1_ASM2298504v1/GCA_022985045.1_ASM2298504v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_022985045.1	PRJNA587821	SAMN13219572	512563	na	latest	Major	Full	2022-04-19	Yunnan Institute of Tropical Crops

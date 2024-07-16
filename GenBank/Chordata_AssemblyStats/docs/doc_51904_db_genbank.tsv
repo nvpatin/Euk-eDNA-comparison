@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/51904_assembly_stats_genbank.txt	51904	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/284/505/GCA_026284505.1_ASM2628450v1/GCA_026284505.1_ASM2628450v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_026284505.1	PRJNA703673	SAMN25884804	51904	strain=ANSP 188419	latest	Major	Full	2022-11-22	Iridian Genomes

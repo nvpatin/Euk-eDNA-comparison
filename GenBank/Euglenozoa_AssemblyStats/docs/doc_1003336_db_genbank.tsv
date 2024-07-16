@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Euglenozoa_AssemblyStats/1003336_assembly_stats_genbank.txt	1003336	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/482/125/GCA_000482125.1_Sgal_1.0/GCA_000482125.1_Sgal_1.0_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	representative genome	GCA_000482125.1	PRJNA203516	SAMN02953867	1003336	strain=TCC219	latest	Major	Full	2013-10-25	Virginia Commonwealth University

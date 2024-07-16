@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/40482_assembly_stats_genbank.txt	40482	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/917/355/GCA_027917355.1_Lenafn_TMI1502_1/GCA_027917355.1_Lenafn_TMI1502_1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_027917355.1	PRJNA519684	SAMN10865819	40482	strain=sp 3 TMI1502	latest	Major	Full	2023-01-17	DOE Joint Genome Institute

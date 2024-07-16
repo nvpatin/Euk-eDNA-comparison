@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/654480_assembly_stats_genbank.txt	654480	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/631/695/GCA_020631695.1_ASM2063169v1/GCA_020631695.1_ASM2063169v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_020631695.1	PRJNA739541	SAMN19791815	654480	strain=KA19-0412C	latest	Major	Full	2021-10-27	Korea National Arboretum

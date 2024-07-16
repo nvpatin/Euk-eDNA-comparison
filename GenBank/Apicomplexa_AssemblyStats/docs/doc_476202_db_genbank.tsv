@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Apicomplexa_AssemblyStats/476202_assembly_stats_genbank.txt	476202	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/476/325/GCA_015476325.1_ASM1547632v1/GCA_015476325.1_ASM1547632v1_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	representative genome	GCA_015476325.1	PRJNA664590	SAMN16226513	476202	na	latest	Major	Full	2020-11-16	University of Rhode Island

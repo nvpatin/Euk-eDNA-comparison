@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/49495_assembly_stats_genbank.txt	49495	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/386/875/GCA_011386875.1_ASM1138687v1/GCA_011386875.1_ASM1138687v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_011386875.1	PRJNA511033	SAMN10638562	49495	cultivar=Hn-n	latest	Major	Partial	2020-03-16	University of Florida

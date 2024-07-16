@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/93163_assembly_stats_genbank.txt	93163	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/280/165/GCA_005280165.1_ASM528016v1/GCA_005280165.1_ASM528016v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_005280165.1	PRJNA407692	SAMN07661221	93163	na	latest	Major	Full	2019-05-10	Xian Jiaotong University Health Science Center

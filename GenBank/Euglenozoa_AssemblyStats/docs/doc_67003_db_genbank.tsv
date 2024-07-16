@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Euglenozoa_AssemblyStats/67003_assembly_stats_genbank.txt	67003	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/087/225/GCA_002087225.1_Tth_v3/GCA_002087225.1_Tth_v3_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	representative genome	GCA_002087225.1	PRJNA273795	SAMN03296061	67003	na	latest	Major	Full	2017-04-12	University of Edinburgh

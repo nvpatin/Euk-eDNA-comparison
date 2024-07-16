@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/32240_assembly_stats_genbank.txt	32240	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/719/365/GCA_032719365.1_ASM3271936v1/GCA_032719365.1_ASM3271936v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_032719365.1	PRJNA1017129	SAMN37388707	32240	cultivar=NX, /ecotype=NingXia	latest	Major	Full	2023-10-17	Chengdu University

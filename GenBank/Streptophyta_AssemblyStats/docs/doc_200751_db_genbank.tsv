@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/200751_assembly_stats_genbank.txt	200751	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/097/705/GCA_016097705.1_UMC_Scan_2.0/GCA_016097705.1_UMC_Scan_2.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_016097705.1	PRJNA630883	SAMN14847761	200751	ecotype=Biocrust	latest	Major	Full	2020-12-17	University of Misosuri

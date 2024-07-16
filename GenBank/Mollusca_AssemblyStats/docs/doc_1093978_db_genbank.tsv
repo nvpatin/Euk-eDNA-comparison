@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/AssemblyStats/1093978_assembly_stats_genbank.txt	1093978	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/649/035/GCA_019649035.1_Ema_v1/GCA_019649035.1_Ema_v1_assembly_stats.txt	genbank	GenBank/AssemblyStats	representative genome	GCA_019649035.1	PRJDB3267	SAMD00025083	1093978	na	latest	Major	Full	2021-05-09	National Institute for Basic Biology

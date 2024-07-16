@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/34691_assembly_stats_genbank.txt	34691	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/349/065/GCA_000349065.1_Anop_quad_QUAD4_A_V1/GCA_000349065.1_Anop_quad_QUAD4_A_V1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_000349065.1	PRJNA191558	SAMN02953838	34691	strain=QUAD4_A	latest	Major	Full	2013-03-28	Broad Institute

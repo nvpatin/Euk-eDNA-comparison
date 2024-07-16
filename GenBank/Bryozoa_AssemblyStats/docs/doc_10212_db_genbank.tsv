@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Bryozoa_AssemblyStats/10212_assembly_stats_genbank.txt	10212	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/799/875/GCA_010799875.2_ASM1079987v2/GCA_010799875.2_ASM1079987v2_assembly_stats.txt	genbank	GenBank/Bryozoa_AssemblyStats	representative genome	GCA_010799875.2	PRJNA498596	SAMN10319711	10212	na	latest	Major	Full	2020-08-06	Global Invertebrate Genomics Alliance (GIGA)

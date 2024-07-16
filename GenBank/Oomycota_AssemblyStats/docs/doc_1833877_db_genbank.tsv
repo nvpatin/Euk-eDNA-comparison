@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Oomycota_AssemblyStats/1833877_assembly_stats_genbank.txt	1833877	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/706/215/GCA_014706215.1_ASM1470621v1/GCA_014706215.1_ASM1470621v1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	na	GCA_014706215.1	PRJNA640137	SAMN15299845	1833877	na	latest	Major	Full	2020-09-23	United States Department of Agriculture

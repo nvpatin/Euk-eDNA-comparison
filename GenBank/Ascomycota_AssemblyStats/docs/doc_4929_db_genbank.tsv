@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/4929_assembly_stats_genbank.txt	4929	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/174/495/GCA_900174495.1_MGUIL.PP1/GCA_900174495.1_MGUIL.PP1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_900174495.1	PRJEB20099	SAMEA103933341	4929	na	latest	Major	Full	2017-09-03	UNIMI

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/143292_assembly_stats_genbank.txt	143292	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/738/955/GCA_000738955.1_M_pentadactyla-1.1.1/GCA_000738955.1_M_pentadactyla-1.1.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000738955.1	PRJNA20331	SAMN01943338	143292	na	latest	Major	Full	2014-08-11	Washington University (WashU)

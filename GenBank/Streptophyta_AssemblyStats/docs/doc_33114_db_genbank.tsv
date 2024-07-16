@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/33114_assembly_stats_genbank.txt	33114	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/271/885/GCA_002271885.2_ASM227188v2/GCA_002271885.2_ASM227188v2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_002271885.2	PRJNA308879	SAMN04417068	33114	na	latest	Major	Full	2017-10-30	Seoul National University

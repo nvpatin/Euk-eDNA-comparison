@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/492479_assembly_stats_genbank.txt	492479	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/413/675/GCA_026413675.1_ASM2641367v1/GCA_026413675.1_ASM2641367v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_026413675.1	PRJNA863418	SAMN30034563	492479	na	latest	Major	Full	2022-11-27	Tarim University

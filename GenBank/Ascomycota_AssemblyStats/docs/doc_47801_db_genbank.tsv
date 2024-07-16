@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/47801_assembly_stats_genbank.txt	47801	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/650/635/GCA_023650635.1_ASM2365063v1/GCA_023650635.1_ASM2365063v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_023650635.1	PRJNA842087	SAMN28647649	47801	strain=E357	latest	Major	Full	2022-06-06	Massey University

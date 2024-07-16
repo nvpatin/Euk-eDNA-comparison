@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/38451_assembly_stats_genbank.txt	38451	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/586/315/GCA_024586315.1_FABI_Smin_SsChi/GCA_024586315.1_FABI_Smin_SsChi_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_024586315.1	PRJNA842187	SAMN10849842	38451	strain=SsChi	latest	Major	Full	2022-08-08	Forestry and Agricultural Biotechnology Institute

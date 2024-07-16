@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/8781_assembly_stats_genbank.txt	8781	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/023/765/GCA_004023765.1_ASM402376v1/GCA_004023765.1_ASM402376v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_004023765.1	PRJNA506024	SAMN10441168	8781	na	latest	Major	Full	2019-01-15	Second Military Medical University

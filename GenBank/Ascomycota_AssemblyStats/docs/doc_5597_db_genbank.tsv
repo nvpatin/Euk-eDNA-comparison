@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5597_assembly_stats_genbank.txt	5597	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/221/725/GCA_002221725.1_ScBoyd1.0/GCA_002221725.1_ScBoyd1.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_002221725.1	PRJNA382498	SAMN06706955	5597	strain=IHEM 23826	latest	Major	Full	2017-07-19	GEIHP, UPRES EA 3142

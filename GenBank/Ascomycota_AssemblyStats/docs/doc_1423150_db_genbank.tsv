@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1423150_assembly_stats_genbank.txt	1423150	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/215/975/GCA_002215975.1_ASM221597v1/GCA_002215975.1_ASM221597v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_002215975.1	PRJNA389222	SAMN07192611	1423150	na	latest	Major	Full	2017-07-07	Seoul National University

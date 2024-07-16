@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/39680_assembly_stats_genbank.txt	39680	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/989/075/GCA_002989075.1_artRad1.0/GCA_002989075.1_artRad1.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_002989075.1	PRJNA432823	SAMN08462631	39680	strain=EZ20314	latest	Major	Full	2018-03-09	Stanford University

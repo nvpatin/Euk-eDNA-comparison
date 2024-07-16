@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/2923029_assembly_stats_genbank.txt	2923029	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/717/565/GCA_029717565.1_ASM2971756v1/GCA_029717565.1_ASM2971756v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_029717565.1	PRJNA835870	SAMN28119781	2923029	strain=DAOMC 252472	latest	Major	Full	2023-04-13	Agriculture and Agri-Food Canada

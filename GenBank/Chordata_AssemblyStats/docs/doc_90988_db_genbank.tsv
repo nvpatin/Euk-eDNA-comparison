@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/90988_assembly_stats_genbank.txt	90988	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/700/965/GCA_000700965.1_FHM_SGA/GCA_000700965.1_FHM_SGA_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000700965.1	PRJNA227290	SAMN02418978	90988	na	latest	Major	Full	2014-06-11	DuPont

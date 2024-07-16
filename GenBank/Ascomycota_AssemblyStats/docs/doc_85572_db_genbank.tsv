@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/85572_assembly_stats_genbank.txt	85572	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/456/275/GCA_028456275.1_ASM2845627v1/GCA_028456275.1_ASM2845627v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_028456275.1	PRJNA825461	SAMN27515744	85572	na	latest	Major	Full	2023-02-03	Oklahoma State University

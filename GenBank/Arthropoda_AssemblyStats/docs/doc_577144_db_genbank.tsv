@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/577144_assembly_stats_genbank.txt	577144	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/788/335/GCA_949788335.1_icSalPlan1.1/GCA_949788335.1_icSalPlan1.1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_949788335.1	PRJEB61168	SAMEA10167009	577144	na	latest	Major	Full	2023-04-12	WELLCOME SANGER INSTITUTE

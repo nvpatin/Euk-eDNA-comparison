@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/463830_assembly_stats_genbank.txt	463830	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/490/895/GCA_025490895.1_SU_Tleuc_2.0/GCA_025490895.1_SU_Tleuc_2.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_025490895.1	PRJNA824709	SAMN27413052	463830	na	latest	Major	Full	2022-09-29	Stellenbosch University

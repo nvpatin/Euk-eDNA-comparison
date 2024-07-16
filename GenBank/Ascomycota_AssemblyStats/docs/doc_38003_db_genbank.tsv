@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/38003_assembly_stats_genbank.txt	38003	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/340/505/GCA_024340505.1_ASM2434050v1/GCA_024340505.1_ASM2434050v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_024340505.1	PRJNA817363	SAMN26764064	38003	strain=CBS 568.84	latest	Major	Full	2022-07-20	Oregon State University

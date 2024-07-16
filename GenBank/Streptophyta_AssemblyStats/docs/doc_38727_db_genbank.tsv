@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/38727_assembly_stats_genbank.txt	38727	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/808/335/GCA_016808335.1_P.virgatum_v5/GCA_016808335.1_P.virgatum_v5_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_016808335.1	PRJNA40657	SAMN00760928	38727	strain=AP13	latest	Major	Full	2021-02-10	DOE Joint Genome Institute

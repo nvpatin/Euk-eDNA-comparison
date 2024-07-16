@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2802321_assembly_stats_genbank.txt	2802321	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/767/195/GCA_016767195.1_ASM1676719v1/GCA_016767195.1_ASM1676719v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_016767195.1	PRJNA684691	SAMN17277446	2802321	strain=XDPOP-RS-16W	latest	Major	Full	2021-01-28	Chinese Academy of Forestry

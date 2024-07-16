@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9361_assembly_stats_genbank.txt	9361	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/208/655/GCA_000208655.4_Dasnov3.2/GCA_000208655.4_Dasnov3.2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000208655.4	PRJNA12594	SAMN02953623	9361	na	latest	Major	Full	2012-01-06	Baylor College of Medicine

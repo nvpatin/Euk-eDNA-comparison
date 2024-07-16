@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/105747_assembly_stats_genbank.txt	105747	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/625/GCA_916701625.1_S_thompsoni_137678/GCA_916701625.1_S_thompsoni_137678_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_916701625.1	PRJEB42258	SAMEA7962406	105747	na	latest	Major	Full	2021-11-13	UNIVERSITY OF CALIFORNIA AT BERKELEY

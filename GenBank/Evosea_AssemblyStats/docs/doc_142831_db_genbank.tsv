@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Evosea_AssemblyStats/142831_assembly_stats_genbank.txt	142831	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/092/265/GCA_900092265.1_ASM90009226v1/GCA_900092265.1_ASM90009226v1_assembly_stats.txt	genbank	GenBank/Evosea_AssemblyStats	na	GCA_900092265.1	PRJEB14640	SAMEA4059178	142831	na	latest	Major	Full	2017-01-02	Cell and Developmental Biology

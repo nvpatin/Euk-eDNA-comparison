@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/2136145_assembly_stats_genbank.txt	2136145	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/296/355/GCA_004296355.1_ASM429635v1/GCA_004296355.1_ASM429635v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_004296355.1	PRJNA493910	SAMN10145369	2136145	strain=LJE	latest	Major	Full	2019-02-25	Kunming Institute of Botany

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/386457_assembly_stats_genbank.txt	386457	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/776/505/GCA_002776505.1_ASM277650v1/GCA_002776505.1_ASM277650v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_002776505.1	PRJNA415296	SAMN07821344	386457	strain=C1593	latest	Major	Full	2017-11-16	University of Campinas

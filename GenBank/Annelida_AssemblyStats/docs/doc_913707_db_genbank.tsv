@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Annelid_AssemblyStats/913707_assembly_stats_genbank.txt	913707	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/034/698/505/GCA_034698505.1_ASM3469850v1/GCA_034698505.1_ASM3469850v1_assembly_stats.txt	genbank	GenBank/Annelid_AssemblyStats	representative genome	GCA_034698505.1	PRJNA758215	SAMN25040906	913707	na	latest	Major	Full	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/135627_assembly_stats_genbank.txt	135627	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/206/185/GCA_032206185.1_C.guinea_mat1.0/GCA_032206185.1_C.guinea_mat1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_032206185.1	PRJNA1003478	SAMN36892107	135627	na	latest	Major	Full	2023-09-29	University of Utah

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/8355_assembly_stats_genbank.txt	8355	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/663/975/GCA_001663975.1_Xenopus_laevis_v2/GCA_001663975.1_Xenopus_laevis_v2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_001663975.1	PRJNA313213	SAMN04518361	8355	strain=J	latest	Major	Full	2016-08-09	International Xenopus Sequencing Consortium

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/89462_assembly_stats_genbank.txt	89462	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/923/935/GCA_019923935.1_NDDB_SH_1/GCA_019923935.1_NDDB_SH_1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_019923935.1	PRJNA525182	SAMN11104991	89462	breed=Murrah	latest	Major	Full	2021-09-10	National Dairy Development Board, India

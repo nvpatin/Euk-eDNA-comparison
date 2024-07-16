@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/64518_assembly_stats_genbank.txt	64518	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/679/415/GCA_015679415.1_UCR_MalpAD072_1.0/GCA_015679415.1_UCR_MalpAD072_1.0_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	na	GCA_015679415.1	PRJNA340815	SAMN05720462	64518	strain=AD072	latest	Major	Full	2020-11-24	DOE Joint Genome Institute

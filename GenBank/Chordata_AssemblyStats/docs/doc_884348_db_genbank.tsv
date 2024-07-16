@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/884348_assembly_stats_genbank.txt	884348	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/244/105/GCA_027244105.1_rHemCap1.1.alt/GCA_027244105.1_rHemCap1.1.alt_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_027244105.1	PRJNA899810	SAMN31669488	884348	ecotype=Gifberg	latest	Major	Full	2022-12-22	University of Antwerp

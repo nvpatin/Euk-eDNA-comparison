@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Cnidaria_AssemblyStats/419443_assembly_stats_genbank.txt	419443	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/652/115/GCA_947652115.1_jaBlaWell11.1/GCA_947652115.1_jaBlaWell11.1_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	representative genome	GCA_947652115.1	PRJEB58379	SAMEA8576599	419443	na	latest	Major	Full	2022-12-21	WELLCOME SANGER INSTITUTE

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/75948_assembly_stats_genbank.txt	75948	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/927/565/GCA_949927565.1_Lactuca_saligna/GCA_949927565.1_Lactuca_saligna_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_949927565.1	PRJEB56287	SAMEA112954148	75948	na	latest	Major	Full	2023-06-27	WAGENINGEN UNIVERSITY

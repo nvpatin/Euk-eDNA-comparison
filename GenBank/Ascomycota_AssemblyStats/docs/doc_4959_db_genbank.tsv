@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/4959_assembly_stats_genbank.txt	4959	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/097/625/GCA_016097625.1_CAU_DHC11_v01_alt/GCA_016097625.1_CAU_DHC11_v01_alt_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_016097625.1	PRJNA670030	SAMN15074940	4959	strain=C11	latest	Major	Partial	2020-12-17	Chung-Ang University

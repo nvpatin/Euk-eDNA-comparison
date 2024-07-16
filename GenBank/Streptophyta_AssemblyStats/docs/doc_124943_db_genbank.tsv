@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/124943_assembly_stats_genbank.txt	124943	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/439/995/GCA_000439995.3_AzaInd2.1/GCA_000439995.3_AzaInd2.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000439995.3	PRJNA176672	SAMN02715695	124943	cultivar=GKVK	latest	Minor	Full	2015-06-16	Centre for Cellular and Molecular Plateforms

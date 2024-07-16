@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/62324_assembly_stats_genbank.txt	62324	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/349/085/GCA_000349085.1_Anop_fune_FUMOZ_V1/GCA_000349085.1_Anop_fune_FUMOZ_V1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000349085.1	PRJNA67223	SAMN01087923	62324	strain=FUMOZ	latest	Major	Full	2013-03-28	Broad Institute

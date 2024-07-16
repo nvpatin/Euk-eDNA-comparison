@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3369_assembly_stats_genbank.txt	3369	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/924/625/GCA_027924625.1_CJA_r1.0/GCA_027924625.1_CJA_r1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_027924625.1	PRJDB14450	SAMD00546472	3369	cultivar=GFA01029	latest	Major	Full	2022-12-12	Kazusa DNA Research Institute

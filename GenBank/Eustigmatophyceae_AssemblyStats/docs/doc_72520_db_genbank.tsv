@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Eustigmatophyceae_AssemblyStats/72520_assembly_stats_genbank.txt	72520	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/569/095/GCA_000569095.1_NagaB31_1.0/GCA_000569095.1_NagaB31_1.0_assembly_stats.txt	genbank	GenBank/Eustigmatophyceae_AssemblyStats	na	GCA_000569095.1	PRJNA170989	SAMN02440168	72520	strain=B-31	latest	Major	Full	2014-02-18	CRIBI Genomics University of Padova

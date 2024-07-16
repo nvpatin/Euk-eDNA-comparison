@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/1163346_assembly_stats_genbank.txt	1163346	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/230/165/GCA_026230165.1_icDioSubl1.1_alt/GCA_026230165.1_icDioSubl1.1_alt_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_026230165.1	PRJNA887111	SAMN21906101	1163346	na	latest	Major	Full	2022-11-18	USDA Ag100Pest

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/1238391_assembly_stats_genbank.txt	1238391	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/368/385/GCA_008368385.1_ASM836838v1/GCA_008368385.1_ASM836838v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_008368385.1	PRJNA504355	SAMN10390396	1238391	strain=CCMJ2827	latest	Major	Full	2019-09-10	Jilin Agricultural University

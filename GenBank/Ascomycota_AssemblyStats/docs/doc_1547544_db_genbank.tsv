@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1547544_assembly_stats_genbank.txt	1547544	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/220/655/GCA_033220655.1_ASM3322065v1/GCA_033220655.1_ASM3322065v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_033220655.1	PRJNA596850	SAMN13640230	1547544	strain=AGR01, /ecotype=New Zealand	latest	Major	Full	2023-11-02	AgResearch

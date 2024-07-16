@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/7740_assembly_stats_genbank.txt	7740	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/088/365/GCA_900088365.1_Bl71nemr/GCA_900088365.1_Bl71nemr_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_900088365.1	PRJEB13665	SAMEA3936804	7740	na	latest	Major	Full	2018-08-22	UNIVERSITY OF OXFORD

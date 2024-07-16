@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/35024_assembly_stats_genbank.txt	35024	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/625/485/GCA_001625485.1_ASM162548v1/GCA_001625485.1_ASM162548v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_001625485.1	PRJNA181087	SAMN01815951	35024	na	latest	Major	Full	2016-04-21	Douglas Rhoads
