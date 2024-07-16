@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/4097_assembly_stats_genbank.txt	4097	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/715/095/GCA_000715095.1_Ntab-BX/GCA_000715095.1_Ntab-BX_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000715095.1	PRJNA208211	SAMN02316629	4097	cultivar=Basma Xanthi	latest	Major	Full	2014-05-29	Philip Morris International R&D

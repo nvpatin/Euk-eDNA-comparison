@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/78185_assembly_stats_genbank.txt	78185	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/307/685/GCA_004307685.1_ASM430768v1/GCA_004307685.1_ASM430768v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_004307685.1	PRJNA302037	SAMN07634805	78185	na	latest	Major	Full	2019-02-27	University of New Hampshire

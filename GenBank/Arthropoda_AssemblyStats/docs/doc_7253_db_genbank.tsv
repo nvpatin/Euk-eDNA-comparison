@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/7253_assembly_stats_genbank.txt	7253	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/961/210/375/GCA_961210375.1_dmerc_partho_assembly/GCA_961210375.1_dmerc_partho_assembly_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_961210375.1	PRJEB64421	SAMEA114212820	7253	na	latest	Major	Full	2023-07-29	university of tennessee health science center

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/630343_assembly_stats_genbank.txt	630343	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/592/205/GCA_949592205.1_Humb_v1/GCA_949592205.1_Humb_v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_949592205.1	PRJEB52026	SAMEA13854922	630343	na	latest	Major	Full	2023-04-09	weizmann institute of science

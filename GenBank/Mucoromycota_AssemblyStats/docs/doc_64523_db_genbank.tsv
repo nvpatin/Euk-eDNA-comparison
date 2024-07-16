@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/64523_assembly_stats_genbank.txt	64523	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/677/895/GCA_025677895.1_Morhum1/GCA_025677895.1_Morhum1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_025677895.1	PRJNA365026	SAMN27763594	64523	na	latest	Major	Full	2022-10-13	DOE Joint Genome Institute

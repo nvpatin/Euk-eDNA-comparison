@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/13451_assembly_stats_genbank.txt	13451	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/901/000/735/GCA_901000735.2_CavTom2PMs-1.0/GCA_901000735.2_CavTom2PMs-1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_901000735.2	PRJEB31933	SAMEA5541879	13451	cultivar=Tombul	latest	Major	Full	2020-11-25	SUNUM

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/53488_assembly_stats_genbank.txt	53488	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/387/355/GCA_013387355.1_ASM1338735v1/GCA_013387355.1_ASM1338735v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_013387355.1	PRJNA622240	SAMN14502400	53488	strain=CBS 2926	latest	Major	Full	2020-07-02	University College Dublin

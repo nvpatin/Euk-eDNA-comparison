@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/53588_assembly_stats_genbank.txt	53588	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/538/075/GCA_900538075.1_Sp_tGBS_contigs/GCA_900538075.1_Sp_tGBS_contigs_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_900538075.1	PRJEB28201	SAMEA4888311	53588	na	latest	Major	Full	2018-12-05	HEINRICH-HEINE UNIVERSITY

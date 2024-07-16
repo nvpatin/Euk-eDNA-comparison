@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/4903_assembly_stats_genbank.txt	4903	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/245/095/GCA_001245095.1_cj1/GCA_001245095.1_cj1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001245095.1	PRJEB7977	SAMEA3174301	4903	strain=CBS1600	latest	Major	Full	2015-07-26	JUSTUS LIEBIG UNIVERSITAT

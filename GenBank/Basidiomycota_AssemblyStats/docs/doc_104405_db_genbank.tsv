@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/104405_assembly_stats_genbank.txt	104405	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/758/705/GCA_025758705.1_ASM2575870v1/GCA_025758705.1_ASM2575870v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_025758705.1	PRJNA859078	SAMN29766153	104405	strain=DBVPG 4707	latest	Major	Full	2022-10-19	University of Perugia

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/211600_assembly_stats_genbank.txt	211600	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/170/545/GCA_026170545.1_bMelFor1.0.p/GCA_026170545.1_bMelFor1.0.p_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_026170545.1	PRJNA875158	SAMN30523671	211600	ecotype=bairdi	latest	Major	Full	2022-11-14	UCLA

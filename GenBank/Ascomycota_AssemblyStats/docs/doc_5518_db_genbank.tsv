@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5518_assembly_stats_genbank.txt	5518	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/073/075/GCA_900073075.1_CML3066.v2/GCA_900073075.1_CML3066.v2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_900073075.1	PRJEB12819	SAMEA3879006	5518	na	latest	Major	Full	2020-02-10	ROTHAMSTED RESEARCH

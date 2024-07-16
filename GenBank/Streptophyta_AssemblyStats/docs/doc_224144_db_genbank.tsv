@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/224144_assembly_stats_genbank.txt	224144	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/808/085/GCA_016808085.1_ASM1680808v1/GCA_016808085.1_ASM1680808v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_016808085.1	PRJNA428881	SAMN08364410	224144	strain=FK81-2018, /ecotype=Xinjiang	latest	Major	Full	2021-02-04	ABLife

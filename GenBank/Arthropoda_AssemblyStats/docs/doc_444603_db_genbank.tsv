@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/444603_assembly_stats_genbank.txt	444603	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/918/026/865/GCA_918026865.1_PGI_PHYEVI_v3/GCA_918026865.1_PGI_PHYEVI_v3_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_918026865.1	PRJEB47901	SAMEA10332715	444603	na	latest	Major	Full	2022-07-12	ROTHAMSTED RESEARCH

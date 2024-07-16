@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/565426_assembly_stats_genbank.txt	565426	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/707/825/GCA_009707825.1_HZAU_CMZSB_2.1/GCA_009707825.1_HZAU_CMZSB_2.1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_009707825.1	PRJNA548470	SAMN12034817	565426	strain=ZS-1	latest	Major	Full	2019-11-25	State Key Laboratory of Agriculture Microbiology

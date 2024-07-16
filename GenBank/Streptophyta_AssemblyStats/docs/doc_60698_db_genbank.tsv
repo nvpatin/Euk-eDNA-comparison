@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/60698_assembly_stats_genbank.txt	60698	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/358/625/GCA_013358625.1_SCU_Mint_v3/GCA_013358625.1_SCU_Mint_v3_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_013358625.1	PRJNA593881	SAMN13508564	60698	cultivar=HAES 741	latest	Major	Full	2020-06-23	Southern Cross University

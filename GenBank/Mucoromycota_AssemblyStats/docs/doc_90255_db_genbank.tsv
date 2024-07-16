@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/90255_assembly_stats_genbank.txt	90255	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/118/155/GCA_025118155.1_Cokrec1/GCA_025118155.1_Cokrec1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_025118155.1	PRJNA364356	SAMN06265828	90255	strain=NRRL 2243	latest	Major	Full	2022-09-09	DOE Joint Genome Institute

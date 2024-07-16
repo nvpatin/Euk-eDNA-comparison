@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/41139_assembly_stats_genbank.txt	41139	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/568/925/GCA_003568925.1_Csep_MD8_v1/GCA_003568925.1_Csep_MD8_v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_003568925.1	PRJDB7050	SAMD00119387	41139	strain=MD8	latest	Major	Full	2018-08-24	National Institute for Basic Biology

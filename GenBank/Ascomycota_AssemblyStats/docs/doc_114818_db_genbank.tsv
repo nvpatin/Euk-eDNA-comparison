@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/114818_assembly_stats_genbank.txt	114818	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/426/265/GCA_003426265.1_ASM342626v1/GCA_003426265.1_ASM342626v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003426265.1	PRJNA395971	SAMN07418608	114818	strain=IHI A66	latest	Major	Full	2018-08-23	IHI Zittau / TU Dresden

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/49451_assembly_stats_genbank.txt	49451	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/879/085/GCA_001879085.1_NIATTr2/GCA_001879085.1_NIATTr2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_001879085.1	PRJNA316810	SAMN04590212	49451	strain=UT	latest	Major	Full	2016-11-15	Max Planck Institute for Chemical Ecology

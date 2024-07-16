@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/103600_assembly_stats_genbank.txt	103600	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/521/335/GCA_003521335.2_S_chinensis_fine_genome_map/GCA_003521335.2_S_chinensis_fine_genome_map_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_003521335.2	PRJNA449414	SAMN08903183	103600	na	latest	Major	Full	2019-02-01	Shantou university

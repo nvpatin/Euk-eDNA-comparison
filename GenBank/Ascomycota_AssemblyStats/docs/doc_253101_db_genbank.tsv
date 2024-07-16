@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/253101_assembly_stats_genbank.txt	253101	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/399/465/GCA_001399465.1_H_scutula_V1/GCA_001399465.1_H_scutula_V1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001399465.1	PRJNA297978	SAMN04151791	253101	strain=CBS 480.97	latest	Major	Full	2015-10-19	University of Exeter

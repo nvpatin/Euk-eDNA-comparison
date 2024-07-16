@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2486360_assembly_stats_genbank.txt	2486360	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/695/815/GCA_022695815.1_EurotioJF033F_1/GCA_022695815.1_EurotioJF033F_1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_022695815.1	PRJNA500555	SAMN10366861	2486360	strain=JF 03-3F	latest	Major	Full	2022-03-25	DOE Joint Genome Institute

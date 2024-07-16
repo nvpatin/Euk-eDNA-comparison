@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1603990_assembly_stats_genbank.txt	1603990	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/988/945/GCA_003988945.1_ASM398894v1/GCA_003988945.1_ASM398894v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_003988945.1	PRJNA487672	SAMN09907758	1603990	strain=D792	latest	Major	Full	2018-12-31	Manaaki Whenua Landcare Research

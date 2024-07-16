@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/121554_assembly_stats_genbank.txt	121554	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/910/821/995/GCA_910821995.1_dSenSqu2.1_alternate_haplotype/GCA_910821995.1_dSenSqu2.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_910821995.1	PRJEB46110	SAMEA5248730	121554	na	latest	Major	Full	2022-02-18	Wellcome Sanger Institute

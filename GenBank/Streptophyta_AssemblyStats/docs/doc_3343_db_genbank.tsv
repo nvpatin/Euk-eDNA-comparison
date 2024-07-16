@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3343_assembly_stats_genbank.txt	3343	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/447/015/GCA_001447015.2_Sugar_pine_JHU_assembly/GCA_001447015.2_Sugar_pine_JHU_assembly_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_001447015.2	PRJNA174450	SAMN03354659	3343	na	latest	Minor	Full	2015-11-17	TreeGenes Database

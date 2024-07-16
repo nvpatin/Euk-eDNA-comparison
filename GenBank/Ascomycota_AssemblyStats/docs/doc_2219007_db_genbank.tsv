@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2219007_assembly_stats_genbank.txt	2219007	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/709/995/GCA_949709995.1_gpAraPeru1.1/GCA_949709995.1_gpAraPeru1.1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_949709995.1	PRJEB60736	SAMEA8100275	2219007	na	latest	Major	Full	2023-03-28	WELLCOME SANGER INSTITUTE

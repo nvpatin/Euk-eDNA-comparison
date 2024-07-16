@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/76338_assembly_stats_genbank.txt	76338	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/086/565/GCA_008086565.1_UOO_Thbifa_1.2/GCA_008086565.1_UOO_Thbifa_1.2_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_008086565.1	PRJNA293777	SAMN10258813	76338	na	latest	Major	Full	2019-08-02	University of Otago

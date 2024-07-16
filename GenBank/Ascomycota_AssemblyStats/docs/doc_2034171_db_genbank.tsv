@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2034171_assembly_stats_genbank.txt	2034171	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/311/225/GCA_017311225.1_ASM1731122v1/GCA_017311225.1_ASM1731122v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_017311225.1	PRJNA685005	SAMN17073864	2034171	strain=TC967	latest	Major	Full	2021-03-09	Institute of microbiology, Chinese academy of sciences

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/37032_assembly_stats_genbank.txt	37032	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/023/905/GCA_004023905.1_SurSur_v1_BIUU/GCA_004023905.1_SurSur_v1_BIUU_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_004023905.1	PRJNA399357	SAMN07678040	37032	na	latest	Major	Full	2019-01-15	Broad Institute

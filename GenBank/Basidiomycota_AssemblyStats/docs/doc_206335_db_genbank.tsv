@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/206335_assembly_stats_genbank.txt	206335	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/501/585/GCA_015501585.1_Rhobut1_1/GCA_015501585.1_Rhobut1_1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_015501585.1	PRJNA333300	SAMN05446295	206335	strain=AH 40177	latest	Major	Full	2020-11-16	DOE Joint Genome Institute

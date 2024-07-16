@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/29808_assembly_stats_genbank.txt	29808	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/776/745/GCA_019776745.2_Ta-2021/GCA_019776745.2_Ta-2021_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_019776745.2	PRJNA730337	SAMN19228971	29808	na	latest	Major	Full	2022-01-26	Chinese academy of agriculture sciences

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9541_assembly_stats_genbank.txt	9541	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/222/185/GCA_000222185.1_MacFas_Jun2011/GCA_000222185.1_MacFas_Jun2011_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000222185.1	PRJEA48347	SAMEA2272428	9541	na	latest	Major	Full	2011-07-23	F. Hoffmann-La Roche Ltd

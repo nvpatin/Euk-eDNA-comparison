@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/522482_assembly_stats_genbank.txt	522482	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/778/215/GCA_002778215.1_ASM277821v1/GCA_002778215.1_ASM277821v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_002778215.1	PRJNA395605	SAMN07414045	522482	strain=CBS 115803	latest	Major	Full	2017-11-16	University of Montana

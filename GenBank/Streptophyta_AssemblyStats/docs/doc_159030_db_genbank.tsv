@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/159030_assembly_stats_genbank.txt	159030	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/617/385/GCA_025617385.1_AGM_Bkoe_4.1/GCA_025617385.1_AGM_Bkoe_4.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_025617385.1	PRJNA480766	SAMN09644840	159030	cultivar=Suvasini	latest	Major	Full	2022-10-11	AgriGenome Labs Pvt Ltd

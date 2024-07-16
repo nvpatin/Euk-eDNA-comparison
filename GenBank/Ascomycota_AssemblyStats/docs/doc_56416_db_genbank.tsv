@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/56416_assembly_stats_genbank.txt	56416	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/134/825/GCA_025134825.1_LMA-1150_v1/GCA_025134825.1_LMA-1150_v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_025134825.1	PRJNA486756	SAMN09863034	56416	strain=LMA-1150	latest	Major	Full	2022-09-11	Universite Laval

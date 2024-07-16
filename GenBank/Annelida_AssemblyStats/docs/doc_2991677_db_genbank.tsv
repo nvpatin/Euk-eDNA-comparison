@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Annelid_AssemblyStats/2991677_assembly_stats_genbank.txt	2991677	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/360/585/GCA_032360585.1_ASM3236058v1/GCA_032360585.1_ASM3236058v1_assembly_stats.txt	genbank	GenBank/Annelid_AssemblyStats	representative genome	GCA_032360585.1	PRJNA981530	SAMN35677699	2991677	na	latest	Major	Full	2023-10-04	Iridian Genomes

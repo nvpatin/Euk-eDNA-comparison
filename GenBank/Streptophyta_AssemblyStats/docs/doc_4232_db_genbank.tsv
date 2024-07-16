@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/4232_assembly_stats_genbank.txt	4232	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/651/675/GCA_026651675.1_HanLR1r0.9-20211115/GCA_026651675.1_HanLR1r0.9-20211115_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_026651675.1	PRJNA841497	SAMN28597211	4232	cultivar=LR1	latest	Major	Full	2022-12-07	International Consortium on Sunflower Genomics

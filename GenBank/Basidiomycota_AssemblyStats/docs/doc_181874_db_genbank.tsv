@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/181874_assembly_stats_genbank.txt	181874	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/938/355/GCA_002938355.1_ASM293835v1/GCA_002938355.1_ASM293835v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_002938355.1	PRJNA387735	SAMN07166494	181874	strain=2629	latest	Major	Full	2018-02-22	Ohio State University

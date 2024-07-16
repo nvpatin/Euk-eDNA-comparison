@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/55181_assembly_stats_genbank.txt	55181	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/604/955/GCA_001604955.1_ASM160495v1/GCA_001604955.1_ASM160495v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001604955.1	PRJNA301361	SAMN04244451	55181	strain=Gc12	latest	Major	Full	2016-03-31	Citrus Research and Education Center, University of Florida

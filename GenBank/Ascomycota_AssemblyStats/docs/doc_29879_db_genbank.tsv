@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/29879_assembly_stats_genbank.txt	29879	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/803/805/GCA_009803805.1_ASM980380v1/GCA_009803805.1_ASM980380v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_009803805.1	PRJNA487060	SAMN09910564	29879	strain=PS4BIDRA449, /ecotype=NMWA	latest	Major	Full	2019-12-27	University of California, Berkeley

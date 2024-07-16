@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Phaeophyceae_AssemblyStats/2880_assembly_stats_genbank.txt	2880	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/310/025/GCA_000310025.1_ASM31002v1/GCA_000310025.1_ASM31002v1_assembly_stats.txt	genbank	GenBank/Phaeophyceae_AssemblyStats	representative genome	GCA_000310025.1	PRJEA42625	SAMEA2271914	2880	strain=Ec 32	latest	Major	Full	2010-06-24	Genoscope - CEA

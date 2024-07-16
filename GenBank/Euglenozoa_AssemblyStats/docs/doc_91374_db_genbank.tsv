@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Euglenozoa_AssemblyStats/91374_assembly_stats_genbank.txt	91374	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/655/075/GCA_001655075.1_ASM165507v1/GCA_001655075.1_ASM165507v1_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	na	GCA_001655075.1	PRJNA301207	SAMN04241767	91374	strain=ATCC 50162	latest	Major	Full	2016-06-02	Juntendo University, Tokyo

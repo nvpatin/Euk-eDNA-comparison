@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/348802_assembly_stats_genbank.txt	348802	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/798/695/GCA_000798695.1_exoXen1.0/GCA_000798695.1_exoXen1.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_000798695.1	PRJNA265165	SAMN03145801	348802	strain=CBS 102455	latest	Major	Full	2014-12-08	University of Natural Resources and Life Sciences, Vienna

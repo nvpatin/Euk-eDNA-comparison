@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Euglenozoa_AssemblyStats/5697_assembly_stats_genbank.txt	5697	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/917/563/935/GCA_917563935.1_Assembly1/GCA_917563935.1_Assembly1_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	representative genome	GCA_917563935.1	PRJEB2008	SAMEA911901	5697	na	latest	Major	Full	2021-10-15	Wellcome Sanger Institute

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/261450_assembly_stats_genbank.txt	261450	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/680/905/GCA_015680905.1_ASM1568090v1/GCA_015680905.1_ASM1568090v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_015680905.1	PRJNA662860	SAMN16094608	261450	na	latest	Major	Full	2020-12-01	Hubei University of Chinese Medicine

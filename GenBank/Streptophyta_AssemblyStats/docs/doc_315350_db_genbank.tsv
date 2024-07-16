@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/315350_assembly_stats_genbank.txt	315350	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/758/845/GCA_025758845.1_ASM2575884v1/GCA_025758845.1_ASM2575884v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_025758845.1	PRJNA865891	SAMN30141926	315350	cultivar=LA0483	latest	Major	Full	2022-10-20	Sun Yat-Sen University

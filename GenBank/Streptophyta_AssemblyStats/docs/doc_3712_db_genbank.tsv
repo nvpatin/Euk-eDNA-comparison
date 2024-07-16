@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3712_assembly_stats_genbank.txt	3712	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/416/815/GCA_900416815.2_Brassica_oleracea_HDEM/GCA_900416815.2_Brassica_oleracea_HDEM_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_900416815.2	PRJEB26621	SAMEA4646675	3712	na	latest	Major	Full	2018-07-11	GSC

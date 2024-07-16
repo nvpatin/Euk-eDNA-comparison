@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/22663_assembly_stats_genbank.txt	22663	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/201/585/GCA_002201585.1_ASM220158v1/GCA_002201585.1_ASM220158v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_002201585.1	PRJNA360679	SAMN06227009	22663	cultivar=Dabenzi	latest	Major	Full	2017-06-20	BGI-Shenzen

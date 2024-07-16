@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/51453_assembly_stats_genbank.txt	51453	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/835/125/GCA_009835125.1_ASM983512v1/GCA_009835125.1_ASM983512v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_009835125.1	PRJNA352653	SAMN05990618	51453	strain=CBS999.97	latest	Major	Full	2020-01-09	Academia Sinica

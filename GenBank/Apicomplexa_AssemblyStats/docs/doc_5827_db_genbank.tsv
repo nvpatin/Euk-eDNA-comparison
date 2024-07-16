@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Apicomplexa_AssemblyStats/5827_assembly_stats_genbank.txt	5827	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/180/395/GCA_900180395.1_PcyM/GCA_900180395.1_PcyM_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	na	GCA_900180395.1	PRJEB2243	SAMEA695046	5827	strain=M	latest	Major	Full	2017-04-27	SC

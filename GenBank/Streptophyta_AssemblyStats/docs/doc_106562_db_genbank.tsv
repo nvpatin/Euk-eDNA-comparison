@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/106562_assembly_stats_genbank.txt	106562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/883/245/GCA_033883245.1_MO/GCA_033883245.1_MO_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_033883245.1	PRJNA869488	SAMN30308638	106562	na	latest	Major	Full	2023-11-22	China Agricultural University

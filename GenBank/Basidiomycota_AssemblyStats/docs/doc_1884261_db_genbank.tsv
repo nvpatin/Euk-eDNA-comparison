@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/1884261_assembly_stats_genbank.txt	1884261	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/369/125/GCA_004369125.1_Ptegra1/GCA_004369125.1_Ptegra1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_004369125.1	PRJNA333969	SAMN05519225	1884261	strain=CBS 309.79	latest	Major	Full	2019-03-25	DOE Joint Genome Institute

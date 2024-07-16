@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9915_assembly_stats_genbank.txt	9915	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/247/795/GCA_000247795.2_Bos_indicus_1.0/GCA_000247795.2_Bos_indicus_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_000247795.2	PRJNA72827	SAMN02953802	9915	breed=Nelore	latest	Major	Full	2014-11-25	Genoa Biotecnologia SA

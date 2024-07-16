@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/86256_assembly_stats_genbank.txt	86256	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/689/065/GCA_003689065.1_ASM368906v1/GCA_003689065.1_ASM368906v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003689065.1	PRJNA407103	SAMN07816546	86256	strain=2353, /ecotype=asperata	latest	Major	Full	2018-10-26	INRA

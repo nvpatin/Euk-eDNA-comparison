@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/323379_assembly_stats_genbank.txt	323379	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/024/685/GCA_004024685.1_DipSte_v1_BIUU/GCA_004024685.1_DipSte_v1_BIUU_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_004024685.1	PRJNA399390	SAMN07678080	323379	na	latest	Major	Full	2019-01-15	Broad Institute

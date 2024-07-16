@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/77151_assembly_stats_genbank.txt	77151	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/355/385/GCA_022355385.1_MUSNIG.SB6536/GCA_022355385.1_MUSNIG.SB6536_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_022355385.1	PRJNA634921	SAMN15012758	77151	na	latest	Major	Full	2022-02-24	Smithsonian Institution

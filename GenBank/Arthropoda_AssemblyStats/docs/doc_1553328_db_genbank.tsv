@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/1553328_assembly_stats_genbank.txt	1553328	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/298/695/GCA_029298695.1_icGnaCorn1.1_alternate_haplotype/GCA_029298695.1_icGnaCorn1.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_029298695.1	PRJNA816610	SAMN21903851	1553328	na	latest	Major	Full	2023-03-20	USDA Ag100Pest

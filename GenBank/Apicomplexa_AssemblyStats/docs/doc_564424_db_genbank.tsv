@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Apicomplexa_AssemblyStats/564424_assembly_stats_genbank.txt	564424	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/337/835/GCA_004337835.1_UKCU2.v0/GCA_004337835.1_UKCU2.v0_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	representative genome	GCA_004337835.1	PRJNA315496	SAMN08383019	564424	strain=UKCU2	latest	Major	Full	2019-03-11	Public Health Wales (Microbiology)

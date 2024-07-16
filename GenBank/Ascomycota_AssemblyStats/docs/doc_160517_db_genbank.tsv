@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/160517_assembly_stats_genbank.txt	160517	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/179/035/GCA_015179035.1_Tirniv1/GCA_015179035.1_Tirniv1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_015179035.1	PRJNA519903	SAMN10865787	160517	strain=G3	latest	Major	Full	2020-11-02	DOE Joint Genome Institute

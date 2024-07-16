@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Apicomplexa_AssemblyStats/2853593_assembly_stats_genbank.txt	2853593	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/968/955/GCA_019968955.1_MNHN_PgigA_v1/GCA_019968955.1_MNHN_PgigA_v1_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	representative genome	GCA_019968955.1	PRJNA734792	SAMN19872688	2853593	na	latest	Major	Full	2021-09-14	Museum national d'Histoire naturelle

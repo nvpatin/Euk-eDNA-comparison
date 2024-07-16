@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/298894_assembly_stats_genbank.txt	298894	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/658/305/GCA_028658305.1_Pachyuromys_duprasi_HiC/GCA_028658305.1_Pachyuromys_duprasi_HiC_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_028658305.1	PRJNA512907	SAMN16895770	298894	na	latest	Major	Full	2023-02-17	DNA Zoo

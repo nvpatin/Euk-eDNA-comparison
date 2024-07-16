@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/254901_assembly_stats_genbank.txt	254901	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/360/205/GCA_018360205.1_CSU_CCC659_v1/GCA_018360205.1_CSU_CCC659_v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_018360205.1	PRJNA528707	SAMN11159892	254901	strain=CCC 659	latest	Major	Full	2021-05-14	None

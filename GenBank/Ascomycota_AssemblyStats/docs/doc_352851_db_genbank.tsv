@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/352851_assembly_stats_genbank.txt	352851	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/531/795/GCA_029531795.1_NWAFU_SnTB1_1.0/GCA_029531795.1_NWAFU_SnTB1_1.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_029531795.1	PRJNA885313	SAMN31086959	352851	strain=SnTB1	latest	Major	Full	2023-04-06	Northwest A&F University

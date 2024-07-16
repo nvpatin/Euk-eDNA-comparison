@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/198730_assembly_stats_genbank.txt	198730	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/305/275/GCA_001305275.1_ASM130527v1/GCA_001305275.1_ASM130527v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001305275.1	PRJNA291496	SAMN03944927	198730	strain=TS63-9	latest	Major	Full	2015-10-01	Penicillium verruculosum

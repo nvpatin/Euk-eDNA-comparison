@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/35875_assembly_stats_genbank.txt	35875	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/737/815/GCA_030737815.1_ASM3073781v1/GCA_030737815.1_ASM3073781v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_030737815.1	PRJNA948806	SAMN33919369	35875	cultivar=no	latest	Major	Full	2023-08-16	Northwestern Polytechnical University

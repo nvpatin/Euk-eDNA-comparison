@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chlorophyta_AssemblyStats/554055_assembly_stats_genbank.txt	554055	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/245/815/GCA_002245815.2_ASM224581v2/GCA_002245815.2_ASM224581v2_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_002245815.2	PRJNA290385	SAMN03863807	554055	strain=SAG 241.80	latest	Major	Full	2018-03-21	University of Minnesota

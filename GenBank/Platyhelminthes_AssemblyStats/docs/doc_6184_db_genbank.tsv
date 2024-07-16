@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Platyhelminthes_AssemblyStats/6184_assembly_stats_genbank.txt	6184	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/958/945/GCA_003958945.1_ASM395894v1/GCA_003958945.1_ASM395894v1_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	na	GCA_003958945.1	PRJNA451066	SAMN08957538	6184	strain=TAN1997	latest	Major	Full	2019-02-15	University of Queensland

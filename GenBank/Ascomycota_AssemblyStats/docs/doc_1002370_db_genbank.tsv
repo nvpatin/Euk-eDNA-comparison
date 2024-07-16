@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1002370_assembly_stats_genbank.txt	1002370	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/247/855/GCA_030247855.1_UCR_TK_35/GCA_030247855.1_UCR_TK_35_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_030247855.1	PRJNA631111	SAMN14852395	1002370	strain=TK_35	latest	Major	Full	2023-06-09	University of California, Riverside

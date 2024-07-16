@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/72228_assembly_stats_genbank.txt	72228	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/648/815/GCA_001648815.1_ASM164881v1/GCA_001648815.1_ASM164881v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001648815.1	PRJNA315178	SAMN04550853	72228	strain=ZJB12195	latest	Major	Full	2016-05-20	Zhejiang University of Technology

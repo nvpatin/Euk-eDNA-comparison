@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/230808_assembly_stats_genbank.txt	230808	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/378/395/GCA_029378395.1_Myclep1/GCA_029378395.1_Myclep1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_029378395.1	PRJNA369994	SAMN06296040	230808	strain=CBHHK5/15	latest	Major	Full	2023-03-24	DOE Joint Genome Institute

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/3634_assembly_stats_genbank.txt	3634	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/997/955/GCA_018997955.1_ASM1899795v1/GCA_018997955.1_ASM1899795v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_018997955.1	PRJNA680449	SAMN16880046	3634	cultivar=Pima90	latest	Major	Full	2021-06-24	Hebei Agricultural University

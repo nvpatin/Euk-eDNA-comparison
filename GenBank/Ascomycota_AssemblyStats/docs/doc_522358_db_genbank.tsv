@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/522358_assembly_stats_genbank.txt	522358	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/006/135/GCA_900006135.1_D_tyrocola_PRJEB9675/GCA_900006135.1_D_tyrocola_PRJEB9675_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_900006135.1	PRJEB9675	SAMEA3498578	522358	na	latest	Major	Full	2023-06-12	Genoscope CEA

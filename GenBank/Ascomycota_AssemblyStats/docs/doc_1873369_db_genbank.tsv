@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1873369_assembly_stats_genbank.txt	1873369	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/696/595/GCA_001696595.2_ASM169659v2/GCA_001696595.2_ASM169659v2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001696595.2	PRJNA328536	SAMN05375032	1873369	strain=FRR 3425	latest	Major	Full	2020-09-18	CSIRO

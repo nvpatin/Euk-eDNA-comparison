@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/37548_assembly_stats_genbank.txt	37548	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/688/575/GCA_000688575.1_CavAp1.0/GCA_000688575.1_CavAp1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_000688575.1	PRJNA212237	SAMN02252454	37548	na	latest	Major	Full	2014-01-21	Leibniz Institute for Zoo and Wildlife research

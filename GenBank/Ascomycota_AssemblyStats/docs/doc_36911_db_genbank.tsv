@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/36911_assembly_stats_genbank.txt	36911	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/498/095/GCA_009498095.1_ASM949809v1/GCA_009498095.1_ASM949809v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_009498095.1	PRJNA504391	SAMN10390875	36911	strain=P3	latest	Major	Full	2019-11-04	University of Lausanne

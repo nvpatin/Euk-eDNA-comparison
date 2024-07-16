@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/33425_assembly_stats_genbank.txt	33425	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/068/445/GCA_900068445.1_Heliconius_hecale.STRI_001/GCA_900068445.1_Heliconius_hecale.STRI_001_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_900068445.1	PRJEB8011	SAMEA3670533	33425	na	latest	Major	Full	2017-04-27	CAM

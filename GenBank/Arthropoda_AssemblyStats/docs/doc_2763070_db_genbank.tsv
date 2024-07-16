@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/2763070_assembly_stats_genbank.txt	2763070	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/170/035/GCA_016170035.1_AlikF1/GCA_016170035.1_AlikF1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_016170035.1	PRJNA531511	SAMN11380177	2763070	na	latest	Major	Full	2020-12-22	University of Notre Dame

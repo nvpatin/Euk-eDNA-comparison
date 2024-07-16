@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2874382_assembly_stats_genbank.txt	2874382	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/925/625/GCA_019925625.1_ASM1992562v1/GCA_019925625.1_ASM1992562v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_019925625.1	PRJNA667796	SAMN16384040	2874382	strain=VPRI43762	latest	Major	Full	2021-09-10	Agriculture Victoria Research

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/127956_assembly_stats_genbank.txt	127956	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/029/095/GCA_021029095.1_Pheni1/GCA_021029095.1_Pheni1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_021029095.1	PRJNA460321	SAMN09070683	127956	strain=SigPhenig9	latest	Major	Full	2021-12-03	DOE Joint Genome Institute

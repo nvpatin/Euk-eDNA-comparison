@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/47428_assembly_stats_genbank.txt	47428	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/157/425/GCA_900157425.1_version_2/GCA_900157425.1_version_2_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_900157425.1	PRJEB19205	SAMEA54519418	47428	strain=C18/9	latest	Major	Full	2017-09-28	Technische Universitat Munchen - WZW

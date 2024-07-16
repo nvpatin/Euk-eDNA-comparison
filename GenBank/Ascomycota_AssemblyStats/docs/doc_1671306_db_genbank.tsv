@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1671306_assembly_stats_genbank.txt	1671306	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/868/215/GCA_003868215.1_ASM386821v1/GCA_003868215.1_ASM386821v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_003868215.1	PRJNA486708	SAMN09862437	1671306	strain=M24	latest	Major	Full	2018-12-06	University of Bari """"A. Moro""""

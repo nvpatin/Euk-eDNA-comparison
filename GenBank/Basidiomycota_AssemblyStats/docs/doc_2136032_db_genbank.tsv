@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/2136032_assembly_stats_genbank.txt	2136032	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/663/475/GCA_024663475.1_Pisthe1/GCA_024663475.1_Pisthe1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_024663475.1	PRJNA500535	SAMN10363162	2136032	strain=11	latest	Major	Full	2022-08-12	DOE Joint Genome Institute

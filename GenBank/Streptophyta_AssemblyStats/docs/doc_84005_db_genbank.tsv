@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/84005_assembly_stats_genbank.txt	84005	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/822/125/GCA_014822125.1_UAlgCV_Aunedo_01/GCA_014822125.1_UAlgCV_Aunedo_01_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_014822125.1	PRJNA625056	SAMN14592271	84005	na	latest	Major	Full	2020-09-30	University of Algarve

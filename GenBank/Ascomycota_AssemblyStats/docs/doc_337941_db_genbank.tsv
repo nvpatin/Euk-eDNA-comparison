@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/337941_assembly_stats_genbank.txt	337941	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/246/955/GCA_002246955.1_ASM224695v1/GCA_002246955.1_ASM224695v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002246955.1	PRJNA356137	SAMN06106985	337941	strain=POS7	latest	Major	Full	2017-08-11	INBIOMIS

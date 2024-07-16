@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/42260_assembly_stats_genbank.txt	42260	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/402/915/GCA_013402915.1_ASM1340291v1/GCA_013402915.1_ASM1340291v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_013402915.1	PRJNA625702	SAMN14605243	42260	strain=NRRL Y-6702	latest	Major	Full	2020-07-12	University College Dublin

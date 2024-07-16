@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/28584_assembly_stats_genbank.txt	28584	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/326/985/GCA_000326985.1_ASM32698v1/GCA_000326985.1_ASM32698v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000326985.1	PRJEB132	SAMEA2272522	28584	na	latest	Major	Full	2012-09-10	CRI-FEM

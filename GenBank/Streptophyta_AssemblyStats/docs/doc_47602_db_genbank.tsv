@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/47602_assembly_stats_genbank.txt	47602	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/496/765/GCA_020496765.1_ZSTU_Gsto/GCA_020496765.1_ZSTU_Gsto_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_020496765.1	PRJNA707270	SAMN18193058	47602	ecotype=E1	latest	Major	Full	2021-10-14	zstu

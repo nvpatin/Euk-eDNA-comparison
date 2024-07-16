@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9489_assembly_stats_genbank.txt	9489	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/575/265/GCA_963575265.1_PGDP_LeoNig/GCA_963575265.1_PGDP_LeoNig_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_963575265.1	PRJEB67744	SAMEA14464484	9489	na	latest	Major	Full	2023-11-03	IBE(CSIC-UNIVERSITAT POMPEU FABRA)

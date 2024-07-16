@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Platyhelminthes_AssemblyStats/3003519_assembly_stats_genbank.txt	3003519	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/672/205/GCA_028672205.1_ASM2867220v1/GCA_028672205.1_ASM2867220v1_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	representative genome	GCA_028672205.1	PRJNA910576	SAMN32134074	3003519	na	latest	Major	Full	2023-02-16	Geneva Natural History Museum

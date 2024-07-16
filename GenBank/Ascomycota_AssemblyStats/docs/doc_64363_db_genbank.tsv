@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/64363_assembly_stats_genbank.txt	64363	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/236/585/GCA_002236585.2_DEN1.long/GCA_002236585.2_DEN1.long_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002236585.2	PRJNA381823	SAMN06689747	64363	strain=CMW 40004	latest	Major	Full	2019-04-09	Massey University

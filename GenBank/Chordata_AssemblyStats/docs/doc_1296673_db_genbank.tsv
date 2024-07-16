@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/1296673_assembly_stats_genbank.txt	1296673	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/457/695/GCA_019457695.2_c.ornata.1/GCA_019457695.2_c.ornata.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_019457695.2	PRJNA742155	SAMN19929648	1296673	na	latest	Major	Full	2023-08-10	CENTRAL FORENSIC SCIENCE LABORATORY

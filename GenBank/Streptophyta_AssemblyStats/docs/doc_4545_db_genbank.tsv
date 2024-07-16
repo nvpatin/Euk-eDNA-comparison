@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/4545_assembly_stats_genbank.txt	4545	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/311/845/GCA_947311845.1_Poa_pratensis_v1/GCA_947311845.1_Poa_pratensis_v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_947311845.1	PRJEB51672	SAMEA13409760	4545	na	latest	Major	Full	2022-12-02	panand

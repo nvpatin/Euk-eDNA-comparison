@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/326628_assembly_stats_genbank.txt	326628	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/049/155/GCA_003049155.1_ASM304915v1/GCA_003049155.1_ASM304915v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003049155.1	PRJNA436447	SAMN08625102	326628	strain=MG137	latest	Major	Full	2018-04-11	Biotechnology and Nuclear Technology Research Institute

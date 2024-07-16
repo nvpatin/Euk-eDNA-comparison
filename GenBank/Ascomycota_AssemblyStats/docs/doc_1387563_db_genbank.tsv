@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1387563_assembly_stats_genbank.txt	1387563	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/167/195/GCA_002167195.1_ASM216719v1/GCA_002167195.1_ASM216719v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002167195.1	PRJNA375796	SAMN06345888	1387563	strain=MYCO-ARIZ AN0400001	latest	Major	Full	2017-06-05	University of Arizona

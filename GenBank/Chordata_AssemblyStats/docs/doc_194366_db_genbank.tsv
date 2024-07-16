@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/194366_assembly_stats_genbank.txt	194366	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/869/775/GCA_009869775.1_ASM986977v1/GCA_009869775.1_ASM986977v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_009869775.1	PRJNA269572	SAMN10457884	194366	na	latest	Major	Full	2020-01-14	Hunan Normal Univesity

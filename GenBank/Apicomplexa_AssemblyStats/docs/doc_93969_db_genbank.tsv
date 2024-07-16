@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Apicomplexa_AssemblyStats/93969_assembly_stats_genbank.txt	93969	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/593/445/GCA_001593445.1_CryMelUKMEL1-1.0/GCA_001593445.1_CryMelUKMEL1-1.0_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	representative genome	GCA_001593445.1	PRJNA222838	SAMN02666797	93969	strain=UKMEL1	latest	Major	Full	2016-03-17	IGS

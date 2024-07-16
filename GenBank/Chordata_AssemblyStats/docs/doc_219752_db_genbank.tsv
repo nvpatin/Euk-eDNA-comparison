@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/219752_assembly_stats_genbank.txt	219752	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/825/785/GCA_014825785.1_GWU_Obon_1.1/GCA_014825785.1_GWU_Obon_1.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_014825785.1	PRJNA327688	SAMN09607192	219752	na	latest	Major	Full	2020-09-30	George Washington University

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/7252_assembly_stats_genbank.txt	7252	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/143/765/GCA_004143765.1_ASM414376v1/GCA_004143765.1_ASM414376v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_004143765.1	PRJNA512892	SAMN10699364	7252	na	latest	Major	Full	2019-02-06	Rutgers University

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/115357_assembly_stats_genbank.txt	115357	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/865/315/GCA_003865315.1_Haxy_h_NT8_v1/GCA_003865315.1_Haxy_h_NT8_v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_003865315.1	PRJDB7050	SAMD00119386	115357	strain=NT8_h	latest	Major	Full	2018-09-26	National Institute for Basic Biology

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chlorophyta_AssemblyStats/135269_assembly_stats_genbank.txt	135269	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/356/305/GCA_032356305.1_ASM3235630v1/GCA_032356305.1_ASM3235630v1_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_032356305.1	PRJNA894626	SAMN35990805	135269	na	latest	Major	Full	2023-10-04	Iridian Genomes

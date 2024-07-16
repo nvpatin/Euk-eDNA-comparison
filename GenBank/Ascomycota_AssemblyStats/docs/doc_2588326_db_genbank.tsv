@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2588326_assembly_stats_genbank.txt	2588326	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/296/685/GCA_033296685.1_Corin1/GCA_033296685.1_Corin1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_033296685.1	PRJNA441722	SAMN09643958	2588326	strain=CBS 284.82	latest	Major	Full	2023-10-26	DOE Joint Genome Institute

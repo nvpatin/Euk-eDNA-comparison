@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/498019_assembly_stats_genbank.txt	498019	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/275/145/GCA_008275145.1_ASM827514v1/GCA_008275145.1_ASM827514v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_008275145.1	PRJNA328792	SAMN05379621	498019	strain=B11245	latest	Major	Full	2019-09-05	Centers for Disease Control and Prevention

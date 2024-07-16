@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/62062_assembly_stats_genbank.txt	62062	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/317/085/GCA_003317085.1_ASM331708v1/GCA_003317085.1_ASM331708v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_003317085.1	PRJNA475010	SAMN09378492	62062	na	latest	Major	Full	2018-07-13	University Of Aberdeen

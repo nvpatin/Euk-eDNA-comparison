@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5078_assembly_stats_genbank.txt	5078	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/561/935/GCA_001561935.1_ASM156193v1/GCA_001561935.1_ASM156193v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001561935.1	PRJNA289974	SAMN03860337	5078	strain=PG3	latest	Major	Full	2016-02-16	University of Turin

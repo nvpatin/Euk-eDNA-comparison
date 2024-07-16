@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/42636_assembly_stats_genbank.txt	42636	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/856/365/GCA_023856365.1_BBRACH_0.4/GCA_023856365.1_BBRACH_0.4_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_023856365.1	PRJNA845764	SAMN28860763	42636	na	latest	Major	Full	2022-06-28	Michigan State University

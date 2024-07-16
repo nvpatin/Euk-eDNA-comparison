@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/118354_assembly_stats_genbank.txt	118354	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/656/275/GCA_019656275.1_RKI_r1.0/GCA_019656275.1_RKI_r1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_019656275.1	PRJDB11740	SAMD00325932	118354	na	latest	Major	Full	2021-06-21	Kazusa DNA Research Institute

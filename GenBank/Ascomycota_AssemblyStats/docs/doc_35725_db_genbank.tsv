@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/35725_assembly_stats_genbank.txt	35725	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/051/165/GCA_001051165.1_MRF1/GCA_001051165.1_MRF1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001051165.1	PRJNA271369	SAMN03274156	35725	strain=MRf1	latest	Major	Full	2015-07-09	Junagadh Agricultural University, Junagadh

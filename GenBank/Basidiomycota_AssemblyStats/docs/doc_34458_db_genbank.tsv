@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/34458_assembly_stats_genbank.txt	34458	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/855/635/GCA_001855635.1_ASM185563v1/GCA_001855635.1_ASM185563v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_001855635.1	PRJNA287769	SAMN03786845	34458	strain=NJ3	latest	Major	Full	2016-10-28	CIRAD

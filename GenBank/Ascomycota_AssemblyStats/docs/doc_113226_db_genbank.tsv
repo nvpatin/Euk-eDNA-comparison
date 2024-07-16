@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/113226_assembly_stats_genbank.txt	113226	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/578/225/GCA_001578225.1_ASM157822v1/GCA_001578225.1_ASM157822v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001578225.1	PRJNA289098	SAMN03842026	113226	strain=CBS 116634	latest	Major	Full	2016-03-01	University of California Davis

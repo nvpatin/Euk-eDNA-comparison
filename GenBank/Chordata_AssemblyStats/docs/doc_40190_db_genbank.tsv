@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/40190_assembly_stats_genbank.txt	40190	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/115/GCA_015109115.1_KFH4.scf/GCA_015109115.1_KFH4.scf_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_015109115.1	PRJNA550295	SAMN12124005	40190	na	latest	Major	Full	2020-10-29	CICHLID~X

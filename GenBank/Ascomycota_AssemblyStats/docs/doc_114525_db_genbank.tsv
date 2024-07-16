@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/114525_assembly_stats_genbank.txt	114525	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/918/250/775/GCA_918250775.1_IFO1815/GCA_918250775.1_IFO1815_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_918250775.1	PRJEB48264	SAMN04961128	114525	strain=IFO1815	latest	Major	Full	2022-11-27	University of Oslo

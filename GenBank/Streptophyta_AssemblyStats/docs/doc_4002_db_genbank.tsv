@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/4002_assembly_stats_genbank.txt	4002	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/561/485/GCA_947561485.1_drBuxSemp1.1_alternate_haplotype/GCA_947561485.1_drBuxSemp1.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_947561485.1	PRJEB58114	SAMEA7522626	4002	na	latest	Major	Full	2022-12-11	WELLCOME SANGER INSTITUTE

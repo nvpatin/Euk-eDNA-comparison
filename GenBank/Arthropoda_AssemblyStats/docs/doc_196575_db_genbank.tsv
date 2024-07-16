@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/196575_assembly_stats_genbank.txt	196575	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/063/505/GCA_022063505.1_RBINS_Cgran_v1/GCA_022063505.1_RBINS_Cgran_v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_022063505.1	PRJNA706924	SAMN18268104	196575	na	latest	Major	Full	2022-02-08	Royal Belgian Institute of Natural Sciences

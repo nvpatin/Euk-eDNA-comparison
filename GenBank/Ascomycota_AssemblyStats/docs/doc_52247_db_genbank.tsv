@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/52247_assembly_stats_genbank.txt	52247	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/931/855/GCA_004931855.1_ASM493185v1/GCA_004931855.1_ASM493185v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_004931855.1	PRJNA517794	SAMN10845833	52247	strain=CBS 180	latest	Major	Full	2019-04-29	Centre for Genomic Regulation

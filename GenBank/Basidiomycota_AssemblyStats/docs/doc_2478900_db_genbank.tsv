@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/2478900_assembly_stats_genbank.txt	2478900	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/605/405/GCA_022605405.1_Earsca1/GCA_022605405.1_Earsca1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_022605405.1	PRJNA444029	SAMN08778677	2478900	strain=CIRM-BRFM 1817	latest	Major	Full	2022-03-16	DOE Joint Genome Institute

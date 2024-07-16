@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/60419_assembly_stats_genbank.txt	60419	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/763/605/GCA_000763605.2_ASM76360v2/GCA_000763605.2_ASM76360v2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_000763605.2	PRJNA46687	SAMN02640765	60419	cultivar=Vanuxem	latest	Major	Full	2020-04-08	Clemson University Genomics Institute

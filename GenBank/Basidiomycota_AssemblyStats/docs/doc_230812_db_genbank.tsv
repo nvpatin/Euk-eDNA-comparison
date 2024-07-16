@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/230812_assembly_stats_genbank.txt	230812	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/462/675/GCA_014462675.1_ASM1446267v1/GCA_014462675.1_ASM1446267v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_014462675.1	PRJNA623720	SAMN14825423	230812	strain=160909Yilan	latest	Major	Full	2020-09-03	Academia Sinica

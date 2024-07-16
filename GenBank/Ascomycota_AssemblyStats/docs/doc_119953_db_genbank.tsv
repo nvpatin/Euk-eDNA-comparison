@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/119953_assembly_stats_genbank.txt	119953	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/634/305/GCA_004634305.1_ASM463430v1/GCA_004634305.1_ASM463430v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_004634305.1	PRJNA482816	SAMN10078279	119953	strain=MOD1-FUNGI7	latest	Major	Full	2019-04-04	USFDA

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/93033_assembly_stats_genbank.txt	93033	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/097/275/GCA_016097275.1_ASM1609727v1/GCA_016097275.1_ASM1609727v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_016097275.1	PRJNA679179	SAMN16825489	93033	strain=IMI 345568	latest	Major	Full	2020-12-16	University Complutense of Madrid

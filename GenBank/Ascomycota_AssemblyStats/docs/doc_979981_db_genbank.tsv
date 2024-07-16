@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/979981_assembly_stats_genbank.txt	979981	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/646/985/GCA_001646985.1_ASM164698v1/GCA_001646985.1_ASM164698v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_001646985.1	PRJNA312449	SAMN04498469	979981	strain=CBS 980.96	latest	Major	Full	2016-05-18	Federal University of Parana

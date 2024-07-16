@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Apicomplexa_AssemblyStats/195482_assembly_stats_genbank.txt	195482	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/243/975/GCA_027243975.1_ASM2724397v1/GCA_027243975.1_ASM2724397v1_assembly_stats.txt	genbank	GenBank/Apicomplexa_AssemblyStats	na	GCA_027243975.1	PRJNA893096	SAMN31411652	195482	na	latest	Major	Full	2022-12-22	South China Agricultural University

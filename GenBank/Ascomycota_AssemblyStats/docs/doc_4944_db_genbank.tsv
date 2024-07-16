@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/4944_assembly_stats_genbank.txt	4944	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/936/155/GCA_001936155.1_KPH12/GCA_001936155.1_KPH12_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001936155.1	PRJNA295615	SAMN04076426	4944	strain=KPH12	latest	Major	Full	2017-01-05	Chung-Ang University

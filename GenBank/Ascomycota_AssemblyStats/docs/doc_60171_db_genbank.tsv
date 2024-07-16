@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/60171_assembly_stats_genbank.txt	60171	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/970/515/GCA_000970515.2_PV808_April18ReSeqReAss/GCA_000970515.2_PV808_April18ReSeqReAss_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_000970515.2	PRJNA276626	SAMN03380771	60171	strain=BFE808	latest	Major	Full	2018-07-03	Max Rubner-Institut

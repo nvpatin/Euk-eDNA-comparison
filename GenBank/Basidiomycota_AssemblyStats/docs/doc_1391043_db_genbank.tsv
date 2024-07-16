@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/1391043_assembly_stats_genbank.txt	1391043	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/376/465/GCA_022376465.1_Tralac1/GCA_022376465.1_Tralac1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_022376465.1	PRJNA444026	SAMN08778393	1391043	strain=CIRM-BRFM 1664	latest	Major	Full	2022-02-23	DOE Joint Genome Institute

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/61452_assembly_stats_genbank.txt	61452	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/422/525/GCA_027422525.1_ASM2742252v1/GCA_027422525.1_ASM2742252v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_027422525.1	PRJNA555324	SAMN12307471	61452	na	latest	Major	Full	2022-12-27	Smithsonian Institution

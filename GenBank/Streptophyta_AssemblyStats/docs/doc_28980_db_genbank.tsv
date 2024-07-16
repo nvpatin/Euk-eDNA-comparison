@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/28980_assembly_stats_genbank.txt	28980	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/258/455/GCA_007258455.2_SESE.2.2/GCA_007258455.2_SESE.2.2_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_007258455.2	PRJNA542879	SAMN11654426	28980	na	latest	Major	Full	2021-06-02	Johns Hopkins University

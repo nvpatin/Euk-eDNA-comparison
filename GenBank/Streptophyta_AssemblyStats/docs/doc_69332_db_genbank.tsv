@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/69332_assembly_stats_genbank.txt	69332	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/427/395/GCA_003427395.1_Cbr_1.0/GCA_003427395.1_Cbr_1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_003427395.1	PRJDB3348	SAMD00044344	69332	strain=S276	latest	Major	Full	2018-07-13	Kanazawa University

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/110545_assembly_stats_genbank.txt	110545	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/806/535/GCA_902806535.1_HR/GCA_902806535.1_HR_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_902806535.1	PRJEB36659	SAMEA6529084	110545	strain=MUCL 53309	latest	Major	Full	2020-06-05	CEBITEC

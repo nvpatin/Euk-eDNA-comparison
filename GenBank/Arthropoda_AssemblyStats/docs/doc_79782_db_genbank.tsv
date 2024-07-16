@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/79782_assembly_stats_genbank.txt	79782	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/460/545/GCA_001460545.1_ASM146054v1/GCA_001460545.1_ASM146054v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_001460545.1	PRJNA259363	SAMN03004270	79782	na	latest	Major	Full	2015-12-04	Weill Cornell Medical College

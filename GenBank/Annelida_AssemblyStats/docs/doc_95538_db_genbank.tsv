@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Annelid_AssemblyStats/95538_assembly_stats_genbank.txt	95538	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/095/985/GCA_019095985.1_ASM1909598v1/GCA_019095985.1_ASM1909598v1_assembly_stats.txt	genbank	GenBank/Annelid_AssemblyStats	representative genome	GCA_019095985.1	PRJNA721660	SAMN18729079	95538	na	latest	Major	Full	2021-07-06	North Carolina State University

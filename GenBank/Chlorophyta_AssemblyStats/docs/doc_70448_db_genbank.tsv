@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chlorophyta_AssemblyStats/70448_assembly_stats_genbank.txt	70448	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/214/015/GCA_000214015.2_version_140606/GCA_000214015.2_version_140606_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_000214015.2	PRJNA12912	SAMEA3138397	70448	strain=RCC4221	latest	Major	Full	2014-10-02	Laboratoire Arago, France

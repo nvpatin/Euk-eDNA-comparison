@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/185774_assembly_stats_genbank.txt	185774	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/894/105/GCA_018894105.1_Jmimo_V1/GCA_018894105.1_Jmimo_V1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_018894105.1	PRJNA678551	SAMN16807716	185774	na	latest	Major	Full	2021-06-16	Chengdu University

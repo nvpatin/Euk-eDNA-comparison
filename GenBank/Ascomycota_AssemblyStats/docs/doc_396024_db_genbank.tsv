@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/396024_assembly_stats_genbank.txt	396024	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/621/115/GCA_023621115.1_ASM2362111v1/GCA_023621115.1_ASM2362111v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_023621115.1	PRJNA833221	SAMN27963202	396024	strain=S1907	latest	Major	Full	2022-06-01	Dalian Medical University

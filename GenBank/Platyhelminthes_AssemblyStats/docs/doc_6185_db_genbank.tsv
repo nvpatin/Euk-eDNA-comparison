@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Platyhelminthes_AssemblyStats/6185_assembly_stats_genbank.txt	6185	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/699/445/GCA_000699445.3_UoM_Shae.V3/GCA_000699445.3_UoM_Shae.V3_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	representative genome	GCA_000699445.3	PRJNA78265	SAMN11431408	6185	na	latest	Major	Full	2022-02-10	The University of Melbourne

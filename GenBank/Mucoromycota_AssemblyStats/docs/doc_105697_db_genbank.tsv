@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/105697_assembly_stats_genbank.txt	105697	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/943/193/635/GCA_943193635.1_gzMucPiri1.1_alternate_haplotype/GCA_943193635.1_gzMucPiri1.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	na	GCA_943193635.1	PRJEB53004	SAMEA9202734	105697	na	latest	Major	Full	2022-06-10	WELLCOME SANGER INSTITUTE

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/41984_assembly_stats_genbank.txt	41984	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/973/505/GCA_008973505.1_ASM897350v1/GCA_008973505.1_ASM897350v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_008973505.1	PRJNA529233	SAMN11259694	41984	strain=UdeA_Ata2	latest	Major	Full	2019-10-11	Universidad de Antioquia

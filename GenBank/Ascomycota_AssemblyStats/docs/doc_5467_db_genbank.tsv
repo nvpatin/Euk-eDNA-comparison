@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/5467_assembly_stats_genbank.txt	5467	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/632/455/GCA_002632455.2_ASM263245v2/GCA_002632455.2_ASM263245v2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002632455.2	PRJNA380187	SAMN06629161	5467	strain=MTCC 3414	latest	Major	Full	2018-03-09	Centre for DNA Fingerprinting and Diagnostics

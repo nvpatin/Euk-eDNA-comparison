@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/38626_assembly_stats_genbank.txt	38626	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/099/425/GCA_002099425.1_phaCin_unsw_v4.1/GCA_002099425.1_phaCin_unsw_v4.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_002099425.1	PRJNA359763	SAMN06198159	38626	na	latest	Major	Full	2017-04-18	The Earlham Institute

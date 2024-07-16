@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Evosea_AssemblyStats/5759_assembly_stats_genbank.txt	5759	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/662/325/GCA_001662325.1_Ehistolytica_2016/GCA_001662325.1_Ehistolytica_2016_assembly_stats.txt	genbank	GenBank/Evosea_AssemblyStats	na	GCA_001662325.1	PRJDB4673	SAMD00049186	5759	strain=HM1:IMSS clone 6	latest	Major	Full	2016-05-31	National Institute of Infectious Diseases

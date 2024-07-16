@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/7248_assembly_stats_genbank.txt	7248	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/185/025/GCA_003185025.1_ASM318502v1/GCA_003185025.1_ASM318502v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_003185025.1	PRJNA274695	SAMN03331737	7248	strain=ID-10, /ecotype=Western-Northern	latest	Major	Full	2018-06-08	UC Berkeley

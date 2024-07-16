@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/166764_assembly_stats_genbank.txt	166764	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/787/155/GCA_000787155.1_SH.fa/GCA_000787155.1_SH.fa_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_000787155.1	PRJNA232437	SAMN03201693	166764	na	latest	Major	Full	2014-12-02	BGI-shenzhen

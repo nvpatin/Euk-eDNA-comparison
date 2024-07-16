@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/51576_assembly_stats_genbank.txt	51576	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/244/615/GCA_024244615.1_UCR_Apol_1.0/GCA_024244615.1_UCR_Apol_1.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_024244615.1	PRJNA725050	SAMN18868587	51576	strain=ATCC 62712	latest	Major	Full	2022-07-13	University of California, Riverside

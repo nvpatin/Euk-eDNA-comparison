@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/516970_assembly_stats_genbank.txt	516970	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/807/845/GCA_016807845.1_ASM1680784v1/GCA_016807845.1_ASM1680784v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_016807845.1	PRJNA671855	SAMN16552423	516970	strain=NJC-16	latest	Major	Full	2021-02-04	Hubei Academy of Agricultural Sciences

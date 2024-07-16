@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Euglenozoa_AssemblyStats/5684_assembly_stats_genbank.txt	5684	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/299/535/GCA_001299535.1_ASM129953v1/GCA_001299535.1_ASM129953v1_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	representative genome	GCA_001299535.1	PRJNA285179	SAMN03741797	5684	strain=ATCC 30220	latest	Major	Full	2015-09-25	University of Ostrava

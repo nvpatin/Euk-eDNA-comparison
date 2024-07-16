@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/167371_assembly_stats_genbank.txt	167371	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/263/905/GCA_003263905.1_PhelPouzV1/GCA_003263905.1_PhelPouzV1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_003263905.1	PRJNA379270	SAMN06603673	167371	strain=IHI569	latest	Major	Full	2018-06-25	International Institute Zittau - TU Dresden

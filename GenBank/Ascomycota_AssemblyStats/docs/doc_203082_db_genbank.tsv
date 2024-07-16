@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/203082_assembly_stats_genbank.txt	203082	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/281/535/GCA_005281535.1_ASM528153v1/GCA_005281535.1_ASM528153v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_005281535.1	PRJNA299790	SAMN04217081	203082	strain=CBS 375.39	latest	Major	Full	2019-05-13	Northwest A&F University

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/490712_assembly_stats_genbank.txt	490712	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/906/985/GCA_018906985.1_ASM1890698v1/GCA_018906985.1_ASM1890698v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_018906985.1	PRJNA641212	SAMN15346988	490712	na	latest	Major	Full	2021-06-16	Nankai University

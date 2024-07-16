@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1250544_assembly_stats_genbank.txt	1250544	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/704/415/GCA_008704415.1_Sphbr2/GCA_008704415.1_Sphbr2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_008704415.1	PRJNA554466	SAMN12268380	1250544	strain=Sb_GMNB300	latest	Major	Full	2019-09-26	DOE Joint Genome Institute

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Platyhelminthes_AssemblyStats/2559711_assembly_stats_genbank.txt	2559711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/950/096/795/GCA_950096795.1_Maccli_GV23d_v2/GCA_950096795.1_Maccli_GV23d_v2_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	representative genome	GCA_950096795.1	PRJEB59187	SAMEA112959121	2559711	na	latest	Major	Full	2023-06-01	University of Basel

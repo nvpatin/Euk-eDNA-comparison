@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/153471_assembly_stats_genbank.txt	153471	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/022/345/GCA_011022345.1_ASM1102234v1/GCA_011022345.1_ASM1102234v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_011022345.1	PRJNA526157	SAMN11094868	153471	na	latest	Major	Full	2020-02-26	Chinese Academy of Forestry

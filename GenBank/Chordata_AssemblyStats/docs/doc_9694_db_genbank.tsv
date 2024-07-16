@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9694_assembly_stats_genbank.txt	9694	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/350/195/GCA_018350195.2_P.tigris_Pti1_mat1.1/GCA_018350195.2_P.tigris_Pti1_mat1.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_018350195.2	PRJNA684344	SAMN17054330	9694	na	latest	Major	Full	2021-05-13	Texas A&M University

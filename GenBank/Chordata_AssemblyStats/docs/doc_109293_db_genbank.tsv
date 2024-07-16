@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/109293_assembly_stats_genbank.txt	109293	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/434/085/GCA_025434085.3_ASM2543408v3/GCA_025434085.3_ASM2543408v3_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_025434085.3	PRJNA851781	SAMN30156018	109293	strain=Florida	latest	Minor	Full	2022-09-29	University of Idaho at Moscow

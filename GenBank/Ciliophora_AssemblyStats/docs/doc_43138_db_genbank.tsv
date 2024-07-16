@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ciliophora_AssemblyStats/43138_assembly_stats_genbank.txt	43138	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/183/005/GCA_905183005.1_Paramecium_pentaurelia_V1/GCA_905183005.1_Paramecium_pentaurelia_V1_assembly_stats.txt	genbank	GenBank/Ciliophora_AssemblyStats	representative genome	GCA_905183005.1	PRJEB41878	SAMEA7767320	43138	na	latest	Major	Full	2021-06-19	Genoscope CEA

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1571107_assembly_stats_genbank.txt	1571107	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/656/735/GCA_017656735.1_ASM1765673v1/GCA_017656735.1_ASM1765673v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_017656735.1	PRJNA677929	SAMN18043315	1571107	strain=CBS 127669	latest	Major	Full	2021-04-02	University of Warmia and Mazury in Olsztyn

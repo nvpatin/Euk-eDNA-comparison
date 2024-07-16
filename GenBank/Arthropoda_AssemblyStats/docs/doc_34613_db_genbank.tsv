@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/34613_assembly_stats_genbank.txt	34613	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/973/045/GCA_000973045.2_ASM97304v2/GCA_000973045.2_ASM97304v2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_000973045.2	PRJNA270959	SAMN03271898	34613	strain=Charles River	latest	Major	Full	2016-08-24	Luxembourg Institute of Health

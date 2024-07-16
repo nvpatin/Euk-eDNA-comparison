@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Rhodophyta_AssemblyStats/1262161_assembly_stats_genbank.txt	1262161	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/729/055/GCA_008729055.1_OUC_PyHait/GCA_008729055.1_OUC_PyHait_assembly_stats.txt	genbank	GenBank/Rhodophyta_AssemblyStats	representative genome	GCA_008729055.1	PRJNA503796	SAMN10373787	1262161	na	latest	Major	Full	2019-09-30	Ocean university of China

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/42442_assembly_stats_genbank.txt	42442	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/921/425/GCA_027921425.1_Lennov1/GCA_027921425.1_Lennov1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_027921425.1	PRJNA519675	SAMN10865821	42442	strain=TMI1172	latest	Major	Full	2023-01-17	DOE Joint Genome Institute

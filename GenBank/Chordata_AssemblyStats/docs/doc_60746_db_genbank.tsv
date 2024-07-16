@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/60746_assembly_stats_genbank.txt	60746	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/995/435/GCA_903995435.1_mAcoRus1.1/GCA_903995435.1_mAcoRus1.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_903995435.1	PRJEB39768	SAMEA104026431	60746	na	latest	Major	Full	2020-08-21	SC

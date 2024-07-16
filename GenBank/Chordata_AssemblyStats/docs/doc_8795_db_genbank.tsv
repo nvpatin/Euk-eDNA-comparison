@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/8795_assembly_stats_genbank.txt	8795	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/342/835/GCA_003342835.1_rhePen1/GCA_003342835.1_rhePen1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_003342835.1	PRJNA433110	SAMN08476461	8795	na	latest	Major	Full	2018-07-26	Harvard University

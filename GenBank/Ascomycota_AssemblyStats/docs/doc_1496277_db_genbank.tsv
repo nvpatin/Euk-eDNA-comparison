@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1496277_assembly_stats_genbank.txt	1496277	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/982/855/GCA_009982855.1_Lizem1/GCA_009982855.1_Lizem1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_009982855.1	PRJNA245629	SAMN02744855	1496277	strain=CBS 542.76	latest	Major	Full	2020-01-29	DOE Joint Genome Institute

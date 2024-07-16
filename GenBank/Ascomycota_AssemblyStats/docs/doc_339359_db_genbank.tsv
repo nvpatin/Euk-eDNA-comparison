@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/339359_assembly_stats_genbank.txt	339359	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/664/585/GCA_022664585.2_ASM2266458v2/GCA_022664585.2_ASM2266458v2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022664585.2	PRJNA810365	SAMN26251155	339359	strain=ATCC 34329	latest	Major	Full	2023-01-06	University of Aveiro

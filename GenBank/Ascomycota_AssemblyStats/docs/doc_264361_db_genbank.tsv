@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/264361_assembly_stats_genbank.txt	264361	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/430/955/GCA_001430955.1_ASM143095v1/GCA_001430955.1_ASM143095v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_001430955.1	PRJNA284880	SAMN03741938	264361	na	latest	Major	Full	2015-11-03	UC Berkeley

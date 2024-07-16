@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/6850_assembly_stats_genbank.txt	6850	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/517/525/GCA_000517525.1_Limulus_polyphemus-2.1.2/GCA_000517525.1_Limulus_polyphemus-2.1.2_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_000517525.1	PRJNA20489	SAMN02953878	6850	na	latest	Major	Full	2014-01-03	Washington University (WashU)

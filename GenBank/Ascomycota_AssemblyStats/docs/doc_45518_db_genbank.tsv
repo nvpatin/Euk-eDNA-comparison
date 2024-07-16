@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/45518_assembly_stats_genbank.txt	45518	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/068/075/GCA_002068075.1_cb02/GCA_002068075.1_cb02_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_002068075.1	PRJNA296459	SAMN04102944	45518	strain=SH-14	latest	Major	Full	2017-03-22	KRIBB

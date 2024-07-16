@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/91225_assembly_stats_genbank.txt	91225	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/877/215/GCA_020877215.1_ASM2087721v1/GCA_020877215.1_ASM2087721v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_020877215.1	PRJNA356989	SAMN18699870	91225	na	latest	Major	Full	2021-11-15	Beijing Normal University

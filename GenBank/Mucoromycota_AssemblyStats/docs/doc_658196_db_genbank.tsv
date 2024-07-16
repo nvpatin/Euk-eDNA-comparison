@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/658196_assembly_stats_genbank.txt	658196	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/550/305/GCA_003550305.1_ASM355030v1/GCA_003550305.1_ASM355030v1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_003550305.1	PRJNA430010	SAMN08364855	658196	strain=DAOM 227022	latest	Major	Full	2018-09-12	INRA

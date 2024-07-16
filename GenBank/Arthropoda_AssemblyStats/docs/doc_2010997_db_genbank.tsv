@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/2010997_assembly_stats_genbank.txt	2010997	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/245/475/GCA_002245475.1_Cvi_v1/GCA_002245475.1_Cvi_v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_002245475.1	PRJNA390182	SAMN07212116	2010997	na	latest	Major	Full	2017-08-10	UT Southwestern Medical Center

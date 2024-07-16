@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/30068_assembly_stats_genbank.txt	30068	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/956/255/GCA_000956255.1_ASM95625v1/GCA_000956255.1_ASM95625v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_000956255.1	PRJNA248827	SAMN02803809	30068	na	latest	Major	Full	2015-03-19	Cleveland Clinic Foundation

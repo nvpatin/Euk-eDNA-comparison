@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Evosea_AssemblyStats/361077_assembly_stats_genbank.txt	361077	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/606/155/GCA_001606155.1_ASM160615v1/GCA_001606155.1_ASM160615v1_assembly_stats.txt	genbank	GenBank/Evosea_AssemblyStats	representative genome	GCA_001606155.1	PRJNA305239	SAMN04320757	361077	strain=TK	latest	Major	Full	2016-04-04	University of Cologne

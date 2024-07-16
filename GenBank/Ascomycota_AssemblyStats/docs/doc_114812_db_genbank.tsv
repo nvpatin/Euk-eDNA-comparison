@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/114812_assembly_stats_genbank.txt	114812	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/495/115/GCA_022495115.1_Xylcas124033_1/GCA_022495115.1_Xylcas124033_1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022495115.1	PRJNA567102	SAMN12794256	114812	strain=CBS 124033	latest	Major	Full	2022-02-28	DOE Joint Genome Institute

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Mucoromycota_AssemblyStats/44442_assembly_stats_genbank.txt	44442	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/758/895/GCA_016758895.1_ASM1675889v1/GCA_016758895.1_ASM1675889v1_assembly_stats.txt	genbank	GenBank/Mucoromycota_AssemblyStats	representative genome	GCA_016758895.1	PRJNA668042	SAMN16393840	44442	strain=WA0000051536	latest	Major	Full	2021-01-27	University of Warsaw

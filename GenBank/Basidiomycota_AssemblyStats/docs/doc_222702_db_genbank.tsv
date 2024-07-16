@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/222702_assembly_stats_genbank.txt	222702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/313/985/GCA_003313985.1_ASM331398v1/GCA_003313985.1_ASM331398v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_003313985.1	PRJNA454572	SAMN09010661	222702	strain=MG109	latest	Major	Full	2018-07-11	Kunming University of Science and Technology

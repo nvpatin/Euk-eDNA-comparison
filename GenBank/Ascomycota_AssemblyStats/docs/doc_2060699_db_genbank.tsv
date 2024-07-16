@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/2060699_assembly_stats_genbank.txt	2060699	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/477/525/GCA_008477525.1_ASM847752v1/GCA_008477525.1_ASM847752v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_008477525.1	PRJNA528831	SAMN11246185	2060699	strain=HP10	latest	Major	Full	2019-09-17	Jilin Agricultural Unversity

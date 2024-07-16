@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/4972_assembly_stats_genbank.txt	4972	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/115/145/GCA_024115145.1_ASM2411514v1/GCA_024115145.1_ASM2411514v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_024115145.1	PRJNA833417	SAMN27988023	4972	strain=Y1	latest	Major	Full	2022-07-01	University of Tuebingen

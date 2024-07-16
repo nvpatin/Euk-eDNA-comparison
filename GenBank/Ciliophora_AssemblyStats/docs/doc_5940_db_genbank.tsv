@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ciliophora_AssemblyStats/5940_assembly_stats_genbank.txt	5940	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/463/445/GCA_030463445.1_QD_Eaed_01/GCA_030463445.1_QD_Eaed_01_assembly_stats.txt	genbank	GenBank/Ciliophora_AssemblyStats	representative genome	GCA_030463445.1	PRJNA903089	SAMN31782627	5940	strain=QDEA	latest	Major	Full	2023-07-14	Shaanxi Normal University

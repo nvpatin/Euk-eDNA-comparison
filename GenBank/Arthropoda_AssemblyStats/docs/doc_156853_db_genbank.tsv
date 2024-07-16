@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/156853_assembly_stats_genbank.txt	156853	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/070/885/GCA_947070885.1_tetragnatha_kauaiensis_v1/GCA_947070885.1_tetragnatha_kauaiensis_v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_947070885.1	PRJEB48087	SAMEA10020255	156853	na	latest	Major	Full	2022-10-16	NTNU Museum

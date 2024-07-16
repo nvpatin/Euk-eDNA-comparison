@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chlorophyta_AssemblyStats/1973153_assembly_stats_genbank.txt	1973153	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/613/005/GCA_003613005.1_ASM361300v1/GCA_003613005.1_ASM361300v1_assembly_stats.txt	genbank	GenBank/Chlorophyta_AssemblyStats	representative genome	GCA_003613005.1	PRJNA388740	SAMN07183811	1973153	strain=SAG 2063	latest	Major	Full	2018-10-04	National Research Council (CNR)

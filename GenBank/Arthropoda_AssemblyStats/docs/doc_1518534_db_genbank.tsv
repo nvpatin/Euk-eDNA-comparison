@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/1518534_assembly_stats_genbank.txt	1518534	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/150/765/GCA_000150765.1_m5/GCA_000150765.1_m5_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_000150765.1	PRJNA20295	SAMN02953721	1518534	strain=M	latest	Major	Full	2008-04-21	Washington University Genome Sequencing Center

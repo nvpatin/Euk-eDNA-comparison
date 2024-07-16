@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/114231_assembly_stats_genbank.txt	114231	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/287/875/GCA_018287875.1_ASM1828787v1/GCA_018287875.1_ASM1828787v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_018287875.1	PRJNA726343	SAMN18928156	114231	strain=ZJJ_C1	latest	Major	Full	2021-05-06	Hefei University of Technology

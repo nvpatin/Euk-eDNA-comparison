@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/2804059_assembly_stats_genbank.txt	2804059	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/318/265/GCA_033318265.1_ASM3331826v1/GCA_033318265.1_ASM3331826v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_033318265.1	PRJNA950396	SAMN34041602	2804059	na	latest	Major	Full	2023-11-03	University of Montana

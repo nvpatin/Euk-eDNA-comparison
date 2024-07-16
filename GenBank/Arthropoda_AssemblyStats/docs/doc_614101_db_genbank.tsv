@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/614101_assembly_stats_genbank.txt	614101	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/236/955/GCA_002236955.1_ASM223695v1/GCA_002236955.1_ASM223695v1_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_002236955.1	PRJNA387351	SAMN07150485	614101	na	latest	Major	Full	2017-07-28	Okinawa Institute of Science and Technology

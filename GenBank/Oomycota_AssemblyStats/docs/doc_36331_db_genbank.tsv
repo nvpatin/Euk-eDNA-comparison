@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Oomycota_AssemblyStats/36331_assembly_stats_genbank.txt	36331	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/117/815/GCA_004117815.1_PIRR_v1/GCA_004117815.1_PIRR_v1_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	na	GCA_004117815.1	PRJNA371716	SAMN06311412	36331	strain=CBS 494.86	latest	Major	Full	2019-01-29	Laboratorio Nacional de Ciencia e Tecnologia do Bioetanol

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Euglenozoa_AssemblyStats/999947_assembly_stats_genbank.txt	999947	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/695/575/GCA_019695575.1_ASM1969557v1/GCA_019695575.1_ASM1969557v1_assembly_stats.txt	genbank	GenBank/Euglenozoa_AssemblyStats	representative genome	GCA_019695575.1	PRJNA673871	SAMN16708520	999947	na	latest	Major	Full	2021-08-19	Biology Centre, ASCR, v.v.i.

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Oomycota_AssemblyStats/221518_assembly_stats_genbank.txt	221518	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/295/425/GCA_012295425.1_MU_Ppse/GCA_012295425.1_MU_Ppse_assembly_stats.txt	genbank	GenBank/Oomycota_AssemblyStats	na	GCA_012295425.1	PRJNA599564	SAMN13759511	221518	strain=PR13-731	latest	Major	Full	2020-04-15	Maynooth University

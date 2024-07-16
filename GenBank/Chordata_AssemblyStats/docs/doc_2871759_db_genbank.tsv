@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/2871759_assembly_stats_genbank.txt	2871759	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/018/895/GCA_021018895.1_ASM2101889v1/GCA_021018895.1_ASM2101889v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_021018895.1	PRJNA754209	SAMN20750612	2871759	ecotype=China	latest	Major	Full	2021-12-02	Yellow Sea Fisheries Research Institute

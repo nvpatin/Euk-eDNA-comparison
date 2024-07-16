@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9691_assembly_stats_genbank.txt	9691	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/857/705/GCA_001857705.1_PanPar1.0/GCA_001857705.1_PanPar1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_001857705.1	PRJNA306701	SAMN04347630	9691	na	latest	Major	Full	2016-11-16	Ulsan National Institute of Science and Technology

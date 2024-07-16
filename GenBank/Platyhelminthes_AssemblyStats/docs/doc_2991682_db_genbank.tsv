@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Platyhelminthes_AssemblyStats/2991682_assembly_stats_genbank.txt	2991682	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/274/565/GCA_032274565.1_ASM3227456v1/GCA_032274565.1_ASM3227456v1_assembly_stats.txt	genbank	GenBank/Platyhelminthes_AssemblyStats	representative genome	GCA_032274565.1	PRJNA894574	SAMN36702063	2991682	na	latest	Major	Full	2023-10-02	Iridian Genomes

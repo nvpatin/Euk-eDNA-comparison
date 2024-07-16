@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/199306_assembly_stats_genbank.txt	199306	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/976/775/GCA_020976775.1_2566v1/GCA_020976775.1_2566v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_020976775.1	PRJNA438145	SAMN08706847	199306	strain=2566	latest	Major	Full	2021-11-24	Northern Arizona University

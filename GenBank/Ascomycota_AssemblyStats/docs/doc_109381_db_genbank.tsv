@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/109381_assembly_stats_genbank.txt	109381	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/578/675/GCA_022578675.1_NsAK0226_1/GCA_022578675.1_NsAK0226_1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_022578675.1	PRJNA567563	SAMN12794043	109381	strain=AK0226	latest	Major	Full	2022-02-28	DOE Joint Genome Institute

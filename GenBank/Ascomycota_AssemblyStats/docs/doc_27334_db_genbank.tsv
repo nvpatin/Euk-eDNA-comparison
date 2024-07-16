@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/27334_assembly_stats_genbank.txt	27334	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/688/875/GCA_000688875.1_Peniclillium_expansum_v1/GCA_000688875.1_Peniclillium_expansum_v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_000688875.1	PRJNA225688	SAMN02716838	27334	strain=R19	latest	Major	Full	2014-04-08	JCVI

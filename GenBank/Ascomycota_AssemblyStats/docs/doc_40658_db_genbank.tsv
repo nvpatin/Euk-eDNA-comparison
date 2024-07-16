@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/40658_assembly_stats_genbank.txt	40658	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/635/965/GCA_014635965.1_ASM1463596v1/GCA_014635965.1_ASM1463596v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_014635965.1	PRJNA609142	SAMN14233823	40658	strain=Pc2127	latest	Major	Full	2020-09-18	UNIVERSIDAD POLITECNICA DE MADRID

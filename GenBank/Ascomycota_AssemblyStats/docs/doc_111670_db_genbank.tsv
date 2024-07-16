@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/111670_assembly_stats_genbank.txt	111670	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/146/055/GCA_006146055.1_ASM614605v1/GCA_006146055.1_ASM614605v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_006146055.1	PRJNA418168	SAMN08016926	111670	strain=ATCC 18275	latest	Major	Full	2019-06-07	Lake Superior State University

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/139415_assembly_stats_genbank.txt	139415	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/376/445/GCA_022376445.1_Antser1/GCA_022376445.1_Antser1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_022376445.1	PRJNA369999	SAMN06295971	139415	strain=Sig1Antser10	latest	Major	Full	2022-02-23	DOE Joint Genome Institute

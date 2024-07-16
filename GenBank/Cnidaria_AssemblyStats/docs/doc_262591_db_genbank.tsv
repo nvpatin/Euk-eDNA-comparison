@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Cnidaria_AssemblyStats/262591_assembly_stats_genbank.txt	262591	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/290/455/GCA_900290455.1_Prus/GCA_900290455.1_Prus_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	representative genome	GCA_900290455.1	PRJEB23570	SAMEA104590932	262591	na	latest	Major	Full	2018-05-28	CEBITEC

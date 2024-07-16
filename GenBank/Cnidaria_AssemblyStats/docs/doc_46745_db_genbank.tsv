@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Cnidaria_AssemblyStats/46745_assembly_stats_genbank.txt	46745	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/948/470/715/GCA_948470715.1_jaGalFasc40.1_alternate_haplotype/GCA_948470715.1_jaGalFasc40.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Cnidaria_AssemblyStats	na	GCA_948470715.1	PRJEB59184	SAMEA8576633	46745	na	latest	Major	Full	2023-02-03	WELLCOME SANGER INSTITUTE

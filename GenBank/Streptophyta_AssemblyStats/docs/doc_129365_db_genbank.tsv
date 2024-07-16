@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/129365_assembly_stats_genbank.txt	129365	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/945/779/075/GCA_945779075.1_brassica_incana.om/GCA_945779075.1_brassica_incana.om_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_945779075.1	PRJEB54646	SAMEA110328987	129365	na	latest	Major	Full	2023-04-09	FUNCTIONAL GENOMICS CENTER ZURICH

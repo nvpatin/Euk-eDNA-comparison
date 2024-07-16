@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/27606_assembly_stats_genbank.txt	27606	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/571/275/GCA_028571275.2_mEubGla1.1.hap1/GCA_028571275.2_mEubGla1.1.hap1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_028571275.2	PRJNA924127	SAMN32746534	27606	na	latest	Minor	Full	2023-02-09	Vertebrate Genomes Project

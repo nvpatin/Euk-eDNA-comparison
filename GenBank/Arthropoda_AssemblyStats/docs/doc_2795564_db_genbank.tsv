@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/2795564_assembly_stats_genbank.txt	2795564	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/806/615/GCA_902806615.1_iAphHyp1.1_alternate_haplotype/GCA_902806615.1_iAphHyp1.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_902806615.1	PRJEB36755	SAMEA994723	2795564	na	latest	Major	Full	2020-02-19	SC

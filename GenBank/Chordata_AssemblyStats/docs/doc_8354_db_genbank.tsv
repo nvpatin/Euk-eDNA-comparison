@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/8354_assembly_stats_genbank.txt	8354	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/363/595/GCA_024363595.1_UCB_Xborealis_1/GCA_024363595.1_UCB_Xborealis_1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_024363595.1	PRJNA827809	SAMN27622247	8354	strain=NASCO	latest	Major	Full	2022-07-22	University of California, Berkeley

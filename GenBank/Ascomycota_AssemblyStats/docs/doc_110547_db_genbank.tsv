@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/110547_assembly_stats_genbank.txt	110547	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/497/155/GCA_022497155.1_Whamic1/GCA_022497155.1_Whamic1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_022497155.1	PRJNA567569	SAMN12794361	110547	strain=YMJ 1829	latest	Major	Full	2022-02-28	DOE Joint Genome Institute

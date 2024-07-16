@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1749284_assembly_stats_genbank.txt	1749284	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/733/715/GCA_009733715.1_ASM973371v1/GCA_009733715.1_ASM973371v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_009733715.1	PRJNA589092	SAMN13266619	1749284	strain=D. Haelew. 1187d	latest	Major	Full	2019-12-06	University of Warsaw

@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/183675_assembly_stats_genbank.txt	183675	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/993/905/GCA_002993905.1_Msac_v3/GCA_002993905.1_Msac_v3_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_002993905.1	PRJNA435476	SAMN08580354	183675	cultivar=Robustus 297	latest	Major	Full	2018-03-14	Earlham Institute

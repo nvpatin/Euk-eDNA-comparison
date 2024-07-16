@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/3044270_assembly_stats_genbank.txt	3044270	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/770/415/GCA_030770415.1_LANL_DS1613_1.0/GCA_030770415.1_LANL_DS1613_1.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_030770415.1	PRJNA966141	SAMN34718685	3044270	na	latest	Major	Full	2023-08-17	Los Alamos National Laboratory

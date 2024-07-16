@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/2065413_assembly_stats_genbank.txt	2065413	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/907/164/815/GCA_907164815.1_iBraPut3m.1_alternate_haplotype/GCA_907164815.1_iBraPut3m.1_alternate_haplotype_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	na	GCA_907164815.1	PRJEB44420	SAMEA5248727	2065413	na	latest	Major	Full	2021-05-15	Wellcome Sanger Institute

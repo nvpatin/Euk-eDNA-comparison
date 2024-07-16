@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/117017_assembly_stats_genbank.txt	117017	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/850/815/GCA_018850815.1_ASM1885081v1/GCA_018850815.1_ASM1885081v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_018850815.1	PRJNA417766	SAMN14543203	117017	na	latest	Major	Full	2021-06-11	Wageningen University and Research

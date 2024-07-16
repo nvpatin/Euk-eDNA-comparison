@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/1107321_assembly_stats_genbank.txt	1107321	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/158/105/GCA_032158105.1_CIB_AhMCA10_1.0/GCA_032158105.1_CIB_AhMCA10_1.0_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_032158105.1	PRJNA975750	SAMN35344992	1107321	strain=MCA10	latest	Major	Full	2023-09-28	Corporacion para Investigaciones Biologicas

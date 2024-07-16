@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/60711_assembly_stats_genbank.txt	60711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/409/795/GCA_000409795.2_Chlorocebus_sabeus_1.1/GCA_000409795.2_Chlorocebus_sabeus_1.1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_000409795.2	PRJNA168621	SAMN01760484	60711	na	latest	Major	Full	2014-03-25	Vervet Genomics Consortium

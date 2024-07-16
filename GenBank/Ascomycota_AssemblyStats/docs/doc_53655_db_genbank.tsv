@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/53655_assembly_stats_genbank.txt	53655	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/339/355/GCA_003339355.1_UCD_Pferm_PL1/GCA_003339355.1_UCD_Pferm_PL1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	na	GCA_003339355.1	PRJNA449365	SAMN08898700	53655	strain=fo/MP/02	latest	Major	Full	2018-07-24	University College Dublin

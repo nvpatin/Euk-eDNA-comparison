@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/89674_assembly_stats_genbank.txt	89674	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/539/505/GCA_022539505.1_APGP_CSIRO_Lrig_0.1/GCA_022539505.1_APGP_CSIRO_Lrig_0.1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_022539505.1	PRJNA799061	SAMN25144995	89674	na	latest	Major	Full	2022-03-14	Australian Pest Genome Partnership

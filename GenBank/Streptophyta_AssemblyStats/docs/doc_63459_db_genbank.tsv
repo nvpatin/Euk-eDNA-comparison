@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/63459_assembly_stats_genbank.txt	63459	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/742/885/GCA_001742885.1_Cqu_r1.0/GCA_001742885.1_Cqu_r1.0_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	na	GCA_001742885.1	PRJDB4656	SAMD00048822	63459	strain=Experimental strain, Kd	latest	Major	Full	2016-07-27	Kazusa DNA Research Institute

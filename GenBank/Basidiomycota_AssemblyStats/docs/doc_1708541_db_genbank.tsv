@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/1708541_assembly_stats_genbank.txt	1708541	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/917/935/GCA_004917935.1_ASM491793v1/GCA_004917935.1_ASM491793v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_004917935.1	PRJNA527769	SAMN11175857	1708541	strain=EXF-10633	latest	Major	Full	2019-04-26	Biotechnical Faculty, University of Ljubljana

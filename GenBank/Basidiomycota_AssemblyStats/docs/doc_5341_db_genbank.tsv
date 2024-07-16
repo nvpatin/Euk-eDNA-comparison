@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/5341_assembly_stats_genbank.txt	5341	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/271/545/GCA_008271545.1_ASM827154v1/GCA_008271545.1_ASM827154v1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	na	GCA_008271545.1	PRJNA529780	SAMN11284169	5341	strain=AB58	latest	Major	Full	2019-09-04	Jilin Agricultural Unversity

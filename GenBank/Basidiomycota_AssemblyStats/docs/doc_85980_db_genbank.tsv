@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Basidiomycota_AssemblyStats/85980_assembly_stats_genbank.txt	85980	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/014/945/GCA_021014945.1_Leumo1/GCA_021014945.1_Leumo1_assembly_stats.txt	genbank	GenBank/Basidiomycota_AssemblyStats	representative genome	GCA_021014945.1	PRJNA239087	SAMN02744841	85980	strain=KUC20120723A-06	latest	Major	Full	2021-11-30	DOE Joint Genome Institute

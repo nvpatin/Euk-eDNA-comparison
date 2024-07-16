@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/714430_assembly_stats_genbank.txt	714430	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/319/215/GCA_011319215.2_ASM1131921v2/GCA_011319215.2_ASM1131921v2_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_011319215.2	PRJNA595694	SAMN13564822	714430	na	latest	Major	Full	2022-12-16	Iridian Genomes

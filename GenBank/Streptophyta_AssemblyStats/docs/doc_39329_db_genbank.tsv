@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Streptophyta_AssemblyStats/39329_assembly_stats_genbank.txt	39329	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/984/105/GCA_028984105.1_UGA_lav_v1/GCA_028984105.1_UGA_lav_v1_assembly_stats.txt	genbank	GenBank/Streptophyta_AssemblyStats	representative genome	GCA_028984105.1	PRJNA762277	SAMN21435191	39329	cultivar=Munstead	latest	Major	Full	2023-03-06	University of Georgia

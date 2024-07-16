@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/9770_assembly_stats_genbank.txt	9770	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/795/845/GCA_008795845.1_Baphy/GCA_008795845.1_Baphy_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	na	GCA_008795845.1	PRJNA72723	SAMN02192672	9770	na	latest	Major	Full	2019-10-01	Korea Ocean Research & Development Institute

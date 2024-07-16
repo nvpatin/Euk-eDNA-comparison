@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Ascomycota_AssemblyStats/335854_assembly_stats_genbank.txt	335854	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/758/845/GCA_016758845.1_ASM1675884v1/GCA_016758845.1_ASM1675884v1_assembly_stats.txt	genbank	GenBank/Ascomycota_AssemblyStats	representative genome	GCA_016758845.1	PRJNA674684	SAMN16669333	335854	strain=GZL1	latest	Major	Full	2021-01-27	Chinese Academy of Agricultural Sciences

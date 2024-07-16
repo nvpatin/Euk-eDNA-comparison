@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/546530_assembly_stats_genbank.txt	546530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/978/685/GCA_033978685.1_RoL_Nlum_1.0/GCA_033978685.1_RoL_Nlum_1.0_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_033978685.1	PRJNA851781	SAMN37908378	546530	strain=RoL_2023-P1	latest	Major	Full	2023-11-29	University of Idaho at Moscow

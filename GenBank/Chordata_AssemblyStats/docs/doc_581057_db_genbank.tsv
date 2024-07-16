@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Chordata_AssemblyStats/581057_assembly_stats_genbank.txt	581057	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/412/335/GCA_030412335.1_ASM3041233v1/GCA_030412335.1_ASM3041233v1_assembly_stats.txt	genbank	GenBank/Chordata_AssemblyStats	representative genome	GCA_030412335.1	PRJNA875143	SAMN30603932	581057	na	latest	Major	Full	2023-07-06	Cal Poly San Luis Obispo

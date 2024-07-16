@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Arthropoda_AssemblyStats/411798_assembly_stats_genbank.txt	411798	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/949/405/GCA_000949405.1_V.emery_V1.0/GCA_000949405.1_V.emery_V1.0_assembly_stats.txt	genbank	GenBank/Arthropoda_AssemblyStats	representative genome	GCA_000949405.1	PRJDB3517	SAMD00026325	411798	na	latest	Major	Full	2015-03-06	Okinawa Institute of Science and Technology

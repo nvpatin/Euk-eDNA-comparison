@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GenBank/Porifera_AssemblyStats/111878_assembly_stats_genbank.txt	111878	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/704/765/GCA_024704765.1_ASM2470476v1/GCA_024704765.1_ASM2470476v1_assembly_stats.txt	genbank	GenBank/Porifera_AssemblyStats	representative genome	GCA_024704765.1	PRJNA761294	SAMN23076046	111878	na	latest	Major	Full	2022-08-16	Spongex
