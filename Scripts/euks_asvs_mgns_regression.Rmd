@@ -86,7 +86,7 @@ reads_max <- vector("numeric", length(data_splits))
 slopes <- vector("numeric", length(data_splits))
 
 # Loop through the subsets and fit linear regression models
-# Save r-squaraed values, max read counts, and model coefficients in separate vectors
+# Save r-squared values, max read counts, and model coefficients in separate vectors
 for (i in seq_along(data_splits)) {
   subset_data <- data_splits[[i]]
   lm_models[[i]] <- lm(reads_sum ~ mgn_sum, data = subset_data)
@@ -114,28 +114,38 @@ slopersq$slp <- as.numeric(slopersq$slopes)
 slopersq$rsq <- as.numeric(slopersq$r_squared_values)
 
 p <- ggplot(slopersq, aes(x=slp, y=rsq, color=phy_unique_ordered)) + 
-  geom_point(size=2, show.legend=TRUE) +
+  geom_point(size=3, show.legend=TRUE) +
   geom_text_repel(aes(label=ifelse(abs(slp) > 5, as.character(phy_unique_ordered),'')),
-            hjust=0.4, vjust=-1, show.legend=FALSE) +
+            hjust=0.4, vjust=-0.7, show.legend=FALSE, size=6) +
+  geom_text(aes(label=ifelse(rsq > 0.65 & slp < 50, as.character(phy_unique_ordered),'')),
+            hjust=0.5, vjust=-0.7, show.legend=FALSE, size=6) +
   scale_x_continuous(trans = pseudolog10_trans) +
   theme_classic() +
   scale_color_manual(values=P50) +
-  guides(color=guide_legend(ncol=2))
+  guides(color=guide_legend(ncol=2)) +
+  theme(
+  axis.text.x = element_text(size=14, angle=45),
+  axis.text.y = element_text(size=14),
+  legend.text=element_text(size=12)
+)
+
 
 # Show only the points with slopes between -3 and 3
-p <- ggplot(slopersq, aes(x=slp, y=rsq, color=phy_unique_ordered)) + 
-  geom_point(size=2, show.legend=TRUE) +
-  geom_text(aes(label=ifelse(rsq > 0.25, as.character(phy_unique_ordered),'')),
-            hjust=0.4, vjust=-1, show.legend=FALSE) +
-  xlim(-5, 5) +
-  theme_classic() +
-  scale_color_manual(values=P50) +
-  guides(color=guide_legend(ncol=2))
+#p <- ggplot(slopersq, aes(x=slp, y=rsq, color=phy_unique_ordered)) + 
+#  geom_point(size=2, show.legend=TRUE) +
+#  geom_text(aes(label=ifelse(rsq > 0.5, as.character(phy_unique_ordered),'')),
+#            hjust=0.4, vjust=-0.5, show.legend=FALSE) +
+#  xlim(-5, 5) +
+#  theme_classic() +
+#  scale_color_manual(values=P50) +
+#  guides(color=guide_legend(ncol=2))
 
 #p
 
-ggsave(here("COI Comparison", "Phylum plots", "COI-mgns-rsq-slope-sub.png"),
-       p,width=10, height=8, dpi=300, units="in")
+#ggsave(here("18S Comparison", "Phylum plots", "18S-mgns-rsq-slope.png"),
+ #      p, width=14, height=8, dpi=300, units="in")
+
+write.csv(slopersq, here("COI Comparison", "Phylum plots", "COI-rsq-slopes.csv"), row.names=FALSE)
 ```
 
 ### If grouping taxa by r-squared values, run the cell below
