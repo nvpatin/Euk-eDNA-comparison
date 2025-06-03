@@ -4,14 +4,14 @@ library(biomartr)
 
 readRenviron("~/.Renviron")
 
-# Get a list of all accession numbers for species-level Molluscs
+# Get a list of all accession numbers for species in a particular phylum
 id_txdb <- taxizedb::name2taxid('Phoronida', db = "ncbi")
 
 x <- taxizedb::downstream(id_txdb, db = "ncbi", downto = "species")
 
 ids <- x[[id_txdb]][["childtaxa_id"]]
 
-# download genome assembly stats file for Homo sapiens
+# download genome assembly stats file
 for (s in ids) {
   getAssemblyStats(db  = "genbank", 
                    organism = s, 
@@ -27,6 +27,7 @@ which(ids=='1068534')
 ids_v2 <- ids[91172:182437]
 
 # Scatter plots of genome vs gene nucleotide content in NCBI 
+library(dplyr)
 library(ggplot2)
 library(ggrepel)
 library(wesanderson)
@@ -106,12 +107,22 @@ p1 <- ggplot(nts_long, aes(x=Ratio,
   coord_cartesian(expand=FALSE) +
   theme_classic()
 
+# Add conditional label group
+nts_long <- nts_long %>%
+  mutate(text_group = ifelse(Val > 600000, 
+                             as.character(Phylum), NA))
+
 p2 <- ggplot(nts_long, aes(x=Ratio, 
                      y=Val, 
                      fill=Ratio)) + # fill=name allow to automatically dedicate a color for each group
   geom_violin() +
   geom_point(position = position_jitter(seed = 1, width = 0.1)) +
-  scale_y_continuous(limits=c(0,2000000)) +
+  geom_text_repel(aes(Ratio, Val, label = text_group)) +
+  scale_y_continuous(name="Ratio", 
+                     trans=scales::pseudo_log_trans(base = 10),
+                     breaks=c(10, 1000, 100000, 10000000),
+                     labels = scales::comma,
+                     limits=c(0,20000000)) +
   coord_cartesian(expand=FALSE) +
   theme_classic()
 
@@ -126,7 +137,7 @@ p3 <- ggplot(nts_long, aes(x=Ratio,
   coord_cartesian(expand=FALSE) +
   theme_classic()
 
-ggsave(here("NCBI_genome-to-gene-ratio_top.png"), p3,
+ggsave(here("NCBI_genome-to-markergene-ratio_full.png"), p2,
        width=7, height=4, dpi=300, units="in")
 
 

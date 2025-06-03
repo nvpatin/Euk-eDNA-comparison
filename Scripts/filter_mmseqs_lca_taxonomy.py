@@ -48,29 +48,45 @@ def main():
 	args = argparser()
 	sample, b, c = args.filename.rsplit('_', maxsplit=2)
 	data = read_file_lines(args.filename)
-	# filter out hits with 'no rank' as Taxid
-	# data = data[data['Taxid'] != 0]
-	# data = data[data['Taxid'] != 1]
-	# This includes "no rank" as Taxid and "cellular organisms" as Best_tax
-	# data = data[data['Taxid'] != 131567]
 
+	# Remove trailing whitespace from all cells
+	data = data.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
+	
 	# filter out viruses
-	data_filt = data[~data['Lineage'].str.contains('d_Viruses')]
+	data_filt = data[~data['Lineage'].str.contains('_Viruses')]
 	data_filt = data_filt.replace(r'\n',' ', regex=True)
 
-	# Split taxonomic lineage into different fields and use taxonomic rank letters as column headers
-
-	# First fill in 'Lineage' if missing from unclassified annotation
+	# Fill in 'Lineage' if missing from unclassified annotation
 	# Create condition as mask
-	mask = ((data_filt['Lineage'].isna()) | (data_filt['Lineage'] == ' ') | (data_filt['Best_tax'] == 'root') | (data_filt['Tax_level'] == 'no rank') | (data_filt['Lineage'] == '-_cellular organisms'))
+	mask = ((data_filt['Lineage'].isna()) | (data_filt['Lineage'] == ' ') | (data_filt['Best_tax'] == 'root') | (data_filt['Tax_level'] == 'no rank') | (data_filt['Lineage'] == '-_cellular organisms') | (data_filt['Tax_level'] == 'cellular root'))
 	# Apply mask to add 'unclassified' annotations to 'Lineage' column
 	data_filt.loc[mask, 'Lineage'] = '-_Unclassified;d_Unclassified'
+	# Add a 'd' for 'domain' to the domain fields (Archaea, Bacteria, and Eukaryota)
+	data_filt['Lineage'] = data_filt['Lineage'].replace({';-_Archaea' : ';d_Archaea'}, regex=True)
+	data_filt['Lineage'] = data_filt['Lineage'].replace({';-_Bacteria' : ';d_Bacteria'}, regex=True)
+	data_filt['Lineage'] = data_filt['Lineage'].replace({';d_Bacteria candidate phyla' : ''}, regex=True)
+	data_filt['Lineage'] = data_filt['Lineage'].replace({';d_Bacteria incertae sedis' : ''}, regex=True)
+	data_filt['Lineage'] = data_filt['Lineage'].replace({';-_Eukaryota' : ';d_Eukaryota'}, regex=True)
+
+	# Split taxonomic lineage into different fields and use taxonomic rank letters as column headers
 	d = pd.DataFrame(data_filt['Lineage'].str.split(';').apply(lambda x:{i.split("_")[0] : i.split("_")[1] for i in x if i}).to_dict()).T
 	df = pd.concat([data_filt, d], axis=1)
-	df = df.drop(['Taxid', 'Lineage', '-'], axis=1)
+	df = df.drop(['Lineage', '-', 'Taxid'], axis=1) 
 
 	# Strip trailing whitespace from 'd' column
 	df['d'] = df['d'].str.rstrip()
+
+	# Correct class-level taxonomy for haptophytes, chlorophytes, and Oomycota
+	df.loc[df['o'] == 'Prymnesiales', 'c'] = 'Prymnesiophyceae'
+	df.loc[df['o'] == 'Isochrysidales', 'c'] = 'Prymnesiophyceae'
+	df.loc[df['o'] == 'Phaeocystales', 'c'] = 'Prymnesiophyceae'
+	df.loc[df['o'] == 'Peronosporales', 'c'] = 'Peronosporales'
+	df.loc[df['o'] == 'Saprolegniales', 'c'] = 'Saprolegniales'
+	df.loc[df['o'] == 'Lagenidiales', 'c'] = 'Lagenidiales'
+	df.loc[df['o'] == 'Pythiales', 'c'] = 'Pythiales'
+	df.loc[df['f'] == 'Pycnococcaceae', 'c'] = 'Pseudoscourfieldiales'
+	df.loc[df['o'] == 'Pseudoscourfieldiales', 'c'] = 'Pyramimonadophyceae'
+	df.loc[df['o'] == 'Pyramimonadales', 'c'] = 'Pyramimonadophyceae'	
 
 	# Export filtered df
 	output = sample + "-mmseqs_uniref_lca_filt.tsv"
