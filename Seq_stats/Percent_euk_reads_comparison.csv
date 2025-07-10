@@ -1,0 +1,5 @@
+Sequence type,Avg num bps or contigs,Avg % euk bps or contigs,Avg % prok bps or contigs,Avg % unass bps or contigs,Avg num euk bps or contigs,Avg num prok bps or contigs,Avg num unass bps or contigs,Total percentage
+COI,"29,997,108.4",0.660612,0.000028,0.337067,"19,816,449.76",839.92,"10,111,035.33",1
+18S,"11,940,774.8",0.885841,3.10E-18,0.114159,"10,577,627.86",0,"1,363,146.91",1
+Metagenome reads," 30,921,932,486.8 ",0.010049,0.122215,0.867736," 310,734,499.56 ",3779123979,26832074008,1
+Metagenome contigs,"1,459,981.5",0.066087,0.509566,0.424347,"96,485.80","743,956.94","619,538.77",1
